@@ -38,3 +38,6 @@ Publishing with owner approval sets the topic `PUBLISHED` atomically with a real
 
 ## Recovery
 Use GitHub commit history, PR review, `data/editorial-plan.json` and writer claims to resume from any interrupted session. No background task restarts itself when quotas refresh.
+
+## Owner-authorized continuous publishing route (two article pairs)
+For the newer standing instruction, see [CONTINUOUS_WRITER.md](CONTINUOUS_WRITER.md). The external chat writer must review citations, prepare exactly two consecutive German articles, achieve deterministic QA >=75 without critical errors, and push them to `content/inbox/`. The GitHub Actions publisher promotes that validated pair to the public site. The original manual `scripts/editorial.mjs publish --approve DE-xxx` route remains separately available; the two routes must never publish or claim the same ID concurrently. Neither route calls an AI API or continues a disconnected writing session.

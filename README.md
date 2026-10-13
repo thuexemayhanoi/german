@@ -42,3 +42,6 @@ Publication is never automatically approved. New topics exist in `data/editorial
 **Important:** Planned topics are hypotheses. Each new article needs native German writing, intent checking, two genuine reviewed sources, proofread facts, SEO QA and owner sign-off. No fabricated prices, licensing requirements or business claims.
 
 See [editorial workflow](docs/EDITORIAL_WORKFLOW.md) and [release checklist](docs/RELEASE_CHECKLIST.md).
+
+## Continuous German AI-chat writing — two articles per round
+[Continuous writer and publisher runbook](docs/CONTINUOUS_WRITER.md). A connected ChatGPT/Claude/Mistral/Gemini coding chat writes exactly 2 original German articles, scores each >=75, pushes source drafts, waits for the deterministic GitHub factory to publish and Pages to complete, fetches fresh main and immediately starts the next pair. GitHub Actions does not write articles or call AI APIs. The queue can resume after session interruption.

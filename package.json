@@ -6,9 +6,11 @@
   "description": "Static German-language guide with human-controlled 200-topic external-AI editorial workflow",
   "scripts": {
     "build": "node scripts/build.mjs",
-    "check": "node scripts/build.mjs --check && node scripts/qa.mjs && node --test tests/site.test.mjs",
+    "check": "node scripts/build.mjs --check && node scripts/qa.mjs && node --test tests/site.test.mjs tests/factory.test.mjs",
     "next": "node scripts/editorial.mjs next --count 5",
-    "status": "node scripts/editorial.mjs status"
+    "status": "node scripts/editorial.mjs status",
+    "factory:next": "node scripts/factory.mjs next 2",
+    "factory:status": "node scripts/factory.mjs status"
   },
   "engines": {
     "node": ">=22"

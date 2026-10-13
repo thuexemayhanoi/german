@@ -26,7 +26,7 @@ jobs:
           test "$(cat CNAME)" = "de.rentbikehanoi.com"
           test ! -f package-lock.json
       - name: Unit tests
-        run: node --test tests/site.test.mjs
+        run: node --test tests/site.test.mjs tests/factory.test.mjs
       - name: Verify generated pages without rewriting
         run: node scripts/build.mjs --check
       - name: Check links, locale, sitemap and topical index
@@ -35,3 +35,5 @@ jobs:
         run: |
           node scripts/editorial.mjs status
           node scripts/editorial.mjs next --count 3
+          node scripts/factory.mjs status
+          node scripts/factory.mjs next 2
