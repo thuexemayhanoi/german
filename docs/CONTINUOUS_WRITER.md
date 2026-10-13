@@ -5,7 +5,7 @@
 ## Actual execution architecture
 - **External AI chat agent** (ChatGPT Work / Claude / Mistral / Gemini) writes original native-German article JSON, using its own active coding/GitHub session. It must continue from the repository's current state, not its conversation history.
 - **GitHub Actions** runs ordinary deterministic Node tooling only. It does NOT call any AI API, cannot think/write prose, cannot wake up a disconnected external AI session, and does not use cron to generate content.
-- Push two well-researched JSON drafts into content/inbox/DE-xxx.json on main. The automatic workflow factory-publish.yml inspects and scores both (>=75, zero critical errors), promotes both into content/posts, changes Matrix statuses to PUBLISHED, regenerates HTML/sitemap/feed/search, checks site QA, commits, pushes, and requests a GitHub Pages rebuild.
+- Push two well-researched JSON drafts into content/inbox/DE-xxx.json on main. The automatic workflow factory-publish.yml inspects and scores both (>=75, zero critical errors), promotes both into content/posts, changes Matrix statuses to PUBLISHED, regenerates HTML/sitemap/feed/search, checks site QA, commits and pushes; GitHub Pages picks up the production commit.
 - The publisher may consume several pending pairs in a single run (up to ten queued drafts). One pair is a publication checkpoint. A failure never authorizes publishing invalid articles or resetting a previous good pair.
 
 ## Repeating writer loop (do not stop between pairs)
@@ -42,7 +42,7 @@ PASS requires score >=75 and zero critical. This scores measurable structure, **
 - No force push or matrix reset. Only the next two Matrix IDs may be published.
 - Pending inbox count must be EVEN, between 2 and 10. If odd, fix incomplete submissions instead of silently publishing a solo article.
 - Workflow has a single global concurrency group and refetches main before every pair. The publisher push is followed by fresh-main processing of subsequent queued pairs.
-- When bot-created commits do not trigger Pages automatically, workflow requests the GitHub Pages rebuild using its built-in GitHub token. This is NOT an AI API. Pages success must still be checked.
+- When bot-created commits do not trigger Pages automatically, workflow relies on the native GitHub Pages build event after the bot push, without an extra duplicate build request. This is NOT an AI API. Pages success must still be checked.
 - If factory fails before its commit, the original drafts remain in inbox for repair. If another pair was already committed, preserve it and resume the next.
 - A failed QA score or critical factual uncertainty is a blocker for that pair; fix the article. Never simply change the rubric to pass.
 
