@@ -76,22 +76,22 @@
       "hub": "fahrzeugwahl",
       "title": "Gepäck auf dem Roller: sichere Lösungen",
       "slug": "gepaeck-auf-dem-roller-sichere-loesungen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 7,
       "keywordHypothesis": "gepäck auf dem roller: sichere lösungen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/gepaeck-auf-dem-roller-sichere-loesungen/"
     },
     {
       "id": "DE-008",
       "hub": "fahrzeugwahl",
       "title": "Mit Sozius fahren: Fahrzeugwahl überdenken",
       "slug": "mit-sozius-fahren-fahrzeugwahl-ueberdenken",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 8,
       "keywordHypothesis": "mit sozius fahren: fahrzeugwahl überdenken",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/mit-sozius-fahren-fahrzeugwahl-ueberdenken/"
     },
     {
       "id": "DE-009",
