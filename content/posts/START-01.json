@@ -1,0 +1,72 @@
+{
+  "id": "START-01",
+  "hub": "abholung-rueckgabe",
+  "slug": "motorrad-mieten-hanoi-uebergabe-checkliste",
+  "title": "Motorrad mieten in Hanoi: die Übergabe-Checkliste",
+  "description": "Vor der ersten Fahrt: Fahrzeugzustand, Zubehör, Mietbedingungen und Rückgabe in einer verständlichen Checkliste prüfen.",
+  "excerpt": "Ein strukturierter Übergabecheck hilft, Missverständnisse zu vermeiden und mit mehr Übersicht loszufahren.",
+  "date": "2026-10-14",
+  "readMinutes": 7,
+  "sections": [
+    {
+      "heading": "Vorbereitung vor dem Termin",
+      "paragraphs": [
+        "Lege dir vor der Abholung eine kleine Liste mit den wichtigsten Fragen an. Dazu gehören der vereinbarte Fahrzeugtyp, Mietdauer, Rückgabeort, erreichbarer Kontakt und die Art der Dokumentation. Verlasse dich nicht darauf, dass alle Punkte automatisch erklärt werden.",
+        "Plane bewusst Zeit für die Fahrzeugübergabe ein. Wer unter Zeitdruck übernimmt, übersieht leichter kleine Beschädigungen oder ungeklärte Bedingungen. Falls etwas vom ursprünglichen Angebot abweicht, sprich es an, bevor du das Fahrzeug akzeptierst."
+      ],
+      "bullets": [
+        "Vereinbarung und Kontaktkanal bereitlegen",
+        "Genug Zeit für Kontrolle und Fragen einplanen",
+        "Unklarheiten vor der Übernahme besprechen"
+      ]
+    },
+    {
+      "heading": "Zustand gemeinsam festhalten",
+      "paragraphs": [
+        "Gehe einmal langsam um das Fahrzeug herum. Dokumentiere vorhandene Kratzer, Brüche oder andere sichtbare Auffälligkeiten, ohne dabei die Umgebung zu blockieren. Übersichtsaufnahmen und Detailfotos ergänzen sich: Auf einem Gesamtbild ist zu erkennen, welches Fahrzeug übergeben wurde; Detailbilder zeigen einzelne Stellen.",
+        "Halte nach Möglichkeit auch den Kilometerstand, die Kraftstoffanzeige, übergebene Schlüssel und Zubehör fest. Stimmen Angaben im Vertrag oder auf dem Übergabezettel nicht mit dem Fahrzeug überein, bitte um Klärung. Bilder sind eine Gedächtnisstütze, ersetzen jedoch nicht die vertragliche Vereinbarung."
+      ],
+      "bullets": [
+        "Rundumfotos und Details aufnehmen",
+        "Kraftstoffstand und vorhandenes Zubehör notieren",
+        "Abweichungen freundlich und schriftlich klären"
+      ]
+    },
+    {
+      "heading": "Kurzer Funktionstest",
+      "paragraphs": [
+        "Prüfe vor der Abfahrt, ob du die Bedienelemente verstehst und erreichen kannst. Spiegel, Licht, Blinker, Hupe und Bremsgefühl verdienen Aufmerksamkeit. Ein kurzer Check sollte unter sicheren Bedingungen und nach Einweisung erfolgen.",
+        "Falls du das Fahrzeug nicht beherrschst oder ein Bauteil auffällig wirkt, starte nicht einfach die Fahrt. Bitte um Erklärung, technische Prüfung oder ein besser geeignetes Fahrzeug. Die eigene Fahrpraxis ehrlich einzuschätzen ist wichtiger als ein straffer Reiseplan."
+      ],
+      "bullets": [
+        "Sitzposition und Spiegel kontrollieren",
+        "Licht, Blinker und Bremsgefühl beurteilen",
+        "Bei Unsicherheit nicht losfahren"
+      ]
+    },
+    {
+      "heading": "Vertrag und Kosten abschließend klären",
+      "paragraphs": [
+        "Lass dir die vereinbarte Mietdauer und den Gesamtbetrag bestätigen. Frage ausdrücklich nach Kaution, der Form der Rückgabe und möglichen Kosten bei verspäteter Abgabe. Diese Bedingungen sind nicht überall gleich und sollten daher nicht aus allgemeinen Internetbeiträgen übernommen werden.",
+        "Prüfe außerdem, wer bei einer Panne oder Vertragsänderung erreichbar ist und ob zusätzliche Leistungen oder Versicherungen ausdrücklich vereinbart wurden. Bewahre Zahlungsbelege und Vertragskopien so auf, dass du sie auch ohne mobile Verbindung wiederfindest."
+      ],
+      "bullets": [
+        "Gesamtkosten und Kaution bestätigen",
+        "Rückgabezeit und Ansprechpartner festhalten",
+        "Vereinbarung und Belege sichern"
+      ]
+    },
+    {
+      "heading": "Bei der Rückgabe",
+      "paragraphs": [
+        "Plane Zeit für eine gemeinsame Kontrolle ein. Zeige bei Bedarf die ursprünglichen Zustandsaufnahmen und lasse offene Punkte direkt besprechen. Notiere, was mit der Kaution passiert und ob alle Schlüssel und Zubehörteile vollständig zurückgegeben wurden.",
+        "Eine sachliche, nachvollziehbare Übergabe funktioniert in beide Richtungen. Wenn ein Punkt nicht sofort geklärt werden kann, halte fest, wer wann eine Rückmeldung gibt, und sichere die Kommunikation."
+      ],
+      "bullets": [
+        "Gemeinsame Rückgabekontrolle durchführen",
+        "Kaution und Belege dokumentieren",
+        "Offene Fragen schriftlich nachverfolgen"
+      ]
+    }
+  ]
+}

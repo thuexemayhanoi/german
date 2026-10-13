@@ -1,0 +1,182 @@
+[
+  {
+    "slug": "fahrzeugwahl",
+    "name": "Fahrzeugwahl",
+    "short": "Welches Zweirad passt?",
+    "icon": "◈",
+    "kicker": "01 · Entscheidung",
+    "description": "Roller, Schaltmotorrad oder kleines Stadtfahrzeug: die Auswahl bewusst treffen.",
+    "intro": [
+      "Die passende Maschine hängt nicht allein von Optik oder Preis ab. Entscheidend sind deine Fahrpraxis, die geplante Strecke, Gepäck und die Bedingungen des konkreten Verleihs. Ein Fahrzeug, das sich bei der Übergabe sicher und kontrollierbar anfühlt, ist meist die bessere Wahl als die vermeintlich spannendere Option.",
+      "Vergleiche vor einer Reservierung nicht nur Modellnamen. Frage nach Sitzhöhe, Gewicht, Bremsgefühl, Gepäcklösung und danach, ob du dich mit der Bedienung vertraut machen kannst. Bei Unsicherheit sind eine kürzere Route und zusätzliche Vorbereitung sinnvoll."
+    ],
+    "steps": [
+      "Fahrerfahrung und Einsatzgebiet ehrlich einschätzen",
+      "Sitzposition, Gewicht und Bedienung vor Ort prüfen",
+      "Gepäck, Mitfahrer und Wetter mitdenken",
+      "Fahrzeugzustand dokumentieren und Fragen klären"
+    ]
+  },
+  {
+    "slug": "mietpreise-kaution",
+    "name": "Mietpreise & Kaution",
+    "short": "Kosten verständlich planen",
+    "icon": "₫",
+    "kicker": "02 · Budget",
+    "description": "Angebote vergleichen, Kautionsregeln verstehen und Zusatzkosten erkennen.",
+    "intro": [
+      "Mietangebote sind nur dann vergleichbar, wenn Laufzeit, Fahrzeugzustand, Abholung und Rückgabe gleich berücksichtigt werden. Ein günstiger Tagespreis sagt wenig aus, wenn Zusatzleistungen oder besondere Bedingungen offen bleiben.",
+      "Bitte dir die Konditionen für deine konkreten Reisedaten schriftlich bestätigen. Die Höhe einer Kaution, akzeptierte Zahlungsmethoden und mögliche Einbehalte können je nach Anbieter und Fahrzeug variieren. Dieser Guide nennt deshalb keine pauschalen Marktpreise."
+    ],
+    "steps": [
+      "Gesamtsumme statt Einzelpreis vergleichen",
+      "Kaution und Rückgabeprozess schriftlich klären",
+      "Kraftstoff, Zubehör und Verzögerungen nachfragen",
+      "Zahlungsbelege und Zustandsfotos aufbewahren"
+    ]
+  },
+  {
+    "slug": "dokumente-vertrag",
+    "name": "Dokumente & Vertrag",
+    "short": "Verständlich vor der Unterschrift",
+    "icon": "▤",
+    "kicker": "03 · Unterlagen",
+    "description": "Mietvertrag, Ausweise, Haftung und Regelungen systematisch prüfen.",
+    "intro": [
+      "Vor einer Anmietung sollten alle Beteiligten verstehen, welche Dokumente verlangt werden und welche Pflichten im Vertrag stehen. Die rechtliche Lage ist abhängig von Fahrzeugklasse, Fahrerlaubnis und aktuellen Vorschriften; die Angaben eines Verleihs allein ersetzen keine offizielle Prüfung.",
+      "Nimm dir Zeit für die Bedingungen zu Schäden, Verlust, Verspätung und Erstattung. Halte unklare Punkte vor der Übernahme fest und unterschreibe nichts, was du nicht nachvollziehen kannst."
+    ],
+    "steps": [
+      "Aktuelle Anforderungen über offizielle Quellen prüfen",
+      "Vertrag und Fahrzeugdaten miteinander abgleichen",
+      "Haftung, Versicherungsumfang und Ausschlüsse lesen",
+      "Eine nachvollziehbare Kopie der Vereinbarung erhalten"
+    ]
+  },
+  {
+    "slug": "sicherheit-verkehr",
+    "name": "Sicherheit & Verkehr",
+    "short": "Vorausschauend unterwegs",
+    "icon": "✳",
+    "kicker": "04 · Sicherheit",
+    "description": "Vorbereitung, Schutzkleidung und defensive Fahrweise im Stadtverkehr.",
+    "intro": [
+      "Im dichten Stadtverkehr ist Aufmerksamkeit wichtiger als Tempo. Wer aus einer anderen Verkehrsumgebung kommt, sollte sich bewusst an ungewohnte Abläufe und Sichtverhältnisse gewöhnen und eine Route wählen, die dem eigenen Können entspricht.",
+      "Prüfe vor jeder Fahrt Helm, Beleuchtung, Bremsgefühl, Reifen und Sicht. Bei schlechtem Wetter oder Erschöpfung kann es sicherer sein, eine Fahrt zu verschieben oder ein anderes Verkehrsmittel zu nutzen."
+    ],
+    "steps": [
+      "Passenden Helm und geeignete Kleidung verwenden",
+      "Vor Abfahrt eine einfache technische Sichtprüfung machen",
+      "Routen und Pausen realistisch planen",
+      "Geschwindigkeit an Sicht und Verhältnisse anpassen"
+    ]
+  },
+  {
+    "slug": "routen-umgebung",
+    "name": "Routen rund um Hanoi",
+    "short": "Strecken ohne Zeitdruck",
+    "icon": "⌁",
+    "kicker": "05 · Unterwegs",
+    "description": "Fahrten in der Stadt und im Umland durchdacht vorbereiten.",
+    "intro": [
+      "Gute Routen beginnen mit einer realistischen Einschätzung der eigenen Fahrpraxis, des Verkehrs und der Tageszeit. Eine Strecke, die auf der Karte kurz aussieht, kann aufgrund von Kreuzungen, Umwegen und Pausen deutlich anspruchsvoller sein.",
+      "Dieser Bereich stellt Planungskriterien statt erfundener Fahrzeiten bereit. Prüfe aktuelle Straßenverhältnisse, lokale Einschränkungen und Wetter vor Abfahrt. Für unbekannte Gegenden kann eine lokale Beratung hilfreich sein."
+    ],
+    "steps": [
+      "Tageslicht und realistische Fahrzeit berücksichtigen",
+      "Wetter- und Straßenlage vor Abfahrt überprüfen",
+      "Pausen und sichere Stopps vorsehen",
+      "Navigation vor Fahrtbeginn vorbereiten"
+    ]
+  },
+  {
+    "slug": "abholung-rueckgabe",
+    "name": "Abholung & Rückgabe",
+    "short": "Saubere Übergabe",
+    "icon": "↗",
+    "kicker": "06 · Übergabe",
+    "description": "Zustand, Zubehör, Kraftstoff und Rückgabe transparent festhalten.",
+    "intro": [
+      "Die Übergabe ist der beste Zeitpunkt, um Missverständnisse zu vermeiden. Überprüfe gemeinsam mit der vermietenden Person das Fahrzeug und dokumentiere sichtbare Gebrauchsspuren, den Kilometerstand, den Kraftstoffstand und das übergebene Zubehör.",
+      "Notiere auch den vereinbarten Rückgabeort und die Uhrzeit. Frage, wie du bei einer Verspätung Kontakt aufnehmen sollst und wie die Rückgabe dokumentiert wird. Ein klarer Ablauf schützt beide Seiten."
+    ],
+    "steps": [
+      "Rundumfotos und kurze Funktionsprüfung machen",
+      "Kraftstoff, Zubehör und vorhandene Schäden dokumentieren",
+      "Rückgabezeit, Ort und Ansprechpartner notieren",
+      "Bei Rückgabe Bestätigung und Kautionsstand festhalten"
+    ]
+  },
+  {
+    "slug": "probleme-hilfe",
+    "name": "Probleme & Hilfe",
+    "short": "Ruhig und strukturiert handeln",
+    "icon": "◎",
+    "kicker": "07 · Unterstützung",
+    "description": "Was bei Pannen, Unklarheiten und Änderungen der Reise wichtig ist.",
+    "intro": [
+      "Ein technisches Problem oder eine unklare Vertragsfrage unterwegs ist unangenehm, lässt sich aber besser lösen, wenn wichtige Angaben schon vor der Fahrt verfügbar sind. Bewahre den vereinbarten Kontaktweg, Fahrzeugdaten und deine Unterlagen griffbereit auf.",
+      "Bei einer Panne hat die persönliche Sicherheit Vorrang. Stelle das Fahrzeug nur dort ab, wo das gefahrlos möglich ist, und stimme weitere Schritte mit dem Vermieter ab. Unbekannte Reparaturen solltest du nicht ohne Absprache beauftragen."
+    ],
+    "steps": [
+      "Sicherheit von Fahrer und Mitfahrern priorisieren",
+      "Standort und Problem nachvollziehbar dokumentieren",
+      "Vermieter über vereinbarten Kanal kontaktieren",
+      "Absprachen und Belege schriftlich sichern"
+    ]
+  },
+  {
+    "slug": "reiseplanung",
+    "name": "Reiseplanung",
+    "short": "Vorbereitung ohne Hektik",
+    "icon": "✦",
+    "kicker": "08 · Organisation",
+    "description": "Wetter, Gepäck, Zeitplan und Erwartungen realistisch aufeinander abstimmen.",
+    "intro": [
+      "Eine gute Motorrad- oder Rollertour beginnt lange vor der eigentlichen Abfahrt. Wähle eine Strecke, die zu deiner Erfahrung passt, und kalkuliere genügend Zeit für Einweisung, Pausen und eventuelle Planänderungen ein.",
+      "Vergleiche Alternativen zur Eigenfahrt und prüfe, ob dein Zeitplan noch Spielraum lässt. Weniger Programmpunkte und ein ruhigeres Tempo können unterwegs den Unterschied machen."
+    ],
+    "steps": [
+      "Route und Wetter in Tagesabschnitten überprüfen",
+      "Notwendige Dokumente und Kontakte vorbereiten",
+      "Gepäck sicher und kompakt planen",
+      "Zeitreserve für Abholung, Pausen und Rückgabe vorsehen"
+    ]
+  },
+  {
+    "slug": "technik-wartung",
+    "name": "Technik & Pflege",
+    "short": "Fahrzeug besser verstehen",
+    "icon": "⚙",
+    "kicker": "09 · Fahrzeugtechnik",
+    "description": "Grundfunktionen erkennen und Auffälligkeiten frühzeitig ansprechen.",
+    "intro": [
+      "Du musst kein Mechaniker sein, um bei der Übernahme wichtige Dinge zu prüfen. Eine einfache Sichtprüfung und ein kurzer Funktionstest helfen, offensichtliche Probleme rechtzeitig anzusprechen.",
+      "Eigene Eingriffe am Mietfahrzeug können Risiken verursachen oder vertragliche Fragen auslösen. Bei Warnzeichen, ungewöhnlichem Fahrverhalten oder unklarer Funktion solltest du das Fahrzeug nicht einfach weiter benutzen, sondern fachliche Unterstützung organisieren."
+    ],
+    "steps": [
+      "Beleuchtung, Reifen und Bremsgefühl prüfen",
+      "Bedienelemente vor Fahrtbeginn kennenlernen",
+      "Warnsignale oder ungewöhnliche Geräusche melden",
+      "Reparaturen nur in abgestimmtem Rahmen durchführen"
+    ]
+  },
+  {
+    "slug": "nachhaltig-reisen",
+    "name": "Bewusst reisen",
+    "short": "Respektvoll und rücksichtsvoll",
+    "icon": "☘",
+    "kicker": "10 · Verantwortung",
+    "description": "Rücksicht im Verkehr, bei Stopps und gegenüber Menschen vor Ort.",
+    "intro": [
+      "Verantwortungsvolles Reisen bedeutet nicht nur, das passende Verkehrsmittel zu wählen. Entscheidend sind Rücksichtnahme, ein realistischer Reiseplan und der respektvolle Umgang mit lokalen Gegebenheiten.",
+      "Vermeide unnötige Fahrten, halte dich an aktuelle Verkehrsregeln und parke nur dort, wo es zulässig ist. Plane Zeit für Pausen ein und behandle Wohngebiete, Natur und lokale Gemeinschaften mit Respekt."
+    ],
+    "steps": [
+      "Unnötige Fahrten und Umwege reduzieren",
+      "Rücksichtsvoll und vorausschauend fahren",
+      "Örtliche Regeln und sensible Bereiche respektieren",
+      "Unterwegs Abfall vermeiden und Pausen sinnvoll gestalten"
+    ]
+  }
+]
