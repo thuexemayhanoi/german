@@ -10,22 +10,22 @@
       "hub": "fahrzeugwahl",
       "title": "Roller oder Motorrad in Hanoi: wichtige Unterschiede",
       "slug": "roller-oder-motorrad-in-hanoi-wichtige-unterschiede",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 1,
       "keywordHypothesis": "roller oder motorrad in hanoi: wichtige unterschiede",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/roller-oder-motorrad-in-hanoi-wichtige-unterschiede/"
     },
     {
       "id": "DE-002",
       "hub": "fahrzeugwahl",
       "title": "Automatikroller für Einsteiger: Kriterien statt Versprechen",
       "slug": "automatikroller-fuer-einsteiger-kriterien-statt-versprechen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 2,
       "keywordHypothesis": "automatikroller für einsteiger: kriterien statt versprechen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/automatikroller-fuer-einsteiger-kriterien-statt-versprechen/"
     },
     {
       "id": "DE-003",
