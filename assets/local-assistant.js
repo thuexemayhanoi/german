@@ -10,7 +10,7 @@
     maps:"https://share.google/59Er3R16jWr3psKeo",
     email:"mailto:nguyentuantu8x@gmail.com"
   });
-  const STOP = new Set("ich du sie der die das den dem des ein eine einen einem einer und oder mit ohne fuer von im in auf zu zur zum am an ist sind war was wie wo wer warum kann koennen mir bitte ueber info infos hanoi vietnam mieten mietung motorrad roller".split(" "));
+  const STOP = new Set("ich du sie der die das den dem des ein eine einen einem einer und oder mit ohne fuer von im in auf zu zur zum am an ist sind war was wie wo wer warum kann koennen mir bitte ueber info infos hanoi vietnam mieten mietung".split(" "));
   const SYN = {
     fuehrerschein:["fahrerlaubnis","dokumente","vertrag","verkehr","sicherheit"],
     fuehrerscheine:["fahrerlaubnis","dokumente","vertrag"],
@@ -78,7 +78,23 @@
     const cut=chosen.lastIndexOf(" ",max);
     return chosen.slice(0,Math.max(190,cut))+" …";
   }
-  root.GermanGuideLocal={normalize,queryTerms,rankArticles,bestPassage,safeArticleUrl};
+  /* Pure collision solver: prefer bottom-right, step upward around fixed widgets. */
+  function chooseFabTop(baseTop,safeTop,viewBottom,x,size,obstacles) {
+    const baseline=Math.max(safeTop,Math.min(baseTop,viewBottom-size-16));
+    let best=baseline,bestPenalty=Infinity;
+    const offsets=[0,70,140,210,280,-70];
+    for(const d of offsets){
+      const y=baseTop-d;
+      if(y<safeTop||y+size>viewBottom-16)continue;
+      const rect={left:x,right:x+size,top:y,bottom:y+size};
+      const penalty=(obstacles||[]).reduce((sum,b)=>
+        sum+(rect.left<b.right+9&&rect.right>b.left-9&&rect.top<b.bottom+9&&rect.bottom>b.top-9?1:0),0);
+      if(penalty<bestPenalty){bestPenalty=penalty;best=y}
+      if(!penalty)break;
+    }
+    return best;
+  }
+  root.GermanGuideLocal={normalize,queryTerms,rankArticles,bestPassage,safeArticleUrl,chooseFabTop};
   if(typeof document==="undefined")return;
 
   const READY=()=> {
@@ -270,16 +286,7 @@
       const x=window.innerWidth-16-btnSize;
       const baseTop=viewBottom-86-btnSize;
       const obstacles=obstacleRects();
-      const candidates=[0,70,140,210,280,-70].map(d=>baseTop-d);
-      let top=Math.max(safeTop,Math.min(baseTop,viewBottom-btnSize-minBottom));
-      let bestPenalty=Infinity;
-      for(const candidate of candidates){
-        if(candidate<safeTop||candidate+btnSize>viewBottom-minBottom)continue;
-        const rect={left:x,right:x+btnSize,top:candidate,bottom:candidate+btnSize};
-        const penalty=obstacles.reduce((n,b)=>n+(overlaps(rect,b,9)?1:0),0);
-        if(penalty<bestPenalty){bestPenalty=penalty;top=candidate}
-        if(penalty===0)break;
-      }
+      const top=chooseFabTop(baseTop,safeTop,viewBottom,x,btnSize,obstacles);
       const bottom=Math.max(8,window.innerHeight-top-btnSize);
       fab.style.bottom=Math.round(bottom)+"px";
       const chatOn=!panel.hidden;

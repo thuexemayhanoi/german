@@ -25,3 +25,14 @@ test("Local article assistant ranks published German posts only, never fabricate
  assert.equal(engine.bestPassage(["Unrelated text repeated for length to make this a possible answer in the search results.","Schaltmotorrad und Sicherheit sind bei der Mietentscheidung wichtig und müssen überprüft werden."],"Schaltmotorrad Sicherheit").startsWith("Schaltmotorrad"),true);
  assert.equal(engine.safeArticleUrl("https://evil.example/"),false);
 });
+
+test("Floating AI bubble avoids fixed obstacle by shifting up and preserves clear viewport",async()=>{
+ await import("../assets/local-assistant.js");
+ const {chooseFabTop,rankArticles}=globalThis.GermanGuideLocal;
+ const obstacle=[{left:310,right:392,top:495,bottom:565}];
+ const top=chooseFabTop(500,70,640,320,56,obstacle);
+ assert.equal(top,430);
+ assert.ok(top+56<=640-16);
+ const index=[{url:"/ratgeber/roller-oder-motorrad-in-hanoi-wichtige-unterschiede/",title:"Roller oder Motorrad in Hanoi: wichtige Unterschiede",description:"Fahrzeugwahl und sichere Nutzung",hubName:"Fahrzeugwahl"}];
+ assert.equal(rankArticles(index,"Roller oder Motorrad?",3)[0].url,index[0].url);
+});
