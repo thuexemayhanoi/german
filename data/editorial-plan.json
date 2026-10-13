@@ -54,22 +54,22 @@
       "hub": "fahrzeugwahl",
       "title": "Fahrzeuggewicht vor der Abholung vergleichen",
       "slug": "fahrzeuggewicht-vor-der-abholung-vergleichen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 5,
       "keywordHypothesis": "fahrzeuggewicht vor der abholung vergleichen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/fahrzeuggewicht-vor-der-abholung-vergleichen/"
     },
     {
       "id": "DE-006",
       "hub": "fahrzeugwahl",
       "title": "Welches Zweirad passt zu kurzen Stadtfahrten?",
       "slug": "welches-zweirad-passt-zu-kurzen-stadtfahrten",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 6,
       "keywordHypothesis": "welches zweirad passt zu kurzen stadtfahrten?",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/welches-zweirad-passt-zu-kurzen-stadtfahrten/"
     },
     {
       "id": "DE-007",
