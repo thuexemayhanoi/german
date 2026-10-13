@@ -1,4 +1,5 @@
 node_modules/
 .local-drafts/
-reports/
+reports/*
+!reports/factory-last-pair.json
 .DS_Store
