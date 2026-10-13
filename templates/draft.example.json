@@ -1,0 +1,50 @@
+{
+  "id": "DE-001",
+  "hub": "fahrzeugwahl",
+  "slug": "roller-oder-motorrad-in-hanoi-wichtige-unterschiede",
+  "title": "Roller oder Motorrad in Hanoi: wichtige Unterschiede",
+  "description": "Erkläre im Entwurf anhand realer und geprüfter Quellen, worin praktische Unterschiede liegen und wie Einsteiger die sichere Wahl vorbereiten.",
+  "excerpt": "Eine praktische Entscheidungshilfe mit Sicherheitsfragen, alltagstauglichen Hinweisen und einem Überblick über Einsatzmöglichkeiten.",
+  "sections": [
+    {
+      "heading": "Einsatzbereich und Fahrerfahrung",
+      "paragraphs": [
+        "Beispiel-Platzhalter: Hier muss ein vollständiger recherchierter Absatz mit mindestens einhundert Zeichen stehen und mit gesicherten Fakten ergänzt werden.",
+        "Beispiel-Platzhalter: Auch dieser Absatz ist ausdrücklich noch kein veröffentlichungsreifer Artikel und benötigt echte Recherche."
+      ]
+    },
+    {
+      "heading": "Sitzposition und Bedienelemente",
+      "paragraphs": [
+        "Beispiel-Platzhalter: Hier muss ein vollständiger recherchierter Absatz mit mindestens einhundert Zeichen stehen und mit gesicherten Fakten ergänzt werden.",
+        "Beispiel-Platzhalter: Auch dieser Absatz ist ausdrücklich noch kein veröffentlichungsreifer Artikel und benötigt echte Recherche."
+      ]
+    },
+    {
+      "heading": "Mietbedingungen und Fahrzeugzustand",
+      "paragraphs": [
+        "Beispiel-Platzhalter: Hier muss ein vollständiger recherchierter Absatz mit mindestens einhundert Zeichen stehen und mit gesicherten Fakten ergänzt werden.",
+        "Beispiel-Platzhalter: Auch dieser Absatz ist ausdrücklich noch kein veröffentlichungsreifer Artikel und benötigt echte Recherche."
+      ]
+    },
+    {
+      "heading": "Entscheidung vor Ort",
+      "paragraphs": [
+        "Beispiel-Platzhalter: Hier muss ein vollständiger recherchierter Absatz mit mindestens einhundert Zeichen stehen und mit gesicherten Fakten ergänzt werden.",
+        "Beispiel-Platzhalter: Auch dieser Absatz ist ausdrücklich noch kein veröffentlichungsreifer Artikel und benötigt echte Recherche."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "ERSETZEN: echte geprüfte Quelle",
+      "url": "https://example.org/replace-with-real-source",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "ERSETZEN: weitere geprüfte Quelle",
+      "url": "https://example.org/replace-with-another-real-source",
+      "checkedOn": "2026-10-14"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+name: German Premium Site QA
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: german-qa-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  validate:
+    name: Static build, schema, links and SEO guards
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Repository scope and CNAME guard
+        shell: bash
+        run: |
+          test "$(cat CNAME)" = "de.rentbikehanoi.com"
+          test ! -f package-lock.json
+      - name: Unit tests
+        run: node --test tests/site.test.mjs
+      - name: Verify generated pages without rewriting
+        run: node scripts/build.mjs --check
+      - name: Check links, locale, sitemap and topical index
+        run: node scripts/qa.mjs
+      - name: Check external-AI queue (no API calls)
+        run: |
+          node scripts/editorial.mjs status
+          node scripts/editorial.mjs next --count 3
