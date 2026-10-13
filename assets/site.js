@@ -75,3 +75,13 @@ document.addEventListener("click",e=>{
 });
 addEventListener("resize",()=>{if(innerWidth>770&&mobile?.open)closeMobile(false)},{passive:true});
 const results=document.querySelector("#search-results"),field=document.querySelector("#search-input");if(results&&field){let index=[];const form=document.querySelector("#search-form");const params=new URLSearchParams(location.search);if(params.has("q"))field.value=params.get("q")||"";const render=()=>{const q=field.value.trim().toLocaleLowerCase("de");const words=q.split(/\s+/).filter(Boolean);const found=index.filter(p=>words.every(w=>(p.title+" "+p.description+" "+p.hubName).toLocaleLowerCase("de").includes(w)));results.textContent="";const msg=document.createElement("p");msg.textContent=q?(found.length+" veröffentlichte Treffer für „"+q+"“."):(index.length+" veröffentlichte Ratgeber durchsuchen.");results.append(msg);for(const item of found.slice(0,60)){const row=document.createElement("div");row.className="search-result";const a=document.createElement("a");a.href=item.url;a.textContent=item.title;const p=document.createElement("p");p.textContent=item.description;row.append(a,p);results.append(row)}if(q&&!found.length){const p=document.createElement("p");p.textContent="Keine Treffer. Probiere andere Begriffe.";results.append(p)}};fetch("/search-index.json").then(r=>{if(!r.ok)throw Error("Index nicht verfügbar");return r.json()}).then(j=>{index=j;render()}).catch(()=>{results.textContent="Die Suche ist momentan nicht verfügbar. Alle veröffentlichten Artikel findest du im Ratgeberarchiv."});field.addEventListener("input",render);form?.addEventListener("submit",e=>{e.preventDefault();const q=field.value.trim();history.replaceState(null,"",q?"/suche/?q="+encodeURIComponent(q):"/suche/");render()})}})();
+
+/* Lazy-loading local blog assistant / Quick Call; no external APIs. */
+(function () {
+  if (typeof document === "undefined" || document.querySelector('script[data-german-guide-local]')) return;
+  const script = document.createElement("script");
+  script.src = "/assets/local-assistant.js?v=20261014a";
+  script.async = true;
+  script.dataset.germanGuideLocal = "";
+  document.head.appendChild(script);
+})();

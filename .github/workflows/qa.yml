@@ -26,7 +26,9 @@ jobs:
           test "$(cat CNAME)" = "de.rentbikehanoi.com"
           test ! -f package-lock.json
       - name: Validate browser JavaScript syntax
-        run: node --check assets/site.js
+        run: |
+          node --check assets/site.js
+          node --check assets/local-assistant.js
       - name: Unit tests
         run: node --test tests/site.test.mjs tests/factory.test.mjs
       - name: Verify generated pages without rewriting
