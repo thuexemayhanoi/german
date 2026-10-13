@@ -1,0 +1,31 @@
+{
+  "generator": "scripts/build.mjs",
+  "paths": [
+    ".nojekyll",
+    "404.html",
+    "datenschutz/index.html",
+    "feed.xml",
+    "hinweise/index.html",
+    "index.html",
+    "kontakt/index.html",
+    "ratgeber/index.html",
+    "ratgeber/kaution-roller-mieten-hanoi-fragen/index.html",
+    "ratgeber/motorrad-mieten-hanoi-uebergabe-checkliste/index.html",
+    "ratgeber/roller-oder-motorrad-hanoi-fahrzeugwahl/index.html",
+    "robots.txt",
+    "search-index.json",
+    "sitemap.xml",
+    "suche/index.html",
+    "themen/abholung-rueckgabe/index.html",
+    "themen/dokumente-vertrag/index.html",
+    "themen/fahrzeugwahl/index.html",
+    "themen/mietpreise-kaution/index.html",
+    "themen/nachhaltig-reisen/index.html",
+    "themen/probleme-hilfe/index.html",
+    "themen/reiseplanung/index.html",
+    "themen/routen-umgebung/index.html",
+    "themen/sicherheit-verkehr/index.html",
+    "themen/technik-wartung/index.html",
+    "ueber-uns/index.html"
+  ]
+}

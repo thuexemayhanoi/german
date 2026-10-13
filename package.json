@@ -1,0 +1,16 @@
+{
+  "name": "german-premium-guide",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Static German-language guide with human-controlled 200-topic external-AI editorial workflow",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/build.mjs --check && node scripts/qa.mjs && node --test tests/site.test.mjs",
+    "next": "node scripts/editorial.mjs next --count 5",
+    "status": "node scripts/editorial.mjs status"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

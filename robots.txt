@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /suche/
+Sitemap: https://de.rentbikehanoi.com/sitemap.xml

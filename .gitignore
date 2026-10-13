@@ -1,0 +1,4 @@
+node_modules/
+.local-drafts/
+reports/
+.DS_Store
