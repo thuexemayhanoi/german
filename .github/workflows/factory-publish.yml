@@ -1,0 +1,78 @@
+name: German Continuous Pair Factory
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'content/inbox/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: german-pair-publisher
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Fetch freshest main
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "german-factory[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git checkout -B main origin/main
+      - name: Pair QA 75, publish, push, refetch, repeat
+        shell: bash
+        run: |
+          set -euo pipefail
+          pairs=0
+          while true; do
+            git fetch origin main
+            git reset --hard origin/main
+            count=$(find content/inbox -maxdepth 1 -type f -name 'DE-*.json' 2>/dev/null | wc -l)
+            if [ "$count" -eq 0 ]; then break; fi
+            if [ "$count" -lt 2 ] || [ $((count % 2)) -ne 0 ] || [ "$count" -gt 10 ]; then
+              echo "::error::Incomplete inbox; expected 2..10 even files, got $count"; exit 1
+            fi
+            node scripts/factory.mjs publish
+            node scripts/build.mjs --check
+            node scripts/qa.mjs
+            node --test tests/site.test.mjs tests/factory.test.mjs
+            git add -A
+            git commit -m "factory: publish 2 German articles (QA>=75)"
+            attempts=0
+            until git push origin HEAD:main; do
+              attempts=$((attempts+1))
+              if [ "$attempts" -ge 3 ]; then
+                echo "::error::Push race not recoverable, do not force"; exit 1
+              fi
+              git fetch origin main
+              git rebase origin/main || { git rebase --abort; exit 1; }
+            done
+            pairs=$((pairs+1))
+            echo "Pair #$pairs published and committed."
+          done
+          echo "pairs_published=$pairs" >> "$GITHUB_ENV"
+      - name: Request Pages rebuild for bot-created commits
+        if: env.pairs_published != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          gh api -X POST "repos/$GITHUB_REPOSITORY/pages/builds" --silent
+          echo "Pages rebuild requested after automated publication."
