@@ -9,7 +9,7 @@ const at=p=>path.join(root,p),read=p=>JSON.parse(fs.readFileSync(at(p),"utf8"));
 const save=(p,v)=>{fs.mkdirSync(path.dirname(at(p)),{recursive:true});fs.writeFileSync(at(p),JSON.stringify(v,null,2)+"\n")};
 const queue=()=>fs.existsSync(at("content/inbox"))?fs.readdirSync(at("content/inbox")).filter(x=>/^DE-\d{3}\.json$/.test(x)).sort():[];
 const words=s=>String(s||"").trim().split(/\s+/).filter(Boolean).length;
-const validDate=s=>typeof s==="string"&&/^\d{4}-\d{2}-\d{2}$/.test(s)&&!Number.isNaN(Date.parse(s+"T00:00:00Z"))&&s<=new Date().toISOString().slice(0,10);
+const validDate=s=>typeof s==="string"&&/^\d{4}-\d{2}-\d{2}$/.test(s)&&!Number.isNaN(Date.parse(s+"T00:00:00Z"))&&s<=new Intl.DateTimeFormat("sv-SE",{timeZone:"Asia/Bangkok"}).format(new Date());
 export function inspect(d,p){
  const errors=[],parts={identity:0,sections:0,depth:0,seo:0,sources:0};
  const fail=(bad,message)=>{if(bad)errors.push(message)};
