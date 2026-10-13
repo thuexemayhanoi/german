@@ -32,22 +32,22 @@
       "hub": "fahrzeugwahl",
       "title": "Schaltmotorrad mieten: worauf du achten solltest",
       "slug": "schaltmotorrad-mieten-worauf-du-achten-solltest",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 3,
       "keywordHypothesis": "schaltmotorrad mieten: worauf du achten solltest",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/schaltmotorrad-mieten-worauf-du-achten-solltest/"
     },
     {
       "id": "DE-004",
       "hub": "fahrzeugwahl",
       "title": "Sitzhöhe richtig einschätzen",
       "slug": "sitzhoehe-richtig-einschaetzen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 4,
       "keywordHypothesis": "sitzhöhe richtig einschätzen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/sitzhoehe-richtig-einschaetzen/"
     },
     {
       "id": "DE-005",
