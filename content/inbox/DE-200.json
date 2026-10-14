@@ -1,0 +1,63 @@
+{
+  "id": "DE-200",
+  "hub": "nachhaltig-reisen",
+  "title": "Verantwortungsvolle Reise-Checkliste",
+  "slug": "verantwortungsvolle-reise-checkliste",
+  "status": "IDEA",
+  "priority": 20,
+  "keywordHypothesis": "verantwortungsvolle reise-checkliste",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Verantwortungsvolle Reise-Checkliste: Vorbereitung, Anmietung, Fahrten und Rückgabe eines Mietrollers in Hanoi in einer Liste, die Sicherheit, Respekt und Ressourcen verbindet.",
+  "excerpt": "Verantwortung ist keine Stimmung, sondern eine Liste von Handlungen. Diese Checkliste fasst zusammen, was eine Rollerreise durch Hanoi verantwortungsvoll macht.",
+  "sections": [
+    {
+      "heading": "Vor der Anmietung: die Basis klären",
+      "paragraphs": [
+        "Verantwortung beginnt vor dem Unterschreiben: Kläre die Fahrerlaubnis – das Auswärtige Amt weist darauf hin, dass ein Führerschein der Klasse B Zweiräder über 50 Kubikzentimeter in Vietnam nicht abdeckt und die Erweiterung B196 vor Ort nicht anerkannt wird. Wer die nötige Fahrerlaubnis nicht hat, plant Alternativen: Taxis, Busse, geführte Touren. Diese Klärung ist der erste Punkt der Liste – alle weiteren setzen sie voraus.",
+        "Zweiter Punkt: der Anbieter. Wähle einen Verleiher mit klarem Vertrag, transparenter Kaution und der ausdrücklichen Empfehlung, den Reisepass nicht als Pfand zu hinterlassen – das Auswärtige Amt rät davon ab, und ein Verleiher, der danach verlangt, disqualifiziert sich selbst. Dritter Punkt: das Fahrzeug. Prüfe es bei der Abholung – Reifen, Bremsen, Licht, Dokumente – und halte den Zustand in Wort und Bild fest. Diese drei Punkte kosten zwanzig Minuten und sichern die gesamte Miete."
+      ]
+    },
+    {
+      "heading": "Für jede Fahrt: die Grundausstattung",
+      "paragraphs": [
+        "Die Checkliste für die einzelne Fahrt ist kurz und unaushandlbar: Helm auf und richtig geschlossen – Helmpflicht, wie das Auswärtige Amt feststellt; nüchtern fahren – für Zweiräder gilt in Vietnam die Promillegrenze von null; Fahrzeug kurz geprüft – Licht, Bremsen, Reifen; und die Route im Kopf, bevor der Motor läuft. Diese vier Punkte sind kein Programm, sondern ein Ritual – und Rituale sind das, was Verantwortung von Zufall unterscheidet.",
+        "Fünfter Punkt: die Rahmenbedingungen der Fahrt – Tageszeit und Wetter. Plane Fahrten so, dass die Ankunft bei Tageslicht geschieht: Das Auswärtige Amt weist darauf hin, dass die meisten Verkehrsunfälle in Vietnam nach Einbruch der Dunkelheit geschehen. Und halte bei Regen die Faustregel bereit: Warten ist besser als Fahren – die Stadt hat überdachte Plätze, und der Schauer geht vorbei."
+      ]
+    },
+    {
+      "heading": "Unterwegs: Rücksicht als Fahrstil",
+      "paragraphs": [
+        "Die Checkliste unterwegs besteht aus drei Verhalten statt drei Handgriffen: Tempo nach Umgebung – Schritttempo in Gassen, Fließtempo auf Hauptstraßen; Abstand zu allen, die langsamer sind – Fußgänger, Radfahrer, stehende Fahrzeuge; und Kommunikation ohne Lärm – Blickkontakt statt Dauersignal. Wer diese drei mitführt, fährt rücksichtsvoll, ohne langsamer zu sein – die Kooperation ist der schnellste Fahrstil, den es in einer Stadt gibt.",
+        "Dazu der Punkt für die Pausen: Halte an Orten, die für Pausen gebaut sind – bewachte Plätze, Randlagen ohne Funktion, Flächen vor Geschäften, wenn der Besitzer einverstanden ist. Die Pause, die niemanden blockiert, ist Erholung für dich und Respekt für die anderen – und sie ist der sichtbarste Unterschied zwischen einem Gast und einem Belastungsfall."
+      ]
+    },
+    {
+      "heading": "Für die Umgebung: der kleine ökologische Beitrag",
+      "paragraphs": [
+        "Die ökologischen Punkte der Liste sind Gegenstände, keine Tugenden: eine wiederverwendbare Wasserflasche, gefüllt am Morgen; eine Stofftasche für Einkäufe; ein kleiner Beutel für den Müll, der trotzdem entsteht – mitgenommen bis zum nächsten Abfalleimer. Diese drei Dinge passen unter jede Sitzbank, kosten fast nichts und ändern die Bilanz einer Woche Fahrten spürbar.",
+        "Dazu der Verhaltenspunkt: Abfall gehört in Behälter, nicht an Straßenränder – und ein Ort, an dem du anhältst, bleibt so, wie du ihn angetroffen hast. Die Vietnam-Tourismusbehörde beschreibt achtsames Verhalten als Teil des Reisens im Land – in der Praxis besteht dieses Verhalten aus genau solchen Kleinigkeiten, die niemand sieht und alle bemerken."
+      ]
+    },
+    {
+      "heading": "Bei der Rückgabe: sauber abschließen",
+      "paragraphs": [
+        "Die letzten Punkte der Liste gehören der Rückgabe: Fahrzeug geprüft und dokumentiert – Fotos vom Zustand, Kilometerstand, Tankstand; Kraftstoff nach der vereinbarten Regelung; Mängel benannt, die unterwegs entstanden sind, statt verschwiegen; und die Kaution zurückgeführt mit Quittung oder Protokollvermerk. Die Rückgabe ist die zweite Übergabe – mit derselben Sorgfalt wie die erste.",
+        "Und der letzte Punkt ist kein Handgriff, sondern eine Haltung: Nimm die Erfahrungen mit, die die Reise dir gegeben hat – über den Verkehr, über die Stadt, über die Verantwortung, die Reisen verlangt. Die Checkliste endet nicht bei der Rückgabe – sie beginnt von vorn, bei der nächsten Fahrt, in einer Stadt, die du nun kennst wie ein Gast, der gelernt hat, wie Gäste hier willkommen sind."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
