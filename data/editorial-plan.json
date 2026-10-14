@@ -2694,22 +2694,22 @@
       "hub": "routen-umgebung",
       "title": "Co Loa: kulturelle Ausflugstrecke vorbereiten",
       "slug": "co-loa-kulturelle-ausflugstrecke-vorbereiten",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 25,
       "keywordHypothesis": "co loa ausflug hanoi",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/co-loa-kulturelle-ausflugstrecke-vorbereiten/"
     },
     {
       "id": "DE-246",
       "hub": "routen-umgebung",
       "title": "Long-Bien-Brücke erleben: Geschichte und Zugang",
       "slug": "long-bien-bruecke-erleben-geschichte-und-zugang",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 26,
       "keywordHypothesis": "long bien bruecke hanoi",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/long-bien-bruecke-erleben-geschichte-und-zugang/"
     },
     {
       "id": "DE-247",
