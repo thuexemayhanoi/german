@@ -1880,22 +1880,22 @@
       "hub": "technik-wartung",
       "title": "Technischer Zustand und Reiseplanung",
       "slug": "technischer-zustand-und-reiseplanung",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 11,
       "keywordHypothesis": "technischer zustand und reiseplanung",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/technischer-zustand-und-reiseplanung/"
     },
     {
       "id": "DE-172",
       "hub": "technik-wartung",
       "title": "Bei Defekten keine improvisierte Reparatur",
       "slug": "bei-defekten-keine-improvisierte-reparatur",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 12,
       "keywordHypothesis": "bei defekten keine improvisierte reparatur",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/bei-defekten-keine-improvisierte-reparatur/"
     },
     {
       "id": "DE-173",
