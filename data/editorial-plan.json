@@ -1704,22 +1704,22 @@
       "hub": "reiseplanung",
       "title": "Budget und Zeit gemeinsam betrachten",
       "slug": "budget-und-zeit-gemeinsam-betrachten",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 15,
       "keywordHypothesis": "budget und zeit gemeinsam betrachten",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/budget-und-zeit-gemeinsam-betrachten/"
     },
     {
       "id": "DE-156",
       "hub": "reiseplanung",
       "title": "Was du bei kurzfristigen Planänderungen tust",
       "slug": "was-du-bei-kurzfristigen-planaenderungen-tust",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 16,
       "keywordHypothesis": "was du bei kurzfristigen planänderungen tust",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/was-du-bei-kurzfristigen-planaenderungen-tust/"
     },
     {
       "id": "DE-157",
