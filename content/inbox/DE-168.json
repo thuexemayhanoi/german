@@ -1,0 +1,63 @@
+{
+  "id": "DE-168",
+  "hub": "technik-wartung",
+  "title": "Kraftstoffanzeige verstehen",
+  "slug": "kraftstoffanzeige-verstehen",
+  "status": "IDEA",
+  "priority": 8,
+  "keywordHypothesis": "kraftstoffanzeige verstehen",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Kraftstoffanzeige verstehen: das Verhalten der Anzeige bei der Abholung prüfen, die Tankregel der Miete klären und das Tanken in die Tourenplanung einbauen.",
+  "excerpt": "Die Kraftstoffanzeige ist die ehrlichste und ungenaueste Skala am Fahrzeug – wer ihr Verhalten kennt, bleibt nie liegen. So liest du sie richtig.",
+  "sections": [
+    {
+      "heading": "Warum die Anzeige ein eigenes Thema ist",
+      "paragraphs": [
+        "Die Kraftstoffanzeige ist die am häufigsten gelesene und am wenigsten verstandene Anzeige am Fahrzeug: Sie zeigt einen Füllstand, aber sie zeigt ihn auf ihre eigene Weise – manche Anzeigen verharren lange oben und fallen dann schnell, andere pendeln mit dem Gefälle, wieder andere haben eine Reserve-Anzeige, die als Warnung gedacht ist und als solche auch gemeint ist. Wer das Verhalten seiner Anzeige nicht kennt, liest eine Zahl, von der er nicht weiß, was sie verspricht – und genau diese Unwissenheit ist der Ursprung jedes Liegenbleibens mit leerem Tank.",
+        "In Vietnam kommt die Umgebung hinzu: Tankstellen sind verbreitet, aber nicht überall gleich dicht – auf Strecken außerhalb der Städte können Abstände zwischen Tankgelegenheiten entstehen, die ein Fahrer bemerkt, der nicht an sie gedacht hat, sondern an seine Anzeige, die seit zwanzig Kilometern das Gleiche zeigt. Der erste Schritt gegen das Leertanken ist deshalb kein Zusatzkanister, sondern das Verständnis der Anzeige: Sie ist ein Werkzeug, das kalibriert werden will."
+      ]
+    },
+    {
+      "heading": "Die Anzeige bei der Abholung lesen",
+      "paragraphs": [
+        "Die Kalibrierung beginnt bei der Übergabe: Frage den Verleiher nach dem Füllstand – voll, halb voll, Rest – und vergleiche die Antwort mit der Anzeige. Diese Gegenprüfung zeigt dir zwei Dinge: wie die Anzeige des Modells überhaupt aussieht – Pegel, Lampe, Raste – und wie sie sich zu realen Füllständen verhält. Eine Anzeige, die bei halbem Tank in der Mitte steht, ist ehrlich; eine, die bei halbem Tank noch drei Viertel zeigt, ist optimistisch – und der Unterschied zwischen diesen beiden Charakteren ist der Inhalt deiner Tourenplanung.",
+        "Die zweite Frage gehört der Tankregel der Miete: Wird das Fahrzeug voll übergeben und voll zurückgegeben – die häufigste Regel – oder gelten andere Absprachen? Die Antwort gehört in die Übergabenotizen, denn sie plant die letzte Fahrt vor der Rückgabe: Wer die Regel kennt, tankt die letzte Runde so, dass die Rückgabe stimmt; wer sie verdrängt, tankt am Rückgabetag in Eile oder zahlt bei der Abrechnung für den fehlenden Rest. Und die dritte Frage: Wo sind die Tankgelegenheiten entlang deiner ersten Route? Der Verleiher kennt die Gegend – eine Antwort, eine Minute, ein leeres Risiko weniger."
+      ]
+    },
+    {
+      "heading": "Das Tanken im Fahralltag",
+      "paragraphs": [
+        "Im Fahralltag wird die Anzeige zur Angewohnheit: der Blick bei jedem Anhalten – Ampel, Pause, Rückkehr – und der Vergleich mit dem Kilometerstand seit dem letzten Tanken. Daraus entsteht die wichtigste Kennzahl deiner Miete: die Reichweite, die du mit einer Füllung wirklich fährst – gerechnet aus deinen Strecken, deinem Tempo, deiner Beladung. Diese Zahl ist persönlicher als jede Herstellerangabe, denn sie entsteht aus deiner Fahrweise – und sie ist die Grundlage, auf der du die Anzeige von da an liest.",
+        "Die Regeln für den Alltag sind kurz: Früh tanken statt spät – die Tankgelegenheit, die bei einem Viertel Reserve noch Wahl lässt, ist bei leerer Anzeige ein Suchen. Bei unbekannten Strecken: vor dem Stadtrand tanken, nicht in ihm – die Auswahl in der Stadt ist größer, aber die Panne auf dem Land ist weiter weg von der nächsten Säule. Und bei der Reserveanzeige: Sie ist keine Meinung, sondern eine Ankündigung – die verbleibende Strecke gehört seelenruhig, aber ohne Umwege zur nächsten Tankstelle geplant, nicht zur nächsten Sehenswürdigkeit."
+      ]
+    },
+    {
+      "heading": "Wenn die Anzeige ausfällt",
+      "paragraphs": [
+        "Es gibt die Variante, die niemand plant: die Anzeige, die nichts mehr zeigt – defekt, lose, tot. Damit wird die Kilometerzahl zum Ersatzmessgerät: Notiere den Stand bei voller Tankung, rechne mit deiner persönlichen Reichweite – und du hast eine Anzeige, die aus Zahlen statt aus Nadeln besteht. Diese Ersatzmethode funktioniert, solange du deine Kennzahl kennst – und sie funktioniert umso besser, je ruhiger du fährst, denn die Reichweite schwankt mit dem Tempo stärker als mit allem anderen.",
+        "Eine ausgefallene Anzeige gehört zudem gemeldet – sie ist ein Mangel am Fahrzeug wie jede andere defekte Anzeige, und die Meldung mit dem Moment des Ausfalls gehört in die Fahrzeugakte. Der Verleiher kann eine Anzeige nicht aus der Ferne reparieren, aber er kann die Reichweite nennen, eine Absprache für das Tanken vor der Rückgabe treffen und das Fahrzeug bei der Rückgabe in Ordnung bringen – alles Folgen einer Meldung, die du gemacht hast, bevor sie wichtig wurde."
+      ]
+    },
+    {
+      "heading": "Die Anzeige als Teil der Planung",
+      "paragraphs": [
+        "Die Kraftstoffanzeige ist am Ende mehr als eine Skala – sie ist der Anfang jeder Tourenplanung: Die persönliche Reichweite entscheidet, welche Strecken du ohne Tankstopp fährst, wo die Tankpausen liegen und wie die Rückgabe am Ende der Miete geregelt wird. Wer seine Anzeige kennt, plant mit ihr; wer sie nicht kennt, plant gegen sie – und der Unterschied zeigt sich auf der Strecke zwischen zwei Tankstellen, im Zustand des Fahrzeugs und in der Art, wie der Rückgabetag verläuft.",
+        "Das Auswärtige Amt rät, Fahrzeuge vor der Nutzung zu prüfen und die Bedingungen der Miete klar zu regeln; die offizielle Tourismusseite Vietnam Travel empfiehlt, sich über Verkehr und Fortbewegung im Land vorab zu informieren. Die Kraftstoffanzeige verstehen ist die kleinste und konstanteste Form dieser Vorbereitung: eine Frage bei der Übergabe, ein Blick bei jedem Halt, eine Zahl in der Planung – und eine Miete, die nirgends liegen bleibt, außer wo du willst."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
