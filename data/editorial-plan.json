@@ -2628,22 +2628,22 @@
       "hub": "sicherheit-verkehr",
       "title": "Regenzeit und rutschige Straßen sicher managen",
       "slug": "regenzeit-und-rutschige-strassen-sicher-managen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 29,
       "keywordHypothesis": "regenfahrt roller vietnam",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/regenzeit-und-rutschige-strassen-sicher-managen/"
     },
     {
       "id": "DE-240",
       "hub": "sicherheit-verkehr",
       "title": "Kliniken und Gesundheitshilfe in Hanoi finden",
       "slug": "kliniken-und-gesundheitshilfe-in-hanoi-finden",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 30,
       "keywordHypothesis": "klinik hanoi notfall",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/kliniken-und-gesundheitshilfe-in-hanoi-finden/"
     },
     {
       "id": "DE-241",
