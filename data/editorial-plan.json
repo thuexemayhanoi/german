@@ -912,22 +912,22 @@
       "hub": "routen-umgebung",
       "title": "Stadtverkehr und Ausfallstraßen unterscheiden",
       "slug": "stadtverkehr-und-ausfallstrassen-unterscheiden",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 3,
       "keywordHypothesis": "stadtverkehr und ausfallstraßen unterscheiden",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/stadtverkehr-und-ausfallstrassen-unterscheiden/"
     },
     {
       "id": "DE-084",
       "hub": "routen-umgebung",
       "title": "Fotostopps sicher in eine Route einbauen",
       "slug": "fotostopps-sicher-in-eine-route-einbauen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 4,
       "keywordHypothesis": "fotostopps sicher in eine route einbauen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/fotostopps-sicher-in-eine-route-einbauen/"
     },
     {
       "id": "DE-085",
