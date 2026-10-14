@@ -2364,22 +2364,22 @@
       "hub": "mietpreise-kaution",
       "title": "Reisepass als Pfand: Risiken verstehen",
       "slug": "reisepass-als-pfand-risiken-verstehen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 25,
       "keywordHypothesis": "reisepass pfand verleih",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/reisepass-als-pfand-risiken-verstehen/"
     },
     {
       "id": "DE-216",
       "hub": "mietpreise-kaution",
       "title": "Preisgespräche beim Verleih: respektvoll und realistisch",
       "slug": "preisgespraeche-beim-verleih-respektvoll-und-realistisch",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 26,
       "keywordHypothesis": "roller miete preis verhandeln",
       "intent": "commercial",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/preisgespraeche-beim-verleih-respektvoll-und-realistisch/"
     },
     {
       "id": "DE-217",
