@@ -3112,22 +3112,22 @@
       "hub": "technik-wartung",
       "title": "Reichweite und Ladestand beim Elektroroller planen",
       "slug": "reichweite-und-ladestand-beim-elektroroller-planen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 23,
       "keywordHypothesis": "elektroroller reichweite",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/reichweite-und-ladestand-beim-elektroroller-planen/"
     },
     {
       "id": "DE-284",
       "hub": "technik-wartung",
       "title": "Reifendruck und Profiltiefe ohne Werkzeug beurteilen",
       "slug": "reifendruck-und-profiltiefe-ohne-werkzeug-beurteilen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 24,
       "keywordHypothesis": "reifendruck profil roller",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/reifendruck-und-profiltiefe-ohne-werkzeug-beurteilen/"
     },
     {
       "id": "DE-285",
