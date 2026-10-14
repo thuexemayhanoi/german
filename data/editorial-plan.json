@@ -1022,22 +1022,22 @@
       "hub": "routen-umgebung",
       "title": "Längere Strecke in Etappen aufteilen",
       "slug": "laengere-strecke-in-etappen-aufteilen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 13,
       "keywordHypothesis": "längere strecke in etappen aufteilen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/laengere-strecke-in-etappen-aufteilen/"
     },
     {
       "id": "DE-094",
       "hub": "routen-umgebung",
       "title": "Tankmöglichkeiten vorab recherchieren",
       "slug": "tankmoeglichkeiten-vorab-recherchieren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 14,
       "keywordHypothesis": "tankmöglichkeiten vorab recherchieren",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/tankmoeglichkeiten-vorab-recherchieren/"
     },
     {
       "id": "DE-095",
