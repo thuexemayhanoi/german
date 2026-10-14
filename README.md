@@ -4,12 +4,12 @@
 **Repository:** https://github.com/thuexemayhanoi/german  
 **Production:** GitHub Pages, `main`, **CNAME must stay exactly `de.rentbikehanoi.com`**
 
-A lightweight, German-language editorial site with premium global design, SEO-safe static pages, a shared responsive mega menu and footer, topic hub pages, article layouts, in-browser search, RSS, a publishing pipeline, and a **200-topic editorial plan**.
+A lightweight, German-language editorial site with premium global design, SEO-safe static pages, a shared responsive mega menu and footer, topic hub pages, article layouts, in-browser search, RSS, a publishing pipeline, and a **300-topic editorial plan**.
 
 ## Status (initial release)
 - 10 published informational hub pages (independent text).
 - 3 independently written starter guide pages for site demonstration; review them periodically.
-- **200 planned topics**, not 200 published articles, grouped 20 × 10.
+- **300 planned topics**, not 300 published articles, grouped 30 × 10.
 - The site has no AI writer running and **uses no paid AI API, no LLM installed on the server, and no automatic content generation**.
 - External AIs such as ChatGPT, Claude, Mistral or Gemini can write JSON drafts using the prompts exported below; publishing is a separate human-controlled step.
 - Generated pages are committed to repository root for existing GitHub Pages branch deployment. This project does not change Pages configuration.

@@ -8,10 +8,10 @@ const check=(ok,msg)=>{if(!ok)throw Error("QA FAIL: "+msg)};
 try{
  const {hubs,plan,posts}=getModel(),files=renderSite({hubs,plan,posts});
  check(fs.readFileSync(path.join(ROOT,"CNAME"),"utf8").trim()==="de.rentbikehanoi.com","CNAME");
- check(hubs.length===10&&plan.topics.length===200,"10 hubs and exactly 200 editorial topics");
- check(new Set(plan.topics.map(p=>p.id)).size===200,"unique topic ids");
- check(new Set(plan.topics.map(p=>p.slug)).size===200,"unique planned article slugs");
- for(const h of hubs)check(plan.topics.filter(p=>p.hub===h.slug).length===20,"20 topics in "+h.slug);
+ check(hubs.length===10&&plan.topics.length===300,"10 hubs and exactly 300 editorial topics");
+ check(new Set(plan.topics.map(p=>p.id)).size===300,"unique topic ids");
+ check(new Set(plan.topics.map(p=>p.slug)).size===300,"unique planned article slugs");
+ for(const h of hubs)check(plan.topics.filter(p=>p.hub===h.slug).length===30,"30 topics in "+h.slug);
  for(const [file,html] of Object.entries(files).filter(([p])=>p.endsWith(".html"))){
   check(/<html lang="de">/.test(html),"German HTML lang "+file);
   check(/<title>[^<]+<\/title>/.test(html),"missing title "+file);
@@ -27,5 +27,5 @@ try{
  check(posts.every(p=>sitemap.includes("/ratgeber/"+p.slug+"/")),"all published posts in sitemap");
  check(JSON.parse(files["search-index.json"]).length===posts.length,"search includes published only");
  check(!Object.keys(files).some(f=>f==="CNAME"),"generator must not overwrite CNAME");
- const verified=build(true);console.log("QA PASSED: "+verified.count+" generated outputs; "+posts.length+" published articles, 10 hubs, 200 topics, CNAME unchanged.");
+ const verified=build(true);console.log("QA PASSED: "+verified.count+" generated outputs; "+posts.length+" published articles, 10 hubs, 300 topics, CNAME unchanged.");
 }catch(e){console.error(e.message);process.exitCode=1}
