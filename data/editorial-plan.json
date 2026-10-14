@@ -406,22 +406,22 @@
       "hub": "mietpreise-kaution",
       "title": "Schriftliche Preisbestätigung anfordern",
       "slug": "schriftliche-preisbestaetigung-anfordern",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 17,
       "keywordHypothesis": "schriftliche preisbestätigung anfordern",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/schriftliche-preisbestaetigung-anfordern/"
     },
     {
       "id": "DE-038",
       "hub": "mietpreise-kaution",
       "title": "Kautionsrückgabe nachvollziehbar festhalten",
       "slug": "kautionsrueckgabe-nachvollziehbar-festhalten",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 18,
       "keywordHypothesis": "kautionsrückgabe nachvollziehbar festhalten",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/kautionsrueckgabe-nachvollziehbar-festhalten/"
     },
     {
       "id": "DE-039",
