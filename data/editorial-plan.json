@@ -3178,22 +3178,22 @@
       "hub": "technik-wartung",
       "title": "Kilometerstand und Wartungsstand einordnen",
       "slug": "kilometerstand-und-wartungsstand-einordnen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 29,
       "keywordHypothesis": "kilometerstand wartung roller",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/kilometerstand-und-wartungsstand-einordnen/"
     },
     {
       "id": "DE-290",
       "hub": "technik-wartung",
       "title": "Technikmängel vor Vertragsabschluss erkennen",
       "slug": "technikmaengel-vor-vertragsabschluss-erkennen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 30,
       "keywordHypothesis": "technikmangel roller miete",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/technikmaengel-vor-vertragsabschluss-erkennen/"
     },
     {
       "id": "DE-291",
