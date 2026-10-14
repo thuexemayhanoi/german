@@ -2914,22 +2914,22 @@
       "hub": "probleme-hilfe",
       "title": "Polizeikontakt nach einem Vorfall in Vietnam organisieren",
       "slug": "polizeikontakt-nach-einem-vorfall-in-vietnam-organisieren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 25,
       "keywordHypothesis": "polizei vietnam unfall",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/polizeikontakt-nach-einem-vorfall-in-vietnam-organisieren/"
     },
     {
       "id": "DE-266",
       "hub": "probleme-hilfe",
       "title": "Verständigung mit dem Vermieter per Übersetzungs-App",
       "slug": "verstaendigung-mit-dem-vermieter-per-uebersetzungs-app",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 26,
       "keywordHypothesis": "uebersetzer app vermieter",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/verstaendigung-mit-dem-vermieter-per-uebersetzungs-app/"
     },
     {
       "id": "DE-267",
