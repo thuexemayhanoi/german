@@ -494,22 +494,22 @@
       "hub": "dokumente-vertrag",
       "title": "Fahrzeugpapiere bei der Übergabe abgleichen",
       "slug": "fahrzeugpapiere-bei-der-uebergabe-abgleichen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 5,
       "keywordHypothesis": "fahrzeugpapiere bei der übergabe abgleichen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/fahrzeugpapiere-bei-der-uebergabe-abgleichen/"
     },
     {
       "id": "DE-046",
       "hub": "dokumente-vertrag",
       "title": "Versicherungsbedingungen bewusst lesen",
       "slug": "versicherungsbedingungen-bewusst-lesen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 6,
       "keywordHypothesis": "versicherungsbedingungen bewusst lesen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/versicherungsbedingungen-bewusst-lesen/"
     },
     {
       "id": "DE-047",
