@@ -956,22 +956,22 @@
       "hub": "routen-umgebung",
       "title": "Abfahrt und Rückkehr sinnvoll timen",
       "slug": "abfahrt-und-rueckkehr-sinnvoll-timen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 7,
       "keywordHypothesis": "abfahrt und rückkehr sinnvoll timen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/abfahrt-und-rueckkehr-sinnvoll-timen/"
     },
     {
       "id": "DE-088",
       "hub": "routen-umgebung",
       "title": "Pausenorte auswählen ohne Zeitdruck",
       "slug": "pausenorte-auswaehlen-ohne-zeitdruck",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 8,
       "keywordHypothesis": "pausenorte auswählen ohne zeitdruck",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/pausenorte-auswaehlen-ohne-zeitdruck/"
     },
     {
       "id": "DE-089",
