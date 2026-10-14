@@ -2430,22 +2430,22 @@
       "hub": "dokumente-vertrag",
       "title": "Vietnamesischer Führerschein und ausländische Anerkennung",
       "slug": "vietnamesischer-fuehrerschein-und-auslaendische-anerkennung",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 21,
       "keywordHypothesis": "vietnamesischer fuehrerschein anerkennung",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/vietnamesischer-fuehrerschein-und-auslaendische-anerkennung/"
     },
     {
       "id": "DE-222",
       "hub": "dokumente-vertrag",
       "title": "Führerscheinkategorien in Vietnam zuverlässig nachschlagen",
       "slug": "fuehrerscheinkategorien-in-vietnam-zuverlaessig-nachschlagen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 22,
       "keywordHypothesis": "fuehrerschein kategorien vietnam",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/fuehrerscheinkategorien-in-vietnam-zuverlaessig-nachschlagen/"
     },
     {
       "id": "DE-223",
