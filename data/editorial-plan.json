@@ -1506,22 +1506,22 @@
       "hub": "probleme-hilfe",
       "title": "Pannenhilfe und Mietvertrag abstimmen",
       "slug": "pannenhilfe-und-mietvertrag-abstimmen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 17,
       "keywordHypothesis": "pannenhilfe und mietvertrag abstimmen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/pannenhilfe-und-mietvertrag-abstimmen/"
     },
     {
       "id": "DE-138",
       "hub": "probleme-hilfe",
       "title": "Missverständnisse durch klare Nachrichten vermeiden",
       "slug": "missverstaendnisse-durch-klare-nachrichten-vermeiden",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 18,
       "keywordHypothesis": "missverständnisse durch klare nachrichten vermeiden",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/missverstaendnisse-durch-klare-nachrichten-vermeiden/"
     },
     {
       "id": "DE-139",
