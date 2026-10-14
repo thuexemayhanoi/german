@@ -3090,22 +3090,22 @@
       "hub": "technik-wartung",
       "title": "Kickstarter und Batterie bei Mietrollern verstehen",
       "slug": "kickstarter-und-batterie-bei-mietrollern-verstehen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 21,
       "keywordHypothesis": "kickstarter batterie roller",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/kickstarter-und-batterie-bei-mietrollern-verstehen/"
     },
     {
       "id": "DE-282",
       "hub": "technik-wartung",
       "title": "Ölstand und Kette bei Mietfahrzeugen grob prüfen",
       "slug": "oelstand-und-kette-bei-mietfahrzeugen-grob-pruefen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 22,
       "keywordHypothesis": "oelstand kette roller",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/oelstand-und-kette-bei-mietfahrzeugen-grob-pruefen/"
     },
     {
       "id": "DE-283",
