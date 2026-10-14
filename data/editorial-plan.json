@@ -2958,22 +2958,22 @@
       "hub": "probleme-hilfe",
       "title": "Notfallnummern und Apps für Reisende in Vietnam",
       "slug": "notfallnummern-und-apps-fuer-reisende-in-vietnam",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 29,
       "keywordHypothesis": "notfallnummern vietnam",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/notfallnummern-und-apps-fuer-reisende-in-vietnam/"
     },
     {
       "id": "DE-270",
       "hub": "probleme-hilfe",
       "title": "Mietkosten bei Fahrzeugstillstand fair diskutieren",
       "slug": "mietkosten-bei-fahrzeugstillstand-fair-diskutieren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 30,
       "keywordHypothesis": "mietkosten stillstand roller",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/mietkosten-bei-fahrzeugstillstand-fair-diskutieren/"
     },
     {
       "id": "DE-271",
