@@ -2738,22 +2738,22 @@
       "hub": "routen-umgebung",
       "title": "Sonntägliche Fußgängerzonen und verkehrsberuhigte Bereiche",
       "slug": "sonntaegliche-fussgaengerzonen-und-verkehrsberuhigte-bereiche",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 29,
       "keywordHypothesis": "fussgaengerzone hanoi sonntag",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/sonntaegliche-fussgaengerzonen-und-verkehrsberuhigte-bereiche/"
     },
     {
       "id": "DE-250",
       "hub": "routen-umgebung",
       "title": "Überschwemmte Straßen nach Starkregen umfahren",
       "slug": "ueberschwemmte-strassen-nach-starkregen-umfahren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 30,
       "keywordHypothesis": "strassen flut hanoi regen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/ueberschwemmte-strassen-nach-starkregen-umfahren/"
     },
     {
       "id": "DE-251",
