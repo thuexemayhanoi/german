@@ -1088,22 +1088,22 @@
       "hub": "routen-umgebung",
       "title": "Wann ein alternatives Verkehrsmittel sinnvoll ist",
       "slug": "wann-ein-alternatives-verkehrsmittel-sinnvoll-ist",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 19,
       "keywordHypothesis": "wann ein alternatives verkehrsmittel sinnvoll ist",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/wann-ein-alternatives-verkehrsmittel-sinnvoll-ist/"
     },
     {
       "id": "DE-100",
       "hub": "routen-umgebung",
       "title": "Routen-Checkliste für den Fahrtag",
       "slug": "routen-checkliste-fuer-den-fahrtag",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 20,
       "keywordHypothesis": "routen-checkliste für den fahrtag",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/routen-checkliste-fuer-den-fahrtag/"
     },
     {
       "id": "DE-101",
