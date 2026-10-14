@@ -2650,22 +2650,22 @@
       "hub": "routen-umgebung",
       "title": "Altstadtviertel Hanoi: parken statt einfahren",
       "slug": "altstadtviertel-hanoi-parken-statt-einfahren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 21,
       "keywordHypothesis": "old quarter hanoi parken",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/altstadtviertel-hanoi-parken-statt-einfahren/"
     },
     {
       "id": "DE-242",
       "hub": "routen-umgebung",
       "title": "Rundfahrt am Westsee: Entspannte Strecke in Hanoi",
       "slug": "rundfahrt-am-westsee-entspannte-strecke-in-hanoi",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 22,
       "keywordHypothesis": "westsee hanoi routefahrt",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/rundfahrt-am-westsee-entspannte-strecke-in-hanoi/"
     },
     {
       "id": "DE-243",
