@@ -1,0 +1,63 @@
+{
+  "id": "DE-182",
+  "hub": "nachhaltig-reisen",
+  "title": "Verantwortungsvoll in Wohngebieten fahren",
+  "slug": "verantwortungsvoll-in-wohngebieten-fahren",
+  "status": "IDEA",
+  "priority": 2,
+  "keywordHypothesis": "verantwortungsvoll in wohngebieten fahren",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Verantwortungsvoll in Wohngebieten fahren: Tempo, Abstand und Aufmerksamkeit in den Wohnstraßen und Gassen von Hanoi – und warum Rücksicht dort am meisten zählt.",
+  "excerpt": "In den Wohnvierteln von Hanoi ist die Straße zugleich Küche, Spielplatz und Wohnzimmer. Wer dort verantwortungsvoll fährt, passt Tempo und Erwartungen der Nachbarschaft an.",
+  "sections": [
+    {
+      "heading": "Warum Wohngebiete andere Regeln brauchen",
+      "paragraphs": [
+        "Wohngebiete in Hanoi sind keine Straßen mit Häusern, sondern Straßen als Lebensraum: In den Gassen wird gekocht, gegessen, gewerkelt und geschlafen, und die Fahrbahn gehört zu all dem dazu. Ein Mietroller, der durch eine solche Gasse fährt, ist Gast in einem Wohnzimmer mit offener Tür – und Gäste passen ihr Verhalten dem Raum an, nicht umgekehrt. Diese Grundhaltung verändert alles Weitere: Tempo, Abstand, Hupe, sogar die Wahl der Route.",
+        "Die Versuchung ist verständlich: Mit einem Roller lassen sich Abkürzungen durch Viertel finden, die Taxis verwehrt bleiben. Doch genau diese Abkürzungen führen durch die intimsten Räume der Stadt – und wer sie nutzt, trägt die Verantwortung dafür, dass sie auch morgen noch so lebendig sind, wie er sie heute erlebt hat."
+      ]
+    },
+    {
+      "heading": "Tempo und Fahrweise anpassen",
+      "paragraphs": [
+        "Das richtige Tempo in einer Wohnstraße ist das, mit dem du anhalten kannst, bevor ein Kind dich sieht. Kinder in Gassen spielen mit dem Rücken zur Fahrbahn, sie rennen Bällen hinterher, ohne zu schauen, und sie unterscheiden nicht zwischen einem Anwohner, den sie kennen, und einem Gast, der schnell ist. Fahre Schritttempo, halte den Daumen an der Bremse, und rechne damit, dass dir zwischen zwei geparkten Motorrädern plötzlich jemand entgegenschiebt.",
+        "Ältere Menschen verdienen dieselbe Aufmerksamkeit: Sie überqueren Gassen ohne Blick, weil sie den Verkehr ihres Viertels kennen – nur dich kennen sie nicht. Nimm ihnen die Rechnung ab, indem du langsam bist, bevor sie dich sehen. Diese Art von Voraussicht ist die eigentliche Fahrkunst in Wohngebieten, und sie ist das Gegenteil von Geschwindigkeit."
+      ]
+    },
+    {
+      "heading": "Hupe und Lärm bewusst einsetzen",
+      "paragraphs": [
+        "In Hanoi ist die Hupe ein Kommunikationsmittel, kein Vorwurf – aber in Wohnstraßen ist sie ein Fremdkörper, wenn sie als Dauerton daherkommt. Nutze sie sparsam und nur als Ankündigung dort, wo sie gehört werden muss, etwa vor einer blinden Ecke oder beim Vorbeifahren an spielenden Kindern. Wer in einer Gasse ständig hupt, veranstaltet nicht Verkehr, sondern Lärm – und Lärm ist in einem Wohngebiet die unhöflichste Form der Anwesenheit.",
+        "Rechne auch mit dem Motor als Geräuschquelle: Ein Roller, der im Stand aufgedreht wird, füllt eine ganze Gasse. Lass den Motor im Leerlauf, solange du wartest, und fahre den ersten Gang ruhig an. Die Nachbarschaft wird es nicht kommentieren – aber sie wird es bemerken, und dein Ruf als Gast beginnt in genau diesen Kleinigkeiten."
+      ]
+    },
+    {
+      "heading": "Abstand und Respekt vor privatem Raum",
+      "paragraphs": [
+        "In Wohngebieten ist die Grenze zwischen privat und öffentlich fließend: Türen stehen offen, Stühle stehen auf der Fahrbahn, Wäsche hängt über die Straße. Halte Abstand zu allem, was jemandem gehört – fahre nicht durch Essensgruppen, umgehe aufgestellte Stände im Bogen, und stelle deinen Roller nicht vor eine Tür, die jemand öffnen will. Diese Rücksichten kosten Sekunden und zahlen auf ein Konto ein, das alle Gäste der Stadt gemeinsam führen.",
+        "Nimm auch Rücksicht auf die Ruhezeiten, die sich in Wohngebieten von selbst ergeben: früh morgens und in der Mittagszeit schlafen viele Menschen, und der Roller, der um fünf Uhr morgens durch die Gasse dröhnt, weckt ein ganzes Viertel. Wer früh starten muss, schiebe das Fahrzeug bis zur Hauptstraße, bevor er den Motor startet – eine Geste, die in Hanoi überall verstanden wird."
+      ]
+    },
+    {
+      "heading": "Verantwortung als Reisehaltung",
+      "paragraphs": [
+        "Verantwortung in Wohngebieten ist der sichtbarste Teil eines größeren Zusammenhangs: Du fährst durch das Zuhause von Menschen, die dir nichts genommen haben und von dir nichts fordern. Das Auswärtige Amt empfiehlt in seinen Hinweisen zu Vietnam rücksichtsvolles Verhalten im Verkehr – in Wohngebieten wird daraus eine ganz konkrete Praxis aus Tempo, Abstand und Lärm.",
+        "Und wie überall gilt: Fahr nur, wenn du fahrbereit bist. Die Promillegrenze von null für Zweiräder ist auch in der Wohnstraße Realität, und der Helm, den das Auswärtige Amt als Pflicht ausweist, gehört auch auf der kurzen Strecke zum Frühstück auf den Kopf. Verantwortung endet nicht am Ende der Gasse – sie beginnt dort, wo die Stadt zum Wohnzimmer wird."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
