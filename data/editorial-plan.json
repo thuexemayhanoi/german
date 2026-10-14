@@ -2210,22 +2210,22 @@
       "hub": "fahrzeugwahl",
       "title": "Motorrad mieten in Hanoi: realistische Erwartungen",
       "slug": "motorrad-mieten-in-hanoi-realistische-erwartungen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 21,
       "keywordHypothesis": "motorrad mieten hanoi",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/motorrad-mieten-in-hanoi-realistische-erwartungen/"
     },
     {
       "id": "DE-202",
       "hub": "fahrzeugwahl",
       "title": "Roller mieten in Hanoi: die passende Fahrzeugklasse",
       "slug": "roller-mieten-in-hanoi-die-passende-fahrzeugklasse",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 22,
       "keywordHypothesis": "roller mieten hanoi",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/roller-mieten-in-hanoi-die-passende-fahrzeugklasse/"
     },
     {
       "id": "DE-203",
