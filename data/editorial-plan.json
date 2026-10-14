@@ -3156,22 +3156,22 @@
       "hub": "technik-wartung",
       "title": "Reifenpanne-Set und Werkzeug beim Verleih erfragen",
       "slug": "reifenpanne-set-und-werkzeug-beim-verleih-erfragen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 27,
       "keywordHypothesis": "reifenpanne set verleih",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/reifenpanne-set-und-werkzeug-beim-verleih-erfragen/"
     },
     {
       "id": "DE-288",
       "hub": "technik-wartung",
       "title": "Fahrwerk und Federung auf schlechten Straßen beurteilen",
       "slug": "fahrwerk-und-federung-auf-schlechten-strassen-beurteilen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 28,
       "keywordHypothesis": "fahrwerk federung strassen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/fahrwerk-und-federung-auf-schlechten-strassen-beurteilen/"
     },
     {
       "id": "DE-289",
