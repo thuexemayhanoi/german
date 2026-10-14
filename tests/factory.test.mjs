@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { inspect, inspectPair } from "../scripts/factory.mjs";
+import { inspect, inspectPair, inspectBatch } from "../scripts/factory.mjs";
 import { getModel } from "../scripts/build.mjs";
 const matrix=getModel().plan.topics;
 const pending=matrix.filter(p=>!["PUBLISHED","BLOCKED"].includes(p.status));
@@ -32,4 +32,14 @@ test("Reject wrong identity and nonconsecutive Matrix queue",()=>{
  const one=draftFor(pending[0]),three=draftFor(pending[2]);
  assert.equal(inspectPair([one,three]).ok,false);
  one.slug="wrong";assert.equal(inspect(one,pending[0]).pass,false);
+});
+
+test("Multi-pair preflight accepts six sequential drafts and rejects invalid batches",()=>{
+ if(pending.length<6)return;
+ const ds=pending.slice(0,6).map((p,i)=>{const d=draftFor(p);d.sections[0].paragraphs[0]+=" Testvariante "+i+" der unabhängigen Vorlage.";return d});
+ const ok=inspectBatch(ds);assert.equal(ok.ok,true,JSON.stringify(ok));assert.equal(ok.pairs,3);
+ assert.equal(inspectBatch(ds.slice(0,3)).ok,false);
+ assert.equal(inspectBatch([ds[0],ds[2]]).ok,false);
+ const duplicates=structuredClone(ds);duplicates[2].sections=structuredClone(duplicates[0].sections);
+ assert.match(inspectBatch(duplicates).reason,/Duplicate body across/);
 });

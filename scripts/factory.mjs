@@ -64,6 +64,24 @@ export function inspectPair(drafts,plan=read("data/editorial-plan.json")){
  if(body(drafts[0])===body(drafts[1])||drafts.some(d=>existing.some(p=>body(p)===body(d))))return{ok:false,reason:"Duplicate article body"};
  return{ok:true,results,ids:drafts.map(d=>d.id)};
 }
+// Validate all staged pairs before the first publication commit.
+export function inspectBatch(drafts,plan=read("data/editorial-plan.json")){
+ if(!Array.isArray(drafts)||drafts.length<2||drafts.length>10||drafts.length%2)
+  return {ok:false,reason:"Expected even 2..10 draft batch"};
+ const virtual=structuredClone(plan),seenBodies=new Set(),results=[];
+ for(let i=0;i<drafts.length;i+=2){
+  const pair=drafts.slice(i,i+2),result=inspectPair(pair,virtual);
+  if(!result.ok)return {ok:false,reason:"Pair "+(i/2+1)+": "+result.reason,pair:i/2+1,details:result};
+  for(const d of pair){
+   const body=(d.sections||[]).flatMap(s=>s.paragraphs||[]).join("\n").trim();
+   if(seenBodies.has(body))return {ok:false,reason:"Duplicate body across submitted pairs: "+d.id};
+   seenBodies.add(body);
+   virtual.topics.find(p=>p.id===d.id).status="PUBLISHED";
+  }
+  results.push(result.results);
+ }
+ return {ok:true,submitted:drafts.length,pairs:results.length,ids:drafts.map(d=>d.id),results};
+}
 export function publish(){
  const names=queue();
  if(names.length<2||names.length>10||names.length%2!==0)throw Error("Inbox must have even count 2..10, got "+names.length);
@@ -92,6 +110,7 @@ function main(){
  else if(cmd==="next"){const n=Number(process.argv[3]||2);if(!Number.isInteger(n)||n<1||n>10)throw Error("Next count 1..10");const plan=read("data/editorial-plan.json"),pending=new Set(queue().map(x=>x.slice(0,-5)));console.log(JSON.stringify({queued:status().queued,next:plan.topics.filter(p=>!["PUBLISHED","BLOCKED"].includes(p.status)&&!pending.has(p.id)).slice(0,n)},null,2))}
  else if(cmd==="score"){if(!process.argv[3])throw Error("File required");const d=JSON.parse(fs.readFileSync(path.resolve(process.argv[3]),"utf8"));const result=inspect(d,read("data/editorial-plan.json").topics.find(x=>x.id===d.id));console.log(JSON.stringify(result,null,2));if(!result.pass)process.exitCode=1}
  else if(cmd==="check"){const names=queue();if(names.length!==2)throw Error("check requires exactly 2 inbox files");const result=inspectPair(names.map(n=>read("content/inbox/"+n)));console.log(JSON.stringify(result,null,2));if(!result.ok)process.exitCode=1}
+ else if(cmd==="check-batch"){const names=queue();if(!names.length){console.log(JSON.stringify({ok:true,submitted:0,skipped:"empty inbox"},null,2))}else{const result=inspectBatch(names.map(n=>read("content/inbox/"+n)));console.log(JSON.stringify(result,null,2));if(!result.ok)process.exitCode=1}}
  else if(cmd==="publish"){if(process.env.GITHUB_ACTIONS!=="true"||process.env.GITHUB_REF!=="refs/heads/main")throw Error("Publish only from production GitHub Actions");console.log(JSON.stringify(publish(),null,2))}
  else throw Error("Unknown command");
 }

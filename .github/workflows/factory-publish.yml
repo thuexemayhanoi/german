@@ -47,6 +47,7 @@ jobs:
             if [ "$count" -lt 2 ] || [ $((count % 2)) -ne 0 ] || [ "$count" -gt 10 ]; then
               echo "::error::Incomplete inbox; expected 2..10 even files, got $count"; exit 1
             fi
+            node scripts/factory.mjs check-batch
             node scripts/factory.mjs publish
             node scripts/build.mjs --check
             node scripts/qa.mjs
