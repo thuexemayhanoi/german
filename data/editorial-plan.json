@@ -1396,22 +1396,22 @@
       "hub": "probleme-hilfe",
       "title": "Was du bei Reifenproblemen beachten solltest",
       "slug": "was-du-bei-reifenproblemen-beachten-solltest",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 7,
       "keywordHypothesis": "was du bei reifenproblemen beachten solltest",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/was-du-bei-reifenproblemen-beachten-solltest/"
     },
     {
       "id": "DE-128",
       "hub": "probleme-hilfe",
       "title": "Wenn das Fahrzeug ungewöhnlich reagiert",
       "slug": "wenn-das-fahrzeug-ungewoehnlich-reagiert",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 8,
       "keywordHypothesis": "wenn das fahrzeug ungewöhnlich reagiert",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/wenn-das-fahrzeug-ungewoehnlich-reagiert/"
     },
     {
       "id": "DE-129",
