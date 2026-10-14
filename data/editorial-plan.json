@@ -1066,22 +1066,22 @@
       "hub": "routen-umgebung",
       "title": "Orientierung in fremden Stadtvierteln",
       "slug": "orientierung-in-fremden-stadtvierteln",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 17,
       "keywordHypothesis": "orientierung in fremden stadtvierteln",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/orientierung-in-fremden-stadtvierteln/"
     },
     {
       "id": "DE-098",
       "hub": "routen-umgebung",
       "title": "Spontane Route oder feste Planung?",
       "slug": "spontane-route-oder-feste-planung",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 18,
       "keywordHypothesis": "spontane route oder feste planung?",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/spontane-route-oder-feste-planung/"
     },
     {
       "id": "DE-099",
