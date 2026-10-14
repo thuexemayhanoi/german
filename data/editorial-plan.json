@@ -802,22 +802,22 @@
       "hub": "sicherheit-verkehr",
       "title": "Fahren bei Dunkelheit: Risikoabwägung",
       "slug": "fahren-bei-dunkelheit-risikoabwaegung",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 13,
       "keywordHypothesis": "fahren bei dunkelheit: risikoabwägung",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/fahren-bei-dunkelheit-risikoabwaegung/"
     },
     {
       "id": "DE-074",
       "hub": "sicherheit-verkehr",
       "title": "Umgang mit unübersichtlichen Einfahrten",
       "slug": "umgang-mit-unuebersichtlichen-einfahrten",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 14,
       "keywordHypothesis": "umgang mit unübersichtlichen einfahrten",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/umgang-mit-unuebersichtlichen-einfahrten/"
     },
     {
       "id": "DE-075",
