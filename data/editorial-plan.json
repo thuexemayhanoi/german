@@ -340,22 +340,22 @@
       "hub": "mietpreise-kaution",
       "title": "Was bedeutet eine Sicherheitsleistung?",
       "slug": "was-bedeutet-eine-sicherheitsleistung",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 11,
       "keywordHypothesis": "was bedeutet eine sicherheitsleistung?",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/was-bedeutet-eine-sicherheitsleistung/"
     },
     {
       "id": "DE-032",
       "hub": "mietpreise-kaution",
       "title": "Angebote mit unterschiedlicher Mietdauer vergleichen",
       "slug": "angebote-mit-unterschiedlicher-mietdauer-vergleichen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 12,
       "keywordHypothesis": "angebote mit unterschiedlicher mietdauer vergleichen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/angebote-mit-unterschiedlicher-mietdauer-vergleichen/"
     },
     {
       "id": "DE-033",
