@@ -2276,22 +2276,22 @@
       "hub": "fahrzeugwahl",
       "title": "Typische Mietfahrzeuge in Vietnam: Underbones einordnen",
       "slug": "typische-mietfahrzeuge-in-vietnam-underbones-einordnen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 27,
       "keywordHypothesis": "underbone vietnam mieten",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/typische-mietfahrzeuge-in-vietnam-underbones-einordnen/"
     },
     {
       "id": "DE-208",
       "hub": "fahrzeugwahl",
       "title": "Windschutz und Verkleidung bei Mietfahrzeugen bewerten",
       "slug": "windschutz-und-verkleidung-bei-mietfahrzeugen-bewerten",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 28,
       "keywordHypothesis": "windschutz roller verkleidung",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/windschutz-und-verkleidung-bei-mietfahrzeugen-bewerten/"
     },
     {
       "id": "DE-209",
