@@ -2452,22 +2452,22 @@
       "hub": "dokumente-vertrag",
       "title": "Mietvertrag auf Englisch oder Vietnamesisch verstehen",
       "slug": "mietvertrag-auf-englisch-oder-vietnamesisch-verstehen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 23,
       "keywordHypothesis": "mietvertrag englisch vietnamesisch",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/mietvertrag-auf-englisch-oder-vietnamesisch-verstehen/"
     },
     {
       "id": "DE-224",
       "hub": "dokumente-vertrag",
       "title": "Vertragsstrafen und Stornoklauseln im Detail lesen",
       "slug": "vertragsstrafen-und-stornoklauseln-im-detail-lesen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 24,
       "keywordHypothesis": "vertragsstrafen storno miete",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/vertragsstrafen-und-stornoklauseln-im-detail-lesen/"
     },
     {
       "id": "DE-225",
