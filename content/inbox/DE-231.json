@@ -49,12 +49,12 @@
   ],
   "sources": [
     {
-      "title": "Auswärtiges Amt",
+      "label": "Auswärtiges Amt",
       "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
       "checkedOn": "2026-10-14"
     },
     {
-      "title": "Vietnam Tourism",
+      "label": "Vietnam Tourism",
       "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
       "checkedOn": "2026-10-14"
     }
