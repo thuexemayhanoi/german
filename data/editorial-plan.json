@@ -2804,22 +2804,22 @@
       "hub": "abholung-rueckgabe",
       "title": "Wochenende und Feiertage bei der Abholung bedenken",
       "slug": "wochenende-und-feiertage-bei-der-abholung-bedenken",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 25,
       "keywordHypothesis": "abholung feiertag hanoi",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/wochenende-und-feiertage-bei-der-abholung-bedenken/"
     },
     {
       "id": "DE-256",
       "hub": "abholung-rueckgabe",
       "title": "Zustandsfotos bei der Rückgabe systematisch vergleichen",
       "slug": "zustandsfotos-bei-der-rueckgabe-systematisch-vergleichen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 26,
       "keywordHypothesis": "rueckgabe fotos vergleich",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/zustandsfotos-bei-der-rueckgabe-systematisch-vergleichen/"
     },
     {
       "id": "DE-257",
