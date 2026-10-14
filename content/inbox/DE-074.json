@@ -1,0 +1,63 @@
+{
+  "id": "DE-074",
+  "hub": "sicherheit-verkehr",
+  "title": "Umgang mit unübersichtlichen Einfahrten",
+  "slug": "umgang-mit-unuebersichtlichen-einfahrten",
+  "status": "IDEA",
+  "priority": 14,
+  "keywordHypothesis": "umgang mit unübersichtlichen einfahrten",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Umgang mit unübersichtlichen Einfahrten: langsam einordnen, Sicht prüfen und Vorfahrts-Tatsachen akzeptieren – Techniken für die heiklen Eingänge.",
+  "excerpt": "Einfahrten sind kleine Kreuzungen mit großem Risiko: eingeschränkte Sicht, geparkte Fahrzeuge, Fußgänger im toten Winkel. Dieser Ratgeber zeigt, wie Sie Einfahrten und Ausfahrten sicher angehen – als Fahrer und als Fußgänger.",
+  "sections": [
+    {
+      "heading": "Warum Einfahrten Unfallschwerpunkte sind",
+      "paragraphs": [
+        "Eine Einfahrt kombiniert die schlechtesten Eigenschaften einer Kreuzung: keine Ampel, keine klare Vorfahrtslage, Sicht versperrt durch Mauern, geparkte Fahrzeuge oder Werbung. Wer einfährt, mischt sich in einen Verkehrsfluss ein, den er nicht überblickt; wer vorbeifährt, rechnet nicht mit dem Fahrzeug, das aus einer Einfahrt schießt. Beide Seiten treffen sich in dem Moment, in dem beide am wenigsten sehen.",
+        "In Hanoi kommt die Dichte hinzu: Einfahrten von Höfen, Werkstätten, Hotels und Gassen öffnen sich direkt in stark befahrene Straßen, oft mit Gefälle oder Schwelle. Das Auswärtige Amt rät zu defensiver Fahrweise im dichten Verkehr – an Einfahrten zeigt sich diese Empfehlung als Technik: langsam, weit schauend, mit der Bereitschaft, dass die Sicht nicht genügt."
+      ]
+    },
+    {
+      "heading": "Das Einfahren als Fahrer",
+      "paragraphs": [
+        "Fahre vor der Einfahrt auf Schritttempo ab, egal wie vertraut die Stelle wirkt: Der Blick muss zwei Informationen gleichzeitig liefern – den Verkehr auf der Straße, in die du einfährst, und die Fußgänger, die auf dem Gehweg laufen, den du kreuzst. Beide erscheinen gern aus den Bereichen, die Mauern und parkende Fahrzeuge verdecken. Halte so, dass du die Sichtlinie selbst wählen kannst – ein Meter weiter vorn macht oft den Unterschied zwischen blind und informiert.",
+        "Warte, bis die Sicht steht: Das klingt geduldig, aber eine Einfahrt ist eine Warteposition, kein Startplatz. Ordne dich ein, wenn eine Lücke kommt, die du vollständig überblicken kannst – nicht in die Lücke, in der du nur hoffst. Und rechne mit dem, was lokale Fahrzeuge tun: Sie nehmen Einfahrten mit Schwung und aus der falschen Richtung; wer mit dieser Tatsache rechnet, wird nicht von ihr überrascht."
+      ]
+    },
+    {
+      "heading": "Das Ausfahren und Überqueren als Fußgänger",
+      "paragraphs": [
+        "Die andere Seite des Themas betrifft den Moment, in dem du selbst zu Fuß bist: beim Abstellen des Fahrzeugs in einer Einfahrt oder beim Betreten der Straße von einem Grundstück. Die Regeln sind dieselben, die Position ist eine andere – du bist jetzt der schwächste Teilnehmer. Halte vor dem Gehweg an, schau beide Richtungen, und rechne mit Rollern, die auf dem Gehwegrand oder aus der falschen Richtung kommen.",
+        "Das Auswärtige Amt warnt vor Handtaschenraub durch vorbeifahrende Roller – unübersichtliche Einfahrten und Grundstücksausgänge sind genau die Stellen, an denen solche Begegnungen stattfinden. Trage Taschen auf der vom Verkehr abgewandten Seite, halte Wertsachen verschlossen und nimm beim Betreten der Straße denselben Blick, den du als Fahrer nutzen würdest. Die Vorsicht ist keine Angst – es ist dieselbe Technik in einer anderen Rolle."
+      ]
+    },
+    {
+      "heading": "Geparkte Fahrzeuge und die Sichtlinien",
+      "paragraphs": [
+        "Geparkte Fahrzeuge sind die häufigste Ursache unübersichtlicher Einfahrten: Sie verdecken die Sicht auf den Gehweg, auf ausfahrende Fahrzeuge und auf spielende Kinder. Als Fahrer auf der Straße gilt: Fahre an geparkten Fahrzeugreihen mit Abstand und bereit zum Stehen – eine Tür, die sich öffnet, oder ein Fußgänger zwischen den Fahrzeugen sind keine Sonderfälle, sondern Normalfälle in der Stadt.",
+        "Als Fahrer, der aus einer Einfahrt ausfahren will, zwischen geparkten Fahrzeugen hindurch: Wähle die Position, aus der du am weitesten siehst, und akzeptiere, dass du in Etappen freirollst – ein Meter, Blick, ein Meter, Blick. Diese Technik kostet zehn Sekunden und verhindert die Kollision, die eine Sekunde verursacht."
+      ]
+    },
+    {
+      "heading": "Einfahrten als Planungsgröße der Route",
+      "paragraphs": [
+        "Nimm Einfahrten in die Routenplanung auf: Das Ziel mit der sicheren Zufahrt ist das bessere Ziel als das mit der unübersichtlichen – vor allem bei Ankünften in der Dämmerung, wenn Sicht ohnehin knapp wird. Wer die letzten hundert Meter seiner Route kennt, endet den Tag ruhig statt hektisch.",
+        "Und für die häufigsten Ziele – Unterkunft, Verleih, Treffpunkt – lohnt der Gedanke an die Uhrzeit: Eine Einfahrt, die am Vormittag problemlos funktioniert, ist um acht Uhr abends eine andere Aufgabe. Das Auswärtige Amt weist auf die Unfallkonzentration nach Einbruch der Dunkelheit hin – wer die unübersichtlichen Stellen seines Alltags bei Tag erledigt, meidet die riskanteste Kombination des Verkehrs: Dunkelheit plus eingeschränkte Sicht. Die offizielle Tourismusseite Vietnam Travel hilft bei der Auswahl von Unterkünften und Anlaufstellen mit gut erreichbaren Lagen."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

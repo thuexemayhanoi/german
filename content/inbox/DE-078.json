@@ -1,0 +1,63 @@
+{
+  "id": "DE-078",
+  "hub": "sicherheit-verkehr",
+  "title": "Straßenoberflächen aufmerksam beurteilen",
+  "slug": "strassenoberflaechen-aufmerksam-beurteilen",
+  "status": "IDEA",
+  "priority": 18,
+  "keywordHypothesis": "straßenoberflächen aufmerksam beurteilen",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Straßenoberflächen aufmerksam beurteilen: Asphalt, Schotter, Sand und Schlaglöcher richtig lesen und die Fahrweise an jeden Belag anpassen.",
+  "excerpt": "Der Belag unter den Rädern ändert sich schneller als die Landkarte: Asphalt wird zu Schotter, Sand liegt in der Kurve, das Schlagloch lauert im Schatten. Wer Oberflächen liest, fährt voraus statt bremst zurück.",
+  "sections": [
+    {
+      "heading": "Warum der Belag die Fahrweise bestimmt",
+      "paragraphs": [
+        "Die Haftung zwischen Reifen und Fahrbahn ist die Grundlage jeder Bewegung auf dem Zweirad – und sie ist keine Konstante, sondern eine Variable, die der Belag vorgibt. Asphalt, Beton, Schotter, Sand, Lehm, Kopfsteinpflaster: Jede Oberfläche hat eigene Reaktionen auf Beschleunigen, Bremsen und Kurvenfahren. Wer den Belag liest wie eine Straße, fährt mit dem, was da ist; wer ihn ignoriert, fährt mit dem, was er erhofft.",
+        "In Vietnam wechseln die Beläge innerhalb kurzer Distanzen – oft innerhalb einer einzigen Kurve: Asphalt, der in einen gestampften Abschnitt läuft, sauberer Belag, der eine Sandspur in der Linie trägt, Kopfsteinpflaster in den Altstadtgassen. Das Auswärtige Amt rät zu defensiver Fahrweise – die Belaglektüre ist der Teil davon, der sich in jedem Meter Fahrt konkret auswirkt."
+      ]
+    },
+    {
+      "heading": "Die vier Grundtypen und ihr Verhalten",
+      "paragraphs": [
+        "Asphalt und Beton sind die berechenbaren Beläge: Sie geben Haftung, solange sie trocken und sauber sind – aber sie täuschen, wo Öl, Moos oder Laub liegt, besonders in der Mitte der Fahrspur, wo alle Fahrzeuge tropfen und drücken. Schotter und Kies sind die beweglichen Beläge: Die Steine rollen unter dem Reifen, die Haftung ist niedriger, Bremsen und Kurven brauchen Ruhe statt Tempo. Sand ist der verräterischste Belag: Er sieht harmlos aus und verhält sich wie Glatteis mit Verzögerung.",
+        "Kopfsteinpflaster und Wellblechbeläge gehören zur vierten Gruppe, den strukturierten Oberflächen: Sie fordern vom Fahrer eine lockerere Hand am Lenker und ein Tempo, das die Struktur unter den Rädern nicht zum Lenkereignis macht. Gemeinsame Regel aller Gruppen: Der Übergang ist die kritische Zone – wer von Asphalt auf Schotter mit Tempo wechselt, merkt den Belag im ersten Bremsvorgang, nicht beim Einfahren."
+      ]
+    },
+    {
+      "heading": "Schlaglöcher und Hindernisse richtig lesen",
+      "paragraphs": [
+        "Schlaglöcher sind keine gleichmäßigen Fehler, sondern einzelne Überraschungen: Sie stehen in der Fahrspur, in Schatten, in Pfützen getarnt und in den Spurrillen der Lkw. Die Lektüre beginnt mit dem Blickwinkel: Wer weit vorausschaut, sieht Löcher als Punkte im Feld und wählt die Linie, die sie meidet – wer nah schaut, sieht sie, wenn sie unter dem Vorderrad liegen. Die Fahrspur der Fahrzeuge vor Ihnen erzählt die Position der Probleme: Wo alle ausweichen, liegt etwas.",
+        "Für Hindernisse gilt dieselbe Ordnung: Zweige, Steine, heruntergefallene Fracht, Tiere – alles das liegt auf Straßen, die von vielen befahren werden. Hindernisse werden früh erkannt, wenn man sie erwartet, und spät erkannt, wenn man sie ausschließt. Und für alles, was auf der Fahrbahn liegt, gilt die Grundregel des Zweirads: Ausweichen in der Linie ist besser als Ausweichen über die Bremse – die Route um das Hindernis ist geplant, der Sturz über die Bremse nicht."
+      ]
+    },
+    {
+      "heading": "Nässe und Belag zusammen denken",
+      "paragraphs": [
+        "Regen verändert jeden Belag unterschiedlich: Asphalt wird rutschig, wo Öl und Staub lagen; Schotter verliert an Halt; Lehm wird zu einer Gleitfläche; Kopfsteinpflaster hat die schlechteste Haftung von allen, wenn es nass ist. Die Regenregel lautet deshalb: Die erste Viertelstunde ist die kritischste, denn sie spült die Schichten, die die Haftung am stärksten mindern. Wer die Wahl hat, wartet sie ab.",
+        "Und die Pfütze ist ein Belag mit Vorhang: Sie verdeckt, was unter ihr liegt – ein Schlagloch, ein Gullideckel, eine Randkante. Pfützen umfahren, wo es die Straße erlaubt, und durchfahren, wo es sein muss, dann gerade Linie, gleichmäßiges Tempo, keine Lenkkorrektur in der Pfütze. Das Durchfahren mit ruhigen Händen ist eine Technik; das Korrigieren in der Pfütze ist eine Hoffnung."
+      ]
+    },
+    {
+      "heading": "Die Belaglektüre als Fahrgewohnheit",
+      "paragraphs": [
+        "Machen Sie die Belagbeobachtung zur Routine: Drei Sekunden vor jedem Belagwechsel – Farbe, Struktur, Glanz – und eine automatische Anpassung von Tempo und Haltung. Diese Routine kostet nichts und läuft nach den ersten Tagen unbewusst. Der Fahrer, der Beläge liest, fällt auf zweierlei auf: Er fährt auf Schotter nicht wie auf Asphalt, und er bleibt in Überraschungen ruhig, weil es weniger davon gibt.",
+        "Planen Sie Beläge in die Routenentscheidung ein: Die Hauptstraße mit gutem Belag ist der Strecke vorzuziehen, die zehn Minuten spart und Strukturprobleme bringt – besonders für Fahrer ohne Geländeerfahrung. Die offizielle Tourismusseite Vietnam Travel beschreibt Straßen und Fortbewegung im Land; wer die Route nach Belag wählt, kommt mit sauberer Fahrweise an und mit weniger Erzählungen über Mut."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

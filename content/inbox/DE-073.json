@@ -1,0 +1,63 @@
+{
+  "id": "DE-073",
+  "hub": "sicherheit-verkehr",
+  "title": "Fahren bei Dunkelheit: Risikoabwägung",
+  "slug": "fahren-bei-dunkelheit-risikoabwaegung",
+  "status": "IDEA",
+  "priority": 13,
+  "keywordHypothesis": "fahren bei dunkelheit: risikoabwägung",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Fahren bei Dunkelheit ehrlich abwägen: sichtbare Risiken, eigene Sicht und die Alternativen – warum die Nacht oft besser geplant als gefahren wird.",
+  "excerpt": "Die Nacht verändert jede Fahrt: Sicht, Belag, Müdigkeit und Gegenverkehr – alles wird riskanter, und die Statistik spricht eine klare Sprache. Dieser Ratgeber hilft bei der ehrlichen Risikoabwägung vor dem Start in die Dunkelheit.",
+  "sections": [
+    {
+      "heading": "Was die Nacht verändert",
+      "paragraphs": [
+        "Dunkelheit reduziert die Sicht auf zwei Wegen: Du siehst weniger, und du wirst schlechter gesehen. Der Zweiradfahrer, der tagsüber im Blickfeld aller Autofahrer liegt, verschwindet nachts zu einer schmalen Silhouette zwischen Laternen – und der Fahrer, der dich nicht sieht, kann dir nicht ausweichen. Dazu kommt die Verzögerung: Was das Auge bei Tag in Sekundenbruchteilen erfasst, braucht in der Dunkelheit Zeit.",
+        "Das Auswärtige Amt weist in seinen Hinweisen zu Vietnam ausdrücklich darauf hin, dass viele Unfälle nach Einbruch der Dunkelheit geschehen. Das ist keine Verhaltenstatistik von Randgruppen, sondern die schlichte Beschreibung dessen, was passiert, wenn Sicht, Wahrnehmung und Voraussicht gleichzeitig schrumpfen. Wer diese Zahl kennt, nimmt die Nacht nicht als Verlängerung des Tages, sondern als eigene Verkehrslage wahr."
+      ]
+    },
+    {
+      "heading": "Die ehrliche Abwägung vor dem Start",
+      "paragraphs": [
+        "Die Frage „Soll ich nachts fahren?“ hat drei ehrliche Kriterien. Erstens die Sichtbarkeit: Funktioniert meine Beleuchtung vollständig, trage ich helle oder reflektierende Kleidung, ist die Strecke beleuchtet? Zweitens die eigene Verfassung: Bin ich ausgeruht, oder summiert sich der Tag in Müdigkeit? Drittens die Strecke: Kenne ich sie, oder fahre ich ins Unbekannte? Drei von drei erfüllt – die Fahrt ist überlegbar. Zwei oder weniger – die Fahrt ist eine Wette.",
+        "Diese Abwägung bewusst zu machen ist der wichtigste Schritt, denn die meisten Nachtfahrten entstehen nicht aus Entscheidung, sondern aus Verzögerung: Die Fahrt dauerte länger, die Pause war schöner, der Abschied zog sich. Wer die Abwägung erst nach Sonnenuntergang trifft, trifft sie unter Zeitdruck – und der schiebt jede Antwort Richtung Losfahren. Triff die Entscheidung vor der Fahrt, wenn die Frage noch Fairness hat."
+      ]
+    },
+    {
+      "heading": "Wenn die Nacht dich trotzdem erwischt",
+      "paragraphs": [
+        "Bricht die Dunkelheit früher herein als geplant, gilt die Notfallroutine: Licht sofort vollständig einschalten, Tempo deutlich senken, Abstand vergrößern. Wechsle von der geplanten Route auf die einfachste – beleuchtete Straßen, bekannte Wege, keine Abkürzungen durch dunkle Nebenstraßen. Die fünfzehn Minuten Umweg sind ein guter Preis für Straßen, auf denen dich Laternen und Gegenverkehr sehen können.",
+        "Meide in der Nacht alles, was Überraschungen begünstigt: enge Gassen, Baustellen, unübersichtliche Kreuzungen, Streckenabschnitte ohne Beleuchtung. Und rechne mit dem, was du nicht siehst: Fußgänger in dunkler Kleidung, Fahrzeuge ohne Licht, Tiere auf der Fahrbahn, Schlaglöcher im Schatten. Die Fahrt in der Nacht ist eine Fahrt mit Annahmen – jede Annahme, die du senkst, macht dich sicherer."
+      ]
+    },
+    {
+      "heading": "Die Alternativen ernsthaft nutzen",
+      "paragraphs": [
+        "Die Nacht hat Alternativen, die tagsüber keine Rolle spielen: ein Taxi oder ein organisierter Transport für den letzten Abschnitt, eine Raststätte oder Unterkunft auf halber Strecke, das Warten auf den Morgen. Diese Optionen kosten Geld oder Zeit – und genau das ist der Preis, den die Risikoabwägung kennt: Die Frage ist nie, ob die Nacht überfahrbar ist, sondern was die Fahrt kostet, wenn sie schiefgeht. Gegen diese Rechnung sind Taxi und Rastplatz ausgesprochen günstig.",
+        "Wer mit Gepäck und auf mehrtägigen Routen unterwegs ist, plant die Nacht ohnehin ein: Unterkünfte liegen am Tagesziel, und die letzte Etappe endet vor der Dämmerung. Die offizielle Tourismusseite Vietnam Travel beschreibt Fortbewegung und Anlaufstellen im Land – die Planung, die den Tag vor der Nacht enden lässt, ist die älteste und beste Form der Risikovermeidung."
+      ]
+    },
+    {
+      "heading": "Die Nacht planen statt sie zu ertragen",
+      "paragraphs": [
+        "Der wichtigste Punkt der Risikoabwägung ist der Fahrplan: Startzeiten so legen, dass die Dämmerung am Ziel endet, Puffer einplanen, damit Verzögerungen die Ankunft nicht in die Dunkelheit drücken. Eine Route mit Puffer endet bei Verzögerung am Abend – eine Route ohne Puffer endet nachts. Die Differenz liegt in einer halben Stunde Planung vor dem Start.",
+        "Und die Fahrten, die in der Dunkelheit unvermeidbar sind – der späte Rückflug, das Notfallziel – verdienen dieselbe Sorgfalt wie die Tagestour: vollständige Beleuchtung, helle Flächen, die einfachste Route, das langsamste Tempo, das zum Ziel passt. Das Auswärtige Amt empfiehlt für Vietnam, Fahrten in die Nachtstunden möglichst zu vermeiden – wer die unvermeidbaren nachts ruhig und die vermeidbaren gar nicht fährt, hat die Risikoabwägung richtig verstanden."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
