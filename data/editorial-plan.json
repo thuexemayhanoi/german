@@ -2122,22 +2122,22 @@
       "hub": "nachhaltig-reisen",
       "title": "Sicheres Tempo statt riskanter Eile",
       "slug": "sicheres-tempo-statt-riskanter-eile",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 13,
       "keywordHypothesis": "sicheres tempo statt riskanter eile",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/sicheres-tempo-statt-riskanter-eile/"
     },
     {
       "id": "DE-194",
       "hub": "nachhaltig-reisen",
       "title": "Kleine Ausflüge statt überladener Tagespläne",
       "slug": "kleine-ausfluege-statt-ueberladener-tagesplaene",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 14,
       "keywordHypothesis": "kleine ausflüge statt überladener tagespläne",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/kleine-ausfluege-statt-ueberladener-tagesplaene/"
     },
     {
       "id": "DE-195",
