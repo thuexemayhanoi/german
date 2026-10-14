@@ -1,0 +1,63 @@
+{
+  "id": "DE-116",
+  "hub": "abholung-rueckgabe",
+  "title": "Gemeinsame Kontrolle bei der Rückgabe",
+  "slug": "gemeinsame-kontrolle-bei-der-rueckgabe",
+  "status": "IDEA",
+  "priority": 16,
+  "keywordHypothesis": "gemeinsame kontrolle bei der rückgabe",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Gemeinsame Kontrolle bei der Rückgabe: Zustand, Zahlen und Zubehör im Beisein beider Seiten prüfen – die letzte Prüfung der Miete, die jeder sehen soll.",
+  "excerpt": "Die Rückgabe hat zwei Prüfer: den Verleiher und Sie. Wer die Kontrolle gemeinsam durchgeht, beendet die Miete mit einem Befund, den beide teilen – statt mit zwei Eindrücken, über die man reden muss.",
+  "sections": [
+    {
+      "heading": "Warum die letzte Prüfung gemeinsam ist",
+      "paragraphs": [
+        "Bei der Abholung wurde gemeinsam dokumentiert, was schon da war – bei der Rückgabe wird gemeinsam geprüft, was dazugekommen ist. Die Symmetrie ist der Punkt: Eine Miete, die an beiden Enden gemeinsam gesichtet wurde, hat keine Versionen, sondern einen Verlauf – Übergabe, Miete, Rückgabe, beide Male mit beiden Augen.",
+        "Die gemeinsame Kontrolle schützt beide Seiten: Den Verleiher vor Rückgaben, die er nicht gesehen hat, und Sie vor Befunden, die erst nach Ihrer Abreise entstehen. Wer die Kontrolle gemeinsam macht, nimmt der Diskussion das Thema – nicht durch Überredung, sondern durch Anwesenheit."
+      ]
+    },
+    {
+      "heading": "Der Ablauf der gemeinsamen Kontrolle",
+      "paragraphs": [
+        "Die Kontrolle folgt dem Fahrzeug in derselben Reihenfolge wie bei der Abholung: Front, Seiten, Heck, Räder, Lenker, Staufach – und der Bericht von der Abholung als Leitfaden. Spur für Spur wird verglichen: Das steht im Bericht, das ist der Befund – gleich oder neu. Wer den Bericht als Leitfaden nutzt, kontrolliert vollständig, ohne lange zu suchen.",
+        "Dazu kommen die Zahlen: Kilometerstand und Kraftstoffstand, gelesen und notiert wie bei der Übergabe. Zwei Zahlenpaare ergeben die Abrechnung der Distanz und des Kraftstoffs – und beide Seiten sehen dieselben Zahlen, bevor sie in eine Rechnung kommen."
+      ]
+    },
+    {
+      "heading": "Was bei neuen Spuren geschieht",
+      "paragraphs": [
+        "Eine neue Spur wird benannt, gelegen und bewertet – in dieser Reihenfolge. Erst die Beschreibung: was, wo, wie groß. Dann die Zuordnung: während der Miete entstanden, das ist Teil der Abmachung. Dann die Bewertung: Was bedeutet die Spur für die Abrechnung – und hier gilt der Vertrag, nicht das Gefühl. Wer diese Reihenfolge hält, bespricht Spuren, ohne über sie zu streiten.",
+        "Die eigentliche Bedeutung der gemeinsamen Kontrolle zeigt sich genau hier: Eine Spur, die beide gesehen und zugeordnet haben, ist eine Zeile in der Abrechnung. Eine Spur, die nur einer gesehen hat, ist eine Behauptung – und Behauptungen kosten Zeit, Nerven und manchmal Geld, das nach dem Vertrag gar nicht fällig wäre."
+      ]
+    },
+    {
+      "heading": "Zubehör und Vollständigkeit",
+      "paragraphs": [
+        "Die Kontrolle endet beim Zubehör: Helm, Schlüssel, Schloss, Werkzeug, Regendecke – alles, was der Vertrag aufführt, wird gezählt und übergeben. Die Vollständigkeit ist eine Rückgabefrage wie der Zustand, und sie wird mit derselben Liste beantwortet, die bei der Abholung geführt wurde: Was übergeben wurde, wird zurückgegeben.",
+        "Die Zählung dauert zwei Minuten und gehört ans Ende der Kontrolle, wenn das Fahrzeug schon gesehen wurde: Helm aus dem Staufach, Schlüssel aus der Tasche, Zubehör auf einen Blick – und die Liste, die abgekreuzt wird, von beiden Seiten gesehen."
+      ]
+    },
+    {
+      "heading": "Das Protokoll der gemeinsamen Kontrolle",
+      "paragraphs": [
+        "Die gemeinsame Kontrolle endet schriftlich: eine Zeile, die festhält, dass Fahrzeug und Zubehör übergeben wurden, mit Datum, Uhrzeit und zwei Unterschriften oder einer Bestätigung des Verleihers. Die Zeile ist das Ende der Miete – sie trennt die Zeit des Fahrzeugs unter Ihnen von der Zeit danach.",
+        "Die offizielle Tourismusseite Vietnam Travel gibt einen Überblick zu Fortbewegung und Anlaufstellen im Land – kombinieren Sie diese Übersicht mit einer Rückgabe, die gemeinsam geprüft wurde. Dann endet die Miete mit einem Befund, den beide Seiten unterschrieben haben – und das ist das sauberste Ende, das es gibt."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

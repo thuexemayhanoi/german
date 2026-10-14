@@ -1,0 +1,63 @@
+{
+  "id": "DE-118",
+  "hub": "abholung-rueckgabe",
+  "title": "Übergabeprotokoll in einfacher Form",
+  "slug": "uebergabeprotokoll-in-einfacher-form",
+  "status": "IDEA",
+  "priority": 18,
+  "keywordHypothesis": "übergabeprotokoll in einfacher form",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Übergabeprotokoll in einfacher Form: was ein Protokoll am Ende der Miete braucht – Datum, Befund, Übergabe, Unterschrift – auf einer halben Seite.",
+  "excerpt": "Ein Übergabeprotokoll braucht keine Juristensprache, sondern eine halbe Seite mit den richtigen Zeilen: Wer, wann, was, in welchem Zustand. Dieser Ratgeber zeigt das Protokoll, das jede Rückgabe braucht.",
+  "sections": [
+    {
+      "heading": "Was das Protokoll am Ende leisten soll",
+      "paragraphs": [
+        "Das Übergabeprotokoll beantwortet eine einzige Frage: Was ist am Ende der Miete übergeben worden – von wem, an wen, wann, in welchem Zustand? Diese Frage entsteht nicht bei geordneten Rückgaben, sondern nach ihnen: Wochen später, bei einer Abrechnung, bei einem Schreiben, das Sie nicht mehr einordnen können. Das Protokoll ist die Antwort, die Sie dann in der Schublade haben.",
+        "Der Zweck bestimmt die Form: Ein Protokoll, das alles enthalten will, wird nicht ausgefüllt; ein Protokoll, das die eine Frage beantwortet, wird in zwei Minuten geschrieben. Die einfache Form ist keine Absenkung, sondern die Bedingung dafür, dass das Protokoll überhaupt entsteht."
+      ]
+    },
+    {
+      "heading": "Die Zeilen des einfachen Protokolls",
+      "paragraphs": [
+        "Die erste Zeile nennt die Parteien und den Gegenstand: Verleiher, Mieter, Fahrzeug mit Kennzeichnung – die Angaben, die das Protokoll der Miete zuordnen. Die zweite Zeile nennt den Zeitpunkt: Datum und Uhrzeit der Rückgabe. Die dritte Zeile nennt den Befund in Kurzform: Zustand wie dokumentiert, neue Spuren benannt oder keine.",
+        "Die vierte Zeile zählt die Übergaben: Schlüssel, Helm, Zubehör laut Vertrag, Dokumente. Die fünfte Zeile regelt die Kaution: zurückgegeben, betrag, form – oder die Vereinbarung, die an ihre Stelle tritt. Und die sechste Zeile ist der Platz für zwei Unterschriften. Sechs Zeilen – das ist das ganze Protokoll. Wer mehr notieren möchte, ergänzt einen Verweis: auf den Zustandsbericht der Abholung, auf die Fotos, auf die Nachrichten der Miete. Das Protokoll muss nichts wiederholen, was anderswo dokumentiert ist – es muss die Übergabe selbst festhalten und auf den Rest verweisen."
+      ]
+    },
+    {
+      "heading": "Die kurze Kontrolle vor der Unterschrift",
+      "paragraphs": [
+        "Vor den Unterschriften steht die Kontrolle, die das Protokoll zusammenfasst: die gemeinsame Sichtung des Fahrzeugs, die Zählung des Zubehörs, die Ablesung der Zahlen. Das Protokoll ist der schriftliche Rest dieser Kontrolle – es erfindert nichts und ergänzt nichts, sondern hält fest, was beide gesehen haben.",
+        "Die Unterschrift selbst hat eine einfache Bedeutung: die Bestätigung, dass die Zeilen darüber zutreffen. Wer unterschreibt, ohne die Zeilen gelesen zu haben, unterschreibt eine Behauptung – und wer eine Zeile nicht unterschreiben kann, weil sie nicht stimmt, hat den Moment gefunden, in dem das Protokoll seine Arbeit tut: Es zeigt die Abweichung, bevor sie zur Abrechnung wird."
+      ]
+    },
+    {
+      "heading": "Wenn eine Zeile streitig ist",
+      "paragraphs": [
+        "Ein Protokoll ist auch ein Werkzeug für Uneinigkeit: Eine Zeile, über die keine Einigung entsteht, wird nicht weggefasst, sondern markiert – mit dem Vermerk, dass hier keine Einigung besteht, und den Positionen beider Seiten. Ein Protokoll mit einer markierten Zeile ist ehrlich; ein Protokoll, das die Zeile einfach weglässt, ist eine Lücke, über die später geredet wird.",
+        "Für den Fall der Uneinigkeit gilt dieselbe Grundlage wie für die ganze Miete: der Vertrag und die Dokumentation. Das Protokoll markiert den Punkt, der restliche Bestand – Bericht, Fotos, Vertragskopie – klärt ihn. Das Auswärtige Amt empfiehlt bei Zwischenfällen im Ausland, Unterlagen zu sammeln und einen kühlen Kopf zu bewahren – das Protokoll mit markierter Zeile ist genau diese Sammlung in verdichteter Form."
+      ]
+    },
+    {
+      "heading": "Die Aufbewahrung des Protokolls",
+      "paragraphs": [
+        "Das Protokoll gehört zu den Unterlagen, die die Reise überdauern: eine Kopie für Sie, das Original nach Abrechnung zurück oder eine fotografierte Version in der eigenen Ablage. Der Wert des Protokolls entsteht nach der Reise – bei Rückfragen, Abrechnungen, im Zweifelsfall – und wer es dann nicht mehr hat, hat es nie gehabt.",
+        "Die offizielle Tourismusseite Vietnam Travel gibt einen Überblick zu Fortbewegung und Anlaufstellen im Land – kombinieren Sie diese Übersicht mit einem Protokoll, das in einfacher Form geschrieben wurde. Dann endet die Miete mit einem Blatt, das die Übergabe festhält – und dieses Blatt ist das letzte und beste Versicherungsblatt jeder Fahrzeugmiete."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "DE-120",
+  "hub": "abholung-rueckgabe",
+  "title": "Checkliste für eine klare Rückgabe",
+  "slug": "checkliste-fuer-eine-klare-rueckgabe",
+  "status": "IDEA",
+  "priority": 20,
+  "keywordHypothesis": "checkliste für eine klare rückgabe",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Checkliste für eine klare Rückgabe: von der letzten Etappe bis zur Quittung – zehn Punkte, die die Rückgabe in einen geordneten Ablauf verwandeln.",
+  "excerpt": "Die Rückgabe ist die letzte Übung der Miete und verdieselbe Routine wie die Abholung: Eine Checkliste mit zehn Punkten verwandelt sie in einen Ablauf, der nichts vergisst und niemanden hetzt.",
+  "sections": [
+    {
+      "heading": "Die letzte Etappe: Anfahrt und Ankunft",
+      "paragraphs": [
+        "Der erste Punkt der Checkliste ist die Anfahrt: Die letzte Etappe rechtzeitig starten, die bekannte Strecke wählen, die Ankunft mit Puffer vor der Rückgabe-Uhrzeit planen. Der zweite Punkt ist das Licht: Wer vor der Dämmerung ankommt, parkt in Sicht – das Auswärtige Amt verbindet die Nachtstunden in Vietnam mit einem erhöhten Unfallrisiko, und die Anfahrt gehört nicht dazu.",
+        "Der dritte Punkt ist der Kraftstoff: die Tankregel des Vertrags prüfen und die letzte Tankung so legen, dass die Regel erfüllt ist – nicht am Verleih und nicht auf Reserve. Die drei ersten Punkte zusammen sind die halbe Rückgabe, und alle drei werden eine Stunde vor der Ankunft entschieden – nicht am Parkplatz des Verleihs."
+      ]
+    },
+    {
+      "heading": "Am Fahrzeug: Sammeln und Sichtigen",
+      "paragraphs": [
+        "Der vierte Punkt ist das Sammeln: Staufach leeren, eigene Sachen aus dem Fahrzeug nehmen, Helm und Zubehör an einem Ort versammeln. Der fünfte Punkt ist die eigene Sichtung: das Fahrzeug einmal umgehen und schauen, was unterwegs dazugekommen ist – vor der gemeinsamen Kontrolle, mit klarem Kopf und ohne Publikum.",
+        "Der sechste Punkt sind die Dokumente: Vertragskopie, Zustandsbericht, Notizen griffbereit – die Unterlagen der Miete werden bei der Rückgabe gebraucht, nicht gesucht. Wer die drei Blätter in der Hand hat, wenn die Kontrolle beginnt, hat die Kontrolle in der Hand – und wer sie erst sucht, sucht während die Uhr läuft."
+      ]
+    },
+    {
+      "heading": "Die gemeinsame Kontrolle",
+      "paragraphs": [
+        "Der siebte Punkt ist die gemeinsame Kontrolle selbst: Fahrzeug mit dem Bericht der Abholung vergleichen, Zahlen ablesen und notieren, neues benennen. Die Kontrolle folgt der Liste der Abholung – dieselbe Reihenfolge, dieselben Punkte – und endet mit dem Befund, den beide gesehen haben.",
+        "Der achte Punkt ist die Zählung des Zubehörs: Helm, Schlüssel, Schloss, Werkzeug – alles, was der Vertrag aufführt, gezählt und übergeben. Die Zählung ist der Punkt, der am häufigsten übersprungen wird und am längsten nachhallt – die zwei Minuten gehören zur Checkliste wie der Helm zur Fahrt."
+      ]
+    },
+    {
+      "heading": "Die Abwicklung: Kaution und Quittung",
+      "paragraphs": [
+        "Der neunte Punkt ist die Abwicklung der Kaution: Rückgabe, Abzüge mit Grundlage im Vertrag, Ergebnis schriftlich. Der zehnte Punkt ist die Quittung oder Bestätigung: die Zeile, die festhält, dass das Fahrzeug übergeben wurde, mit Datum und Unterschrift – das Protokoll in seiner kürzesten Form.",
+        "Beide Punkte gehören zusammen: Die Abwicklung endet erst mit der Bestätigung. Wer mit der Kaution abrechnet und ohne Bestätigung geht, hat die Miete beendet, ohne sie zu dokumentieren – und die Dokumentation ist der Unterschied zwischen einer beendeten Miete und einer endenden."
+      ]
+    },
+    {
+      "heading": "Nach der Rückgabe: der letzte Blick",
+      "paragraphs": [
+        "Die Checkliste hat einen elften Punkt, der nicht auf dem Papier steht: der letzte Blick zurück – eine Sekunde, in der Sie prüfen, dass nichts im Staufach liegt, dass die Unterlagen in der Tasche sind, dass Sie die Nummer des Verleihers nicht mehr brauchen. Der Blick ist das Ende der Miete – und der Anfang der Erinnerung an die Fahrt.",
+        "Die offizielle Tourismusseite Vietnam Travel gibt einen Überblick zu Fortbewegung und Anlaufstellen im Land – kombinieren Sie diese Übersicht mit einer Checkliste, die die Rückgabe trägt. Dann endet jede Miete mit einem Ablauf, der keine offenen Fragen hinterlässt – und offene Fragen sind das Einzige, was eine gute Fahrt nicht gut enden lässt."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

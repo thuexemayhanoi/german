@@ -1,0 +1,63 @@
+{
+  "id": "DE-117",
+  "hub": "abholung-rueckgabe",
+  "title": "Abgabe außerhalb geplanter Zeiten klären",
+  "slug": "abgabe-ausserhalb-geplanter-zeiten-klaeren",
+  "status": "IDEA",
+  "priority": 17,
+  "keywordHypothesis": "abgabe außerhalb geplanter zeiten klären",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Abgabe außerhalb geplanter Zeiten klären: früh ansprechen, Bedingungen vereinbaren und die Übergabe dokumentieren – so bleibt auch die Nacht-Rückgabe geordnet.",
+  "excerpt": "Manche Rückgabe fällt auf Zeiten, in denen der Verleih schließt: früh morgens, spät abends, an ruhigen Tagen. Wer das früh klärt, gibt das Fahrzeug geordnet ab – wer es nicht klärt, stellt es ab und hofft.",
+  "sections": [
+    {
+      "heading": "Warum diese Rückgabe vorab geklärt wird",
+      "paragraphs": [
+        "Eine Rückgabe außerhalb der Öffnungszeiten ist keine Übergabe ohne Verleiher – sie ist eine Übergabe mit anderen Bedingungen: Das Fahrzeug wird abgestellt, der Schlüssel deponiert, die Kontrolle verschoben oder ersetzt. Wer diese Bedingungen vorab klärt, hält die Miete sauber; wer sie improvisiert, trägt das Risiko, das im Moment der Abstellung entsteht: Ein Fahrzeug, das niemand übernommen hat, ist rechtlich noch in Ihrer Obhut.",
+        "Die Klärung gehört so früh in die Miete wie die Rückgabezeit selbst: Am besten bei der Übergabe ansprechen, spätestens einen Tag vor der Rückgabe. Der Verleiher kennt die Abläufe seiner Randzeiten – Sie kennen Ihre Abreise. Aus beiden Informationen entsteht die Vereinbarung, die die Rückgabe trägt."
+      ]
+    },
+    {
+      "heading": "Was die Vereinbarung enthalten muss",
+      "paragraphs": [
+        "Die Vereinbarung über eine Randzeiten-Rückgabe hat vier Punkte: den genauen Ort der Abstellung, die Art der Schlüsselübergabe, die Zeit der Abstellung und die Regelung der Kontrolle – wer prüft wann, und was gilt bis dahin. Wer diese vier Punkte schriftlich hat, hat eine Rückgabe mit verschobener Kontrolle; wer sie nur mündlich hat, hat eine Vermutung.",
+        "Der vierte Punkt ist der wichtigste: Die Kontrolle bei Randzeiten ist fast immer eine verschobene Kontrolle – der Verleiher sichtet das Fahrzeug erst am nächsten Arbeitstag. Was in der Zwischenzeit mit dem Fahrzeug geschieht, ist eine Frage der Abstellung: ein abgeschlossenes Fahrzeug an einem vereinbarten Ort ist gut aufgehoben, ein offenes an einem unauffälligen ist eine Einladung. Halten Sie deshalb fest, dass die Abstellung abgeschlossen ist – im besten Fall mit einem Foto vom abgestellten, verschlossenen Fahrzeug, mit Uhrzeit. Das Foto ist keine Kontrolle, aber es ist ein Zustand – und ein dokumentierter Zustand schlägt eine Erinnerung."
+      ]
+    },
+    {
+      "heading": "Die Abstellung als Teil der Vereinbarung",
+      "paragraphs": [
+        "Der Ort der Abstellung wird vom Verleih vorgegeben oder mit ihm abgesprochen: vor dem Laden, in einer Seitenstraße, an einer benannten Stelle. Halten Sie sich an den vereinbarten Ort – eine Abstellung am bequemeren Platz ist eine Rückgabe an einem anderen Ort, und das ist eine neue Vereinbarung, die niemand getroffen hat.",
+        "Die Abstellung selbst folgt den Regeln jeder Abstellung: abseits des fließenden Verkehrs, nicht blockierend, mit Blick auf die Umgebung. Das Auswärtige Amt warnt vor Diebstahl – ein Fahrzeug, das über Nacht ohne Aufsicht steht, verdoppelt jede Sorgfalt, die Sie ihm geben können."
+      ]
+    },
+    {
+      "heading": "Kontrolle und Abrechnung am nächsten Tag",
+      "paragraphs": [
+        "Die Kontrolle am nächsten Arbeitstag läuft wie jede Rückgabe-Kontrolle, nur zeitversetzt: Zustand, Zahlen, Zubehör, Abrechnung. Bleiben Sie erreichbar für die Fragen, die dabei entstehen – Ihre Nummer ist Teil der Randzeiten-Vereinbarung, genau wie die seine. Wer am nächsten Tag erreichbar ist, hat eine Kontrolle mit Beteiligung; wer es nicht ist, eine Kontrolle über sich.",
+        "Und die Abrechnung folgt der Dokumentation, die Sie hinterlassen haben: Bericht, Fotos, die Notiz über die Abstellung. Je vollständiger die Dokumentation der Miete war, desto kürzer die Abrechnung am Tag danach – das Verhältnis ist mechanisch und gilt bei jeder Miete."
+      ]
+    },
+    {
+      "heading": "Was die Randzeiten-Rückgabe nicht ist",
+      "paragraphs": [
+        "Die Randzeiten-Rückgabe ist kein Grund zur Sorge, sondern ein Fall mit mehr Planungsaufwand: Sie braucht eine Vereinbarung mehr als die Rückgabe zur Öffnungszeit – und ist mit dieser Vereinbarung genauso geordnet. Was sie nicht sein darf, ist eine Improvisation: Das Fahrzeug, das vor verschlossener Tür steht, ist das teuerste Kapitel einer Miete.",
+        "Die offizielle Tourismusseite Vietnam Travel gibt einen Überblick zu Fortbewegung und Anlaufstellen im Land – kombinieren Sie diese Übersicht mit einer Rückgabe, deren Randzeiten vereinbart wurden. Dann endet die Miete geordnet, egal zu welcher Stunde – und genau das ist der Anspruch jeder Rückgabe."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
