@@ -582,22 +582,22 @@
       "hub": "dokumente-vertrag",
       "title": "Welche Angaben zur Rückgabe gehören in den Vertrag?",
       "slug": "welche-angaben-zur-rueckgabe-gehoeren-in-den-vertrag",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 13,
       "keywordHypothesis": "welche angaben zur rückgabe gehören in den vertrag?",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/welche-angaben-zur-rueckgabe-gehoeren-in-den-vertrag/"
     },
     {
       "id": "DE-054",
       "hub": "dokumente-vertrag",
       "title": "Abweichungen zwischen Angebot und Vertrag erkennen",
       "slug": "abweichungen-zwischen-angebot-und-vertrag-erkennen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 14,
       "keywordHypothesis": "abweichungen zwischen angebot und vertrag erkennen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/abweichungen-zwischen-angebot-und-vertrag-erkennen/"
     },
     {
       "id": "DE-055",
