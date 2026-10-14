@@ -252,22 +252,22 @@
       "hub": "mietpreise-kaution",
       "title": "Kaution verstehen: Fragen vor der Zahlung",
       "slug": "kaution-verstehen-fragen-vor-der-zahlung",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 3,
       "keywordHypothesis": "kaution verstehen: fragen vor der zahlung",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/kaution-verstehen-fragen-vor-der-zahlung/"
     },
     {
       "id": "DE-024",
       "hub": "mietpreise-kaution",
       "title": "Wann entstehen mögliche Zusatzkosten?",
       "slug": "wann-entstehen-moegliche-zusatzkosten",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 4,
       "keywordHypothesis": "wann entstehen mögliche zusatzkosten?",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/wann-entstehen-moegliche-zusatzkosten/"
     },
     {
       "id": "DE-025",
