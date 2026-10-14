@@ -2342,22 +2342,22 @@
       "hub": "mietpreise-kaution",
       "title": "Wochentarife und Monatsmieten für Roller vergleichen",
       "slug": "wochentarife-und-monatsmieten-fuer-roller-vergleichen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 23,
       "keywordHypothesis": "roller miete woche monat",
       "intent": "commercial",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/wochentarife-und-monatsmieten-fuer-roller-vergleichen/"
     },
     {
       "id": "DE-214",
       "hub": "mietpreise-kaution",
       "title": "Zusatzkosten bei Rollerstationen kritisch hinterfragen",
       "slug": "zusatzkosten-bei-rollerstationen-kritisch-hinterfragen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 24,
       "keywordHypothesis": "roller miete zusatzkosten",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/zusatzkosten-bei-rollerstationen-kritisch-hinterfragen/"
     },
     {
       "id": "DE-215",
