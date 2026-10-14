@@ -1,0 +1,63 @@
+{
+  "id": "DE-292",
+  "hub": "mietpreise-kaution",
+  "title": "Wochentarife gegen Tagestarife abwägen",
+  "slug": "wochentarife-gegen-tagestarife-abwaegen",
+  "status": "IDEA",
+  "priority": 26,
+  "keywordHypothesis": "wochentarif roller miete",
+  "intent": "commercial",
+  "publishedUrl": null,
+  "description": "Tagestarif oder Wochentarif für deinen Mietroller? So vergleichst du beide Modelle ehrlich, verhandelst fair und findest die passende Mietdauer.",
+  "excerpt": "Wer länger als ein paar Tage in Hanoi bleibt, sollte Tarifmodelle vergleichen. Wir zeigen, welche Fragen du stellen musst, wie du Rabatte fair verhandelst und woran du unseriöse Angebote erkennst.",
+  "sections": [
+    {
+      "heading": "Warum die Mietdauer den Tarif prägt",
+      "paragraphs": [
+        "Die Mietdauer gehört zu den stärksten Preisschrauben bei Rollerstationen in Hanoi. Ein Tagessatz gilt für kurze Aufenthalte, während längere Zeiträume üblicherweise günstigere Konditionen bekommen. Ob sich ein Wochentarif lohnt, hängt von deinem Reiseplan ab: Anzahl der Fahrtage, geplante Ausflüge und deine Flexibilität bei Standortwechseln.",
+        "Rechne vor dem Gespräch deine realistische Nutzung durch: An wie vielen Tagen fährst du wirklich, und wie oft brauchst du den Roller nur für kurze Wege? Ein niedriger Tagessatz über viele Tage kann teurer werden als ein moderater Wochentarif. Diese einfache Rechnung bringt dich in jede Verhandlung mit klarem Kopf."
+      ]
+    },
+    {
+      "heading": "Tagestarife: Flexibilität mit Grenzen",
+      "paragraphs": [
+        "Tagestarife bieten maximale Flexibilität: Du entscheidest täglich neu, ob du weiterfährst, und kannst das Fahrzeug bei Strecken-, Flug- oder Wetteränderungen zurückgeben. Für kurze Städteaufenthalte oder erste Testtage ist das oft die entspannteste Lösung. Der Preis pro Tag bleibt dabei meist der höchste im Vergleich.",
+        "Der Haken liegt in der Planungssicherheit des Anbieters: Wer Tag für Tag verlängert, zahlt manchmal mehr, weil die Station den Roller kurzfristig anderweitig vergeben könnte. Frag deshalb früh nach, ob eine Verlängerung zum gleichen Satz möglich ist, wenn du dich erst nach einigen Tagen festlegen willst. Der beste Tarif ist der, der zu deiner echten Reiseroute passt, nicht der niedrigste auf dem Schild."
+      ]
+    },
+    {
+      "heading": "Wochentarife: Preisvorteil mit Bindung",
+      "paragraphs": [
+        "Wochentarife senken den Preis pro Tag und geben beiden Seiten Planungssicherheit. Sie lohnen sich, wenn du weißt, dass du die ganze Zeit brauchst, etwa für Ausflüge in die Umgebung oder pendelnde Alltagswege. Zusätzlich verhandeln Stationen bei längeren Buchungen oft kleine Extras, etwa eine passende Rückgabezeit oder priorisierte Abholung.",
+        "Die Bindung ist der Gegenwert: Unterbrichst du die Zeit für eine Flugreise oder eine Busstrecke, bezahlst du trotzdem die vereinbarte Dauer. Ein ehrlicher Anbieter nennt dir deshalb transparent, was bei vorzeitiger Rückgabe passiert und ob angebrochene Zeiträume anteilig abgerechnet werden. Solche Antworten zeigen dir schnell, wie sauber die Station arbeitet."
+      ]
+    },
+    {
+      "heading": "Vergleichen und verhandeln, ohne zu drücken",
+      "paragraphs": [
+        "Vergleiche Angebote, ohne nur auf den nackten Tagespreis zu schauen: Fahrzeugzustand, Wartungsstand, Erreichbarkeit bei Problemen, Kautionshöhe und inkludierte Extras gehören in dieselbe Rechnung. Ein etwas höherer Tarif bei einem gepflegten Roller mit nachvollziehbarer Übergabe kann die bessere Entscheidung sein als der billigste Satz am Markt.",
+        "Beim Verhandeln hilft eine faire Haltung: Nenne deine geplante Mietdauer offen, frag nach dem bestmöglichen Satz für diesen Zeitraum und lass dem Anbieter Raum, mit Zusatzleistungen zu punkten. Wer nur auf den letzten Abschlag schielt, verliert schnell das Gesamtpaket aus den Augen und am Ende oft auch den Service."
+      ]
+    },
+    {
+      "heading": "Vertragliche Details, die den Unterschied machen",
+      "paragraphs": [
+        "Lass dir das Tarifmodell schriftlich geben: Geltungsdauer, enthaltene Kilometer, Regelungen bei Verlängerung, Rückgabezeitfenster und Kosten bei verspäteter Rückgabe. Diese Punkte unterscheiden ein gutes Wochenangebot von einem Fallstrick. Lies den Vertrag in Ruhe, bevor du unterschreibst, und frag nach jeder unklaren Zeile.",
+        "Plane zusätzlich Puffer ein: Ein Tag zwischen geplanter Rückgabe und Abflug gibt dir Luft für Verspätungen, Wetterwechsel oder Fahrzeugwechsel. Der etwas großzügiger gewählte Zeitrahmen kostet selten viel, erspart dir aber Hektik am Ende der Reise. Genau diese Ruhe am Ende werten viele Reisende rückblickend als besten Entscheidungsgrund."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

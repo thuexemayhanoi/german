@@ -1,0 +1,63 @@
+{
+  "id": "DE-289",
+  "hub": "stadtteile",
+  "title": "Long Bien und der Osten: Rollerfahrten über die Brücke",
+  "slug": "long-bien-und-der-osten-rollerfahrten-ueber-die-bruecke",
+  "status": "IDEA",
+  "priority": 23,
+  "keywordHypothesis": "long bien viertel roller",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Long Bien liegt östlich der Altstadt: Dieser Ratgeber erklärt die Querung der Flussbrücke, den Bezirk am Ostufer und Routen für Rollerfahrer.",
+  "excerpt": "Der Bezirk Long Bien verbindet die Altstadt mit den offeneren Flächen östlich des Roten Flusses. Hier erfährst du, wie du die Brücke sicher überquerst und was dich im Osten erwartet.",
+  "sections": [
+    {
+      "heading": "Long Bien: der östliche Zugang zur Stadt",
+      "paragraphs": [
+        "Long Bien ist der Bezirk, der die Innenstadt mit den Stadtteilen östlich des Roten Flusses verbindet. Vom Altstadtkern aus erreichst du das Viertel über die gleichnamige Brücke, die zu den bekanntesten Bauwerken Hanois zählt. Für Rollerfahrer ist diese Gegend ein idealer Einstieg, weil sie Altstadtnähe mit weiten Ausblicken verbindet.",
+        "Anders als die engen Gassen der Altstadt bietet Long Bien breitere Straßen, gemischte Bebauung und direkten Zugang zu den Vororten. Viele Reisende starten hier ihre Fahrt in Richtung Land, weil die Anbindung an die östlichen Ausfallstraßen kurz und unkompliziert ist. Ein Mietroller entfaltet in dieser Umgebung seine Stärken besonders gut."
+      ]
+    },
+    {
+      "heading": "Die Querung über die historische Brücke",
+      "paragraphs": [
+        "Die Querung des Roten Flusses gelingt am entspanntesten, wenn du das Verkehrsaufkommen richtig einschätzt. Die Brücke führt motorisierte Zweiräder, Schienenverkehr und Fußgänger parallel über den Fluss, weshalb du mit mäßigem Tempo und stabiler Linie fahren solltest. Halte Abstand zu Lastenrädern, die schwere Ware transportieren, und orientiere dich am Fluss der anderen Roller.",
+        "Von der Brücke aus genießt du einen der schönsten Blicke der Stadt: das Wasser des Roten Flusses, die Sandbänke und die grünen Felder am östlichen Ufer. Nutze die Aussicht bewusst, lass dich aber nicht ablenken, weil der Fahrbahnbelag an manchen Stellen uneben ist. Konzentration und Weitblick lassen sich hier gut miteinander verbinden."
+      ]
+    },
+    {
+      "heading": "Ankunft im Osten: was dich erwartet",
+      "paragraphs": [
+        "Östlich des Flusses öffnet sich das Stadtbild: breitere Straßen, weniger Enge, mehr Platz für ruhiges Fahren. Gleichzeitig ändern sich die Rhythmen, weil Märkte, Werkstätten und Wohnviertel dicht an den Straßenrand rücken. Rechne mit Gemüsekutschen, Hühnertransporten und Schulkindern, die zu bestimmten Tageszeiten die Fahrbahn queren.",
+        "Die größere Weite verführt leicht zu höherem Tempo. Wähle einen gemäßigten Schnitt, weil Kreuzungen häufig unbeschildert sind und Fahrzeuge aus Nebengassen einfädeln. Mit einem sicheren, konstanten Tempo erlebst du den Osten als eine der entspanntesten Gegenden rund um die Innenstadt."
+      ]
+    },
+    {
+      "heading": "Märkte, Gassen und lokale Rhythmen",
+      "paragraphs": [
+        "Die Märkte rund um Long Bien sind ein Erlebnis für sich: Hier stapeln sich Früchte, frischer Fisch und Textilien direkt am Fahrbahnrand. Als Rollerfahrer fährst du in diesen Abschnitten besser mit Schrittgeschwindigkeit, weil Händler, Kundschaft und Träger die Fläche ständig nutzen. Diese Passagen belohnen langsames, aufmerksames Fahren.",
+        "Die Nebenstraßen des Bezirks zeigen ein Alltagsbild, das du im touristischen Zentrum selten siehst: kleine Werkstätten, offene Küchen, spielende Kinder. Passe dein Tempo an die Umgebung an und fahre sichtbar, aber unaufgeregt. Genau in diesen Gassen liegt der Reiz des Viertels."
+      ]
+    },
+    {
+      "heading": "Praktische Planung für Fahrten in den Osten",
+      "paragraphs": [
+        "Plane deine Fahrt in den Osten zeitlich klug: Morgens ist der Verkehr Richtung Stadtmitte dicht, nachmittags fließt er in umgekehrter Richtung. Mit diesem Rhythmus im Kopf sparst du Zeit und Nerven. Ein kurzer Blick auf die Uhr ersetzt hier so manches Navigationsproblem. Nimm dir für die ersten Fahrten in den Osten jeweils den Vormittag, weil Licht und Sicht dann am besten sind.",
+        "Kläre außerdem, wie dein Mietvertrag Fahrten über den Bezirk hinaus regelt, weil einige Anbieter gesonderte Vorgaben für Ausflüge außerhalb des Stadtgebiets machen. Nimm Helm, Handy und etwas Wasser mit, und lass die Rückreise nicht in die Dunkelheit fallen, weil die Beleuchtung der Straßen östlich des Flusses unterschiedlich gut ist."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

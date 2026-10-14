@@ -1,0 +1,63 @@
+{
+  "id": "DE-287",
+  "hub": "verkehr-regeln",
+  "title": "Vorfahrtsregeln und Kreisverkehr in Vietnam verstehen",
+  "slug": "vorfahrtsregeln-und-kreisverkehr-in-vietnam-verstehen",
+  "status": "IDEA",
+  "priority": 21,
+  "keywordHypothesis": "vorfahrtsregeln vietnam",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Wie Vorfahrt in Hanoi wirklich funktioniert: Regeln, Kreisverkehr und clevere Praxisstrategien für Rollerfahrer im Stadtverkehr.",
+  "excerpt": "Vorfahrtsregeln in Vietnam lesen zu können, spart Nerven. Dieser Ratgeber erklärt Rechtsvorweg, Kreisverkehr, Blickkontakt und die ungeschriebenen Regeln des Alltags in Hanoi.",
+  "sections": [
+    {
+      "heading": "Warum Vorfahrt in Hanoi anders funktioniert",
+      "paragraphs": [
+        "In Deutschland verlässt du dich auf Schilder, Markierungen und ein klares Regelwerk. In Hanoi ordnet sich der Verkehr dagegen wie ein lebendiges Gewässer, das sich bei jeder Kreuzung neu sortiert. Offiziell existiert auch hier eine Vorfahrtsordnung, doch im Alltag zählen Tempo, Position und Sichtbarkeit mehr als jeder Paragraph. Wer diese Logik einmal verstanden hat, fährt deutlich entspannter durch die Stadt.",
+        "Als Rollerfahrer nimmst du eine besondere Rolle ein: Du bist wendig, beschleunigst schnell und wirst im Verkehrsbild oft früher wahrgenommen als ein Auto. Gleichzeitig wird von dir erwartet, dass du Lücken konsequent nutzt und nicht mitten auf der Fläche zögerst. Plötzliches Stocken erzeugt in Hanoi mehr Gefahr als ein ruhiger, vorhersehbarer Fahrstil."
+      ]
+    },
+    {
+      "heading": "Rechtsvorweg: Regel und Wirklichkeit",
+      "paragraphs": [
+        "Auf dem Papier gilt in Vietnam Rechtsverkehr, und an unbeschilderten Kreuzungen hat häufig der von rechts kommende Verkehr Vorrang. In der Praxis starten Fahrzeuge oft gleichzeitig los und einigen sich spontan über Position und Geschwindigkeit. Eine Kreuzung ohne Schild ist hier kein Rechtsstreit, sondern eine kurze Verhandlung in Bewegung, die beide Seiten im Vorbeifahren klären.",
+        "Fahre deshalb langsam heran, verschaffe dir einen Überblick und orientiere dich am Verhalten der Fahrzeuge um dich herum. Einheimische Rollerfahrer nehmen oft Schrägpositionen ein, um ihre Absicht zu signalisieren. Beobachte diese Muster in den ersten Tagen bewusst und übernimm den ruhigen, fließenden Stil statt abrupt zu bremsen oder spurlos zu verschwinden."
+      ]
+    },
+    {
+      "heading": "Kreisverkehr in Hanoi richtig einschätzen",
+      "paragraphs": [
+        "In Kreisverkehren gilt der Grundsatz, dass der einfahrende Verkehr dem im Kreis laufenden Verkehr Vorrang lässt. Auch hier ist die Umsetzung weicher als die Theorie: Wer einfahren möchte, sucht Blickkontakt, passt sein Tempo an und nutzt passende Lücken. Große Busse und Lastwagen räumen dabei erfahrungsgemäß weniger Platz ein, weshalb du ihnen großzügige Fläche einplanen solltest.",
+        "Wähle beim Einfahren eine klare Linie und bleib in ihr, bis du wieder ausfährst. Häufiges Wechseln zwischen den Ringen verwirrt andere Verkehrsteilnehmer und erzeugt unnötige Brennpunkte. Da dein Roller wenig Platz braucht, kannst du eng an der Innenseite bleiben und so eine ruhige, gut lesbare Fahrt durch den Kreis sicherstellen."
+      ]
+    },
+    {
+      "heading": "Blickkontakt und Körpersprache als Steuerung",
+      "paragraphs": [
+        "Signale werden in Hanoi selten über den Blinker übermittelt, sondern über Blick, Körperhaltung und Tempo. Ein kurzer Augenkontakt mit dem Fahrer neben dir klärt mehr als jedes Verkehrszeichen. Diese stille Absprache funktioniert erstaunlich zuverlässig, solange du sie aktiv mitgestaltest und nicht nur reagierend unterwegs bist.",
+        "Zeige deine Absicht deshalb früh und deutlich: Drossle das Tempo vor dem Abbiegen, halte eine klare Richtung ein und streck bei engen Situationen den Arm als zusätzliches Signal heraus, wenn der Blinker im dichten Verkehr untergeht. Vorhersagbarkeit ist im vietnamesischen Straßenalltag dein wichtigster Schutzfaktor überhaupt."
+      ]
+    },
+    {
+      "heading": "So baust du Sicherheit in den ersten Tagen auf",
+      "paragraphs": [
+        "Starte auf ruhigen Seitenstraßen und steigere die Anforderungen schrittweise: erst kleine Kreuzungen, dann Hauptverkehrsadern, zuletzt Kreisverkehre zur Hauptverkehrszeit. Jede Fahrt schärft dein Gespür für die ungeschriebenen Regeln, und nach wenigen Tagen erkennst du klare Muster im scheinbaren Durcheinander. Klein anzufangen kostet etwas Geduld, zahlt sich aber sofort in Sicherheit aus.",
+        "Meide in den ersten Tagen Regen, Dunkelheit und die Hauptverkehrszeit, weil alle drei Faktoren das Verkehrsbild stark verändern. Plane regelmäßige Pausen ein und steig ab, sobald du müde wirst. Ein wacher Kopf, ein gut sitzender Helm und ein gepflegter Mietroller sind deine wichtigste Ausstattung, wenn du die Vorfahrtspraxis Hanois live erlernst."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

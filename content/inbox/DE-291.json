@@ -1,0 +1,63 @@
+{
+  "id": "DE-291",
+  "hub": "mietpreise-kaution",
+  "title": "Kaution bar oder per App zahlen",
+  "slug": "kaution-bar-oder-per-app-zahlen",
+  "status": "IDEA",
+  "priority": 25,
+  "keywordHypothesis": "kaution zahlung roller",
+  "intent": "commercial",
+  "publishedUrl": null,
+  "description": "Kaution für deinen Mietroller bar oder per App zahlen? Vor- und Nachteile, Belege und die Rückgabe im Überblick, ohne erfundene Preise.",
+  "excerpt": "Die Frage der Kaution klärst du am besten vor der Übergabe. Wir vergleichen Barzahlung und digitale Zahlung, erklären den Umgang mit Quittungen und nennen die Punkte, die du vor der Abfahrt klären solltest.",
+  "sections": [
+    {
+      "heading": "Warum die Zahlungsart der Kaution wichtig ist",
+      "paragraphs": [
+        "Die Kaution ist bei Mietrollern in Hanoi üblich und sichert dem Anbieter Risiken wie Beschädigungen oder verspätete Rückgaben ab. Für dich als Mieter ist entscheidend, dass die Abwicklung transparent bleibt. Ob du bar oder per App zahlst, beeinflusst Beleglage, Rückgabe und deine Flexibilität während der Mietdauer erheblich.",
+        "Viele Verleihstationen akzeptieren beide Wege, manche bevorzugen eine Variante ausdrücklich. Bevor du entscheidest, frag nach den konkreten Konditionen der Rückzahlung: Wann und wie bekommst du den Betrag zurück, und welche Nachweise sind dafür nötig. Diese Minuten am Anfang ersparen dir späteren Diskussionsbedarf."
+      ]
+    },
+    {
+      "heading": "Barzahlung: Vorteil ist die Kontrolle",
+      "paragraphs": [
+        "Barzahlung gibt dir die größte Kontrolle: Du siehst den Betrag, du zählst ihn gemeinsam mit dem Verleiher, und du erhältst auf Wunsch eine Quittung. In der vietnamesischen Praxis ist Bargeld nach wie vor verbreitet, weshalb viele Stationen damit rechnen. Bewahre den Quittungsbeleg und deine Übergabefotos sorgfältig auf.",
+        "Der Nachteil liegt im Mitführen des Betrags: Höhere Summen im Rucksack zu transportieren, ist unangenehm, wenn du vor der Übergabe durch die Stadt fährst. Plane deshalb die Abholung so, dass du den Weg vom Geldautomaten bis zur Station kurz hältst. Frische, unbeschädigte Banknoten vereinfachen das gemeinsame Zählen zusätzlich."
+      ]
+    },
+    {
+      "heading": "Zahlung per App: schnell, aber mit Bedingungen",
+      "paragraphs": [
+        "Appbasierte Zahlungen über Banking-Anwendungen laufen in Vietnam flächendeckend und sind bei vielen Anbietern die bevorzugte Variante. Vorteile sind die lückenlose Dokumentation, der Verzicht auf Bargeldtransport und die schnelle Rückbuchung auf dein Konto. Du brauchst dafür ein eingerichtetes Konto und eine stabile Internetverbindung.",
+        "Bedingung ist Klarheit über die Rückabwicklung: Frag, ob die Kaution automatisch zurückgebucht wird oder manuell freigegeben werden muss, und in welcher Währung der Betrag zurückkommt. Wechselkursschwankungen und Gebühren der eigenen Bank können den zurückgebuchten Betrag verändern. Kläre solche Details vor der Zahlung, nicht erst bei der Rückgabe."
+      ]
+    },
+    {
+      "heading": "Belege sichern die Rückgabe ab",
+      "paragraphs": [
+        "Egal welcher Weg: Ohne Beleg hast du bei der Rückgabe ein schwereres Standing. Fordere eine Quittung mit Betrag, Datum, Zweck und Namen des Anbieters, oder sichere den digitalen Zahlungsbeleg mit Screenshot. Am besten sendest du diese Belege zusätzlich per Nachricht an den Verleiher, damit beide Seiten denselben Stand haben.",
+        "Kombiniere die Belege mit Zustandsfotos von Roller und Ausstattung bei Übergabe und Rückgabe. Diese Dokumentation trennt Zahlung und Fahrzeugzustand sauber und schützt dich bei späteren Rückfragen. Die meisten Missverständnisse rund um Kautionen entstehen durch mündliche Absprachen ohne jeden schriftlichen Nachweis."
+      ]
+    },
+    {
+      "heading": "Diese Punkte klärst du vor der Abfahrt",
+      "paragraphs": [
+        "Kläre vor der Abfahrt die klassischen Fragen: Höhe und Währung der Kaution, Zeitrahmen der Rückzahlung, Umgang bei einer Verlängerung der Mietdauer und Vorgehen bei Beschädigungen. Lass dir die Antworten zeigen oder kurz zusammenfassen, statt dich mit einem Hinweis auf eine Website zufriedenzugeben. Frag höflich nach, wenn etwas unklar bleibt: Seriöse Anbieter erklären Kaution und Rückgabe gern ein zweites Mal.",
+        "Prüfe abschließend, ob die Bedingungen im Mietvertrag stehen, den du unterschreibst. Mündliche Zusicherungen, die nirgends festgehalten sind, halten im Streitfall kaum stand. Ein Anbieter, der Kaution, Belege und Rückgabe offen und geduldig erklärt, nimmt dich als Kunden ernst. Am Ende zählt nicht die Zahlungsmethode, sondern die Dokumentation, die beide Seiten schützt."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
