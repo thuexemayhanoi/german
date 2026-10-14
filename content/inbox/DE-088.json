@@ -1,0 +1,63 @@
+{
+  "id": "DE-088",
+  "hub": "routen-umgebung",
+  "title": "Pausenorte auswählen ohne Zeitdruck",
+  "slug": "pausenorte-auswaehlen-ohne-zeitdruck",
+  "status": "IDEA",
+  "priority": 8,
+  "keywordHypothesis": "pausenorte auswählen ohne zeitdruck",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Pausenorte ohne Zeitdruck auswählen: Kriterien vor der Tour festlegen, Kandidaten sammeln und vor Ort sicher halten – so wird die Pause zur Stärkung, nicht zum Risiko.",
+  "excerpt": "Wer den Pausenort erst sucht, wenn die Müdigkeit da ist, wählt schlecht: Am Fahrbahnrand entsteht keine gute Pause. Dieser Ratgeber zeigt, wie Pausenorte vor der Tour ausgewählt und unterwegs erkannt werden.",
+  "sections": [
+    {
+      "heading": "Warum Pausenorte vor der Tour gewählt werden",
+      "paragraphs": [
+        "Unter Zeitdruck entscheidet niemand gut: Wer müde, hungrig oder hungrig auf Schatten ist, nimmt den ersten Rand, der haltbar aussieht – und genau dieser Rand ist oft der schlechteste. Die Auswahl des Pausenorts ist eine Planungsaufgabe wie die Route selbst, und sie gehört auf den Tisch vor der Abfahrt.",
+        "Der Unterschied zeigt sich in zwei Szenarien: Wer ohne geplanten Pausenort hält, hält dort, wo es gerade geht – oft im fließenden Verkehr, mit halbem Fahrzeug auf der Fahrbahn. Wer Kandidaten vor der Tour gesammelt hat, fährt am ungeeigneten Ort vorbei, weil er weiß, dass der passende wenige Minuten später kommt."
+      ]
+    },
+    {
+      "heading": "Kriterien für einen guten Pausenort",
+      "paragraphs": [
+        "Ein guter Pausenort lässt sich mit vier Kriterien prüfen: Er liegt außerhalb der Fahrbahn oder an einem breiten, einsehbaren Rand; er ist aus beiden Richtungen früh erkennbar, damit das Ausrollen niemanden überrascht; er bietet Schatten und Platz zum Abstellen; und er erlaubt eine Rückfahrt, die so sicher ist wie die Ankunft.",
+        "Ein fünftes Kriterium ist oft das entscheidende: der Charakter des Umfelds. Ein Ort mit Garküche, Häuserzeile oder Markt bietet Bewegung, Wasser und Ansprechpartner – ein leerer Abschnitt am Feldrand bietet nichts davon, dafür jede Menge vorbeifliehenden Verkehr. Belebung ist am Pausenort kein Nachteil, sondern Infrastruktur."
+      ]
+    },
+    {
+      "heading": "Kandidaten sammeln und festhalten",
+      "paragraphs": [
+        "Sammeln Sie für jede Tour zwei bis drei Pausenkandidaten pro Streckenhälfte – mehr braucht es nicht, weniger wird knapp. Notieren Sie die Kandidaten in der Routennotiz mit grober Positionsangabe: nach welchem Ort, vor welcher Brücke, an welcher Gabelung. Die Notiz ersetzt unterwegs das Suchen, und Suchen ist die Vorstufe von Halten am falschen Platz.",
+        "Nehmen Sie in die Auswahl auch Orte auf, die Sie kennen: eine Strecke, die Sie schon gefahren sind, hat Pausenorte, die Sie schon geprüft haben. Vertraute Pausenorte sind besonders auf der Rückfahrt wert, wenn der Tag lang ist und die Auswahlkraft nachlässt."
+      ]
+    },
+    {
+      "heading": "Pausen als Werkzeug der Sicherheit",
+      "paragraphs": [
+        "Die Pause ist kein Unterbruch der Tour, sondern ihr Wartungsintervall: Wasser trinken, Helm absetzen, Reifen und Licht prüfen, den Blick über die nächsten Kilometer werfen. Müdigkeit ist auf dem Zweirad ein Risikofaktor wie jede Wetterlage – und die Pause ist die einzige Maßnahme, die direkt gegen sie wirkt.",
+        "Das Auswärtige Amt verbindet viele Unfälle in Vietnam mit den Nachtstunden – und Ermüdung ist ein Faktor, der in jede Tageszeit hineinwirkt. Wer Pausen im Takt der Tour plant, statt sie der Stimmung zu überlassen, hält die Aufmerksamkeit dort, wo sie die Route tragen muss: bei dem, der sie fährt."
+      ]
+    },
+    {
+      "heading": "Wenn kein geplanter Ort passt",
+      "paragraphs": [
+        "Trotz Planung kommt es vor, dass kein Kandidat passt: umgebaut, überfüllt, weggerissen. Die Regel dafür lautet: Lieber weiterfahren bis zum nächsten geprüften Ort als anhalten am ungeprüften – und im Zweifel in eine Seitenstraße einbiegen, deren Verkehr langsamer ist, als der der Durchgangsstraße. Der Umweg zur Pause ist billiger als die Pause am Fahrbahnrand.",
+        "Die offizielle Tourismusseite Vietnam Travel gibt einen Überblick zu Fortbewegung und Anlaufstellen im Land – kombinieren Sie diese Übersicht mit einer Pausenliste, die vor der Tour entstanden ist. Dann sind Pausen das, wofür sie gemacht sind: Momente, in denen die Tour besser wird, und nicht Momente, in denen sie es wird."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

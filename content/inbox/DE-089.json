@@ -1,0 +1,63 @@
+{
+  "id": "DE-089",
+  "hub": "routen-umgebung",
+  "title": "Navigation offline vorbereiten",
+  "slug": "navigation-offline-vorbereiten",
+  "status": "IDEA",
+  "priority": 9,
+  "keywordHypothesis": "navigation offline vorbereiten",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Navigation offline vorbereiten: Karten vorab laden, Route analog sichern und Strom mitdenken – so funktioniert die Orientierung auch ohne Netz.",
+  "excerpt": "Wer die Navigation dem Netz überlässt, plant mit einem Baustein, der auf der Landstraße fehlen kann: Verbindung. Dieser Ratgeber zeigt, wie offline vorbereitete Karten, eine analoge Sicherung und ein geladener Akku die Orientierung tragen.",
+  "sections": [
+    {
+      "heading": "Warum Netzabdeckung kein Plan ist",
+      "paragraphs": [
+        "In der Stadt ist die Verbindung dicht, auf Ausfallstraßen wird sie zur Glückssache: Abschnitte ohne ausreichende Abdeckung gehören in ländlichen Regionen zur Normalität, nicht zur Ausnahme. Eine Navigation, die erst Kontakt braucht, um eine Karte zu laden, ist auf der Tour genau dann nicht da, wenn sie gebraucht wird.",
+        "Dazu kommen zwei alltägliche Gründe: Akkuverbrauch durch dauerhaftes Suchen nach Netz, und die Kosten von Datenverkehr im Ausland, die sich niemand auf der Fahrt ausrechnen will. Die Lösung ist älter als das Handy und funktioniert seitdem: die Karte wird vor der Abfahrt geladen, nicht auf der Strecke."
+      ]
+    },
+    {
+      "heading": "Offline-Karten vorab herunterladen",
+      "paragraphs": [
+        "Laden Sie im WLAN des Hotels oder der Unterkunft die Karten für das gesamte Fahrtgebiet – nicht nur für die geplante Route, sondern für den Streifen links und rechts davon. Umleitungen, Abstecher und falsche Abbiegungen kennen die geplante Route nicht; der Karte ist es egal, wo Sie tatsächlich fahren.",
+        "Markieren Sie die Route im Voraus mit Wegpunkten: Start, Wendepunkt, Rückkehr und die Pausenkandidaten. Die Wegpunkte sind die Stützpunkte der Orientierung – wer sie gesetzt hat, findet auch dann zurück auf die Route, wenn die Abfahrt der letzten Minuten falsch war. Notieren Sie die Wegpunkte zusätzlich analog, denn eine Markierung, die nur im Gerät existiert, existiert so lange wie der Akku."
+      ]
+    },
+    {
+      "heading": "Die Route analog sichern",
+      "paragraphs": [
+        "Die analoge Sicherung ist kein Nostalgie-Extra, sondern die Ausfallsicherung: eine Papierkarte oder ein gedruckter Kartenausschnitt, dazu die Notiz mit den Eckdaten der Tour – Streckenverlauf in groben Etappen, die Uhrzeiten von Abfahrt und Rückkehr, die Wendepunkte. Das Auswärtige Amt empfiehlt generell, sich vor Fahrten über Straßenverhältnisse zu informieren – die analoge Notiz ist der Teil dieser Information, der ohne Strom funktioniert.",
+        "Die analoge Sicherung braucht eine Fähigkeit, die sich in Minuten üben lässt: die grobe Orientierung nach Verlauf und Richtung. Wer die Hauptrichtung der Route kennt – nach Norden raus, am Fluss entlang, am Ort vorbei – findet mit einer Papierkarte jeden Punkt, den auch das Gerät gefunden hätte, nur eben etwas langsamer und ohne Akku."
+      ]
+    },
+    {
+      "heading": "Stromversorgung als Teil der Navigation",
+      "paragraphs": [
+        "Bevor die Tour beginnt, hat die Navigation zwei Hausaufgaben: das Gerät laden und die Ladung halten. Ein geladenes Gerät zu Beginn ist Pflicht; eine Powerbank im Staufach ist die Versicherung dafür, dass ein längerer Tag nicht am leeren Akku endet. Beides kostet Minuten zu Hause und erspart die Suche nach Steckdosen in Dörfern, die man nur durchfährt.",
+        "Am Gerät selbst gilt Sparsamkeit als Strategie: Displayhelligkeit senken, unbenutzte Anwendungen schließen, das Gerät nicht dauerhaft im Netz suchen lassen. Der Bildschirmverdunkelungsmodus – Karte an, Gerät zu – senkt den Verbrauch weiter. Navigation ist ein Verbraucher wie jede Fahrt selbst: Wer haushaltet, kommt weiter."
+      ]
+    },
+    {
+      "heading": "Disziplin unterwegs",
+      "paragraphs": [
+        "Die beste Navigation nützt nichts, wenn sie zur Ablenkung wird: Wer unterwegs auf dem Display liest und gleichzeitig fährt, handelt sich das Risiko ein, das die Karte gerade verhindern soll. Die Regel ist alt und gilt trotzdem: Lesen im Stand, Fahren in der Fahrt. Wer die Route prüfen will, hält – an einem Ort, der für eine Pause taugt, nicht am fließenden Verkehr.",
+        "Das Auswärtige Amt warnt vor Diebstahl durch Vorbeifahrende – ein Handy in der Halterung, sichtbar und erreichbar, ist dafür ein naheliegendes Ziel. Befestigen Sie das Gerät sicher, nehmen Sie es bei jedem Abstieg mit, und behalten Sie die zweite Regel im Kopf: Die offizielle Tourismusseite Vietnam Travel gibt einen Überblick zu Fortbewegung und Anlaufstellen im Land – wer sie vor der Tour liest, ist weniger abhängig vom Display unterwegs."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
