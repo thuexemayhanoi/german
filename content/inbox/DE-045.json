@@ -1,0 +1,63 @@
+{
+  "id": "DE-045",
+  "hub": "dokumente-vertrag",
+  "title": "Fahrzeugpapiere bei der Übergabe abgleichen",
+  "slug": "fahrzeugpapiere-bei-der-uebergabe-abgleichen",
+  "status": "IDEA",
+  "priority": 5,
+  "keywordHypothesis": "fahrzeugpapiere bei der Übergabe abgleichen",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Fahrzeugpapiere bei der Übergabe abgleichen: Kennzeichen, Papieren und Zustand prüfen und dokumentieren – so stehen Sie bei Rückgabe richtig da.",
+  "excerpt": "Die Übergabe entscheidet, wer im Streitfall Recht hat. Wer Kennzeichen, Papiere und Zustand des Mietfahrzeugs systematisch abgleicht und dokumentiert, vermeidet Diskussionen bei der Rückgabe und fährt mit einem sauber erfassten Fahrzeug los.",
+  "sections": [
+    {
+      "heading": "Warum die Übergabe der wichtigste Moment ist",
+      "paragraphs": [
+        "Bei der Übergabe wird festgelegt, was als Ihr Schaden gilt und was nicht. Alles, was Sie jetzt nicht erfassen, wird Ihnen bei der Rückgabe möglicherweise angelastet – ein Kratzer, der vor Ihrer Fahrt existierte, lässt sich später schwerlich abwehren, wenn niemand ihn notiert hat. Der Papierkram vor dem Losschrauben wirkt lästig, ist aber Ihre wichtigste Absicherung.",
+        "Ein sauber dokumentierter Zustand schützt beide Seiten: Der Verleiher kann behauptete Vorschäden nachweisen, und Sie können sie abwehren. Nehmen Sie sich daher zwanzig Minuten Zeit, bevor Sie das erste Mal den Zündschlüssel drehen. Diese Minuten sparen Ihnen am Ende der Mietzeit oft Geld und Nerven."
+      ]
+    },
+    {
+      "heading": "Papiere und Fahrzeug müssen zusammenpassen",
+      "paragraphs": [
+        "Prüfen Sie, ob die Fahrzeugpapiere zu dem Fahrzeug passen, das vor Ihnen steht: Kennzeichen, Modellbezeichnung und Fahrgestellnummer müssen in den Dokumenten mit dem physischen Fahrzeug übereinstimmen. Ein Verleiher, der Papiere und Fahrzeug ohne Zögern nebeneinanderlegen lässt, gibt Ihnen ein gutes Signal. Zögern oder Ausreden sind ein Warnzeichen.",
+        "Klären Sie außerdem, welche Dokumente Sie bei einer Kontrolle dabeihaben müssen und in welcher Form: das Papier des Fahrzeugs, Ihren Führerschein und die Mietbestätigung. Nach den Hinweisen des Auswärtigen Amts gelten in Vietnam für Zweiräder eigene Regeln – etwa dass die Klasse B dort keine Zweiräder über 50 ccm abdeckt. Wenn die Papiere Ihres Mietfahrzeugs zu Ihrer eigenen Berechtigung nicht passen, hilft auch ein ordentliches Fahrzeugpapier nichts."
+      ]
+    },
+    {
+      "heading": "Den Zustand systematisch erfassen",
+      "paragraphs": [
+        "Gehen Sie das Fahrzeug in einer festen Reihenfolge ab: Reifen, Felgen, Bremsen, Licht, Spiegel, Verkleidung, Tank, Gepäckträger. Fotografieren Sie jeden vorhandenen Kratzer, Delle oder Defekt mit dem Smartphone, so dass das Kennzeichen im Bild mit erscheint – das ordnet den Schaden eindeutig dem Fahrzeug zu. Ergänzen Sie die Fotos durch eine schriftliche Liste im Übergabeprotokoll.",
+        "Testen Sie die Funktion, nicht nur das Aussehen: Bremsen bei langsamer Fahrt, Hupe, Licht in allen Stellungen, Kraftstoffanzeige. Ein Mangel, den Sie erst nachts auf dunkler Landstraße entdecken, wird teuer. Das Auswärtige Amt weist darauf hin, dass Unfälle in Vietnam häufig nach Einbruch der Dunkelheit geschehen – eine funktionierende Beleuchtung ist also keine Formsache, sondern ein echtes Sicherheitsthema."
+      ]
+    },
+    {
+      "heading": "Protokoll von beiden Seiten bestätigen",
+      "paragraphs": [
+        "Halten Sie alles schriftlich fest und lassen Sie das Übergabeprotokoll vom Verleiher gegenzeichnen. Mündliche Zusicherungen wie „der Kratzer ist bekannt“ zählen bei der Rückgabe wenig; ein abgezeichnetes Protokoll zählt viel. Ein Seriöser Anbieter hat an einem dokumentierten Zustand kein Interesse zu verstecken – im Gegenteil.",
+        "Verwahren Sie eine Kopie des Protokolls mit den Papieren, die Sie unterwegs bei sich tragen. Das Übergabeprotokoll ist Teil Ihrer Dokumentkette: Mietvertrag, Protokoll, Fotos und Kontaktdaten des Verleihers gehören zusammen. Bewahren Sie diese Dokumentkette getrennt vom Fahrzeug auf, etwa in einer Geldbörse oder einem verschließbaren Fach – das Auswärtige Amt warnt vor Handtaschenraub durch vorbeifahrende Roller, ein Grund mehr, wichtige Papiere körpernah zu tragen."
+      ]
+    },
+    {
+      "heading": "Was Sie tun, wenn etwas nicht passt",
+      "paragraphs": [
+        "Stimmen Papiere und Fahrzeug nicht überein oder verweigert der Verleiher das Protokoll, dann ist das ein Grund, die Anmietung zu beenden – nicht der einzige Grund, aber ein sehr guter. Ein Fahrzeug ohne nachvollziehbare Papiere kann Ihnen bei einer Kontrolle erhebliche Probleme bereiten, und Ihr Versicherungsschutz steht auf tönernen Füßen. Es gibt in Hanoi genügend Anbieter, die sauber arbeiten.",
+        "Fehlt nur ein Kleinteil der Dokumentation, fordern Sie es schriftlich nach: die passende Fahrzeuginspektionskarte, die Mietbestätigung mit Fahrzeugdaten oder eine Ergänzung im Protokoll. Die offizielle Tourismusseite Vietnam Travel nennt Anbieter und Anlaufstellen für Fortbewegung im Land – nutzen Sie solche Quellen, um im Zweifel eine Alternative zu finden, statt mit einem schlechten Gefühl loszufahren."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

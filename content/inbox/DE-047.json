@@ -1,0 +1,63 @@
+{
+  "id": "DE-047",
+  "hub": "dokumente-vertrag",
+  "title": "Haftung bei Schäden im Vertrag nachvollziehen",
+  "slug": "haftung-bei-schaeden-im-vertrag-nachvollziehen",
+  "status": "IDEA",
+  "priority": 7,
+  "keywordHypothesis": "Haftung bei Schäden im Vertrag nachvollziehen",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Haftung bei Schäden im Mietvertrag nachvollziehen: wer zahlt was bei Kratzern, Diebstahl oder Unfall – und wie Sie die Klauseln vor Fahrtantritt verstehen.",
+  "excerpt": "Wer haftet für den Kratzer, den Diebstahl, den Unfall? Die Antwort steht im Mietvertrag – aber oft in Klauseln, die erst auf den zweiten Blick verständlich sind. Dieser Ratgeber zeigt, wie Sie Haftungsregeln systematisch nachvollziehen.",
+  "sections": [
+    {
+      "heading": "Haftung beginnt beim Verständnis, nicht beim Schaden",
+      "paragraphs": [
+        "Haftungsklauseln sind der Teil des Mietvertrags, an dem Geld hängt. Sie regeln, was passiert, wenn das Fahrzeug beschädigt zurückkommt, gestohlen wird oder in einen Unfall verwickelt ist. Wer sie erst nach dem Schaden liest, verhandelt rückwirkend – und verliert fast immer. Wer sie vorher versteht, weiß, welche Risiken er trägt und welche er vermeiden sollte.",
+        "Nachvollziehen heißt nicht, jede Klausel juristisch zu prüfen. Es heißt, drei Dinge zu beantworten: Welche Schäden trage ich in jedem Fall selbst? Bei welchen Ereignissen greift eine Deckung des Verleihers? Und was muss ich im Ernstfall tun, um meine Rechte zu behalten? Mit diesen drei Fragen lesen Sie jeden Haftungsabschnitt sinnvoll."
+      ]
+    },
+    {
+      "heading": "Die drei Typen von Haftpunkten unterscheiden",
+      "paragraphs": [
+        "Der erste Typ betrifft die normale Abnutzung: Reifen, Bremsbeläge, Öl. Klären Sie, was davon als verbrauchsbedingt gilt und was der Verleiher Ihnen berechnet. Der zweite Typ betrifft Schäden durch Fahren: Kratzer, Brüche, Blechschäden. Hier zählt Ihr Übergabeprotokoll, denn nur dokumentierte Vorschäden wehren Sie später ab.",
+        "Der dritte Typ sind Ereignisse jenseits des Fahrens: Diebstahl, Vandalismus, höhere Gewalt. Diese Punkte stehen oft in einem anderen Vertragsteil als die gewöhnlichen Schäden und werden gern überlesen. Fragen Sie beim Verleiher gezielt nach Diebstahl und verlangten Sie die Regelung schriftlich – gerade bei hochwertigen Fahrzeugen ist das der teuerste denkbare Fall."
+      ]
+    },
+    {
+      "heading": "Was die Fahrerlaubnis mit Haftung zu tun hat",
+      "paragraphs": [
+        "Die härteste Haftungsklausel steht oft nicht beim Schaden, sondern bei der Berechtigung: Wer ein Fahrzeug führt, das seine Fahrerlaubnis nicht abdeckt, riskiert nicht nur ein Bußgeld, sondern voraussichtlich auch jede vertragliche Deckung. Das Auswärtige Amt stellt klar, dass die Klasse B in Vietnam keine Zweiräder über 50 ccm abdeckt und die Klasse B196 nicht anerkannt wird.",
+        "Praktisch heißt das: Prüfen Sie vor der Anmietung, dass Ihr Wunschfahrzeug zu Ihrer Berechtigung passt – und halten Sie die Passung im Vertrag fest. Ein Verleiher, der Ihnen ein Fahrzeug über 50 ccm ohne passende Erlaubnis übergibt, verschafft sich eine bequeme Position im Schadensfall. Der Vertrag sollte die Fahrzeugklasse und Ihre Voraussetzungen widerspruchsfrei zusammenbringen."
+      ]
+    },
+    {
+      "heading": "Verhaltensregeln im Vertrag ernst nehmen",
+      "paragraphs": [
+        "Viele Verträge verknüpfen Haftung mit Verhalten: Helmtragepflicht, Sperrstunden, Gebiete, in denen das Fahrzeug stehen darf. Solche Klauseln wirken klein, entfalten aber im Schadensfall große Wirkung – ein Verstoß gegen eine Verhaltensregel kann die Haftung komplett auf Sie umlenken. Das Auswärtige Amt betont ohnehin die Helmtragepflicht und die besonderen Risiken der Nachtzeiten, da viele Unfälle nach Einbruch der Dunkelheit geschehen.",
+        "Lesen Sie die Verhaltensregeln als Risikoanzeiger: Jede Verhaltensklausel nennt ein Risiko, das der Verleiher kennt. Steht eine Regel zur sicheren Abstellung im Vertrag, gibt es dort Diebstähle; steht eine Regel zu Regenfahrten darin, passieren dort Regenunfälle. Wer die Klauseln so liest, lernt aus der Erfahrung vieler Vormieter."
+      ]
+    },
+    {
+      "heading": "Im Streitfall zählt die Dokumentation",
+      "paragraphs": [
+        "Kommt es zum Streit über einen Schaden, entscheidet nicht das Gespräch, sondern die Beweislage: Übergabeprotokoll, Fotos, eine kurze Nachricht mit dem Zustand nach der Fahrt, gegebenenfalls eine polizeiliche Aufnahme bei größeren Schäden. Bauen Sie diese Kette von Anfang an auf – sie ist Ihr Haftungsargument in Reinform.",
+        "Und wenn der Vertrag Klauseln enthält, die Sie nicht nachvollziehen können, dann lassen Sie sie sich vor Unterschrift erklären und schriftlich ergänzen. Ein Vertrag, dessen Haftungsregeln niemand erklären kann, wird im Ernstfall von der Seite ausgelegt, die ihn geschrieben hat. Die offizielle Tourismusseite Vietnam Travel hilft bei der Auswahl vertrauenswürdiger Anbieter – eine gute Grundlage, damit es beim Nachvollziehen der Klauseln gar nicht erst aneinander vorbeigeht."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
