@@ -2474,22 +2474,22 @@
       "hub": "dokumente-vertrag",
       "title": "Zulassungsdokumente und Fahrzeugpapiere beim Roller",
       "slug": "zulassungsdokumente-und-fahrzeugpapiere-beim-roller",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 25,
       "keywordHypothesis": "fahrzeugpapiere roller vietnam",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/zulassungsdokumente-und-fahrzeugpapiere-beim-roller/"
     },
     {
       "id": "DE-226",
       "hub": "dokumente-vertrag",
       "title": "Passkopien und Datenschutz bei der Vermietung",
       "slug": "passkopien-und-datenschutz-bei-der-vermietung",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 26,
       "keywordHypothesis": "passkopie verleih datenschutz",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/passkopien-und-datenschutz-bei-der-vermietung/"
     },
     {
       "id": "DE-227",
