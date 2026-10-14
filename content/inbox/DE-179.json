@@ -1,0 +1,63 @@
+{
+  "id": "DE-179",
+  "hub": "technik-wartung",
+  "title": "Wartungsfragen beim Verleih stellen",
+  "slug": "wartungsfragen-beim-verleih-stellen",
+  "status": "IDEA",
+  "priority": 19,
+  "keywordHypothesis": "wartungsfragen beim verleih stellen",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Wartungsfragen beim Verleih stellen: Konkrete Fragen zu Reifen, Bremsen, Ketten und Wartungsintervallen, die dir bei der Anmietung in Hanoi weiterhelfen.",
+  "excerpt": "Ein Verleiher, der Wartungsfragen beantwortet, erzählt dir mehr über seine Fahrzeuge als jede Ampelfahrt. Diese Fragen solltest du vor der Unterschrift stellen.",
+  "sections": [
+    {
+      "heading": "Warum Wartungsfragen eine Tür öffnen",
+      "paragraphs": [
+        "Fragen nach der Wartung wirken auf den ersten Blick technisch, sind aber in Wahrheit eine Verständigungsprobe: Sie zeigen dem Verleiher, dass du das Fahrzeug ernst nimmst, und sie zeigen dir, wie der Verleiher über sein Geschäft denkt. Ein Betrieb, der Auskunft über Bremsbeläge und Wartungsintervalle geben kann, hat diese Informationen parat, weil er seine Fahrzeuge pflegt – ein Betrieb, der jede Frage mit Achselzucken beantwortet, hat die Gründe dafür meist auch.",
+        "Die Vietnam-Tourismusbehörde empfiehlt in ihren Hinweisen zum Transport im Land, Fahrzeuge nur bei Anbietern zu mieten, die gepflegte Maschinen vorhalten. Die Wartungsfragen sind dein Weg, diese Empfehlung zu prüfen: Sie sind kurz, sie kosten nichts, und ihre Antworten sind eher aufschlussreich als jede Arbeitsprobe einer Probefahrt."
+      ]
+    },
+    {
+      "heading": "Fragen zu Bremsen und Reifen",
+      "paragraphs": [
+        "Beginne mit den Bauteilen, die über Sicherheit entscheiden. Wann wurden die Bremsbeläge zuletzt gewechselt – und wurden dabei Beläge oder die gesamten Belagssätze ersetzt? Bei wie viel Kilometern auf dem Tacho ist das geschehen? Bei Rollern mit Scheibenbremsen vorne lohnt die Frage nach der Bremsflüssigkeit, denn diese verliert über Jahre an Wirkung, auch wenn der Stand im Behälter unverändert bleibt.",
+        "Fragen zu den Reifen schließen sich an: Wie alt ist die Bereifung, und wann wurde der Druck zuletzt geprüft? Reifen altern unabhängig von der Laufleistung – Gummi wird spröde, Profilrillen verhärten – und das Herstellungsdatum steht auf der Flanke jedes Reifens in Form einer Kennung. Ein Verleiher, der diese Frage nicht nur beantworten, sondern zeigen kann, verdient Vertrauen; einer, der sie abwiegelt, gibt dir eine Information, die du nicht haben wolltest."
+      ]
+    },
+    {
+      "heading": "Fragen zu Motor, Kette und Elektrik",
+      "paragraphs": [
+        "Bei Schaltmotorrädern gehört die Kette zum Kernbestand der Wartung: Wann wurde sie zuletzt gespannt und geschmiert, und wie wird mit dem Spiel umgegangen? Eine zu lockere Kette springt bei Belastung ab, eine zu straffe frisst Kraft und verschleißt Lager – die Antwort zeigt dir, ob hier jemand regelmäßig hinschaut. Bei Rollern mit stufenlosem Getriebe tritt an die Stelle die Frage nach dem Variomatik-Riemen, der ebenfalls Intervalle hat.",
+        "Zur Elektrik genügt eine Frage, die mehrere Bausteine prüft: Funktionieren Licht, Hupe, Blinker und Bremslicht vollständig – und gab es in jüngerer Zeit Aussetzer? Die Antwort ist eine Momentaufnahme des gesamten Elektronikzustands, und sie gibt dir die Gelegenheit, bei zögernden Antworten selbst zu prüfen, was ohnehin zu deinem Übergabe-Ritual gehört."
+      ]
+    },
+    {
+      "heading": "Fragen zu Intervallen und zur Werkstatt",
+      "paragraphs": [
+        "Wartung findet in Intervallen statt, und die Frage danach zeigt, ob ein Betrieb plant oder flickt: Wann ist die nächste planmäßige Wartung des Fahrzeugs fällig – und fällt sie in deine Mietdauer? Ein Roller, dessen nächste Inspektion mitten in deine geplante Woche fällt, ist kein Grund zur Ablehnung, aber ein Grund nachzufragen, wie damit umgegangen wird. Ein Verleiher mit Antwort hat den Fall bedacht.",
+        "Frage danach, wo die Werkstatt des Betriebs liegt und was im Pannenfall passiert: Wird abgeholt, wird ein Ersatzfahrzeug gestellt, und bis wohin? Diese Frage verbindet die Wartungsperspektive mit der Praxis deiner Miete – und sie gibt dir eine Vorstellung davon, wie weit die Verantwortung des Verleihers reicht, bevor du sie selbst übernehmen müsstest."
+      ]
+    },
+    {
+      "heading": "Antworten einordnen und notieren",
+      "paragraphs": [
+        "Nicht jede Antwort muss präzise sein – ein kleiner Verleih mit drei Rollern wird keine Wartungssoftware führen. Aber jede Antwort sollte von jemandem kommen, der sein Fahrzeug kennt: „Der Belag ist vor zwei Monaten gewechselt worden“ ist eine gute Antwort, auch ohne Kilometerangabe; „Der ist doch okay“ ist keine Antwort, sondern eine Abfuhr. Ordne die Antworten nach diesem Maßstab, nicht nach technischer Vollständigkeit.",
+        "Halte die wichtigsten Angaben in deinem Übergabeprotokoll fest – Wartungsstand, genannte Intervalle, die Antwort zur Pannenabholung. Diese Notizen geben späteren Gesprächen Rückgrat, und sie erinnern dich daran, was du bei der Abholung erfahren hast. So bleiben die Wartungsfragen das, was sie sein sollen: ein Werkzeug, das dir die Anmietung in Hanoi sicherer macht, ohne sie zu verlangsamen."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

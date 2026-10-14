@@ -1,0 +1,63 @@
+{
+  "id": "DE-180",
+  "hub": "technik-wartung",
+  "title": "Technik-Checkliste vor der Rückgabe",
+  "slug": "technik-checkliste-vor-der-rueckgabe",
+  "status": "IDEA",
+  "priority": 20,
+  "keywordHypothesis": "technik-checkliste vor der rückgabe",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Technik-Checkliste vor der Rückgabe: Fahrzeugzustand dokumentieren, Mängel benennen, Kraftstoffregelung klären und die Rückgabe in Hanoi sauber abschließen.",
+  "excerpt": "Die Rückgabe ist die letzte Prüfung der Miete – und die meistunterschätzte. Diese Checkliste hilft, den Technikteil der Rückgabe in wenigen Minuten sauber abzuschließen.",
+  "sections": [
+    {
+      "heading": "Warum die Rückgabe eine Prüfung ist",
+      "paragraphs": [
+        "Die Rückgabe eines Mietfahrzeugs wird oft als Formalität behandelt – Schlüssel übergeben, Unterschrift leisten, fertig. Tatsächlich ist die Rückgabe die zweite Übergabe der Miete, mit demselben Gewicht wie die erste: Der Zustand, den du jetzt dokumentierst, ist die Grundlage jeder späteren Frage. Ein Kratzer, über den bei der Rückgabe geschwiegen wird, gehört aus Sicht des Protokolls zu deiner Miete – egal wann er entstanden ist.",
+        "Die Technik-Checkliste für die Rückgabe ist deshalb das Spiegelbild der Abholung: dieselben Kontrollpunkte, dieselbe Reihenfolge, nur mit umgekehrter Beweisrichtung. Wer bei der Abholung Fotos und Notizen gemacht hat, braucht für die Rückgabe keine halbe Stunde – sondern zehn Minuten, die die Kaution und den guten Abschluss der Miete sichern."
+      ]
+    },
+    {
+      "heading": "Fahrzeugzustand sichten und dokumentieren",
+      "paragraphs": [
+        "Geh vor der Rückgabe einmal komplett um den Roller und vergleiche den Zustand mit deinen Aufnahmen von der Abholung: Frontverkleidung, Lenkerenden, Spiegel, Sitzbank, Heck, Auspuff, Ständer. Mach erneut Fotos von allen vier Seiten und von jeder Stelle, die sich verändert hat – Datum und Uhrzeit stimmen lassen wie am ersten Tag. Neue Schäden, die während der Miete entstanden sind, gehören im eigenen Interesse ins Protokoll: Verschwiegener Schaden wird immer teurer als benannter.",
+        "Prüfe danach den Untergrund: Stand der Roller auf einem Fleck, der Öl oder Kraftstoff zeigt, war der Fleck vor der Abholung sauber, notiere es. Undichte Stellen sind technische Mängel, die dem Verleiher gehören – vorausgesetzt, sie sind dokumentiert. Eine kurze Notiz mit Datum beendet die Frage, wer den Fleck verursacht hat."
+      ]
+    },
+    {
+      "heading": "Funktionen im letzten Durchgang prüfen",
+      "paragraphs": [
+        "Der letzte Funktionsdurchgang vor der Rückgabe umfasst Licht, Blinker, Hupe und Bremsen – die Reihenfolge, die du von der Abholung kennst, einmal komplett. Der Sinn ist doppelt: Du bestätigst dem Verleiher den funktionierenden Zustand, und du entdeckst Mängel, die während der Miete entstanden sind, solange du noch in der Verantwortung stehst. Ein Mangel, den der Verleiher erst nach deiner Abreise entdeckt, wird ohne deine Schilderung beurteilt.",
+        "Prüfe auch die Bedienelemente, die im Alltag unsichtbar bleiben: Gasgriff-Rückstellung, Lenkerspiel, Sitzbankverriegelung, Staufach-Funktion. Die Prüfung dauert Minuten, und sie rundet das Bild ab, das dein Übergabeprotokoll zeichnet: ein Fahrzeug, das von beiden Seiten betrachtet wurde, bei der Abholung und bei der Rückgabe."
+      ]
+    },
+    {
+      "heading": "Kraftstoff, Kilometerstand und Kaution",
+      "paragraphs": [
+        "Kläre die Kraftstofffrage vor der Schlüsselübergabe: Wie wurde der Tank bei der Übergabe übergeben – voll, leer, auf einer Markierung – und wie wird die Rückgabe verrechnet? Die Antwort steht im Mietvertrag, und sie gehört in die Rückgabeaufzeichnung, mit einem Foto vom Tankanzeige-Zustand. Dasselbe gilt für den Kilometerstand: Halte ihn schriftlich und im Bild fest, denn er ist die Messgröße für die Abrechnung der Miete.",
+        "Die Kaution wird im letzten Schritt zurückgeführt – und hier zahlt sich die Sorgfalt der ersten Schritte aus. Das Auswärtige Amt rät in seinen Hinweisen, den Reisepass nie als Pfand zu hinterlegen; eine Kaution, die korrekt eingeräumt und dokumentiert wurde, lässt sich sauber zurückführen. Lass dir die Rückgabe der Kaution quittieren oder zumindest im Protokoll vermerken, so dass keine Zahlung offen bleibt, wenn du gehst."
+      ]
+    },
+    {
+      "heading": "Das Protokoll abschließen und gehen",
+      "paragraphs": [
+        "Das Rückgabeprotokoll verdient dieselbe Sorgfalt wie das Übergabeprotokoll: Datum, Uhrzeit, Kilometerstand, Kraftstoffstand, Zustandsnotizen, Vereinbarungen zur Kaution, Name des Empfängers. Wer eine Übergabe sauber dokumentiert hat, sollte die Rückgabe nicht dem Zufall überlassen – beide Seiten brauchen dieselbe Klarheit, nur eben in der anderen Richtung.",
+        "Behalte eine Kopie des Protokolls und deine Fotos, bis die Kaution vollständig zurückgefahren ist und keine Fragen mehr offen sind. Erst dann ist die Miete wirklich abgeschlossen – mit einem Fahrzeug, das du abgeholt und zurückgegeben hast, so wie es der Vertrag beschreibt, und mit einer Spur aus Dokumenten, die dich auf jeder Stufe dieser Miete getragen hat."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
