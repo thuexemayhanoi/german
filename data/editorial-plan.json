@@ -2166,22 +2166,22 @@
       "hub": "nachhaltig-reisen",
       "title": "Wetter und persönliche Grenzen respektieren",
       "slug": "wetter-und-persoenliche-grenzen-respektieren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 17,
       "keywordHypothesis": "wetter und persönliche grenzen respektieren",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/wetter-und-persoenliche-grenzen-respektieren/"
     },
     {
       "id": "DE-198",
       "hub": "nachhaltig-reisen",
       "title": "Fotostopps ohne Verkehrsbehinderung",
       "slug": "fotostopps-ohne-verkehrsbehinderung",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 18,
       "keywordHypothesis": "fotostopps ohne verkehrsbehinderung",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/fotostopps-ohne-verkehrsbehinderung/"
     },
     {
       "id": "DE-199",
