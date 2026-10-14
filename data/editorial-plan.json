@@ -1770,22 +1770,22 @@
       "hub": "technik-wartung",
       "title": "Reifen vor der Abholung ansehen",
       "slug": "reifen-vor-der-abholung-ansehen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 1,
       "keywordHypothesis": "reifen vor der abholung ansehen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/reifen-vor-der-abholung-ansehen/"
     },
     {
       "id": "DE-162",
       "hub": "technik-wartung",
       "title": "Licht und Blinker einfach prüfen",
       "slug": "licht-und-blinker-einfach-pruefen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 2,
       "keywordHypothesis": "licht und blinker einfach prüfen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/licht-und-blinker-einfach-pruefen/"
     },
     {
       "id": "DE-163",
