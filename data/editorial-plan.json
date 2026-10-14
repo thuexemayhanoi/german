@@ -230,22 +230,22 @@
       "hub": "mietpreise-kaution",
       "title": "Tagesmiete oder Langzeitmiete: was vergleichen?",
       "slug": "tagesmiete-oder-langzeitmiete-was-vergleichen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 1,
       "keywordHypothesis": "tagesmiete oder langzeitmiete: was vergleichen?",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/tagesmiete-oder-langzeitmiete-was-vergleichen/"
     },
     {
       "id": "DE-022",
       "hub": "mietpreise-kaution",
       "title": "Mietpreis in Hanoi: welche Leistungen zählen?",
       "slug": "mietpreis-in-hanoi-welche-leistungen-zaehlen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 2,
       "keywordHypothesis": "mietpreis in hanoi: welche leistungen zählen?",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/mietpreis-in-hanoi-welche-leistungen-zaehlen/"
     },
     {
       "id": "DE-023",
