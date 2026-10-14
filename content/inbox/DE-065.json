@@ -1,0 +1,63 @@
+{
+  "id": "DE-065",
+  "hub": "sicherheit-verkehr",
+  "title": "Abstand und Bremsweg bewusst einschätzen",
+  "slug": "abstand-und-bremsweg-bewusst-einschaetzen",
+  "status": "IDEA",
+  "priority": 5,
+  "keywordHypothesis": "abstand und bremsweg bewusst einschätzen",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Abstand und Bremsweg auf dem Zweirad bewusst einschätzen: Faustregeln für den Sicherheitsabstand, Bremswege auf verschiedenen Belägen und das Training vor der Fahrt.",
+  "excerpt": "Der Bremsweg ist keine Theorie, sondern Sturz- oder Schutzdistanz – und er verändert sich mit Tempo, Belag und Wetter. Wer Abstände bewusst wählt, fährt mit einer unsichtbaren Sicherheitszone. Dieser Ratgeber liefert die Faustregeln.",
+  "sections": [
+    {
+      "heading": "Warum Abstand die billigste Sicherheit ist",
+      "paragraphs": [
+        "Der Abstand zum Vordermann ist die einzige Sicherheitszone, die Sie jederzeit vergrößern können – ohne Ausrüstung, ohne Training, ohne Kosten. Ein Zweirad hat keine Knautschzone, und sein wichtigster Schutz ist die Strecke, die zwischen Ihnen und dem Problem liegt. Wer diese Strecke klein hält, tauscht Sicherheit gegen Sekunden – ein schlechter Kurs bei jedem Wetter.",
+        "Die Regel ist einfach: Abstand müssen Sie haben, bevor Sie ihn brauchen. In dichtem Verkehr wird der Sicherheitsabstand gern von anderen Fahrzeugen besetzt – Lücken, die Sie lassen, werden zugunsten von Vorwärtsdrang geschlossen. Das ist kein Grund, den Abstand aufzugeben, sondern ein Grund, ihn beharrlich wiederherzustellen: Jedes Zurückfallen um eine Fahrzeuglänge ist ein Kauf von Sicherheit zum Preis einer Sekunde."
+      ]
+    },
+    {
+      "heading": "Faustregeln für den Sicherheitsabstand",
+      "paragraphs": [
+        "Für den Abstand gilt eine bewährte Faustregel: Mindestens zwei Sekunden Zeitabstand zum Vordermann, im Regen und auf rutschigem Belag verdoppelt. Die Sekunden messen Sie an einem festen Punkt – einer Laterne, einem Schild – : Wenn das Fahrzeug vor Ihnen den Punkt passiert, zählen Sie still mit. Wenn Ihr Fahrzeug den Punkt erreicht, bevor die volle Zahl gesprochen ist, ist der Abstand zu klein.",
+        "Der Zeitabstand hat einen Vorteil gegenüber Meterangaben: Er passt sich dem Tempo an und funktioniert in jedem Verkehr. Zwei Sekunden bedeuten bei Schritttempo wenige Meter, auf der Landstraße eine Strecke, die Sie überblicken müssen. Und die doppelte Zeit im Regen ist keine Übertreibung – nasse Beläge verlängern die Bremswege deutlich, und die Reaktionszeit bleibt gleich."
+      ]
+    },
+    {
+      "heading": "Bremswege verstehen, nicht nur erahnen",
+      "paragraphs": [
+        "Ein Bremsweg besteht aus zwei Teilen: der Reaktionsstrecke, die Sie zurücklegen, während Ihr Fuß zum Bremspedal wandert, und der Bremsstrecke selbst. Beide wachsen mit dem Tempo – und zwar quadratisch: Doppelte Geschwindigkeit bedeutet rund vierfache Bremsstrecke. Wer das kennt, fährt Kurven und Kreuzungen anders an als wer es nur ahnt.",
+        "Der Belag verschiebt die Rechnung weiter: Nasse Fahrbahn, Gullideckel, Farbmarkierungen, Sand und frischer Teer verlängern die Bremsstrecke oder reduzieren die Haftung in Kurven. Dazu kommt die Besonderheit des Zweirads: Ein blockiertes Vorderrad bedeutet in den allermeisten Fällen einen Sturz. Die Konsequenz ist dosiertes Bremsen – früh, gleichmäßig, mit beiden Bremsen – statt spontaner Vollbremsung."
+      ]
+    },
+    {
+      "heading": "Die eigene Bremse vor der Fahrt kennenlernen",
+      "paragraphs": [
+        "Jedes Mietfahrzeug bremst anders: Hebelweg, Pedaldruck, die Verteilung zwischen vorne und hinten. Testen Sie die Bremse bei jeder Anmietung auf einer ruhigen Straße – dosiert anfahren, in kontrollierter Umgebung leicht bremsen, die Reaktion spüren. Zwei Minuten Gewöhnung ersetzen keine Fahrprüfung, aber sie nehmen der ersten Notbremsung das Überraschungsmoment.",
+        "Wiederholen Sie den Test nach einem Fahrzeugwechsel – bei Mitfahrern, nach Reifenwechsel, nach Regenbeginn. Wer die Wirkungsweise seiner Bremsen aus dem Gedächtnis falsch kalibriert hat, korrigiert diese Schätzung in der Situation, in der es zählt – oder gar nicht. Der Test gehört zu den kleinen Routinen, die große Momente verhindern."
+      ]
+    },
+    {
+      "heading": "Abstand als Gesamthaltung im Verkehr",
+      "paragraphs": [
+        "Denken Sie Abstand weiter als nur nach vorne: Seitenabstand zu parkenden Fahrzeugen – Türen öffnen sich – und zu Bussen an Haltestellen; Abstand beim Vorbeifahren an Kreuzungen, wo Querverkehr einmündet; Abstand zu Fußgängern, die zwischen Fahrzeugen hervortreten. Das Auswärtige Amt beschreibt den Verkehr in Vietnam als dicht und fordernd und rät zu defensiver Fahrweise – Abstand ist der Kern dieser Empfehlung.",
+        "Und ein letzter Gedanke zur eigenen Route: Wer Abstände halten will, braucht Fahrzeiten ohne Zeitdruck. Der häufigste Feind des Abstands ist der Fahrplan – wer drei Minuten gutmachen muss, fährt dichter, schneller und riskanter. Planen Sie Puffer ein, und der Abstand bleibt erhalten, ohne dass Sie ihn verteidigen müssen. Die offizielle Tourismusseite Vietnam Travel hilft bei der Planung von Fortbewegung im Land – mit Puffer wird aus einer Abstandregel eine entspannte Fahrweise."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "DE-061",
+  "hub": "sicherheit-verkehr",
+  "title": "Helm richtig auswählen: Passform und Sicht",
+  "slug": "helm-richtig-auswaehlen-passform-und-sicht",
+  "status": "IDEA",
+  "priority": 1,
+  "keywordHypothesis": "helm richtig auswählen: passform und sicht",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Helm richtig auswählen: Passform prüfen, Sichtfeld beurteilen und Miet-Helme kritisch kontrollieren – die Grundlagen für einen Helm, der im Ernstfall trägt.",
+  "excerpt": "Ein Helm ist nur so gut wie seine Passform: Zu groß rutscht er im Moment des Aufpralls, zu klein drückt er nach Minuten. Dieser Ratgeber zeigt, wie Sie einen Helm prüfen – auch den, den Sie vom Verleiher erhalten.",
+  "sections": [
+    {
+      "heading": "Warum die Passform über den Schutz entscheidet",
+      "paragraphs": [
+        "Ein Helm schützt nicht durch seine Schale allein, sondern durch die Verbindung aus Schale, Polster und Kopf. Ein Helm, der zu groß ist, wandert bei einem Aufprall aus der Position, die er schützen soll – die Energie landet am Schädel statt in der Struktur. Ein Helm, der zu klein ist, drückt und wird dadurch bei warmem Wetter schnell abgesetzt – und ein Helm, der am Gepäckträger sitzt, schützt überhaupt nicht.",
+        "In Vietnam ist das Tragen eines Helms verpflichtend, wie das Auswärtige Amt in seinen Hinweisen festhält. Diese Pflicht ist kein bürokratischer Selbstzweck: Die Zahl der schweren Kopfverletzungen sinkt mit konsequenter Helmnutzung messbar. Die Pflicht gilt für Fahrer und Mitfahrer – wer seinen Helm sorgfältig wählt, setzt sie so um, dass sie ihren Sinn erfüllt."
+      ]
+    },
+    {
+      "heading": "Die Passform in vier Schritten prüfen",
+      "paragraphs": [
+        "Erster Schritt: Setzen Sie den Helm auf und lassen Sie das Kinnband schließen – nicht überstreckt, sondern fest. Der Helm soll den Kopf umschließen, ohne Druckstellen; Wangenpolster spürbar, aber nicht erdrückend. Zweiter Schritt: Schütteln Sie den Kopf kräftig. Der Helm darf nicht wandern, nicht drücken und nicht am Hinterkopf abheben.",
+        "Dritter Schritt: Greifen Sie den Helm mit beiden Händen und versuchen Sie, ihn bei geschlossenem Band vom Kopf zu ziehen. Widerstand ist richtig, Abnehmen ohne Kraft ist ein Warnzeichen. Vierter Schritt: Tragen Sie den Helm zwei Minuten – Drückt es nach dieser Zeit an einer Stelle, passt der Helm nicht. Eine Passform, die sich in zwei Minuten bemerkbar macht, wird auf dreistündiger Fahrt zur Qual."
+      ]
+    },
+    {
+      "heading": "Das Sichtfeld nicht dem Zufall überlassen",
+      "paragraphs": [
+        "Die zweite Hälfte des Titels ist kein Nebenpunkt: Das Sichtfeld entscheidet über die Sicherheit im Verkehr. Ein Helm mit schmalem Visier oder stark abfallenden Rändern beschneidet die periphere Sicht – genau die Sicht, mit der Sie in dichtem Verkehr Fahrzeuge an der Seite wahrnehmen, die im toten Winkel der Spiegel beginnen. Prüfen Sie das Sichtfeld, indem Sie nach links und rechts schauen: Die Umgebung soll ohne Kopfdrehen bis zu den Ohrhöhen sichtbar sein.",
+        "Bei Helmen mit Visier gilt eine zusätzliche Prüfung: Kratzer, Trübungen und Streifen im Visier zerstreuen das Licht von Gegenverkehr und Laternen. Ein Visier, das nachts Streifen zieht, ist ein Sicherheitsrisiko, das Sie am Tag nicht sehen. Das Auswärtige Amt weist darauf hin, dass viele Unfälle in Vietnam nach Einbruch der Dunkelheit geschehen – ein klares Visier ist also kein Komfortdetail, sondern Teil der Nachttauglichkeit."
+      ]
+    },
+    {
+      "heading": "Miet-Helme kritisch kontrollieren",
+      "paragraphs": [
+        "Der Helm des Verleihers ist ein Gebrauchsgegenstand mit Geschichte: Er hat Köpfe getragen, ist gefallen, vielleicht gestoßen und gelagert worden. Prüfen Sie ihn wie einen eigenen: Außenschale ohne Risse, Polster ohne Zersetzungen, Kinnband ohne ausgeleierte Verschlüsse. Bewegt sich die Außenschale gegen die Innenschale, ist der Helm vermutlich einmal hart getroffen – die Schutzwirkung ist dann stark gemindert.",
+        "Passt der Miet-Helm nicht oder wirkt er beschädigt, dann fordern Sie einen anderen. Das ist keine überzogene Forderung, sondern die Grundausstattung einer Anmietung – ein seriöser Verleiher hält Helmgrößen vor und wechselt ohne Diskussion. Wenn nicht: Ein eigener Helm ist ein sinnvolles Reisegepäckstück. Er wiegt wenig, passt in jeden Rucksack und ist das einzige Ausrüstungsteil, das Sie bei jedem Kilometer tragen."
+      ]
+    },
+    {
+      "heading": "Der Helm ist Teil der Fahrkultur",
+      "paragraphs": [
+        "Behandeln Sie den Helm als Werkzeug, nicht als lästige Pflicht: Band schließen vor jeder Fahrt, Helm ablegen erst am Ziel, Helm nicht auf dem Spiegel ablegen, wo er fällt. Die Handtaschen auf dem Gepäckträger sind ohnehin ein Risiko – das Auswärtige Amt warnt vor Handtaschenraub durch vorbeifahrende Roller – also verstauen Sie Helm und Wertgegenstände verschlossen, wenn Sie absteigen.",
+        "Und noch ein Hinweis für die Route: Planen Sie Fahrten mit den Lichtzeiten. Ein gut sitzender Helm mit klarem Visier, eine funktionierende Beleuchtung am Fahrzeug und eine Route, die ihr Ziel vor der Dunkelheit erreicht – diese drei zusammen ergeben das Fahrprofil, das die Unfallstatistik der Nacht meidet. Der richtige Helm ist der erste Schritt; die kluge Fahrt ist der zweite."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

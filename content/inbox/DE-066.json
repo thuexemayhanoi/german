@@ -1,0 +1,63 @@
+{
+  "id": "DE-066",
+  "hub": "sicherheit-verkehr",
+  "title": "Kreuzungen in Hanoi vorsichtig angehen",
+  "slug": "kreuzungen-in-hanoi-vorsichtig-angehen",
+  "status": "IDEA",
+  "priority": 6,
+  "keywordHypothesis": "kreuzungen in hanoi vorsichtig angehen",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Kreuzungen in Hanoi vorsichtig angehen: Anfahrt mit Blickkontakt, Querverkehr einschätzen und Ampeln richtig lesen – Strategien für die heikelsten Punkte der Stadt.",
+  "excerpt": "Kreuzungen sind die Brennpunkte des Verkehrs – hier kreuzen sich Wege, Absichten und Fehler. In Hanoi kommen eigene Gewohnheiten dazu. Dieser Ratgeber zeigt, wie Sie Kreuzungen vorsichtig und gelassen überqueren.",
+  "sections": [
+    {
+      "heading": "Warum Kreuzungen die kritischen Punkte sind",
+      "paragraphs": [
+        "Auf gerader Strecke ist Verkehr vorhersagbar: Alle fahren in eine Richtung, und Konflikte entstehen nur durch Tempo. An Kreuzungen bricht diese Vorhersagbarkeit auf – Fahrzeuge kommen aus vier Richtungen, biegen ab, warten oder setzen sich durch, und Fußgänger queren zwischen den Strömen. Ein Großteil der Konflikte im Stadtverkehr entsteht an diesen Punkten, und wer sie vorsichtig angeht, meidet die häufigsten Unfallsituationen.",
+        "In Hanoi kommt die schiere Dichte hinzu: Kreuzungen verbinden mehrere Fahrspuren mit Bussen, Autos, Rollern und Fußgängern in stetem Wechselspiel. Das Auswärtige Amt beschreibt den Straßenverkehr in Vietnam als fordernd und rät ausdrücklich zu defensiver Fahrweise – an Kreuzungen zeigt sich, was diese Empfehlung praktisch bedeutet: langsam heran, weit schauen, Recht nicht erzwingen."
+      ]
+    },
+    {
+      "heading": "Die Anfahrt: Tempo früh abbauen",
+      "paragraphs": [
+        "Die wichtigste Technik beginnt vor der Kreuzung: Reduzieren Sie das Tempo, bis Sie den Bereich überblicken können. Ein Kreuzungsbereich, der mit Schritttempo befahren wird, ist eine lösbare Aufgabe; derselbe Bereich mit Geschwindigkeit ist ein Glücksspiel. Wer langsam heranfährt, gewinnt Zeit zum Schauen – und die anderen Verkehrsteilnehmer können Ihre Absicht erkennen und einordnen.",
+        "Nutzen Sie die Anfahrt für die vollständige Übersicht: Blick nach links, rechts, noch einmal nach links. Rechnen Sie mit Fahrzeugen, die aus Nebenstraßen schießen, ohne die Hauptstraße zu prüfen – das ist keine Bosheit, sondern Gewohnheit in engen Nebenstraßen. Wer mit diesen Mustern rechnet, wird nicht von ihnen überrascht; wer von Regeln ausgeht, wird von Tatsachen überrascht."
+      ]
+    },
+    {
+      "heading": "Blickkontakt und Sichtbarkeit statt Vorfahrts-Denken",
+      "paragraphs": [
+        "An Kreuzungen in Hanoi zählt weniger die Vorfahrt auf dem Papier als die Verständigung im Moment: Suchen Sie Blickkontakt mit den Fahrern, deren Wege sich mit Ihrem kreuzen. Ein Fahrer, der Sie angesehen hat, hat Sie wahrgenommen – ein Fahrer, der wegschaut oder auf sein Handy blickt, hat Sie nicht. Diese Unterscheidung ist an Kreuzungen wichtiger als jede Regel im Kopf.",
+        "Machen Sie sich selbst sichtbar: Positionieren Sie sich so, dass Querverkehr Sie früh sieht, und zögern Sie nicht, mit einer kurzen Hupe auf Ihre Anwesenheit hinzuweisen, wo es üblich ist. Für sicheren Zweiradverkehr ist Sichtbarkeit die halbe Vorfahrt. Und wenn ein Bus oder Lkw Ihre Position verdeckt – warten Sie, bis das Feld frei ist; hinter einem großen Fahrzeug beginnt die Sicht plötzlich."
+      ]
+    },
+    {
+      "heading": "Ampeln und Besonderheiten richtig lesen",
+      "paragraphs": [
+        "Ampeln an großen Kreuzungen regeln den Fluss – aber sie regeln ihn nicht vollständig: Abbiegende Fahrzeuge, die nach der Ampel queren, Fußgänger, die bei Rot weiterlaufen, und Fahrzeuge, die in der letzten Sekunde des Gelblichts noch beschleunigen. Behandeln Sie die Ampel als Hinweis, nicht als Garantie: Grün heißt, dass Sie fahren dürfen – nicht, dass Sie gefahrlos fahren.",
+        "Beachten Sie außerdem die Verkehrsbeschilderung, wo sie existiert: Einbahnstraßen, Abbiegeverbote und Sperrzeiten gehören zum Bild der Stadt, und wer sie ignoriert, riskiert nicht nur Konflikte mit der Ordnung, sondern mit dem Verkehr, der die Regeln kennt. Wer unsicher ist, orientiert sich am Verhalten der lokalen Rollerfahrer – nicht in Tempo und Aggressivität, sondern in Route und Wahl der Spur."
+      ]
+    },
+    {
+      "heading": "Ruhe an Kreuzungen – auch bei Gegenverkehr",
+      "paragraphs": [
+        "Die häufigste Fehlerkette an Kreuzungen beginnt mit Überraschung und endet mit Hektik: Ein Fahrzeug zieht unvermittelt los, der Fahrer reißt den Lenker, das Heck bricht aus. Die Gegenstrategie ist Vorfreude auf Langsamkeit – wer an Kreuzungen mit festem Plan und ruhigen Händen fährt, reagiert auf Überraschungen mit Bremsen statt mit Lenken. Bremsen hält Sie aufrecht; hektisches Lenken nicht immer.",
+        "Und wenn die Kreuzung vollkommen verstopft ist – Radfahrer, Rollerschwärme, Fußgänger ohne Ende – dann gilt: Stehen bleiben ist eine Position. Setzen Sie einen Fuß ab, warten Sie die Lücke ab, die Ihnen gehört. Minuten an einer Kreuzung kosten nichts; ein Konflikt im Kreuzungsbereich kann den ganzen Tag kosten. Das Auswärtige Amt rät für Vietnam zu Geduld und defensiver Fahrweise – an den Kreuzungen Hanois wird aus dieser Empfehlung eine Fahrtechnik."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
