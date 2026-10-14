@@ -3046,22 +3046,22 @@
       "hub": "reiseplanung",
       "title": "Wettersaison im Reisemonat vorab prüfen",
       "slug": "wettersaison-im-reisemonat-vorab-pruefen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 27,
       "keywordHypothesis": "wetter vietnam reisezeit",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/wettersaison-im-reisemonat-vorab-pruefen/"
     },
     {
       "id": "DE-278",
       "hub": "reiseplanung",
       "title": "Gruppenausflug mit mehreren Mietfahrzeugen koordinieren",
       "slug": "gruppenausflug-mit-mehreren-mietfahrzeugen-koordinieren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 28,
       "keywordHypothesis": "gruppe roller tour hanoi",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/gruppenausflug-mit-mehreren-mietfahrzeugen-koordinieren/"
     },
     {
       "id": "DE-279",
