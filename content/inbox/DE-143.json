@@ -1,0 +1,63 @@
+{
+  "id": "DE-143",
+  "hub": "reiseplanung",
+  "title": "Wichtige Fragen vor der Reservierung",
+  "slug": "wichtige-fragen-vor-der-reservierung",
+  "status": "IDEA",
+  "priority": 3,
+  "keywordHypothesis": "wichtige fragen vor der reservierung",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Wichtige Fragen vor der Reservierung eines Rollers: Modell, Kaution, Helm, Versicherung, Abholung und Stornierung – die Checkliste für die erste Nachricht.",
+  "excerpt": "Die besten Verträge entstehen vor der Buchung: Wer die richtigen Fragen stellt, weiß was er bekommt – und was nicht. Diese Checkliste gehört in deine erste Nachricht an den Verleiher.",
+  "sections": [
+    {
+      "heading": "Warum die Fragen vor der Buchung gehören",
+      "paragraphs": [
+        "Die Reservierung ist der Moment, in dem die Bedingungen noch verhandelbar sind: Nach der Buchung bist du Kunde, vorher bist du Interessent – und Interessenten können wählen. Gleichzeitig ist die Zeit vor der Buchung die einzige Phase, in der du Antworten vergleichen kannst: dieselbe Frage an zwei Verleiher, und der Unterschied in Klarheit, Tempo und Ton sagt mehr über den Alltag der Anmietung als jede Bewertungsseite.",
+        "Deshalb gehört die Fragenliste vor die Reservierung, nicht an die Abholung: Am Abholpunkt zählt der Zeitdruck, dein Gepäck steht dabei, und die Antwort „Das klären wir später“ ist dann eine Antwort, die dich nicht weiterbringt. Vor der Buchung hingegen kannst du jede unklare Antwort zum Anlass nehmen, den nächsten Verleiher zu fragen – das ist der ganze Vorteil der Reihenfolge."
+      ]
+    },
+    {
+      "heading": "Die Fragen zum Fahrzeug und zur Ausstattung",
+      "paragraphs": [
+        "Der erste Block gilt dem Fahrzeug: Welches Modell steht zur Verfügung, welches Baujahr, welcher Hubraum – und passt dieser Hubraum zu deiner Fahrerlaubnis? Das ist in Vietnam keine Formalität: Das Auswärtige Amt weist darauf hin, dass ein deutscher Führerschein der Klasse B keine zweirädrigen Fahrzeuge über 50 Kubikzentimeter abdeckt und die Klasse B196 in Vietnam nicht anerkannt ist. Wer diese Frage nicht stellt, fährt möglicherweise ohne gültige Erlaubnis – und das wiegt schwerer als jeder Preisunterschied.",
+        "Der zweite Block gilt der Ausstattung: Sind Helme dabei, in welcher Anzahl und in welchem Zustand? Gibt es einen Regenschutz, eine Handyhalterung, ein Werkzeugset? Und: Ist das Fahrzeug versichert – und wenn ja, was deckt die Versicherung, was nicht? Die Antwort auf die Versicherungsfrage gehört schriftlich, weil sie im Streitfall die teuerste ist."
+      ]
+    },
+    {
+      "heading": "Die Fragen zu Kaution, Preis und Abholung",
+      "paragraphs": [
+        "Der dritte Block gilt dem Geld: Wie hoch ist die Kaution, in welcher Form wird sie fällig – Bargeld, Block auf der Karte, Hinterlegung von Dokumenten? Und hier gleich die wichtigste Folgefrage: Wird der Reisepass als Sicherheit verlangt? Das Auswärtige Amt rät ausdrücklich davon ab, den Reisepass als Kaution zu hinterlassen – ein Verleiher, der das verlangt, scheidet damit aus deiner Auswahl aus.",
+        "Der vierte Block gilt der Logistik: Wo genau ist die Abholung, zu welchen Zeiten ist sie möglich, gibt es eine Rückgabe an einem anderen Punkt – und was kostet die Rückgabe außerhalb der Öffnungszeiten? Dazu die Preisfrage im vollen Umfang: Tagespreis, Kilometerbegrenzung, Tankregelung, Gebühren bei Verspätung. Ein Verleiher, der auf diese Fragen klare Zahlen nennt, hat sie vorher durchdacht – und genau daran erkennst du einen professionellen Betrieb."
+      ]
+    },
+    {
+      "heading": "Die Fragen zu Stornierung und Änderung",
+      "paragraphs": [
+        "Der fünfte Block gilt dem Plan B: Was passiert bei Stornierung, bei vorzeitiger Rückgabe, bei einer Panne unterwegs – übernimmt der Verleiher Bergung oder Ersatzfahrzeug, und zu welchen Kosten? Diese Fragen wirken pessimistisch, sind aber diejenigen, die im Problemfall den größten Unterschied machen. Ein Verleiher, der sie sauber beantwortet, zeigt, dass er den Problemfall kennt – einer, der sie abtut, zeigt, dass du ihn kennenlernen wirst.",
+        "Halte die Antworten fest: Nach dem Nachrichtenaustausch genügt eine kurze Zusammenfassung – „Also: Kaution in bar, Helm inklusive, Rückgabe am Hotel möglich“ – die du bestätigen lässt. Damit hast du die Reservierung mit Inhalt gefüllt, bevor der Vertrag unterschrieben ist, und der Übergabetag wird zur Abwicklung, nicht zur ersten Verhandlung."
+      ]
+    },
+    {
+      "heading": "Der Vergleich als letzte Frage",
+      "paragraphs": [
+        "Nach allen Fragen bleibt eine Entscheidung: Vergleiche zwei oder drei Anbieter nicht nur am Preis, sondern an der Vollständigkeit der Antworten. Der billigste Anbieter mit unklaren Antworten kostet im Streitfall mehr als der teurere mit klaren – und die Kaution, die einer verlangt, ist Teil des Preises, nicht sein Gegenstück.",
+        "Die offizielle Tourismusseite Vietnam Travel rät, Anbieter von Verkehrsdienstleistungen sorgfältig zu wählen; das Auswärtige Amt empfiehlt, Verträge vollständig zu prüfen und sich vor der Buchung zu informieren. Die Fragen vor der Reservierung sind genau diese Vorbereitung: Du prüfst, bevor du bindest – und wer so bucht, mietet zum zweiten Mal gern wieder beim selben Verleiher."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

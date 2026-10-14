@@ -1,0 +1,63 @@
+{
+  "id": "DE-142",
+  "hub": "reiseplanung",
+  "title": "Wie viel Fahrzeit realistisch einplanen?",
+  "slug": "wie-viel-fahrzeit-realistisch-einplanen",
+  "status": "IDEA",
+  "priority": 2,
+  "keywordHypothesis": "wie viel fahrzeit realistisch einplanen?",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Wie viel Fahrzeit du für eine Rollerfahrt in Vietnam realistisch einplanen solltest: Durchschnittsgeschwindigkeit, Pausen, Wetter und Puffer – mit klarer Rechnung.",
+  "excerpt": "Die Entfernung auf der Karte lügt: In Vietnam entscheidet nicht der Kilometer, sondern die Fahrzeit. Wer so plant, verpasst keinen Rückflug und keine Rückgabe – so rechnest du realistisch.",
+  "sections": [
+    {
+      "heading": "Warum die Karte dich täuscht",
+      "paragraphs": [
+        "Die Entfernungsangabe einer Karte ist eine Luftlinie mit Straßenverlauf – sie enthält keine Kreuzungen, keinen Baustellenverkehr, keine Regenpause und keinen Ochsenkarren auf der Landstraße. In Vietnam liegt die realistische Durchschnittsgeschwindigkeit auf einer Tour mit dem Roller oft deutlich unter der Zahl, die Navigations-Apps als Ankunftszeit zeigen: Sie rechnen oft für Autos und über Städte hinweg, nicht für Zweiräder im dichten Verkehr.",
+        "Die erste Regel heißt deshalb: Plane nach Fahrzeit, nicht nach Kilometern. Eine Strecke von fünfzig Kilometern kann in einer fließenden Stunde erledigt sein – oder in einem vollen Nachmittag, wenn der Weg durch Orte, über Märkte und über Straßen mit Baustellen führt. Die Frage lautet nicht „Wie weit ist es?“, sondern „Wie fließt der Verkehr auf dieser Strecke zu meiner Zeit?“"
+      ]
+    },
+    {
+      "heading": "Die Grundrechnung für Rollerfahrten",
+      "paragraphs": [
+        "Eine bewährte Faustformel für Touren im Norden Vietnams: Rechne auf Landstraßen mit einer mittleren Geschwindigkeit, die weit unter der Höchstgeschwindigkeit liegt – LKWs, Ortsdurchfahrten, Schlaglöcher und der Verkehr dazwischen setzen das Maß. Teile die geplante Strecke durch diese niedrige Zahl und du erhältst die reine Fahrzeit; die meisten Einsteiger rechnen mit dem Doppelten der Zeit, die sie aus Europa gewohnt sind.",
+        "Zur reinen Fahrzeit kommen die festen Zuschläge: eine Pause pro anderthalb Stunden Fahrzeit, ein Fotografierstopp, den jede Route bietet, plus eine halbe Stunde für alles Ungeplante – eine Umleitung, einen Regenschauer, eine Durststrecke ohne Stopp. Diese Zuschläge sind keine Verzögerung, sondern der Inhalt der Fahrt: Wer sie einplant, fährt die Tour, die er wollte – wer sie weglässt, hetzt die Tour, die die Karte versprochen hat."
+      ]
+    },
+    {
+      "heading": "Stadt, Land und Tageszeit",
+      "paragraphs": [
+        "Die Fahrzeit hängt stärker vom Ort als von der Strecke ab: In Hanoi selbst kosten kurze Wege viel Zeit – Kreuzungen, Ampeln, der Fluss aus Zweirädern, der sich mit Autos und Bussen mischt. Für Wege in der Stadt verdopple deine Schätzung; fünf Kilometer in der Altstadt sind keine zehn Minuten, sondern eine kleine Fahrt mit eigener Taktik. Auf dem Land fließt der Verkehr schneller, aber die Straße selbst bremst: Schlaglöcher, Ortsdurchfahrten und Baustellen wechseln im Minutentakt.",
+        "Die Tageszeit entscheidet mit: Der Morgen ist ruhig, der späte Nachmittag dicht – und nach Einbruch der Dunkelheit gehört die Fahrt beendet, weil das Auswärtige Amt darauf hinweist, dass ein Großteil der Unfälle nach Einbruch der Dunkelheit passiert. Plane Rückfahrten so, dass du das Ziel bei Tageslicht erreichst; der Puffer dafür gehört in die Rechnung, nicht in die Hoffnung."
+      ]
+    },
+    {
+      "heading": "Rückgabe und Anschlusstermine",
+      "paragraphs": [
+        "Die kritischste Zahl jeder Fahrzeitplanung ist die Rückgabe: Der Flieger, der Transfer, die Rückgabezeit beim Verleiher – wer für diese Termine keine klare Fahrzeit eingerechnet hat, rät am Ende der Fahrt den Zeitrahmen mit steigender Geschwindigkeit, und genau das ist die unsicherste Weise, Zweirad zu fahren. Rechne vom Termin rückwärts: Spätester Start gleich Termin minus realistische Fahrzeit minus Puffer.",
+        "Dieser Rückwärtsplan schützt auch die Vereinbarung mit dem Verleiher: Eine Verspätung, die du eine Stunde vorher ankündigst, ist eine Information – eine Verspätung, die erst beim Eintreffen sichtbar wird, ist ein Problem. Wer realistisch plant, kann rechtzeitig kommunizieren; wer optimistisch plant, kommuniziert unter Stress, und das ist der Anfang fast jeder unangenehmen Rückgabe."
+      ]
+    },
+    {
+      "heading": "Wetter und Reserven",
+      "paragraphs": [
+        "Das Wetter ist der unberechenste Faktor der Fahrzeit: Ein tropischer Schauer legt den Verkehr für eine halbe Stunde still – oder du wartest sowieso, weil nasse Fahrbahn und Roller keine gute Kombination sind. Plane für Touren im Regen eine Pause ein, die du nicht nehmen musst: eine Regenschutzpause als festen Posten, der bei gutem Wetter einfach Wegzeit wird.",
+        "Die offizielle Tourismusseite Vietnam Travel empfiehlt, Reisen mit dem Verkehr im Land vorsichtig und flexibel zu planen – und genau das ist die praktische Übersetzung: realistische Zeiten, feste Pausen, klare Rückwärtsrechnung und Reserven, die keinen Zweck erfüllen müssen, außer da zu sein. Wer seine Fahrzeit so einplant, kommt pünktlich an und kommt entspannt zurück – und das ist der eigentliche Zweck jeder Rechnung vor der Fahrt."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

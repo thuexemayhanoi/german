@@ -1,0 +1,63 @@
+{
+  "id": "DE-140",
+  "hub": "probleme-hilfe",
+  "title": "Persönliche Sicherheits- und Kontaktliste",
+  "slug": "persoenliche-sicherheits-und-kontaktliste",
+  "status": "IDEA",
+  "priority": 20,
+  "keywordHypothesis": "persönliche sicherheits- und kontaktliste",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Persönliche Sicherheits- und Kontaktliste für die Rollerfahrt: Nummern, Adressen und eigene Daten auf einem Blatt – vorbereitet, eingesteckt, griffbereit.",
+  "excerpt": "Im Ernstfall zählt nicht, was auf deinem Handy steht, sondern was du auch ohne Handy weißt. Eine persönliche Sicherheitsliste passt auf einen Zettel – und auf einen Zettel passt alles Wichtige.",
+  "sections": [
+    {
+      "heading": "Warum eine Liste auf Papier",
+      "paragraphs": [
+        "Die Notfallnummern der Rollerfahrt leben meist im Handy – und genau dort sind sie am verwundbarsten: Der Akku geht leer, das Gerät geht verloren, und das Auswärtige Amt warnt ausdrücklich vor Handtaschen- und Handyraub durch vorbeifahrende Täter. Eine Liste auf Papier funktioniert ohne Akku, ohne Netz und ohne Sprachkenntnis – wer sie findet, kann damit arbeiten, auch wenn du es nicht mehr kannst.",
+        "Deshalb ist die persönliche Sicherheits- und Kontaktliste ein eigenes Dokument, kein Auszug aus dem Adressbuch: Sie vereint alles, was in einem Ernstfall gebraucht wird, auf einem Blatt in der Größe einer Karte. Vorbereitet wird sie zu Hause, eingesteckt wird sie vor der ersten Fahrt, gelegen ist sie dort, wo du sie ohne Nachdenken findest."
+      ]
+    },
+    {
+      "heading": "Die Nummern, die darauf gehören",
+      "paragraphs": [
+        "Der obere Block der Liste gehört den Nummern für den Ernstfall: die Notrufnummer der Polizei, die Nummer für medizinische Notfälle, die Hotline deines Verleihers samt Zeiten der Erreichbarkeit und die Adresse samt Telefonnummer deiner Unterkunft – in Vietnamesisch oder Englisch notiert, damit Einheimische damit arbeiten können. Ergänze die Nummer deiner Reiseversicherung oder Assistance, falls du eine hast, und die Kontaktdaten der Botschaft deines Landes.",
+        "Der zweite Block gehört deiner Anbindung: Wer zu Hause über dich Bescheid wissen soll – eine Kontaktperson mit Nummer und, falls vorhanden, einem Messenger. Im Ernstfall ist diese Person deine Stimme nach außen; sie kann koordinieren, informieren und Entscheidungen abnehmen, wenn du selbst gerade damit ausgelastet bist."
+      ]
+    },
+    {
+      "heading": "Die eigenen Daten, die helfen",
+      "paragraphs": [
+        "Der dritte Block gehört dir selbst: Name in der Schreibweise deines Reisepasses, Blutgruppe, wenn du sie kennst, bekannte Allergien, dauerhaft eingenommene Medikamente, deine Versicherungsgesellschaft mit Vertragsnummer. Diese Zeilen wirken übertrieben, bis sie gebraucht werden – dann sind sie die schnellste medizinische Vorgeschichte, die es gibt, und beugen Fehlbehandlungen vor.",
+        "Dazu die Daten deiner Unterkunft: Name, Adresse, eine markierte Stelle auf einer kleinen Karte. Nach einem Unfall oder einer Panne weit außerhalb des Zentrums hilft die Frage „Wohin?“ mehr als jede andere – und die Antwort muss auf dem Blatt stehen, nicht in einem App-Konto, das gerade nicht lädt."
+      ]
+    },
+    {
+      "heading": "Aufbewahrung: zwei Orte, ein Blatt",
+      "paragraphs": [
+        "Die Liste funktioniert nur, wenn du sie findest: Bewahre sie an zwei Orten auf – einmal gefaltet in der Brusttasche oder am Körper getragen, einmal fest im Gepäck oder unter der Sitzbank des Fahrzeugs. Der Doppelort sichert gegen die klassischen Verlustwege: Tasche weg, Liste weg – Körper und Gepäck gleichzeitig zu verlieren, ist deutlich seltener.",
+        "Halte die Liste vom Rest getrennt: nicht zwischen Werbezetteln, nicht in der Hülle mit Karten, die zusammen mit der Tasche abhandenkommen. Ein Laminiert oder eine einfache Tüte um das Blatt schützt vor Regen und Schweiß – die Liste muss lesbar sein, wenn alles andere gerade schwierig ist, und das verlangt nur wenige Cent Vorbereitung."
+      ]
+    },
+    {
+      "heading": "Vorbereitung als Teil der Reiseplanung",
+      "paragraphs": [
+        "Der beste Zeitpunkt für die Liste ist der Vortag der ersten Fahrt: Nummern prüfen, Adressen eintragen, das Blatt ausdrucken oder abschreiben und die zwei Orte bestücken. Nimm die Liste auch in die Probefahrt: Nichts prüft ein System besser als der erste echte Einsatz, und wenn dabei auffällt, dass eine Nummer fehlt, ist es die günstigste Gelegenheit, es zu merken.",
+        "Das Auswärtige Amt empfiehlt, sich vor Reisen sorgfältig zu informieren und Vorsorgemaßnahmen zu treffen; die offizielle Tourismusseite Vietnam Travel nennt Nummern und Hinweise für den Ernstfall im Land. Eine persönliche Sicherheits- und Kontaktliste übersetzt genau diese Empfehlung auf ein Blatt Papier: Vorbereitung, die ohne Strom, ohne Netz und ohne Sprache funktioniert – für den Fall, den niemand plant."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
