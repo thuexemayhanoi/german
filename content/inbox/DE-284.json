@@ -1,0 +1,63 @@
+{
+  "id": "DE-284",
+  "hub": "technik-wartung",
+  "title": "Reifendruck und Profiltiefe ohne Werkzeug beurteilen",
+  "slug": "reifendruck-und-profiltiefe-ohne-werkzeug-beurteilen",
+  "status": "IDEA",
+  "priority": 24,
+  "keywordHypothesis": "reifendruck profil roller",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Reifen sind dein einziger Kontakt zur Straße. Lies, wie du Reifendruck und Profiltiefe ohne Werkzeug beurteilst und welche Anzeichen du beim Vermieter ansprichst.",
+  "excerpt": "Profil und Druck entscheiden über Bremsweg und Haftung. Lies, wie du beide ohne Werkzeug grob prüfst, welche Warnzeichen Reifen setzen und wie du mit dem Vermieter darüber sprichst.",
+  "sections": [
+    {
+      "heading": "Warum Reifen deine Sicherheit tragen",
+      "paragraphs": [
+        "Der Reifen ist das einzige Bauteil, das den Roller tatsächlich mit der Straße verbindet. Sein Zustand bestimmt Bremsweg, Haftung in Kurven und Verhalten bei Nässe. Eine kleine Prüfung bei der Übernahme dauert Minuten und sagt mehr über die Sicherheit des Fahrzeugs als jede Beschreibung im Prospekt.",
+        "Grobe Risse, herausstehende Fremdkörper oder eine abgefahrene Lauffläche erkennst du mit bloßem Auge. Genau deshalb gehört der Reifencheck zu den einfachsten und wichtigsten Schritten jeder Übergabe. Wer hier gründlich ist, fährt mit einem deutlich besseren Gefühl durch den vietnamesischen Verkehr."
+      ]
+    },
+    {
+      "heading": "Reifendruck ohne Messgerät abschätzen",
+      "paragraphs": [
+        "Ohne Druckmesser bleibt dir die fühlbare Prüfung. Drücke beide Reifen mit der flachen Hand kräftig zusammen: Ein ordnungsgemäß aufgepumpter Reifen gibt nur wenig nach, ein weicher Reifen federt spürbar. Vergleiche Vorder- und Hinterrad, denn ein deutlicher Unterschied fällt beim Fühlen sofort auf.",
+        "Frag den Vermieter nach dem empfohlenen Druck. Seriöse Stationen kennen die Werte ihrer Modelle und prüfen die Reifen regelmäßig, oder sie erlauben dir den Weg zu einer Tankstelle mit Luftspender. Der Aufwand ist gering, der Effekt auf Fahrverhalten und Verbrauch aber deutlich spürbar. Stimmt der Druck, fährt sich der Roller spürbar stabiler, und die Reifen verschleißen gleichmäßiger."
+      ]
+    },
+    {
+      "heading": "Profiltiefe mit einfachen Tricks beurteilen",
+      "paragraphs": [
+        "Für die Profiltiefe brauchst du keine Messlehre. Sieh dir die Rillen der Lauffläche an: Deutliche, gleichmäßige Rillen über die ganze Breite zeigen nutzbares Profil, glatte Stellen oder sichtbar liegende Verschleißanzeiger zeigen das Gegenteil. Betrachte beide Reifen an mehreren Stellen, denn Verschleiß verläuft selten gleichmäßig. Besonders die Mitte der Lauffläche nutzt sich bei Stadtfahrten meist zuerst ab, gib also genau dort acht.",
+        "Nutze Zweifel als Anlass zum Nachfragen. Wirkt ein Reifen grenzwertig, sprich es direkt bei der Übergabe an und lass dir die Einschätzung des Verleihers zeigen. Ein gepflegter Fuhrpark tauscht Reifen, bevor sie kritisch werden, und genau daran erkennst du die Qualität einer Station."
+      ]
+    },
+    {
+      "heading": "Verhalten bei Reifenproblemen unterwegs",
+      "paragraphs": [
+        "Ein plötzlich weich anmutender Reifen verlangt sofortige Aufmerksamkeit. Fahre langsam weiter bis zu einem sicheren Abstellplatz, und prüfe den Reifen auf sichtbare Schäden. Ein defekter Reifen gehört nicht weitergefahren, weil die Haftung gerade bei Nässe rapide abnimmt und der Bremsweg deutlich wächst.",
+        "Melde den Vorfall dem Vermieter und folge seinen Anweisungen. Manche Stationen schicken Unterstützung oder nennen eine Partnerwerkstatt in deiner Nähe. Dokumentiere den Zustand mit Fotos, dann bleibt die spätere Frage von Kosten und Haftung sauber und nachvollziehbar geregelt."
+      ]
+    },
+    {
+      "heading": "Das Reifengespräch mit dem Vermieter",
+      "paragraphs": [
+        "Formuliere Anliegen klar und ohne Vorwurf. Sag, was du gesehen hast, frage nach der Einschätzung und schlage im Zweifel einen Reifenwechsel vor. Ein professioneller Verleiher nimmt solche Hinweise ernst, denn sichere Fahrzeuge schützen auch seinen Betrieb und seinen Ruf bei den Gästen. So bleibt das Thema Reifen ein Routinepunkt statt ein Zufallsrisiko.",
+        "Halte die Absprachen fest. Reifen gewechselt, Luft geprüft oder Fahrzeug getauscht: Ein kurzer Nachrichtenverlauf mit den Zusagen hilft, wenn eine andere Person die Rückgabe annimmt. So endet die Miete fair, mit sauberen Reifen und ohne offene Fragen im Raum."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "DE-286",
+  "hub": "technik-wartung",
+  "title": "Tankdeckel und Kraftstoffsystem bei der Übernahme prüfen",
+  "slug": "tankdeckel-und-kraftstoffsystem-bei-der-uebernahme-pruefen",
+  "status": "IDEA",
+  "priority": 26,
+  "keywordHypothesis": "tankdeckel kraftstoff roller",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Tankdeckel und Kraftstoffsystem gehören zu jeder Übernahme-Prüfung. Lies, worauf du achtest, welche Anzeichen Sorgen wecken und wie du mit dem Vermieter darüber sprichst.",
+  "excerpt": "Ein lockerer Tankdeckel oder ein undichter Schlauch ruinieren jeden Fahrtag. Lies, wie du das Kraftstoffsystem bei der Übernahme prüfst, welche Anzeichen zählen und was du niemals selbst reparierst.",
+  "sections": [
+    {
+      "heading": "Warum das Kraftstoffsystem zählt",
+      "paragraphs": [
+        "Ein sauberes Kraftstoffsystem bringt die Energie dorthin, wo der Motor sie braucht. Tank, Deckel, Schläuche und Vergaser arbeiten zusammen, und jede Schwachstelle zeigt sich im Fahrverhalten oder im Geruch. Deshalb verdient der Bereich die gleiche Aufmerksamkeit wie Bremsen und Reifen bei der Übergabe.",
+        "Sicherheit spielt hier direkt hinein. Kraftstoff ist entflammbar, undichte Stellen im Motorraum sind im Betrieb ein echtes Risiko. Ein kurzer Blick auf Schläuche und Anschlüsse kostet dich keine Minute und schließt die auffälligsten Gefahrenquellen zuverlässig aus, bevor du die erste Fahrt startest."
+      ]
+    },
+    {
+      "heading": "Tankdeckel und Tank bei der Übergabe",
+      "paragraphs": [
+        "Prüfe den Tankdeckel auf sauberen Sitz. Er muss sich fest schließen lassen, ohne Wackeln oder ein offenes Loch, und die Dichtung sollte vollständig und elastisch sein. Ein Deckel, der sich nur mit Gewalt schließen lässt oder nach dem Loslassen aufspringt, gehört vor der Fahrt repariert oder ausgetauscht.",
+        "Öffne und schließe den Tank einmal komplett. Fühlst du einen sauberen Widerstand beim Zuklicken und bleibt der Deckel beim sanften Ziehen zu, passt die Mechanik. Teste danach den Tank selbst: Er sollte fest im Rahmen sitzen und keine Risse oder Spuren von improvisierten Reparaturen zeigen. Nimm dir für diese Prüfungen die ersten Minuten der Übergabe wirklich Zeit, sie gehören ganz dir."
+      ]
+    },
+    {
+      "heading": "Schläuche und Anschlüsse sichten",
+      "paragraphs": [
+        "Verfolge die sichtbaren Kraftstoffleitungen mit den Augen. Schläuche mit Rissen, porösen Stellen oder starken Verfärbungen sind Warnzeichen, ebenso wie feuchte Stellen unter dem Fahrzeug nach dem Abstellen. Solche Beobachtungen dokumentierst du mit Fotos, bevor du die Station verlässt.",
+        "Achte auf Geruch als Indikator. Ein starker Benzingeruch im Stand deutet auf Undichtigkeiten hin, auch wenn du nichts siehst. Nimm den Geruch ernst, melde ihn dem Vermieter und lass die Prüfung vor der Abfahrt machen, denn Dämpfe im Motorraum sind ein Risiko, das du nicht auf die lange Bank schieben solltest."
+      ]
+    },
+    {
+      "heading": "Was du niemals selbst reparierst",
+      "paragraphs": [
+        "Eingriffe ins Kraftstoffsystem gehören Fachleuten. Ein provisorisch getauschter Schlauch oder ein notdürftig befestigtes Klemmenblech kann im Betrieb versagen und im schlimmsten Fall ein Feuerrisiko erzeugen. Abgesehen davon verwässert ein Selbstversuch die Beweislage, wenn es später um die Frage der Haftung geht.",
+        "Ruf im Zweifel die Station an. Ein guter Verleiher organisiert Abholung, Ersatzfahrzeug oder eine Werkstatt schneller, als du Werkzeug findest. Deine Aufgabe ist das klare Beschreiben des Problems, nicht das Reparieren, und genau diese Rollenteilung schützt beide Seiten im Problemfall."
+      ]
+    },
+    {
+      "heading": "Der Blick auf die Sauberkeit",
+      "paragraphs": [
+        "Der Zustand rund um den Tank erzählt von der Pflege. Sauber verlegte Schläuche, trockene Anschlüsse und ein makelloser Tankdeckel zeigen eine Station, die ihre Fahrzeuge ernst nimmt. Verschmutzte, überklebte oder improvisierte Details zeigen das Gegenteil und sind ein Grund, ein anderes Fahrzeug zu verlangen.",
+        "Sprich Beobachtungen klar an. Ein professioneller Verleiher erklärt dir das System, zeigt dir die Tanköffnung fürs Betanken und nimmt Hinweise auf Undichtigkeiten ernst. Genau dieses Gespräch bei der Übergabe baut das Vertrauen auf, das du für eine entspannte Miete in Hanoi mitbringst. So startest du deine Fahrt, und genau so endet sie wieder: sauber, geprüft und ohne Diskussion."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

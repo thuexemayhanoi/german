@@ -1,0 +1,63 @@
+{
+  "id": "DE-283",
+  "hub": "technik-wartung",
+  "title": "Reichweite und Ladestand beim Elektroroller planen",
+  "slug": "reichweite-und-ladestand-beim-elektroroller-planen",
+  "status": "IDEA",
+  "priority": 23,
+  "keywordHypothesis": "elektroroller reichweite",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Elektroroller wollen geladen sein, nicht getankt. Lies, wie du Reichweite und Ladestand planst, wo du lädst und was bei der Übernahme wichtig wird.",
+  "excerpt": "Mit einem Elektroroller fährst du leise durch Hanoi, brauchst aber einen guten Laderhythmus. Lies, wie du Reichweiten realistisch einschätzt, Ladestände im Blick behältst und deinen Alltag darauf abstimmst.",
+  "sections": [
+    {
+      "heading": "Warum die Reichweite die Tour plant",
+      "paragraphs": [
+        "Bei einem Elektroroller bestimmt der Ladestand die Fahrt mehr als bei jedem Benziner der Tankfüllstand. Die offizielle Reichweite gilt unter Idealbedingungen, im Stadtverkehr mit Stopps, Steigungen und Zusatzlast sinkt sie deutlich. Rechne deshalb mit einem großzügigen Sicherheitsabstand zwischen geplanter Distanz und verfügbarer Reichweite.",
+        "Kläre den Einsatzzweck vor der Buchung. Für kurze Wege in der Stadt reicht ein kompakter Akku, für Ausflüge brauchst du ein Modell mit großer Kapazität oder das Laden unterwegs. Sag dem Vermieter ehrlich, was du vorhast, dann empfiehlt er dir ein passendes Fahrzeug statt des ersten gerade verfügbaren."
+      ]
+    },
+    {
+      "heading": "Ladestand und Anzeigen verstehen",
+      "paragraphs": [
+        "Lass dir die Anzeigen des Modells bei der Übergabe erklären. Manche Roller zeigen den Ladestand nur grob in Stufen, andere nennen eine geschätzte Restkilometerzahl, die erfahrungsgemäß vorsichtig zu interpretieren ist. Frage auch nach Warnsignalen bei niedriger Ladung, damit dich eine abschaltende Anzeige niemals überrascht.",
+        "Gewöhne dir einen regelmäßigen Check an. Ein Blick auf den Ladestand beim Parken, einer nach der Fahrt und einer vor der Abfahrt gibt dir ein Gefühl für den tatsächlichen Verbrauch deines Fahrzeugs. Nach zwei, drei Tagen weißt du ziemlich genau, wie weit du wirklich kommst, und planst entsprechend."
+      ]
+    },
+    {
+      "heading": "Laden zu Hause und unterwegs",
+      "paragraphs": [
+        "Kläre vor der Miete, wie und wo du lädst. Der Roller braucht sein Ladegerät und eine passende Steckdose, und die Ladedauer variiert je nach Modell. Frag, ob du den Roller in der Unterkunft laden darfst und wie lange das Laden dauert, dann integrierst du den Vorgang in deine Tagesplanung, etwa über Nacht.",
+        "Unterwegs zu laden klappt nur mit Vorbereitung. Manche Unterkünfte und Gastronomiebetriebe erlauben auf Nachfrage das Laden, öffentliche Lademöglichkeiten für Roller sind längst nicht flächendeckend vorhanden. Frage den Vermieter nach bewährten Adressen entlang deiner Route, statt auf einen Zufallstreffer zu hoffen."
+      ]
+    },
+    {
+      "heading": "Reichweite klug einteilen",
+      "paragraphs": [
+        "Plane Fahrt und Reserve getrennt. Nutze für die geplante Strecke nur einen Teil der vollen Ladung, und behalte den Rest als Puffer für Umwege, rote Ampeln und spontane Pläne. Viele E-Fahrer planen nur einen guten Teil der Reichweite aktiv ein und behalten den Rest bewusst als Reserve für unerwartete Situationen.",
+        "Denk an die Verbraucher an Bord. Licht, Ladevorgänge fürs Handy am Roller und Steigungen kosten zusätzlich Energie und kürzen die Reichweite spürbar. Fahre defensiv und gleichmäßig, dann bekommst du mehr aus jeder Ladung, und du kommst entspannt ans Ziel, statt im letzten Drittel hektisch zu rechnen."
+      ]
+    },
+    {
+      "heading": "Bei der Übernahme auf Technik achten",
+      "paragraphs": [
+        "Prüfe den Akkuzustand bei der Übergabe. Frag nach dem Alter der Batterie, denn die Kapazität lässt mit den Jahren nach, und nach der tatsächlichen Restladung zum Start. Lass dir zeigen, wie das Ladegerät verbunden wird, und teste den Vorgang einmal gemeinsam, damit du ihn allein sicher beherrschst.",
+        "Dokumentiere den Startzustand. Ein Foto vom Ladestand mit Datum und ein kurzes Übergabeprotokoll schützen dich bei Rückfragen. Mit diesen Angaben fährst du gelassen los, weil du weißt, dass bei der Rückgabe nachvollziehbar bleibt, in welchem Zustand der Roller in deine Obhut ging."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
