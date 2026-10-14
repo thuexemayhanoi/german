@@ -1,0 +1,63 @@
+{
+  "id": "DE-050",
+  "hub": "dokumente-vertrag",
+  "title": "Vertragskopie vor Fahrtbeginn sichern",
+  "slug": "vertragskopie-vor-fahrtbeginn-sichern",
+  "status": "IDEA",
+  "priority": 10,
+  "keywordHypothesis": "vertragskopie vor fahrtbeginn sichern",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Vertragskopie vor Fahrtbeginn sichern: was aufs Papier gehört, wie Sie die Kopie physisch und digital verwahren und warum sie im Ernstfall Gold wert ist.",
+  "excerpt": "Der Mietvertrag begleitet jede Fahrt – als Papier im Gepäck und als Datei auf dem Handy. Dieser Ratgeber zeigt, welche Angaben auf Ihrer Vertragskopie stehen müssen und wie Sie sie so sichern, dass sie im Ernstfall wirklich helfen.",
+  "sections": [
+    {
+      "heading": "Warum eine Kopie Pflichtprogramm ist",
+      "paragraphs": [
+        "Der Mietvertrag ist Ihr Beleg für alles, was zwischen Ihnen und dem Verleiher vereinbart wurde: Preis, Dauer, Kaution, Rückgabe. Solange alles gut läuft, liegt er ungenutzt in der Tasche. Aber im Streitfall, bei einer Kontrolle oder nach einem Unfall ist der Vertrag das Dokument, das Ihre Position definiert – und dann müssen Sie ihn vorweisen können.",
+        "Das Original verbleibt häufig beim Verleiher, der sein Geschäft mit vielen Kunden abwickelt. Ihre Kopie ist deshalb kein nettes Extra, sondern Ihre eigene Beweiskette. Wer ohne Vertragskopie losfährt, argumentiert im Ernstfall aus dem Gedächtnis – und das verliert gegen Papier."
+      ]
+    },
+    {
+      "heading": "Was auf der Kopie stehen muss",
+      "paragraphs": [
+        "Prüfen Sie vor der Unterschrift, dass der Vertrag die Kernangaben enthält: Ihren Namen und die Daten des Fahrzeugs, Mietdauer und Preis, die Höhe und Bedingungen der Kaution, die Rückgaberegelung und die Kontaktdaten des Verleihers. Fehlt eine dieser Angaben, lassen Sie sie ergänzen – eine Kopie eines lückenhaften Vertrags erbt die Lücken.",
+        "Achten Sie darauf, dass die Kopie lesbar und vollständig ist: alle Seiten, alle Anlagen, das Übergabeprotokoll mit den dokumentierten Vorschäden und die Unterschriften beider Seiten. Eine Kopie ohne Gegenzeichnung des Verleihers ist ein Blatt Papier, kein Beleg. Fotografieren Sie den Vertrag zusätzlich mit dem Smartphone – das dauert Sekunden und schafft eine zweite Version mit Zeitstempel."
+      ]
+    },
+    {
+      "heading": "Zwei Aufbewahrungsorte, ein Prinzip",
+      "paragraphs": [
+        "Verwahren Sie die Vertragskopie an zwei voneinander unabhängigen Orten: die Papierfassung in einer verschließbaren Tasche am Fahrzeug oder am Körper, die digitale Fassung im Handy und zusätzlich in einer Cloud oder als Foto an eine eigene E-Mail-Adresse. Ein Dokument an zwei Orten überlebt einen Verlust an einem Ort – bei einem Diebstahl des Rucksacks bleibt das Foto, bei einem leeren Akku bleibt das Papier.",
+        "Gleiches gilt für die Dokumentkette drumherum: Führerschein, Übergabeprotokoll und die Kontaktdaten des Verleihers gehören in dieselbe Ordnung. Bewahren Sie die Papiere körpernah auf, nicht in der Handtasche am Gepäckträger – das Auswärtige Amt warnt vor Handtaschenraub durch vorbeifahrende Roller. Die Vertragskopie ist Teil dieser Verwahrung, nicht davon ausgenommen."
+      ]
+    },
+    {
+      "heading": "Was die Kopie im Ernstfall leistet",
+      "paragraphs": [
+        "Bei einer polizeilichen Kontrolle zeigen Sie Vertrag, Führerschein und Fahrzeugpapiere vor – die Kopie in Ihrer Tasche macht Sie handlungsfähig, auch wenn der Verleiher nicht erreichbar ist. Nach einem Unfall dokumentieren Sie mit dem Vertrag, wer das Fahrzeug legitim gemietet hat. Bei einem Streit über Kaution oder Rückgabezustand zitiert der Vertrag die vereinbarten Bedingungen wörtlich.",
+        "Und im schlechtesten Fall – Diebstahl des Fahrzeugs – ist die Vertragskopie der Startpunkt jeder Meldung: Sie enthält Fahrzeugdaten und Verleiherkontakt, die Sie für die polizeiliche Anzeige und die Information des Verleihers brauchen. Wer in diesem Moment eine vollständige Kopie vorlegt, spart sich und allen Beteiligten Stunden."
+      ]
+    },
+    {
+      "heading": "Nach der Rückgabe nicht wegwerfen",
+      "paragraphs": [
+        "Auch nach der Rückgabe bleibt die Vertragskopie wertvoll: Sie belegt, wann und zu welchen Bedingungen Sie gemietet haben, falls später Rechnungen oder Vorwürfe auftauchen. Bewahren Sie die Kopie so lange auf, wie es Ihre übrigen Reiseunterlagen sind – oder digitalisieren Sie sie abschließend und archivieren Sie die Datei mit den übrigen Dokumenten der Reise.",
+        "Vor allem bei der Rückgabe selbst zahlt sich die Kopie aus: Halten Sie den vereinbarten Rückgabezeitpunkt, den Tankzustand und die Übergabeform mit dem Vertrag gegen, und lassen Sie die Rückgabe bestätigen – ein kurzer Vermerk mit Datum und Unterschrift genügt. So steht am Ende der Miete ein Blatt Papier, das sagt: korrekt abgeschlossen. Das Auswärtige Amt empfiehlt, alle wichtigen Reiseunterlagen doppelt zu führen – die Vertragskopie ist der klassische Fall, in dem Vorsicht nichts kostet."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

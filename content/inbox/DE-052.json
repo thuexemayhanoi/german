@@ -1,0 +1,63 @@
+{
+  "id": "DE-052",
+  "hub": "dokumente-vertrag",
+  "title": "Mietbedingungen bei mehreren Fahrern",
+  "slug": "mietbedingungen-bei-mehreren-fahrern",
+  "status": "IDEA",
+  "priority": 12,
+  "keywordHypothesis": "mietbedingungen bei mehreren fahrern",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Mietbedingungen bei mehreren Fahrern: wer im Vertrag stehen muss, warum jeder Fahrer eine eigene Fahrerlaubnis braucht und wie Sie die Verantwortungsaufteilung klären.",
+  "excerpt": "Ein Fahrzeug, zwei Fahrer: Bequem bei langen Strecken, heikel bei Vertrag und Haftung. Dieser Ratgeber erklärt, welche Mietbedingungen gelten, wenn mehrere Personen ein Mietfahrzeug führen wollen – und was vorher geklärt werden muss.",
+  "sections": [
+    {
+      "heading": "Zwei Fahrer ändern den Vertrag",
+      "paragraphs": [
+        "Ein Mietvertrag ist mit einer Person geschlossen – fügt diese eine zweite hinzu, verändert sich die Risikolage für den Verleiher. Jede Person am Lenker ist eine eigene Verantwortungskette: eigene Fahrerlaubnis, eigenes Verhalten im Verkehr, eigene Rolle im Schadensfall. Verleiher reagieren darauf mit Zusatzbedingungen, und die zu kennen, gehört zur Vorbereitung.",
+        "Der häufigste Fehler ist die stillschweigende Annahme: Man vereinbart mündlich, dass der Partner auch mal fährt, und trägt es nicht in den Vertrag ein. Im Ernstfall – einem Unfall des nicht eingetragenen Fahrers – kann das jede vertragliche Grundlage zerstören. Was nicht im Vertrag steht, findet im Schadensfall nicht statt."
+      ]
+    },
+    {
+      "heading": "Jeder Fahrer braucht die eigene Berechtigung",
+      "paragraphs": [
+        "Die entscheidende Bedingung betrifft die Fahrerlaubnis: Jede Person, die das Fahrzeug führt, muss es legal führen dürfen. Das Auswärtige Amt stellt klar, dass die Klasse B in Vietnam keine Zweiräder über 50 ccm abdeckt und die Klasse B196 nicht anerkannt wird – das gilt für jeden Fahrer einzeln. Der Führerschein des Partners entlastet niemanden, der selbst ohne passende Berechtigung fährt.",
+        "Prüfen Sie deshalb vor der Anmietung die Dokumente aller geplanten Fahrer, nicht nur die des Hauptmieters. Weicht die Berechtigung zwischen den Fahrern ab – etwa weil nur einer ein passendes Dokument besitzt –, dann ist die Konsequenz einfach: Nur dieser eine fährt, und die Route wird danach geplant. Das ist keine Schikane, sondern der Kern des Versicherungsschutzes."
+      ]
+    },
+    {
+      "heading": "Die Aufteilung im Vertrag festhalten",
+      "paragraphs": [
+        "Halten Sie schriftlich fest, wer das Fahrzeug führen darf: alle Namen, die Führerscheindaten und die Bestätigung des Verleihers. Manche Anbieter verlangen für jeden weiteren Fahrer eine Zusatzgebühr oder ein Mindestalter – beides ist legitim, solange es im Vertrag steht. Ein transparenter Verleiher nennt solche Bedingungen von sich aus.",
+        "Klären Sie zusätzlich die Verantwortungsfrage: Wer haftet, wenn der eingetragene zweite Fahrer einen Schaden verursacht? In der Regel trifft es den Vertragspartner, also den Hauptmieter – das sollten beide Fahrer vor der ersten Fahrt wissen. Eine kurze Absprache, wer bei welchem Schaden was trägt, verhindert später Streit untereinander, wenn der Verleiher ohnehin an den Vertragspartner herantritt."
+      ]
+    },
+    {
+      "heading": "Praktische Absprachen unter den Fahrern",
+      "paragraphs": [
+        "Verteilen Sie die Fahrten bewusst: Wer fährt im Stadtverkehr, wer auf Landstraßen, wer bei Dunkelheit? Das Auswärtige Amt weist darauf hin, dass viele Unfälle in Vietnam nach Einbruch der Dunkelheit geschehen – eine Absprache, wer abends fährt und wer nicht, ist also mehr als eine Geschmackssache. Der sicherere Fahrer gehört auf die riskanteren Abschnitte.",
+        "Regeln Sie auch die Alltagsmechanik: Helm für jeden Fahrer, wo die Dokumente liegen, wie der Schlüssel weitergegeben wird, wie die Verständigung klappt, wenn das Fahrzeug stehen bleibt. Was bei einem Fahrer Selbstverständlichkeit ist, muss beim zweiten erstmal besprochen sein. Zehn Minuten Planung ersetzen Stunden am Straßenrand."
+      ]
+    },
+    {
+      "heading": "Wenn der Verleiher mehrere Fahrer ablehnt",
+      "paragraphs": [
+        "Manche Verleiher gestatten nur den Hauptmieter als Fahrer – eine legitime Bedingung, wenn sie vor der Unterschrift klar ist. In dem Fall haben Sie drei Möglichkeiten: die Bedingung akzeptieren und nur mit einem Fahrer planen, einen zweiten Vertrag über ein zweites Fahrzeug schließen, oder einen Anbieter wählen, der mehrere Fahrer erlaubt. Alle drei sind sauber, sofern die Entscheidung vor Fahrtbeginn fällt.",
+        "Was nicht akzeptabel ist: die Bedingung unterschreiben und die Absprache trotzdem brechen. Der Verstoß gegen den Vertrag trifft nicht nur das Verhältnis zum Verleiher, sondern auch jeden Versicherungsschutz. Die offizielle Tourismusseite Vietnam Travel gibt einen Überblick über Anbieter und Verkehrsmittel im Land – wer die Bedingungen mehrerer Verleiher vergleicht, findet meist schnell eine Lösung, die zu zwei Fahrern passt."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "DE-053",
+  "hub": "dokumente-vertrag",
+  "title": "Welche Angaben zur Rückgabe gehören in den Vertrag?",
+  "slug": "welche-angaben-zur-rueckgabe-gehoeren-in-den-vertrag",
+  "status": "IDEA",
+  "priority": 13,
+  "keywordHypothesis": "welche angaben zur rückgabe gehören in den vertrag?",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Welche Angaben zur Rückgabe gehören in den Vertrag? Ort, Zeit, Tankzustand, Zustandsprüfung und Kautionsrückzahlung – die Checkliste vor der Unterschrift.",
+  "excerpt": "Die Rückgabe ist der Moment, in dem aus einer guten Miete ein sauberer Abschluss wird – oder in einen Streit kippt. Dieser Ratgeber listet auf, welche Rückgabeangaben in den Mietvertrag gehören.",
+  "sections": [
+    {
+      "heading": "Die Rückgabe ist der zweite Vertragsabschluss",
+      "paragraphs": [
+        "Die Anmietung hat zwei kritische Momente: die Übergabe und die Rückgabe. Bei der Übergabe prüfen Sie, was Sie bekommen; bei der Rückgabe wird entschieden, was Sie zurückzahlen oder zurückerhalten. Wer die Rückgabebedingungen erst am letzten Tag liest, verhandelt unter Zeitdruck – oft mit dem Rückflug im Nacken, und das ist die schlechteste Verhandlungsposition, die es gibt.",
+        "Deshalb gehört die Rückgabe in den Vertrag hinein, bevor die erste Fahrt beginnt. Ein Vertrag, der nur die Anmietung regelt und die Rückgabe dem Wohlwollen des Verleihers überlässt, regelt die Hälfte des Geschäfts. Die andere Hälfte entsteht am Ende – und dann zählt nur, was auf dem Papier steht."
+      ]
+    },
+    {
+      "heading": "Ort, Zeit und Art der Rückgabe",
+      "paragraphs": [
+        "Die erste Angabe ist der Rückgabeort: die Adresse des Verleihers, eine Abholung an Ihrer Unterkunft oder eine Rückgabe an einem anderen Punkt. Für alle Varianten gilt: Je konkreter der Vertrag, desto kleiner der Interpretationsspielraum. Die zweite Angabe ist der Zeitpunkt – Datum und Uhrzeit, und was geschieht bei Verspätung: eine Nachzahlung pro Stunde oder pro Tag, und ab wann eine als Pauschale gilt.",
+        "Klären Sie auch die Form der Rückgabe während und außerhalb der Öffnungszeiten. Wer sein Fahrzeug früh morgens vor dem Flug zurückgeben muss, braucht eine geregelte Übergabe, wenn das Geschäft noch geschlossen ist: an welchem Ort, wie abgestellt, wie der Schlüssel übergeben wird, wer die Zustandsprüfung wann vornimmt. Alles, was hier im Vertrag steht, schützt Sie vor einer Rückgabe, die keiner dokumentiert."
+      ]
+    },
+    {
+      "heading": "Zustand und Tank bei der Rückgabe",
+      "paragraphs": [
+        "Die dritte Angabe betrifft den erwarteten Zustand: Wie wird der Tankzustand bei der Rückgabe gehandhabt – voll zurück wie voll übergeben, oder eine andere Regelung? Wie wird der allgemeine Zustand geprüft, und wer dokumentiert ihn? Der Maßstab sollte derselbe sein wie bei der Übergabe: ein Protokoll, das beide Seiten gegenzeichnen, mit Fotos als Beilage.",
+        "Wichtig ist der Prüfzeitpunkt: Die Zustandsprüfung sollte zeitnah bei der Rückgabe erfolgen, nicht erst Tage später. Eine spätere Prüfung öffnet Tür und Tor für Behauptungen, die Sie nicht mehr entkräften können. Wenn der Vertrag keine zeitnahe gemeinsame Prüfung vorsieht, fordern Sie sie als Zusatz – Sie haben vor der Unterschrift die beste Position, das zu verlangen."
+      ]
+    },
+    {
+      "heading": "Kautionsrückzahlung und Abrechnung",
+      "paragraphs": [
+        "Die vierte Angabe betrifft das Geld: Wann und wie wird die Kaution zurückerstattet – sofort bei Rückgabe, in bar oder auf welchem Weg sonst? Und wie werden eventuelle Abzüge dokumentiert und begründet? Diese Punkte gehören schriftlich in den Vertrag, nicht in eine mündliche Zusage an der Theke.",
+        "Am Rückgabetag selbst gilt: Bestätigung der Rückgabe schriftlich festhalten – Datum, Uhrzeit, Fahrzeugzustand, Bestätigung, dass alle Forderungen ausgeglichen sind. Ein kurzer Vermerk mit Unterschrift genügt. Dieser Zettel ist Ihr Schlussbeleg, falls später doch noch eine Rechnung auftaucht. Das Auswärtige Amt rät, den Reisepass nie als Kaution dalassen – wer Bargeld oder eine andere Form der Sicherheit nutzt, hat bei der Rückgabe ohnehin eine klarere Abwicklung."
+      ]
+    },
+    {
+      "heading": "Die Checkliste vor der Unterschrift",
+      "paragraphs": [
+        "Fassen Sie die Angaben zusammen, die der Vertrag enthalten sollte: Rückgabeort und -zeitpunkt, Regeln bei Verspätung, Tankzustand, Art der Zustandsprüfung, Zeitpunkt der Prüfung, Höhe und Rückzahlungsweg der Kaution. Sechs Punkte, die Sie in zwei Minuten durchgehen können – und die im Streitfall den Unterschied zwischen einer sauberen Abwicklung und einem offenen Konflikt ausmachen.",
+        "Fehlt ein Punkt, fragen Sie konkret nach und lassen Sie sich die Antwort in den Vertrag schreiben. Ein Verleiher, der Rückgabeangaben offen und vollständig regelt, zeigt, dass er auf wiederkehrende Kunden setzt. Wer die Rückgabe im Ungewissen lässt, der hat vermutlich Gründe – und die liegen selten auf der Kundenseite."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

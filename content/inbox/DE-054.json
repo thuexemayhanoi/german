@@ -1,0 +1,63 @@
+{
+  "id": "DE-054",
+  "hub": "dokumente-vertrag",
+  "title": "Abweichungen zwischen Angebot und Vertrag erkennen",
+  "slug": "abweichungen-zwischen-angebot-und-vertrag-erkennen",
+  "status": "IDEA",
+  "priority": 14,
+  "keywordHypothesis": "abweichungen zwischen angebot und vertrag erkennen",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Abweichungen zwischen Angebot und Vertrag erkennen: Preise, Leistungen und Kaution Zeile für Zeile vergleichen – bevor Sie unterschreiben statt danach.",
+  "excerpt": "Das Angebot klang gut, der Vertrag klingt anders: Abweichungen zwischen beiden sind häufig und kosten bares Geld. Dieser Ratgeber zeigt, wie Sie Angebot und Vertrag systematisch vergleichen und welche Fallen typisch sind.",
+  "sections": [
+    {
+      "heading": "Warum Angebot und Vertrag auseinandergehen",
+      "paragraphs": [
+        "Zwischen Angebot und Vertrag liegen oft weite Wege: das mündliche Gespräch an der Theke, eine Nachricht, ein Prospekt, eine Website – und schließlich das Papier, das Sie unterschreiben. Jede dieser Stationen kann Details verändern: ein Preis, der plötzlich pro Tag statt pro Woche gerechnet wird, eine Leistung, die im Angebot enthalten war und im Vertrag fehlt. Die Unterschrift macht aus dem Papier den allein maßgeblichen Text.",
+        "Das ist nicht zwangsläufig Betrug, aber es ist zwangsläufig relevant. Manche Abweichung entsteht durch Schlamperei, manche durch Absicht – für Sie sieht beides gleich aus, wenn Sie nicht vergleichen. Deshalb gilt: Wer ein Angebot ernst nimmt, nimmt auch den Vertrag ernst und vergleicht beide Zeile für Zeile."
+      ]
+    },
+    {
+      "heading": "Der Vergleich in vier Kategorien",
+      "paragraphs": [
+        "Vergleichen Sie in vier festen Kategorien. Erstens der Preis: Gesamtbetrag, Rechenbasis, enthaltenes Zubehör. Zweitens die Leistungen: Helm, Gepäckkoffer, Werkzeug, Unterstützung bei Panne – alles, was im Angebot versprochen wurde. Drittens die Kaution: Höhe, Form und Rückgabe. Viertens die Bedingungen: Mietdauer, Rückgabe, Haftung. Vier Spalten, eine halbe Stunde – danach wissen Sie, woran Sie sind.",
+        "Am einfachsten ist der Vergleich als Liste: Schreiben Sie die Punkte aus dem Angebot auf und haken Sie sie im Vertrag ab. Was keinen Haken bekommt, ist eine Abweichung – und jede Abweichung ist entweder ein Versehen, das korrigiert wird, oder eine bewusste Änderung, über die Sie entscheiden müssen. Beides zu wissen, ist besser, als es zu unterschreiben."
+      ]
+    },
+    {
+      "heading": "Typische Abweichungen und ihre Signale",
+      "paragraphs": [
+        "Häufige Abweichungen betreffen kleine, Summen bildende Details: eine Versicherungsleistung, die im Angebot auftauchte und im Vertrag nur gegen Aufpreis verfügbar ist; eine Kaution, die im Gespräch niedrig klang und im Vertrag samt Gebühren ausgewiesen wird; eine Rückgabe, die im Angebot frei gestaltet war und im Vertrag mit Kosten versehen wird. Kleine Abweichungen sind kein Zufall – sie sind der Raum, in dem Margen entstehen.",
+        "Achten Sie auch auf Dinge, die im Vertrag stehen, aber in keinem Angebot vorkamen: neue Klauseln, Ausschlüsse, Gebühren. Ein Vertrag darf mehr regeln als das Angebot – aber jede zusätzliche Regel, die Sie nicht kennen, ändert Ihre Risikolage. Wer nur nach fehlenden Punkten sucht, übersieht die hinzugefügten."
+      ]
+    },
+    {
+      "heading": "Wie Sie auf eine Abweichung reagieren",
+      "paragraphs": [
+        "Erkennen Sie eine Abweichung, dann sprechen Sie sie direkt an: „Im Angebot war der Helm enthalten – im Vertrag taucht er als Aufpreis auf.“ Konkret, freundlich, vor der Unterschrift. Seriöse Verleiher korrigieren Versehen sofort, denn ein Vertrag, der vom Angebot abweicht, schadet dem Geschäft. Die Reaktion auf Ihre Nachfrage ist zugleich ein Test des Verleihers.",
+        "Bleibt die Abweichung bestehen, haben Sie eine echte Entscheidung: die neue Bedingung akzeptieren, verhandeln oder den Anbieter wechseln. Was Sie nicht tun sollten: im Vertrauen auf das mündliche Wort unterschreiben. Das Auswärtige Amt rät, bei Vertragsabschlüssen im Ausland genau zu prüfen – wer statt eines Klartexts nur Versprechungen bekommt, hat im Streitfall kein Blatt Papier in der Hand."
+      ]
+    },
+    {
+      "heading": "Vorbeugen: Angebote schriftlich einholen",
+      "paragraphs": [
+        "Die beste Vorbereitung ist ein schriftliches Angebot: per Nachricht, E-Mail oder ausgedruckt, mit Datum und den Konditionen, die Ihnen genannt wurden. Ein schriftliches Angebot lässt sich Zeile für Zeile mit dem Vertrag vergleichen – ein mündliches nur mit der Erinnerung, und die verblasst schneller als man denkt.",
+        "Nutzen Sie die Auswahl an Anbietern in Hanoi: Holen Sie zwei oder drei Angebote ein und vergleichen Sie nicht nur die Preise, sondern auch, wie transparent die Konditionen kommuniziert werden. Die offizielle Tourismusseite Vietnam Travel gibt einen Überblick über Fortbewegung im Land und Anlaufstellen – wer von Anfang an mit schriftlichen Angeboten arbeitet, erkennt Abweichungen beim Vertrag sofort, statt sie nach der Fahrt zu bezahlen."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
