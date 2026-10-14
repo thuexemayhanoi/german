@@ -2782,22 +2782,22 @@
       "hub": "abholung-rueckgabe",
       "title": "Öffnungszeiten der Verleihstation einplanen",
       "slug": "oeffnungszeiten-der-verleihstation-einplanen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 23,
       "keywordHypothesis": "verleih oeffnungszeiten hanoi",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/oeffnungszeiten-der-verleihstation-einplanen/"
     },
     {
       "id": "DE-254",
       "hub": "abholung-rueckgabe",
       "title": "Rückgabe am Flughafen oder im Stadtzentrum vergleichen",
       "slug": "rueckgabe-am-flughafen-oder-im-stadtzentrum-vergleichen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 24,
       "keywordHypothesis": "rueckgabe flughafen hanoi",
       "intent": "commercial",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/rueckgabe-am-flughafen-oder-im-stadtzentrum-vergleichen/"
     },
     {
       "id": "DE-255",

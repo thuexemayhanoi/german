@@ -59,5 +59,6 @@
         "Prüfe am Vorabend jeder Fahrt, ob der nächste Tag normal läuft oder besondere Zeiten gelten, etwa an Feiertagen. Diese halbe Minute schützt dich vor Überraschungen und gehört zur Vorbereitung wie der Wetterblick. So bleiben die Öffnungszeiten ein nützlicher Rahmen statt eines Hindernisses, und deine Miete läuft in deinem Takt."
       ]
     }
-  ]
+  ],
+  "readMinutes": 3
 }
