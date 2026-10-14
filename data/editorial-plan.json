@@ -362,22 +362,22 @@
       "hub": "mietpreise-kaution",
       "title": "Quittungen und Zahlungsbelege sicher aufbewahren",
       "slug": "quittungen-und-zahlungsbelege-sicher-aufbewahren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 13,
       "keywordHypothesis": "quittungen und zahlungsbelege sicher aufbewahren",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/quittungen-und-zahlungsbelege-sicher-aufbewahren/"
     },
     {
       "id": "DE-034",
       "hub": "mietpreise-kaution",
       "title": "Kosten bei verspäteter Rückgabe klären",
       "slug": "kosten-bei-verspaeteter-rueckgabe-klaeren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 14,
       "keywordHypothesis": "kosten bei verspäteter rückgabe klären",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/kosten-bei-verspaeteter-rueckgabe-klaeren/"
     },
     {
       "id": "DE-035",
