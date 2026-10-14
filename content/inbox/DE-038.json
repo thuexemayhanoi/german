@@ -1,0 +1,63 @@
+{
+  "id": "DE-038",
+  "hub": "mietpreise-kaution",
+  "title": "Kautionsrückgabe nachvollziehbar festhalten",
+  "slug": "kautionsrueckgabe-nachvollziehbar-festhalten",
+  "status": "IDEA",
+  "priority": 18,
+  "keywordHypothesis": "kautionsrückgabe nachvollziehbar festhalten",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Die Kautionsrückgabe nachvollziehbar festhalten: gemeinsame Prüfung, Bestätigung, Zeitpunkte und das Vorgehen bei Teilbeträgen im Überblick.",
+  "excerpt": "Am Ende jeder Miete steht die wichtigste Frage: Kommt die Kaution vollständig zurück? Dieser Ratgeber zeigt, wie Sie die Rückgabe so gestalten, dass beide Seiten sie nachvollziehen können – von der gemeinsamen Prüfung bis zur dokumentierten Bestätigung.",
+  "sections": [
+    {
+      "heading": "Der Rückgabemoment entscheidet über alles",
+      "paragraphs": [
+        "Die Kautionsrückgabe ist ein Moment, keine Phase: Gemeinsam wird das Fahrzeug angesehen, der Zustand bewertet und über die Freigabe des Betrags entschieden. Wer diesen Moment gut vorbereitet, beendet die Miete in fünf Minuten. Wer ihn dem Zufall überlässt, eröffnet eine Diskussion ohne Grundlage.",
+        "Die Vorbereitung besteht aus den Fotos der Übergabe und einer kurzen Erinnerung an die vereinbarten Regeln. Beides zusammen bringt den Rückgabemoment in einen Rahmen, in dem Beobachtungen statt Behauptungen verglichen werden. Genau darauf läuft jede faire Abwicklung hinaus. Aus diesem Vergleich entsteht Fairness, weil keine Seite mehr weiß als die andere."
+      ]
+    },
+    {
+      "heading": "Die gemeinsame Prüfung am Fahrzeug",
+      "paragraphs": [
+        "Gehen Sie mit dem Verleiher einmal um das Fahrzeug und vergleichen Sie die heutigen Punkte mit den Übergabefotos: Kratzer, Spiegel, Beleuchtung, Zubehör. Bleibt der Zustand im Rahmen, wird die Kaution frei. Gehen Sie die Punkte in derselben Reihenfolge durch wie bei der Übergabe. Tauchen Punkte auf, die es bei der Übergabe nicht gab, klären Sie offen, wie sie entstanden sind und wie sie bewertet werden.",
+        "Behalten Sie dabei einen sachlichen Ton: Beschreiben Sie, was Sie sehen, statt zu rechtfertigen, was passiert ist. Wer auf gleicher Augenhöhe prüft, bekommt in der überwältigenden Zahl der Fälle auch eine sachliche Antwort. Die gemeinsame Runde dauert Minuten und ersetzt jede spätere Ferndiskussion."
+      ]
+    },
+    {
+      "heading": "Die Bestätigung festhalten",
+      "paragraphs": [
+        "Ist die Kaution frei, halten Sie die Freigabe fest: eine kurze Bestätigung des Verleihers per Nachricht, ein Foto des Übergabebelegs oder ein schriftlicher Zettel mit Datum. Wichtig ist die Aussage, dass die Kaution vollständig zurückgegeben wurde und die Miete damit abgeschlossen ist. Diese Zeile ersetzt jede späte Diskussion über den Zeitpunkt der Freigabe.",
+        "Bei der Übergabe des Betrags selbst gilt dasselbe wie bei der Zahlung: Zählen oder prüfen Sie im Beisein des Verleihers und bestätigen Sie den Erhalt kurz. Diese gegenseitige Bestätigung dauert eine Minute und schützt beide Seiten vor dem Vorwurf, etwas sei nicht angekommen."
+      ]
+    },
+    {
+      "heading": "Wenn ein Teilbetrag einbehalten wird",
+      "paragraphs": [
+        "Soll ein Teil der Kaution einbehalten werden, fragen Sie nach dem Grund und der konkreten Position: Welcher Schaden, welcher Preis, welche Grundlage? Ein nachvollziehbarer Verleiher kann diese Frage in einem Satz beantworten. Die Antwort gehört dann ebenso in eine kurze Bestätigung wie der zurückgegebene Restbetrag.",
+        "Stimmen Sie einer Teileinbehaltung nur zu, wenn Sie sie nachvollziehen können. Andernfalls dokumentieren Sie die Position und die Differenz sachlich, ohne die Situation zuzuspitzen. Solche Fälle sind selten, aber sie entscheiden sich an der Frage, wer eine dokumentierte Grundlage hat – und die haben Sie mit dieser Vorbereitung."
+      ]
+    },
+    {
+      "heading": "Nach der Rückgabe: Der saubere Abschluss",
+      "paragraphs": [
+        "Sind Fahrzeug, Kaution und Belege geklärt, endet die Miete formal mit einer kurzen Dankesnachricht oder einem freundlichen Abschluss vor Ort. Diese Kleinigkeit klingt unwichtig, hält aber die Tür offen: Viele Reisende kommen zurück, und ein guter Abschluss ist die beste Empfehlung für das nächste Mal.",
+        "Bewahren Sie die Dokumentation der Rückgabe einige Zeit auf, wie alle Belege der Reise. Damit ist die Kautionsrückgabe das geworden, was sie sein soll: der Routineabschluss einer sauber begonnenen Miete und kein Glücksspiel am letzten Tag."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "DE-042",
+  "hub": "dokumente-vertrag",
+  "title": "Dokumente für die Anmietung vorbereiten",
+  "slug": "dokumente-fuer-die-anmietung-vorbereiten",
+  "status": "IDEA",
+  "priority": 2,
+  "keywordHypothesis": "dokumente für die anmietung vorbereiten",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Dokumente für die Anmietung eines Rollers in Hanoi vorbereiten: Reisepass, Führerschein, Belege und Kopien – was Sie wirklich brauchen.",
+  "excerpt": "Wer mit den richtigen Dokumenten zur Anmietung kommt, bekommt sein Fahrzeug in Minuten statt in Diskussionen. Dieser Ratgeber listet auf, was Sie vorbereiten sollten, wie Sie Kopien und Fotos sinnvoll nutzen und warum der Pass nie als Pfand wandert.",
+  "sections": [
+    {
+      "heading": "Warum die Dokumentenvorbereitung entscheidend ist",
+      "paragraphs": [
+        "Eine Fahrzeuganmietung ist ein Verwaltungsakt mit Herzschlag: Es geht um Identität, Fahrberechtigung und Zahlungsbelege – und das in einer Fremdsprache unter Zeitdruck. Wer die Dokumente vorbereitet, nimmt dieser Situation die Hälfte ihrer Spannung und gewinnt die andere Hälfte an Zeit für die Prüfung des Fahrzeugs.",
+        "Die Vorbereitung kostet zu Hause fünf Minuten und vor Ort Nerven. Im besten Fall fragt der Verleiher nach Pass und Führerschein, prüft beides, notiert die Nummern und die Miete beginnt. Genau dieser Ablauf entsteht, wenn Sie die Dokumente in Reihenfolge vorbereitet haben."
+      ]
+    },
+    {
+      "heading": "Reisepass: das zentrale Dokument",
+      "paragraphs": [
+        "Der Reisepass ist Ihr zentrales Dokument und muss bei der Anmietung vorgezeigt werden, weil der Verleiher Ihre Identität prüft. Das ist normal und legitim. Zeigen Sie den Pass vor und lassen Sie bei Bedarf eine Kopie anfertigen, aber geben Sie das Original nie als Pfand heraus.",
+        "Das Auswärtige Amt rät in seinen Vietnam-Hinweisen ausdrücklich davon ab, den Pass bei der Fahrzeuganmietung zu hinterlegen. Ohne Pass blockieren Sie sich im Notfall selbst, und die Ersatzbeschaffung über die Botschaft kostet Zeit und Geld. Ein Verleiher, der auf dem Original als Pfand besteht, hat die Wahl für Sie getroffen."
+      ]
+    },
+    {
+      "heading": "Führerschein und Fahrberechtigung",
+      "paragraphs": [
+        "Bringen Sie Ihren Führerschein mit und klären Sie vor der Anmietung, ob Sie damit das gewünschte Fahrzeug führen dürfen. Nach den Hinweisen des Auswärtigen Amts deckt die Klasse B in Vietnam keine Zweiräder über 50 ccm ab, und die Klasse B196 wird nicht anerkannt. Diese Punkte kennen gute Verleiher und fragen aktiv danach.",
+        "Prüfen Sie zusätzlich, welche internationalen Zusatzpapiere Sie besitzen und ob sie für Vietnam relevant sind, bevor Sie abreisen. Diese Recherche gehört in die Reisevorbereitung, nicht auf den Hof des Verleihers. Wer die Rechtslage kennt, wählt das Fahrzeug passend zur eigenen Berechtigung und bleibt im Schadensfall abgesichert."
+      ]
+    },
+    {
+      "heading": "Kopien, Fotos und digitale Nachweise",
+      "paragraphs": [
+        "Erstellen Sie vor der Reise Kopien oder Fotos Ihrer Dokumente und bewahren Sie sie getrennt von den Originalen auf. Diese Kopien ersetzen die Originale nie, aber sie beschleunigen alltägliche Vorgänge und helfen, wenn ein Dokument verloren geht. Digitale Kopien in einer Cloud gehören ebenfalls zur Grundausstattung.",
+        "Für die Anmietung selbst gilt: Originale vorzeigen, Kopien abgeben, Originale behalten. Diese Regel funktioniert bei seriösen Verleihern in Hanoi ohne Diskussion. Wer eine vollständige Übergabe des Originals verlangt, scheidet aus – die Auswahl an Anbietern in Hanoi ist groß genug."
+      ]
+    },
+    {
+      "heading": "Zahlungsnachweise und Kontaktdaten",
+      "paragraphs": [
+        "Bereiten Sie die Zahlungswege vor: Bargeld in der passenden Größenordnung für Miete und Kaution, plus eine Reserve für den Kraftstoff. Fragen Sie vorab, welche Zahlungsmittel akzeptiert werden, damit die Übergabe nicht an einer technischen Frage scheitert. Belege jeder Zahlung gehören zu Ihren Dokumenten.",
+        "Notieren Sie schließlich die Kontaktdaten des Verleihers und die Nummer für den Pannenfall in Ihrem Handy und zusätzlich auf Papier. Damit ist Ihre Dokumentenmappe vollständig: Pass, Führerschein, Kopien, Zahlungsbelege und Kontakte. Genau diese Reihenfolge macht die Anmietung zum Routinevorgang."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

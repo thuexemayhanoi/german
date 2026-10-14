@@ -1,0 +1,63 @@
+{
+  "id": "DE-041",
+  "hub": "dokumente-vertrag",
+  "title": "Mietvertrag verstehen: welche Klauseln prüfen?",
+  "slug": "mietvertrag-verstehen-welche-klauseln-pruefen",
+  "status": "IDEA",
+  "priority": 1,
+  "keywordHypothesis": "mietvertrag verstehen: welche klauseln prüfen?",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Mietvertrag verstehen: welche Klauseln Sie vor der Roller-Miete in Hanoi prüfen sollten – von Mietdauer und Kaution bis Haftung und Rückgabe.",
+  "excerpt": "Ein Mietvertrag wirkt oft wie lästiges Beiwerk, dabei regelt er die teuersten Momente Ihrer Miete. Dieser Ratgeber erklärt ohne Juristensprache, welche Klauseln Sie wirklich prüfen sollten und woran Sie unfaire Regeln erkennen.",
+  "sections": [
+    {
+      "heading": "Warum der Vertrag mehr ist als eine Formalität",
+      "paragraphs": [
+        "Ein Mietvertrag hält fest, was beide Seiten schulden: Sie die pünktliche Rückgabe in vereinbartem Zustand, der Verleiher ein verkehrstaugliches Fahrzeug und die vereinbarten Leistungen. Der Papierkram entsteht nicht für Gerichte, sondern für den Alltag, wenn eine Frage offen ist und beide Seiten nachschlagen wollen.",
+        "In der Praxis gibt es dabei zwei Extreme: Verleiher, die überhaupt nichts festhalten, und solche, die Formulare mit unklaren Passagen vorlegen. Beides ist ein Signal, aber keins ist ein Grund zur Panik. Richtig ist, die wesentlichen Klauseln selbst zu prüfen und Lücken schriftlich zu ergänzen. Denn im Nachhinein füllt niemand mehr eine Lücke, die am Übergabetag entstanden ist."
+      ]
+    },
+    {
+      "heading": "Klausel eins: Mietdauer, Preis und Rückgabe",
+      "paragraphs": [
+        "Die erste Kernklausel nennt die Mietdauer, den Preis und den Rückgabezeitpunkt. Prüfen Sie, ob die Dauer zur Zahl passt und ob die Rückgabezeit realistisch ist. Achten Sie auf die Regelung für Verspätung, denn sie macht aus Minuten Nachkosten oder aus Minuten Kulanz – je nachdem, was dort steht.",
+        "Steht zu Verspätung nichts, fragen Sie nach und lassen Sie die Antwort kurz festhalten. Genau diese kleine Lücke wird sonst am letzten Tag zur Preisfrage. Ein Vertrag, der die Zeitfragen sauber regelt, entlastet beide Seiten gleichermaßen. Mit dieser Frage wird der letzte Tag planbar statt improvisiert."
+      ]
+    },
+    {
+      "heading": "Klausel zwei: Kaution, Schäden und Haftung",
+      "paragraphs": [
+        "Die zweite Kernklausel behandelt Kaution und Schäden: Wie hoch ist die Sicherheit, was deckt sie ab, und wie wird bei einem Schaden gerechnet? Achten Sie auf die Grenze zwischen normalem Verschleiß und ersatzpflichtigen Schäden – an dieser Linie entscheiden die meisten Rückgabe-Fälle. Diese Grenze gehört in den Vertrag, nicht in die Erinnerung.",
+        "Zur Haftung gehört auch die Frage der Fahrberechtigung: Dürfen Sie das Fahrzeug führen, und was geschieht bei einer Verletzung dieser Regel? Das Auswärtige Amt stellt klar, dass die Klasse B in Vietnam keine Zweiräder über 50 ccm abdeckt und B196 nicht anerkannt wird. Wer ohne die passende Berechtigung fährt, riskiert Deckung und Vertrag gleichermaßen."
+      ]
+    },
+    {
+      "heading": "Klausel drei: Kraftstoff, Zubehör und Ausfälle",
+      "paragraphs": [
+        "Die dritte Kernklausel regelt den Kraftstoffstand bei Übergabe und Rückgabe sowie den Umgang mit Zubehör wie Helm und Schloss. Diese Positionen klingen klein, erzeugen aber die häufigsten kleinen Nachforderungen. Eine klare Zeile im Vertrag ersetzt jede späte Erinnerung.",
+        "Ergänzend gehört die Ausfallregelung hinein: Was geschieht bei einer Panne, wer organisiert ein Ersatzfahrzeug, und wie werden ausgefallene Tage behandelt? Ein fairer Vertrag beantwortet diese Frage, bevor sie entsteht, und genau daran erkennen Sie, ob der Verleiher seinen Betrieb durchdacht hat."
+      ]
+    },
+    {
+      "heading": "Unklare Stellen richtig behandeln",
+      "paragraphs": [
+        "Stoßen Sie auf unklare Passagen, lassen Sie sie konkretisieren oder streichen, statt sie mündlich zu relativieren. Eine mündliche Relativierung verschwindet, die geschriebene Passage bleibt. Fügen Sie Ergänzungen handschriftlich mit Initialen hinzu oder klären Sie sie in einer bestätigten Nachricht.",
+        "Und wenn ein Verleiher jede Ergänzung ablehnt? Dann haben Sie eine Information erhalten, die wichtiger ist als jeder Paragraph. Die offizielle Tourismusseite Vietnam Travel empfiehlt, sich vor Verträgen im Reiseland grundsätzlich Zeit zu nehmen. Ein Vertrag, den Sie nicht verstehen, ist kein Vertrag, den Sie eingehen sollten."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "DE-037",
+  "hub": "mietpreise-kaution",
+  "title": "Schriftliche Preisbestätigung anfordern",
+  "slug": "schriftliche-preisbestaetigung-anfordern",
+  "status": "IDEA",
+  "priority": 17,
+  "keywordHypothesis": "schriftliche preisbestätigung anfordern",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Schriftliche Preisbestätigung bei der Roller-Miete anfordern: Inhalte, Formulierungen und das Vorgehen, wenn der Verleiher zögert.",
+  "excerpt": "Eine mündliche Preiszusage ist in Ordnung, solange alles gutgeht. Dieser Ratgeber zeigt, wie Sie eine schriftliche Preisbestätigung anfordern, welche Punkte hineingehören und wie Sie freundlich bleiben, selbst wenn ein Anbieter ausweicht.",
+  "sections": [
+    {
+      "heading": "Warum die schriftliche Form so wirksam ist",
+      "paragraphs": [
+        "Eine schriftliche Preisbestätigung verändert die Psychologie einer Absprache: Aus einer flüchtigen Zusage wird eine festgehaltene Tatsache. Der Verleiher merkt, dass die Konditionen Bestand haben, und Sie gewinnen eine Referenz, auf die Sie sich bei jeder Rückfrage berufen können. Das Blatt schweigt nie und vergisst nichts.",
+        "In der Praxis genügt dafür keine Vertragssprache und kein Formular. Eine kurze Nachricht, die die Eckpunkte wiedergibt, und eine Bestätigung des Verleihers erfüllen denselben Zweck. Es geht nicht um Beweise für Gerichte, sondern um Klarheit zwischen zwei Parteien, die miteinander arbeiten wollen. Die schönste Nebenwirkung: Beide Seiten entsinnen sich beim nächsten Treffen sofort an den Stand der Dinge."
+      ]
+    },
+    {
+      "heading": "Diese Punkte gehören hinein",
+      "paragraphs": [
+        "Eine vollständige Preisbestätigung nennt sechs Dinge: den Tagessatz oder den Gesamtpreis, die Mietdauer, die Höhe der Kaution, die enthaltenen Leistungen, die Regelung zum Kraftstoff und die vereinbarte Rückgabezeit. Diese sechs Punkte decken die Kosten einer Miete vollständig ab. Fehlt einer davon, entsteht genau dort später die erste Rückfrage.",
+        "Ergänzen Sie, wo es relevant wird, die Kontaktnummer für den Pannenfall und die Frage, was bei Verlängerung oder früherer Rückgabe geschieht. Beides sind die häufigsten Nachfragen im laufenden Betrieb. Eine Bestätigung, die diese Punkte kennt, bleibt über die gesamte Miete aktuell."
+      ]
+    },
+    {
+      "heading": "So formulieren Sie die Anfrage",
+      "paragraphs": [
+        "Formulieren Sie die Anfrage neutral und kurz, etwa als Zusammenfassung mit Bitte um Bestätigung: die genannten Punkte in drei bis vier Zeilen und die Frage, ob das so stimmt. Vermeiden Sie rechthaberische Töne, denn Sie bitten um Bestätigung, nicht um Unterschrift unter ein Protokoll. Freundliche Neutralität öffnet dabei mehr Türen als jede Vorhaltung von Misstrauen.",
+        "Der beste Kanal ist das Medium, das der Verleiher sowieso nutzt: ein Kurznachrichtendienst, eine Mail oder ein Zettel mit Gegenzeichnung. Wichtig ist allein, dass beide Seiten dasselbe Dokument sehen und die Bestätigung zurückkommt. Ein Foto eines handschriftlichen Zettels erfüllt denselben Zweck wie eine Mail."
+      ]
+    },
+    {
+      "heading": "Wenn der Verleiher ausweicht",
+      "paragraphs": [
+        "Ein Verleiher, der eine schriftliche Bestätigung ablehnt, bietet Ihnen damit eine Information: Vielleicht sind die Konditionen nicht stabil, vielleicht ist die Organisation chaotisch, vielleicht ist beides. Ein einzelnes Zögern mag Sprachbarrieren oder Gewohnheit sein – dauerhaftes Ausweichen ist ein Muster.",
+        "Bleiben Sie in diesem Fall ruhig und machen Sie einen kleinen Schritt zurück: Wiederholen Sie die mündliche Absprache in einer Nachricht und bitten Sie um einen kurzen Widerspruch, falls etwas nicht stimme. Diese Umgehung der Bitte ist legitim, denn die Verantwortung liegt nun beim Empfänger. Antworten die Konditionen nicht, wissen Sie genug."
+      ]
+    },
+    {
+      "heading": "Die Bestätigung im weiteren Verlauf nutzen",
+      "paragraphs": [
+        "Bewahren Sie die Bestätigung während der gesamten Miete griffbereit auf, etwa als Screenshot oder Notiz auf dem Handy. Bei Rückfragen zitieren Sie kurz und freundlich, statt zu argumentieren. Meist endet jede Diskussion in dem Moment, in dem die schriftliche Zeile erscheint.",
+        "Am Ende zahlt sich die schriftliche Form auch im Ton aus: Wer sich auf ein gemeinsames Dokument beruft, verhandelt sachlicher und bleibt entspannter. Die offizielle Tourismusseite Vietnam Travel empfiehlt generell gute Vorbereitung für unterwegs, und eine Bestätigung der Preisgrundlage gehört an den Anfang jeder solchen Vorbereitung."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
