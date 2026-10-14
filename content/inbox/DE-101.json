@@ -1,0 +1,63 @@
+{
+  "id": "DE-101",
+  "hub": "abholung-rueckgabe",
+  "title": "Fahrzeugübergabe: vollständiger Ablauf",
+  "slug": "fahrzeuguebergabe-vollstaendiger-ablauf",
+  "status": "IDEA",
+  "priority": 1,
+  "keywordHypothesis": "fahrzeugübergabe: vollständiger ablauf",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Fahrzeugübergabe als vollständiger Ablauf: Termin, Dokumente, Fahrzeugprüfung, Vertrag und Probefahrt – Schritt für Schritt von Ankunft bis Abfahrt.",
+  "excerpt": "Die Übergabe entscheidet über den Rest der Miete: Wer den Ablauf kennt, prüft in Ruhe statt unter Zeitdruck. Dieser Ratgeber führt durch alle Schritte der Übergabe – von der Ankunft bis zur Abfahrt.",
+  "sections": [
+    {
+      "heading": "Vor der Übergabe: Pünktlichkeit und Vorbereitung",
+      "paragraphs": [
+        "Die Übergabe beginnt mit dem Termin: Wer pünktlich kommt, hat die Ruhe, die die Übergabe braucht – und wer vorbereitet kommt, hat die Fragen, die im Moment wichtig sind. Bringen Sie die Dokumente mit, die im Vertrag verlangt werden, und planen Sie dreißig bis vierzig Minuten für die Übergabe selbst ein: Wer die Übergabe in die Tour einplant, kürzt sie später nicht.",
+        "Die Vorbereitung betrifft auch das Wissen: Lesen Sie vor der Übergabe, was der Vertrag regeln soll – Kaution, Haftung, Rückgabe, Versicherung. Wer die Punkte im Kopf hat, bespricht sie am Fahrzeug mit Bezug auf das konkrete Fahrzeug, statt abstrakt über Paragraphen zu reden."
+      ]
+    },
+    {
+      "heading": "Die Fahrzeugprüfung am Objekt",
+      "paragraphs": [
+        "Der Kern der Übergabe ist die gemeinsame Prüfung: Gehen Sie das Fahrzeug mit dem Verleiher zusammen durch – Reifen, Bremsen, Licht, Hupe, Spiegel, Staufach, Tankstand, vorhandene Kratzer und Beschädigungen. Alles, was Sie bei der Übergabe nicht ansprechen, wird bei der Rückgabe Ihr Thema sein.",
+        "Prüfen Sie auch die Dinge, die man leicht übersieht: funktioniert der Seitenständer sauber, sitzt der Helm richtig, lässt sich das Schloss öffnen und schließen, und ist der Kraftstoffstand so, wie der Vertrag es beschreibt. Eine Prüfung, die fünf Minuten dauert, ist keine Kontrolle des Verleihers – sie ist die Grundlage der gemeinsamen Basis."
+      ]
+    },
+    {
+      "heading": "Vertrag, Kaution und Dokumente",
+      "paragraphs": [
+        "Der Vertrag wird am besten im Stehen am Fahrzeug gelesen – mit Bezug auf das, was gerade geprüft wurde: Was gilt für Schäden, die schon da sind, was für neue, was für Diebstahl, was für Pannen. Das Auswärtige Amt rät ausdrücklich, den Reisepass nicht als Kaution beim Verleiher zu hinterlassen – klären Sie die Alternative, bevor Sie unterschreiben.",
+        "Behandeln Sie die Kaution als Vertragspunkt, nicht als Formalität: Betrag, Form, Rückgabebedingungen, Zeitpunkt. Alles, was zur Kaution gehört, gehört in den Vertrag – und was nicht in den Vertrag kommt, existiert im Streitfall nicht. Das gilt in beide Richtungen."
+      ]
+    },
+    {
+      "heading": "Die Probefahrt als letzter Schritt",
+      "paragraphs": [
+        "Die Probefahrt gehört zur Übergabe wie der Vertrag: Nehmen Sie eine kurze Runde, um Bremsen, Kupplung, Gasannahme und Fahrverhalten zu spüren. Wer das Fahrzeug vor der Unterschrift fährt, kennt es – wer erst danach fährt, entdeckt die Eigenheiten im Verkehr, wo sie unangenehmer auffallen.",
+        "Sprechen Sie nach der Probefahrt alles an, was auffiel: ein Bremsengeräusch, ein ruckelndes Gas, ein Spiegel, der nicht hält. Kleine Anmerkungen am Anfang sind Reparaturen oder Austausch – dieselben Anmerkungen am Ende sind Diskussionen über die Kaution."
+      ]
+    },
+    {
+      "heading": "Nach der Übergabe: Was bleibt bei Ihnen",
+      "paragraphs": [
+        "Zum Abschluss gehören zu Ihnen: die Vertragskopie, die Rückgabe-Uhrzeit, die Notfallnummer des Verleihers, eine Fotodokumentation des Fahrzeugs in seinem Zustand bei der Übergabe. Was Sie mitnehmen, schützt Sie – was Sie beim Verleiher lassen, gehört zum Geschäft, nicht zur Sicherheit Ihrer Daten und Dokumente.",
+        "Die offizielle Tourismusseite Vietnam Travel gibt einen Überblick zu Fortbewegung und Anlaufstellen im Land – kombinieren Sie diese Übersicht mit einer Übergabe, die jeden Schritt kennt. Dann startet die Miete mit einem Fahrzeug, das Sie geprüft haben, und einem Vertrag, den Sie verstehen."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
