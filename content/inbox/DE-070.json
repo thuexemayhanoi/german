@@ -1,0 +1,63 @@
+{
+  "id": "DE-070",
+  "hub": "sicherheit-verkehr",
+  "title": "Ablenkung durch Smartphone-Navigation vermeiden",
+  "slug": "ablenkung-durch-smartphone-navigation-vermeiden",
+  "status": "IDEA",
+  "priority": 10,
+  "keywordHypothesis": "ablenkung durch smartphone-navigation vermeiden",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Ablenkung durch Smartphone-Navigation vermeiden: Halterung richtig montieren, Route vor der Fahrt lernen und Blick diszipliniert halten – für sicheres Navigieren.",
+  "excerpt": "Das Handy am Lenker ist Navi, Musikuhr und Ablenkung in einem – und der Blick, der auf dem Display landet, fehlt im Verkehr. Dieser Ratgeber zeigt, wie Sie navigieren, ohne sich zu gefährden.",
+  "sections": [
+    {
+      "heading": "Warum der Bildschirm das Risiko ist",
+      "paragraphs": [
+        "Navigation ist der beste Vorwand für den gefährlichsten Fehler im Verkehr: den Blick von der Straße. Drei Sekunden mit den Augen auf dem Display bedeuten bei fünfzig Stundenkilometern rund vierzig Meter blindfahrt – im Stadtverkehr sind das mehrere Kreuzungen, Fußgänger und Türen, die sich öffnen. Das Problem ist nicht das Navi, sondern der Moment, in dem es die Aufmerksamkeit übernimmt.",
+        "In Hanoi wiegt der Punkt schwerer als anderswo: Der Verkehr verlangt jederzeit Aufmerksamkeit – Rollerschwärme, querende Fußgänger, Gegenverkehr auf der eigenen Spur gehören zum Dauerbild. Das Auswärtige Amt rät zu defensiver Fahrweise; eine defensive Fahrweise mit Blick auf das Display ist keine. Wer navigiert, organisiert die Ablenkung – nicht die Aufmerksamkeit um sie herum."
+      ]
+    },
+    {
+      "heading": "Die Route vor der Fahrt lernen",
+      "paragraphs": [
+        "Die wirksamste Technik ist die älteste: die Route vor dem Start studieren. Startpunkt, Ziel, die entscheidenden Abbiegungen, Landmarken auf dem Weg – in zwei Minuten lassen sich die fünf Momente merken, in denen das Navi sonst den Blick verlangt. Wer die Route im Kopf hat, nutzt das Display als Kontrolle, nicht als Anleitung.",
+        "Merke dir die Momente der Unsicherheit, bevor sie kommen: Wo biegt die Route ab? Wo wird es eng? Wo endet die vertraute Straße? Diese Stellen bekommst du von der Kartenansicht vor der Fahrt – und an genau diesen Stellen hältst du dann, um zu prüfen, statt während der Fahrt zu lesen. Ein Stopp von dreißig Sekunden ersetzt jede Blindfahrt."
+      ]
+    },
+    {
+      "heading": "Halterung, Platzierung und Sprachausgabe",
+      "paragraphs": [
+        "Wenn das Handy mitfährt, dann fest montiert: eine stabile Halterung im Blickfeld, nah am natürlichen Blickwinkel, nicht unten am Lenker, wo der Blick die Straße verlässt. Die Montage prüfst du vor der Fahrt – eine Halterung, die im Betrieb wackelt oder abfällt, erzeugt genau den Ablenkungsmoment, den sie verhindern sollte.",
+        "Nutze die Sprachausgabe konsequent: Die Ansagen kommen ohne Blickkontakt, und der Bildschirm bleibt für die kurzen Kontrollblicke, die du bewusst setzt. Stelle die Ansagen vor Fahrtantritt ein, wähle die Lautstärke prüfend – hörbar über Fahrtwind, aber nicht übertönend. Und halte die eigentlichen Interaktionen aus dem Verkehr heraus: Nachrichten, Musik, Fotos – alles vor dem Start oder nach dem Ziel, niemals unterwegs."
+      ]
+    },
+    {
+      "heading": "Blick-Disziplin als Gewohnheit",
+      "paragraphs": [
+        "Entwickle eine Regel für die Blicke auf das Display: kurz, gezielt, nur im Rollen oder Stehen – nie im fließenden Verkehr und nie in Kreuzungsnähe. Ein kurzer Blick dauert eine Sekunde und erfordert eine Vorab-Entscheidung darüber, was du sehen willst. Wer mit der Frage „Wo schaue ich hin?“ startet, endet nicht mit der Frage „Was ist passiert?“.",
+        "Prüfe deine eigene Statistik ehrlich: Jeder Blick auf das Display ist eine Entscheidung gegen die Straße. Wenn du merkst, dass die Blicke häufiger werden, dann ist die Route komplexer als dein Gedächtnis – halte an, ordne neu, fahre weiter. Das Anhalten ist die effizienteste Navigationsform, die es gibt: Es kostet dreißig Sekunden und bringt die gesamte Aufmerksamkeit zurück."
+      ]
+    },
+    {
+      "heading": "Handy und Handtaschen im Parkzustand",
+      "paragraphs": [
+        "Das Thema endet nicht bei der Fahrt: Das Auswärtige Amt warnt vor Handtaschenraub durch vorbeifahrende Roller – das offen sichtbare Handy am Lenker ist die Einladung dazu. Verstau das Gerät beim Absteigen, nimm es nicht offen in die Hand am Straßenrand und sichere die Halterung leer, wenn das Fahrzeug steht. Die Halterung ist ein Werkzeug während der Fahrt, keine Vitrine danach.",
+        "Und für die Ziele selbst gilt dieselbe Disziplin: Wer am Rand der Fahrbahn steht und ins Display schaut, steht im Verkehr und nicht daneben. Suche dir für die Orientierung den Gehweg, eine Hausecke, einen ruhigen Punkt – das ist Höflichkeit gegenüber dem Fluss und Sicherheit für dich. Die offizielle Tourismusseite Vietnam Travel hilft bei der Routenplanung im Vorhinein – wer die Zetteltechnik oder die Merkroute nutzt, fährt mit freiem Kopf und offenen Augen."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

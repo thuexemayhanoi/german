@@ -1,0 +1,63 @@
+{
+  "id": "DE-067",
+  "hub": "sicherheit-verkehr",
+  "title": "Was du vor jeder Fahrt kurz prüfen kannst",
+  "slug": "was-du-vor-jeder-fahrt-kurz-pruefen-kannst",
+  "status": "IDEA",
+  "priority": 7,
+  "keywordHypothesis": "was du vor jeder fahrt kurz prüfen kannst",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Was du vor jeder Fahrt kurz prüfen kannst: Reifen, Bremsen, Licht, Kette und Dokumente in zwei Minuten – die Routine, die kleine Defekte groß verhindert.",
+  "excerpt": "Zwei Minuten vor dem Start können den ganzen Tag retten: Bremsen, Reifen, Licht und Papiere – eine kurze Routine, die dich sicher in den Verkehr schickt. Dieser Ratgeber zeigt die Prüfliste für jeden Start.",
+  "sections": [
+    {
+      "heading": "Warum zwei Minuten reichen",
+      "paragraphs": [
+        "Die Vorab-Prüfung ist die billigste Wartung, die es gibt: Sie kostet Zeit, die du in jeder Warteschlange verlierst, und sie findet Probleme, die dich sonst unterwegs kosten. Ein weicher Reifen, eine schwergängige Bremse, ein totes Rücklicht – alles das zeigt sich in einer flüchtigen Kontrolle, wenn du weißt, wo du hinschaust. Zwei Minuten genügen für die komplette Liste.",
+        "Die Routine wirkt, weil sie regelmäßig wirkt: Prüfst du bei jedem Start, bemerkst du Veränderungen früh – die Bremse, die gestern noch fest war, der Reifen, der letzte Woche noch Druck hatte. Zweiräder zeigen Defekte nicht per Warnleuchte, sondern durch kleine Abweichungen. Deine Routine ist die Warnleuchte, die das Fahrzeug nicht hat."
+      ]
+    },
+    {
+      "heading": "Die Reifen: Druck, Profil, Fremdkörper",
+      "paragraphs": [
+        "Drücke mit dem Daumen beide Reifen fest ein: Ein Reifen mit klar nachgebender Wand ist zu weich und muss aufgepumpt werden, bevor du startest. Zu niedriger Druck verändert das Fahrverhalten, verlängert Bremswege und lässt den Reifen bei langer Fahrt heiß laufen – ein Risiko, das du am Morgen in Sekunden ausschließen kannst.",
+        "Prüfe das Profil visuell und greife nach Fremdkörpern: Nägel, Steine, Glasreste sitzen gern unbemerkt in den Rillen. Ein Profil, das an einer Stelle deutlich abgenutzt ist, verrät einen schlechten Zustand oder eine fehlerhafte Montage. Und wenn der Verleiher bei der Übergabe schon einen abgenutzten Reifen präsentiert, dann ist das eine Information über das Fahrzeug, die du vor der Anmietung brauchst, nicht nach der ersten Panne."
+      ]
+    },
+    {
+      "heading": "Bremsen, Licht und Lenkung",
+      "paragraphs": [
+        "Ziehe den Bremshebel und drücke das Bremspedal bei stillstehendem Fahrzeug: Beide sollen Druck aufbauen, ohne ins Leere zu fallen, und der Widerstand soll sich gleichmäßig anfühlen. Rolle das Fahrzeug einen Meter und bremse sanft – die Verzögerung muss sofort und ohne Ruckeln einsetzen. Eine Bremse, die am Stand gut aussieht und bei der Rollprobe zögert, ist eine Bremse, die du nicht mit in den Verkehr nimmst.",
+        "Kontrolliere das Licht bei jedem Start mit einem Blick in eine Wand oder ein Schaufenster: Scheinwerfer, Rücklicht und Bremslicht – alles muss leuchten. Das Auswärtige Amt weist darauf hin, dass in Vietnam viele Unfälle nach Einbruch der Dunkelheit geschehen; eine funktionierende Beleuchtung ist dein Beitrag, in der Dämmerung gesehen zu werden. Und bewege den Lenker kurz hin und her: Spiel im Lenkkopf oder Geräusche an der Front sind Befunde, die in die Werkstatt gehören, nicht auf die Straße."
+      ]
+    },
+    {
+      "heading": "Dokumente und Ausrüstung",
+      "paragraphs": [
+        "Prüfe die Gegenwart deiner Papiere: Führerschein, Mietvertrag, Fahrzeugpapiere – alles in der Tasche, die du dabei hast, und nicht in der anderen. Diese Prüfung klingt banal, aber die Kontrolle, die dich ohne Papiere erwischt, interessiert sich nicht für dein Gedächtnis. Und der Helm gehört zur Routine: Band schließen, Passform prüfen, Visier sauber.",
+        "Denke an die Ausrüstung für die Strecke: Wasser bei Hitze, Regenkleidung bei wechselhaftem Wetter, ein Reflexband für die Rückkehr in der Dämmerung. Das Auswärtige Amt warnt vor Handtaschenraub durch vorbeifahrende Roller – verstauen Wertgegenstände verschlossen und trage Dokumente körpernah. Deine Routine ist auch eine Verwahrungsroutine: Nichts Wichtiges liegt offen, nichts Wichtiges liegt weit weg."
+      ]
+    },
+    {
+      "heading": "Die Routine zum Anfang machen",
+      "paragraphs": [
+        "Baue die Prüfung in den Start ein: Reifen, Bremsen, Licht, Lenkung, Papiere, Helm – sechs Punkte, zwei Minuten, immer in dieser Reihenfolge. Die feste Reihenfolge macht die Routine zur Gewohnheit, und die Gewohnheit findet die Fehler, die du nicht suchst. Wer einmal angefangen hat, prüft nach einer Woche automatisch – die Liste wandert vom Kopf in die Hände.",
+        "Und wenn die Prüfung einen Befund liefert? Dann gilt: Verschiebe die Fahrt oder kläre den Befund, bevor du startest. Ein Defekt, den du umgehst, kostet Minuten; ein Defekt, den du mitnimmst, kostet je nach Ort mehr. Das Auswärtige Amt rät für Vietnam zu defensiver Fahrweise und guter Vorbereitung – die Zwei-Minuten-Prüfung ist der Teil der Vorbereitung, den du bei jedem einzelnen Start neu leisten kannst."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
