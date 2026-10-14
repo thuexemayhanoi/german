@@ -142,22 +142,22 @@
       "hub": "fahrzeugwahl",
       "title": "Bremsen bei verschiedenen Fahrzeugtypen vergleichen",
       "slug": "bremsen-bei-verschiedenen-fahrzeugtypen-vergleichen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 13,
       "keywordHypothesis": "bremsen bei verschiedenen fahrzeugtypen vergleichen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/bremsen-bei-verschiedenen-fahrzeugtypen-vergleichen/"
     },
     {
       "id": "DE-014",
       "hub": "fahrzeugwahl",
       "title": "Roller für längere Strecken: Entscheidungshilfe",
       "slug": "roller-fuer-laengere-strecken-entscheidungshilfe",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 14,
       "keywordHypothesis": "roller für längere strecken: entscheidungshilfe",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/roller-fuer-laengere-strecken-entscheidungshilfe/"
     },
     {
       "id": "DE-015",
