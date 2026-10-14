@@ -164,22 +164,22 @@
       "hub": "fahrzeugwahl",
       "title": "Spiegel und Sitzposition richtig prüfen",
       "slug": "spiegel-und-sitzposition-richtig-pruefen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 15,
       "keywordHypothesis": "spiegel und sitzposition richtig prüfen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/spiegel-und-sitzposition-richtig-pruefen/"
     },
     {
       "id": "DE-016",
       "hub": "fahrzeugwahl",
       "title": "Fahrzeugwahl bei Regen und wechselndem Wetter",
       "slug": "fahrzeugwahl-bei-regen-und-wechselndem-wetter",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 16,
       "keywordHypothesis": "fahrzeugwahl bei regen und wechselndem wetter",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/fahrzeugwahl-bei-regen-und-wechselndem-wetter/"
     },
     {
       "id": "DE-017",
