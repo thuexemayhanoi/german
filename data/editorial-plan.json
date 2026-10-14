@@ -384,22 +384,22 @@
       "hub": "mietpreise-kaution",
       "title": "Preisunterschiede ohne falsche Annahmen bewerten",
       "slug": "preisunterschiede-ohne-falsche-annahmen-bewerten",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 15,
       "keywordHypothesis": "preisunterschiede ohne falsche annahmen bewerten",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/preisunterschiede-ohne-falsche-annahmen-bewerten/"
     },
     {
       "id": "DE-036",
       "hub": "mietpreise-kaution",
       "title": "Mietpreis und Fahrzeugzustand zusammen betrachten",
       "slug": "mietpreis-und-fahrzeugzustand-zusammen-betrachten",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 16,
       "keywordHypothesis": "mietpreis und fahrzeugzustand zusammen betrachten",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/mietpreis-und-fahrzeugzustand-zusammen-betrachten/"
     },
     {
       "id": "DE-037",
