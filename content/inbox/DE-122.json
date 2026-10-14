@@ -1,0 +1,63 @@
+{
+  "id": "DE-122",
+  "hub": "probleme-hilfe",
+  "title": "Vermieter bei Problemen sinnvoll kontaktieren",
+  "slug": "vermieter-bei-problemen-sinnvoll-kontaktieren",
+  "status": "IDEA",
+  "priority": 2,
+  "keywordHypothesis": "vermieter bei problemen sinnvoll kontaktieren",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Bei Problemen mit dem Mietroller entscheidet der richtige Kontakt zum Vermieter viel. Erfahren Sie, wie Sie klar schildern, was Sie brauchen, und Missverständnisse vermeiden.",
+  "excerpt": "Ein technisches Problem unterwegs ist halb so schlimm, wenn die Kommunikation sitzt. So schildern Sie den Vorfall sachlich und erhalten schneller die passende Unterstützung.",
+  "sections": [
+    {
+      "heading": "Kontaktdaten schon bei der Übergabe sichern",
+      "paragraphs": [
+        "Der beste Moment, um den Kontakt zum Vermieter vorzubereiten, ist die Fahrzeugübergabe selbst. Speichern Sie die vereinbarte Telefonnummer und den Namen Ihres Ansprechpartners direkt im Handy ab und notieren Sie zusätzlich, welcher Kanal für Probleme gelten soll. Wer diese Daten erst im Ernstfall sucht, verliert wertvolle Zeit.",
+        "Klären Sie bei der Übergabe auch, zu welchen Zeiten der Vermieter erreichbar ist und was außerhalb dieser Zeiten geschehen soll. In Hanoi enden viele Tage mit Fahrten in die Abendstunden. Laut Auswärtigem Amt geschehen viele Unfälle nach Einbruch der Dunkelheit, deshalb sollten Sie schon im Vorfeld wissen, wen Sie dann erreichen können."
+      ]
+    },
+    {
+      "heading": "Das Problem klar und ohne Vorwurf schildern",
+      "paragraphs": [
+        "Beginnen Sie jede Meldung mit den Fakten: Standort, Uhrzeit, was am Fahrzeug passiert ist und was Sie gerade tun. Verzichten Sie auf Vorwürfe oder Vermutungen über die Ursache, solange Sie nichts beobachtet haben. Eine nüchterne Schilderung lässt sich deutlich schneller bearbeiten als ein aufgeregter Bericht.",
+        "Unterscheiden Sie sauber zwischen Beobachtung und Vermutung. Sätze wie ein Klopfen tritt seit dem Stop an der Ampel auf sind hilfreicher als irgendetwas stimmt nicht. Der Vermieter kann Ihre Angaben nur dann einordnen, wenn er zwischen dem unterscheidet, was Sie gesehen und gehört haben, und dem, was Sie glauben."
+      ]
+    },
+    {
+      "heading": "Schriftliche Nachrichten gezielt einsetzen",
+      "paragraphs": [
+        "In der lauten Innenstadt von Hanoi sind Telefonate oft anstrengend. Eine kurze schriftliche Nachricht mit Ihrer Position und dem Problem ist in vielen Situationen die bessere Wahl. Sie bleibt als Verlauf gespeichert und klärt Missverständnisse, die am Telefon durch schlechte Verbindung entstehen.",
+        "Schreiben Sie kompakt: eine Nachricht mit allen wichtigen Angaben statt zehn kurzer Einzelnachrichten. Nennen Sie den Fahrzeugbezug aus dem Vertrag, damit die Gegenstelle weiß, um welches Fahrzeug es geht. Fragen Sie am Ende konkret, was Sie tun sollen, und warten Sie die Antwort ab, bevor Sie weiterfahren."
+      ]
+    },
+    {
+      "heading": "Fotos und Videos als Unterstützung senden",
+      "paragraphs": [
+        "Ein Bild vom Zustand des Fahrzeugs erspart lange Beschreibungen. Fotografieren Sie auffällige Stellen im Tageslicht, so weit das möglich ist, und zeigen Sie bei beweglichen Problemen ein kurzes Video. Achten Sie darauf, dass die Aufnahmen scharf sind und den betroffenen Bereich vollständig zeigen.",
+        "Beschriften Sie die Aufnahmen beim Senden mit einem Satz zur Einordnung, etwa wann und wo sie entstanden sind. Unbeschriftete Fotos aus einem fremden Stadtbild verwirren eher, als dass sie helfen. Denken Sie auch daran, dass Videodateien groß sein können und in Gebieten mit schwacher Verbindung schwer versendet werden."
+      ]
+    },
+    {
+      "heading": "Gemeinsame nächste Schritte vereinbaren",
+      "paragraphs": [
+        "Schließen Sie jedes Gespräch mit einer klaren Vereinbarung: Wer macht was, bis wann, und was geschieht, wenn etwas dazwischenkommt. Halten Sie das Ergebnis kurz in einer Notiz fest. So haben Sie einen Anhaltspunkt, falls später unterschiedliche Erinnerungen an den Ablauf bestehen.",
+        "Bleiben Sie während der Abwicklung erreichbar und informieren Sie den Vermieter über wesentliche Änderungen, etwa wenn sich Ihr Standort verlagert. Ein lösungsorientierter Umgangston zahlt sich aus, denn viele Vermieter reagieren hilfsbereit, wenn sie sachliche Informationen und verlässliche Rückmeldungen erhalten."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

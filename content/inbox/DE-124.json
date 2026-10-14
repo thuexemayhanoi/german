@@ -1,0 +1,63 @@
+{
+  "id": "DE-124",
+  "hub": "probleme-hilfe",
+  "title": "Unklare Schäden sachlich dokumentieren",
+  "slug": "unklare-schaeden-sachlich-dokumentieren",
+  "status": "IDEA",
+  "priority": 4,
+  "keywordHypothesis": "unklare schäden sachlich dokumentieren",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Ein Kratzer am Mietroller, dessen Herkunft unklar ist, braucht eine klare Dokumentation. So erfassen Sie den Befund sachlich und vermeiden späteren Streit.",
+  "excerpt": "Wenn Sie einen Schaden entdecken, den Sie nicht selbst verursacht haben, zählt Präzision. Erfahren Sie, wie Sie den Zustand festhalten und die Kommunikation mit dem Vermieter neutral gestalten.",
+  "sections": [
+    {
+      "heading": "Die Situation zunächst sichern",
+      "paragraphs": [
+        "Entdecken Sie einen Kratzer, eine Delle oder eine fehlende Abdeckung am Mietroller, halten Sie zuerst das Fahrzeug an und verlassen Sie die Fundstelle nicht. Schauen Sie sich den Befund genau an, ohne Teile zu bewegen oder zu reinigen. Jede Veränderung der Stelle erschwert es später, den ursprünglichen Zustand nachzuvollziehen.",
+        "Überlegen Sie, wann Sie den Zustand zuletzt kontrolliert haben. Diese Zeitspanne hilft Ihnen und dem Vermieter, den Vorfall einzuordnen. Parken Sie das Fahrzeug anschließend an einen einsehbaren und gesicherten Ort, wenn Sie es längere Zeit abstellen müssen, und fotografieren Sie die Umgebung mit."
+      ]
+    },
+    {
+      "heading": "Mit Fotos und Notizen präzise festhalten",
+      "paragraphs": [
+        "Fotografieren Sie den betroffenen Bereich aus mehreren Entfernungen: eine Übersicht, die zeigt, wo am Fahrzeug die Stelle liegt, und Nahaufnahmen, die Details sichtbar machen. Achten Sie auf gutes Licht und ein ruhiges Bild. Eine kurze Videosequenz, die um die Stelle herumgeführt wird, ergänzt die Fotos sinnvoll.",
+        "Notieren Sie Datum, Uhrzeit und Ort der Entdeckung. Ergänzen Sie, ob das Fahrzeug in dieser Zeit bewegt wurde oder abgestellt stand. Beschreiben Sie die Stelle mit sachlichen Worten wie Kratzer auf der rechten Seitenverkleidung, Länge etwa eine Handbreite. Solche Angaben bleiben auch später noch verständlich, wenn Fotos nicht sofort geöffnet werden können."
+      ]
+    },
+    {
+      "heading": "Neutral formulieren statt bewerten",
+      "paragraphs": [
+        "In Ihrer Meldung zählt der Befund, nicht die Deutung. Schreiben Sie, was Sie sehen, und lassen Sie offen, wie die Stelle entstanden ist, wenn Sie es nicht beobachtet haben. Formulierungen wie die Stelle war bei meiner Kontrolle am Morgen noch nicht vorhanden sind zulässig, sobald Sie diese Kontrolle tatsächlich durchgeführt haben.",
+        "Vermeiden Sie Unterstellungen gegen Dritte oder frühere Mieter, wenn Sie keine Beobachtung haben. Eine neutrale Dokumentation schützt Ihr eigenes Anliegen am besten, denn sie lädt niemanden zum Widerspruch ein. Der Vermieter kann mit einem klaren Befund deutlich besser arbeiten als mit einer Schuldzuweisung."
+      ]
+    },
+    {
+      "heading": "Den Vermieter früh einbeziehen",
+      "paragraphs": [
+        "Melden Sie den Befund, sobald Sie ihn dokumentiert haben, und fragen Sie, wie es weitergeht. Warten Sie mit Reparaturen oder Ersatzbeschaffungen, bis die Gegenstelle eine Vorgabe gegeben hat. Wer auf eigene Faust Werkstätten beauftragt, riskiert, dass die Abrechnung später strittig wird, weil der Zustand vor dem Eingriff nicht gemeinsam festgehalten wurde.",
+        "Stellen Sie Ihre Dokumentation dem Vermieter zur Verfügung und halten Sie die erhaltene Antwort fest. Legen Sie die Absprachen gemeinsam fest, auch die Frage, ob das Fahrzeug bis zur Rückgabe weiter genutzt werden darf und unter welchen Bedingungen. Diese Klarheit hilft beiden Seiten bei der Rückgabe."
+      ]
+    },
+    {
+      "heading": "Unterlagen aufbewahren und später verwenden",
+      "paragraphs": [
+        "Sammeln Sie alle Nachweise zum Vorfall an einem Ort: Fotos, Notizen, Nachrichten und Gesprächsnotizen. Benennen Sie die Dateien so, dass Sie sie auch Wochen später noch zuordnen können. Diese Sammlung dient als Anhang Ihrer Schilderung bei der Rückgabe und macht die Übergabekontrolle schneller.",
+        "Bei der Rückgabe nehmen Sie Bezug auf Ihre Dokumentation, statt die Angelegenheit neu zu erklären. Ein kurzer Hinweis auf die gemeldete Stelle mit Datum der Meldung genügt. So bleibt die Übergabe sachlich, und der Zustand des Fahrzeugs wird ohne längere Diskussion gemeinsam festgehalten."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

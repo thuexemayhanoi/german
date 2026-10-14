@@ -1,0 +1,63 @@
+{
+  "id": "DE-123",
+  "hub": "probleme-hilfe",
+  "title": "Technisches Warnsignal richtig melden",
+  "slug": "technisches-warnsignal-richtig-melden",
+  "status": "IDEA",
+  "priority": 3,
+  "keywordHypothesis": "technisches warnsignal richtig melden",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Klopfen, Lecken oder eine Warnleuchte am Mietroller verdient Aufmerksamkeit. Dieser Ratgeber zeigt, wie Sie ein Warnsignal einordnen und korrekt melden.",
+  "excerpt": "Warnsignale am Fahrzeug ignorieren führt selten gut. Lernen Sie, zwischen harmlosen Auffälligkeiten und ernsten Signalen zu unterscheiden und die Meldung präzise zu formulieren.",
+  "sections": [
+    {
+      "heading": "Warnsignale ernst nehmen und einordnen",
+      "paragraphs": [
+        "Ein neu auftretendes Klopfen, ein Ziehen beim Bremsen oder eine plötzlich leuchtende Kontrolle am Armaturenbrett sind Signale, die Sie nicht überhören sollten. Ein gemietetes Fahrzeug kennen Sie nicht über Jahre, deshalb gilt: Jede Veränderung, die Sie nicht einordnen können, ist ein Grund, vorsichtig zu werden.",
+        "Ordnen Sie ein, wann das Signal auftritt. Ein Geräusch, das nur bei bestimmten Manövern entsteht, sagt mehr aus als ein Dauerzustand, den Sie nur undeutlich beschreiben können. Vergleichen Sie außerdem, ob das Signal nach dem Abstellen des Fahrzeugs bestehen bleibt oder mit dem Betrieb zusammenhängt. Diese Beobachtungen sind der Kern Ihrer späteren Meldung."
+      ]
+    },
+    {
+      "heading": "Sicher anhalten statt weiterprobieren",
+      "paragraphs": [
+        "Bei unklaren Signalen ist es fast immer besser, an einer sicheren Stelle anzuhalten, als die Fahrt auszuprobieren. Ein Fahrzeug, das sich anders verhält als zuvor, kann Sie und andere gefährden. Suchen Sie einen Platz abseits des fließenden Verkehrs und schauen Sie sich das Fahrzeug in Ruhe an, ohne Teile zu demontieren.",
+        "Besondere Vorsicht gilt am Abend. Das Auswärtige Amt vermerkt, dass viele Unfälle in Vietnam nach Einbruch der Dunkelheit geschehen. Ein Warnsignal, das Sie abends bemerken, sollten Sie ernster nehmen als eines am helllichten Tag, weil Sie es nicht mehr sicher beurteilen können und eine Panne in der Dunkelheit riskanter ist."
+      ]
+    },
+    {
+      "heading": "Das Warnsignal genau beschreiben",
+      "paragraphs": [
+        "Eine gute Meldung beantwortet vier Fragen: Was hören, sehen oder spüren Sie, seit wann tritt es auf, bei welchen Manövern verstärkt es sich, und was haben Sie zuletzt am Fahrzeug verändert. Beschreiben Sie Geräusche mit einfachen Worten wie Klopfen, Schleifen oder Pfeifen, statt Fachbegriffe zu raten.",
+        "Ergänzen Sie die Beschreibung um eine kurze Einordnung, ohne eine Diagnose zu behaupten. Schreiben Sie zum Beispiel, dass das Geräusch bei jedem Bremsvorgang auftritt und den Bremshebel begleitet. Solche Formulierungen erlauben der Gegenstelle eine erste Einschätzung, ohne dass Sie eine Ursache erfinden müssen, die Sie nicht kennen."
+      ]
+    },
+    {
+      "heading": "Den Vermieter informieren und Vorgaben abwarten",
+      "paragraphs": [
+        "Melden Sie das Warnsignal, bevor Sie weiterfahren, und fragen Sie ausdrücklich, wie Sie fortfahren sollen. Manche Signale erlauben eine langsame Rückfahrt zur nächstgelegenen vereinbarten Stelle, andere erfordern ein Stehenlassen des Fahrzeugs. Treffen Sie diese Entscheidung nicht allein, wenn Sie unsicher sind.",
+        "Halten Sie die erhaltene Vorgabe schriftlich fest, etwa als Screenshot oder Notiz. Falls unterwegs eine Kontrolle oder eine Rückfrage kommt, können Sie so den Ablauf belegen. Bewegen Sie das Fahrzeug auf eigene Faust nur dann weiter, wenn die Gegenstelle ausdrücklich zustimmt und die Strecke kurz ist."
+      ]
+    },
+    {
+      "heading": "Sicherheit geht vor Terminplan",
+      "paragraphs": [
+        "Ein Warnsignal am Mietroller ist unangenehm, wenn Sie einen Ausflug geplant haben. Trotzdem gilt: Sicherheitseinschätzungen haben Vorrang vor Zeitplänen. Tragen Sie während des gesamten Vorfalls Ihren Helm, und verzichten Sie auf abendliche Alleinfahrten, solange das Fahrzeug nicht geprüft wurde.",
+        "Nutzen Sie die Wartezeit, um Ihre Pläne anzupassen, statt Risiken einzugehen. Das Auswärtige Amt empfiehlt Reisenden in Vietnam ohnehin, Risiken im Straßenverkehr bewusst zu begrenzen. Ein gemeldetes Warnsignal mit klarer Absprache ist immer die bessere Wahl als eine Fahrt ins Ungewisse."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "DE-125",
+  "hub": "probleme-hilfe",
+  "title": "Bei verlorenen Schlüsseln richtig vorgehen",
+  "slug": "bei-verlorenen-schluesseln-richtig-vorgehen",
+  "status": "IDEA",
+  "priority": 5,
+  "keywordHypothesis": "bei verlorenen schlüsseln richtig vorgehen",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Ein verlorener Schlüssel des Mietrollers ist ärgerlich, aber gut lösbar. Dieser Ratgeber zeigt, wie Sie zuerst suchen, dann informieren und Schäden vermeiden.",
+  "excerpt": "Der Schlüssel ist weg und die Suche läuft heiß. Bleiben Sie strukturiert: sichern, suchen, den Vermieter einbinden und keine riskanten Tricks am Schloss ausprobieren.",
+  "sections": [
+    {
+      "heading": "Ruhig suchen statt kopflos handeln",
+      "paragraphs": [
+        "Der erste Impuls bei einem verlorenen Schlüssel ist oft hektisches Graben in allen Taschen. Gehen Sie stattdessen systematisch vor: Denken Sie an die letzten Stellen, an denen der Schlüssel sicher in der Hand oder in der Tasche war, und gehen Sie diese Orte in umgekehrter Reihenfolge durch.",
+        "Suchen Sie an Ort und Stelle zuerst, bevor Sie Fahrten oder längere Wege wiederholen. Häufig bleibt der Schlüssel in Jackentaschen, Rucksackfächern oder unter Sitzauflagen liegen. Kontrollieren Sie auch die Taschen Ihrer Mitfahrer und die Ablagen am Fahrzeug selbst. Ein ruhiges, einmal gründliches Suchen bringt mehr als zehnmaliges durcheinanderwühlen der gleichen Taschen."
+      ]
+    },
+    {
+      "heading": "Fahrzeug und Gepäck sichern",
+      "paragraphs": [
+        "Bis der Schlüssel gefunden ist oder eine Lösung feststeht, lassen Sie das Fahrzeug nicht unbeaufsichtigt an einer belebten Stelle. Suchen Sie einen einsehbaren Abstellplatz und nehmen Sie Wertsachen und Dokumente mit. Das Auswärtige Amt weist darauf hin, dass es in Vietnam zu Handtaschendiebstählen durch vorbeifahrende Roller kommt, also tragen Sie Taschen sicher am Körper.",
+        "Sichern Sie auch Ihr Gepäck. Wenn Sie den Schlüssel in einem Rucksack vermuten, den Sie unterwegs geöffnet haben, kontrollieren Sie alle Fächer und Zwischenfächer. Manche Reisende verteilen wichtige Gegenstände auf mehrere Taschen. Bei einem Verlust hilft eine solche Aufteilung, den Überblick zu behalten."
+      ]
+    },
+    {
+      "heading": "Den Vermieter informieren und Vorgaben abwarten",
+      "paragraphs": [
+        "Sobald feststeht, dass der Schlüssel verschwunden ist, informieren Sie den Vermieter. Schildern Sie, wo und wann Sie den Schlüssel zuletzt hatten und welche Stellen Sie schon abgesucht haben. Fragen Sie ausdrücklich nach dem vereinbarten Vorgehen, bevor Sie eigene Lösungen umsetzen.",
+        "Versuchen Sie nicht, das Schloss selbst zu öffnen oder mit Werkzeug zu hebeln. Solche Versuche beschädigen häufig die Elektronik oder den Zündschlossbereich und verwandeln einen einfachen Verlust in einen teuren Schaden. Warten Sie die Vorgabe des Vermieters ab und halten Sie sie schriftlich fest."
+      ]
+    },
+    {
+      "heading": "Kosten und Zuständigkeiten vorab klären",
+      "paragraphs": [
+        "Ein verlorener Schlüssel kann Kosten verursachen, etwa für Ersatzschlüssel oder den Transport des Fahrzeugs. Welche Beträge im konkreten Fall anfallen, hängt vom Vertrag und vom Vermieter ab. Fragen Sie deshalb vor jeder Beauftragung, welche Kosten auf Sie zukommen und was der Vermieter organisiert.",
+        "Halten Sie die Absprachen zu Kosten in Nachrichten fest, statt sie nur mündlich zu vereinbaren. Wenn Dritte eingeschaltet werden, etwa ein Transportdienst, klären Sie, wer die Beauftragung übernimmt. So vermeiden Sie später unterschiedliche Erinnerungen an die Zuständigkeiten."
+      ]
+    },
+    {
+      "heading": "Für die nächsten Fahrten vorbeugen",
+      "paragraphs": [
+        "Verlieren Sie den Schlüssel nie zusammen mit anderen Gegenständen, die Sie ständig in die Hand nehmen. Bewahren Sie ihn während der Fahrt an einer festen Stelle auf, etwa in einer verschlossenen Jackeninnentasche. Gewohnheiten dieser Art senken das Risiko erheblich, weil Sie den Schlüssel nicht bei jedem Stopp in andere Fächer wandern lassen.",
+        "Prüfen Sie vor jeder Fahrt kurz, dass Schlüssel und Helm bereitliegen, und legen Sie eine feste Abschiedsroutine fest. Wer beim Losfahren eine kurze Kontrolle gewöhnt ist, bemerkt einen fehlenden Gegenstand sofort. Das Auswärtige Amt empfiehlt Reisenden in Vietnam allgemein, Aufmerksamkeit im Straßenverkehr als Teil der Eigenversicherung zu betrachten."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

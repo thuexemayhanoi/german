@@ -1,0 +1,63 @@
+{
+  "id": "DE-121",
+  "hub": "probleme-hilfe",
+  "title": "Panne unterwegs: erste sichere Schritte",
+  "slug": "panne-unterwegs-erste-sichere-schritte",
+  "status": "IDEA",
+  "priority": 1,
+  "keywordHypothesis": "panne unterwegs: erste sichere schritte",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Eine Panne mit dem Mietroller in Hanoi lässt sich mit klaren Schritten gut bewältigen. Dieser Ratgeber zeigt, wie Sie sicher anhalten und richtig reagieren.",
+  "excerpt": "Wenn der Mietroller unterwegs stehen bleibt, zählt ein kühler Kopf. Erfahren Sie, wie Sie das Fahrzeug sichern, den Verkehr schützen und den Vermieter richtig einbinden.",
+  "sections": [
+    {
+      "heading": "Ruhe bewahren und die Lage einschätzen",
+      "paragraphs": [
+        "Ein ungewohntes Geräusch, ein Ruck oder ein Motor, der ausgeht: Eine Panne mit dem Mietroller ist unangenehm, aber kein Grund zur Panik. Verschaffen Sie sich zuerst einen Überblick und halten Sie fest, was passiert ist. Prüfen Sie, ob Sie das Fahrzeug noch steuern können und ob die Umgebung eine sichere Stelle zum Anhalten bietet.",
+        "In Hanoi ist der Verkehr dicht und die Straßen oft eng. Ein Roller, der mitten auf der Fahrbahn stehen bleibt, wird schnell zum Hindernis für andere. Beobachten Sie deshalb den fließenden Verkehr, bevor Sie eine Richtung einschlagen. Bedenken Sie auch, dass laut Auswärtigem Amt viele Unfälle nach Einbruch der Dunkelheit geschehen. Wenn es bereits Abend ist, planen Sie jeden einzelnen Schritt besonders vorsichtig."
+      ]
+    },
+    {
+      "heading": "Den Roller aus dem Verkehrsfluss bringen",
+      "paragraphs": [
+        "Lenken Sie das Fahrzeug, solange es noch rollt, an den rechten Fahrbahnrand oder auf einen Seitenstreifen. Schalten Sie die Zündung aus und sichern Sie den Roller, damit er nicht wegrollen kann. Behalten Sie den Helm auf, bis Sie an einer gesicherten Stelle stehen, denn er schützt auch bei kleinen Rutschen oder Stößen.",
+        "Falls das Fahrzeug gar nicht mehr fährt, schieben Sie es nur so weit, wie es gefahrlos möglich ist. In dichtem Verkehr ist Schieben riskant, also warten Sie besser auf eine Lücke. Mitten auf Kreuzungen oder direkt vor Zufahrten hat ein liegengebliebener Roller nichts verloren. Ein paar Meter weiter kann den Unterschied zwischen Gefahr und Sicherheit ausmachen."
+      ]
+    },
+    {
+      "heading": "Die Stelle sichtbar machen",
+      "paragraphs": [
+        "Machen Sie andere Verkehrsteilnehmer frühzeitig auf Ihr Fahrzeug aufmerksam. Stellen Sie den Roller so ab, dass er aus einiger Entfernung erkennbar ist, und bleiben Sie selbst außerhalb der Fahrbahn. Reflektierende Kleidung oder helle Farben helfen dabei, in der Dämmerung überhaupt gesehen zu werden.",
+        "Vermeiden Sie es, direkt hinter einer Kurve oder hinter parkenden Fahrzeugen anzuhalten. Wer Ihr Fahrzeug dort zu spät erkennt, kann nicht mehr rechtzeitig reagieren. Suchen Sie stattdessen eine beleuchtete und gut einsehbare Stelle. Das gilt besonders dann, wenn die Panne erst am Abend eintritt und die Sichtverhältnisse rasch schlechter werden."
+      ]
+    },
+    {
+      "heading": "Den Vermieter informieren und den Fehler beschreiben",
+      "paragraphs": [
+        "Sobald Sie sicher stehen, kontaktieren Sie den Vermieter. Schildern Sie in wenigen klaren Sätzen, was passiert ist: Wo stehen Sie, seit wann besteht das Problem, welche Geräusche oder Warnanzeigen aufgetreten sind. Je genauer Ihre Beschreibung, desto schneller kann die Gegenstelle eine passende Lösung anbieten.",
+        "Nutzen Sie einen schriftlichen Kanal wie eine Kurznachricht, wenn ein Telefonat wegen der Straßenlautstärke schwierig ist. Ein kurzer Text mit Ihrer Position und dem Fehlerbild dient später auch als Nachweis für den Ablauf. Bewahren Sie die Antwort des Vermieters auf, bis das Problem vollständig gelöst ist."
+      ]
+    },
+    {
+      "heading": "Auf Hilfe warten und die Zeit nutzen",
+      "paragraphs": [
+        "Warten Sie an einem einsehbaren Platz in der Nähe des Fahrzeugs. Kontrollieren Sie derweil, ob Ihr Handy erreichbar ist und ob Sie Ihre eigene Position beschreiben können. Notieren Sie Uhrzeit und Ort der Panne, falls später Fragen zur Mietzeit oder zum Ablauf aufkommen.",
+        "Halten Sie Helm und Wertsachen bei sich. Das Auswärtige Amt weist darauf hin, dass Handtaschen und lose Gegenstände von vorbeifahrenden Rollern aus gegriffen werden können. Tragen Sie deshalb Umhängetaschen zur Körperseite und halten Sie Abstand zum Fahrbahnrand. So warten Sie sicher, bis die vereinbarte Hilfe eintrifft."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
