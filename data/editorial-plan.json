@@ -2408,22 +2408,22 @@
       "hub": "mietpreise-kaution",
       "title": "Kautionshöhe und Rückzahlungslaufzeit vorab klären",
       "slug": "kautionshoehe-und-rueckzahlungslaufzeit-vorab-klaeren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 29,
       "keywordHypothesis": "kautionshoehe rueckzahlung roller",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/kautionshoehe-und-rueckzahlungslaufzeit-vorab-klaeren/"
     },
     {
       "id": "DE-220",
       "hub": "mietpreise-kaution",
       "title": "Gesamtkosten einer Rollerwoche ehrlich durchrechnen",
       "slug": "gesamtkosten-einer-rollerwoche-ehrlich-durchrechnen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 30,
       "keywordHypothesis": "kosten roller woche vietnam",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/gesamtkosten-einer-rollerwoche-ehrlich-durchrechnen/"
     },
     {
       "id": "DE-221",
