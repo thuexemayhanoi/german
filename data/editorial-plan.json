@@ -1946,22 +1946,22 @@
       "hub": "technik-wartung",
       "title": "Nässe und Fahrzeugtechnik vorsichtig einschätzen",
       "slug": "naesse-und-fahrzeugtechnik-vorsichtig-einschaetzen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 17,
       "keywordHypothesis": "nässe und fahrzeugtechnik vorsichtig einschätzen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/naesse-und-fahrzeugtechnik-vorsichtig-einschaetzen/"
     },
     {
       "id": "DE-178",
       "hub": "technik-wartung",
       "title": "Zubehör sicher befestigen",
       "slug": "zubehoer-sicher-befestigen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 18,
       "keywordHypothesis": "zubehör sicher befestigen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/zubehoer-sicher-befestigen/"
     },
     {
       "id": "DE-179",
