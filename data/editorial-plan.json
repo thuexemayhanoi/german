@@ -2254,22 +2254,22 @@
       "hub": "fahrzeugwahl",
       "title": "Halbautomatik oder Vollautomatik: Rollergetriebe verstehen",
       "slug": "halbautomatik-oder-vollautomatik-rollergetriebe-verstehen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 25,
       "keywordHypothesis": "halbautomatik roller getriebe",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/halbautomatik-oder-vollautomatik-rollergetriebe-verstehen/"
     },
     {
       "id": "DE-206",
       "hub": "fahrzeugwahl",
       "title": "Elektroroller in Hanoi: Mietfragen und Reichweite",
       "slug": "elektroroller-in-hanoi-mietfragen-und-reichweite",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 26,
       "keywordHypothesis": "elektroroller hanoi mieten",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/elektroroller-in-hanoi-mietfragen-und-reichweite/"
     },
     {
       "id": "DE-207",
