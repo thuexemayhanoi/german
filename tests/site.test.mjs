@@ -6,6 +6,17 @@ test("Exactly 300 unique editorial topics in ten groups",()=>{assert.equal(model
 test("Unpublished ideas never become actual article routes",()=>{const out=renderSite(model);for(const p of model.plan.topics.filter(x=>x.status!=="PUBLISHED"))assert.ok(!out["ratgeber/"+p.slug+"/index.html"]);assert.equal(JSON.parse(out["search-index.json"]).length,model.posts.length)});
 test("German premium templates include theme, links and accessible mobile menu",()=>{const out=renderSite(model),home=out["index.html"];assert.match(home,/<html lang="de">/);assert.match(home,/class="mega"/);assert.match(home,/class="mobile-menu"/);assert.match(home,/class="footer"/);assert.match(home,/300/);assert.match(home,/ratgeber/);assert.ok(out["suche/index.html"].includes('id="search-input"'))});
 test("Google Search Console meta verification is present once in homepage head and survives rebuild",()=>{const out=renderSite(model),home=out["index.html"];const tag='<meta name="google-site-verification" content="HwLeUnxn5y1nBbGQD-54b3hR_dw10qMQ12wfmuDPfBg" />';assert.equal(home.split(tag).length-1,1);assert.ok(home.indexOf(tag)>home.indexOf("<head>")&&home.indexOf(tag)<home.indexOf("</head>"));});
+test("Six latest cards render committed local photos with responsive, accessible markup",()=>{
+ const photos=Array.from({length:6},(_,i)=>"/assets/demo-photo-"+(i+1)+".webp");
+ const html=renderSite({...model,homePhotos:photos})["index.html"];
+ assert.equal((html.match(/class="card-image"/g)||[]).length,6);
+ assert.equal((html.match(/class="card-visual card-visual--photo"/g)||[]).length,6);
+ for(const photo of photos)assert.ok(html.includes('src="'+photo+'"'));
+ assert.equal((html.match(/loading="lazy" decoding="async" width="960" height="540"/g)||[]).length,6);
+ const withoutPhotos=renderSite({...model,homePhotos:[]})["index.html"];
+ assert.equal((withoutPhotos.match(/class="card-image"/g)||[]).length,0);
+ assert.equal((withoutPhotos.match(/class="card-visual" /g)||[]).length,6);
+});
 test("Canonical sitemap contains only actual static routes",()=>{const out=renderSite(model),sm=out["sitemap.xml"];for(const p of model.posts){assert.ok(sm.includes("/ratgeber/"+p.slug+"/"));assert.ok(out["ratgeber/"+p.slug+"/index.html"].includes('"@type":"Article"'))}assert.ok(!sm.includes("/suche/"));assert.ok(!sm.includes("/404.html"))});
 test("Generated safety manifest matches actual outputs",()=>{const out=renderSite(model),manifest=JSON.parse(out["generated-files.json"]);assert.equal(manifest.paths.length,Object.keys(out).length-1);for(const path of manifest.paths)assert.ok(path in out);assert.ok(!("CNAME" in out))});
 
