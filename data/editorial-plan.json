@@ -2540,22 +2540,22 @@
       "hub": "sicherheit-verkehr",
       "title": "Verkehrsregeln in Vietnam für Zweiradfahrer verstehen",
       "slug": "verkehrsregeln-in-vietnam-fuer-zweiradfahrer-verstehen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 21,
       "keywordHypothesis": "verkehrsregeln vietnam roller",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/verkehrsregeln-in-vietnam-fuer-zweiradfahrer-verstehen/"
     },
     {
       "id": "DE-232",
       "hub": "sicherheit-verkehr",
       "title": "Helmpflicht in Vietnam: Regelung und Praxis",
       "slug": "helmpflicht-in-vietnam-regelung-und-praxis",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 22,
       "keywordHypothesis": "helmpflicht vietnam",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/helmpflicht-in-vietnam-regelung-und-praxis/"
     },
     {
       "id": "DE-233",
