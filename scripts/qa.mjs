@@ -6,7 +6,7 @@ import { build, getModel, renderSite } from "./build.mjs";
 const ROOT=path.resolve(path.dirname(fileURLToPath(import.meta.url)),"..");
 const check=(ok,msg)=>{if(!ok)throw Error("QA FAIL: "+msg)};
 try{
- const {hubs,plan,posts}=getModel(),files=renderSite({hubs,plan,posts});
+ const model=getModel(),{hubs,plan,posts}=model,files=renderSite(model);
  check(fs.readFileSync(path.join(ROOT,"CNAME"),"utf8").trim()==="de.rentbikehanoi.com","CNAME");
  check(hubs.length===10&&plan.topics.length===300,"10 hubs and exactly 300 editorial topics");
  check(new Set(plan.topics.map(p=>p.id)).size===300,"unique topic ids");

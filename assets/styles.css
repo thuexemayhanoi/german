@@ -164,3 +164,13 @@ body.g-ai-keyboard .g-ai-panel{border-radius:15px}
 @media(min-width:531px) and (max-width:770px){.card-visual--photo{height:170px}}
 @media(max-width:530px){.card-visual--photo{height:clamp(180px,49vw,234px)}}
 @media(prefers-reduced-motion:reduce){.card-visual--photo .card-image{transition:none!important}}
+
+/* Scoped, deterministic contextual links on hub, archive and main information pages. */
+.contextual-links{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,250px),1fr));gap:10px;margin:16px 0 24px}
+.contextual-links a{display:flex;align-items:center;min-height:44px;padding:13px 16px;border:1px solid var(--line);border-radius:12px;background:#fff;color:var(--blue);font-weight:650;text-decoration:none;line-height:1.45;overflow-wrap:anywhere}
+.contextual-links a:hover,.contextual-links a:focus-visible{border-color:var(--blue);text-decoration:underline;text-underline-offset:3px}
+.topic-bridge{margin:30px 0;padding-top:4px;border-top:1px solid var(--line)}
+.archive-topic-bridge{margin:24px 0 30px;padding:16px 20px;border-radius:16px;background:#f1f5fa}
+.archive-topic-bridge h2{font-size:1.18rem;margin:0 0 12px}
+.archive-topic-bridge .contextual-links{margin:0}
+@media (max-width:540px){.contextual-links{grid-template-columns:1fr}.archive-topic-bridge{padding:15px}}
