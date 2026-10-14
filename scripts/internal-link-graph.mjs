@@ -11,12 +11,15 @@ const urlPath=link=>link===BASE?"/":link.slice(BASE.length);
 const pageFile=u=>u==="/"?"index.html":u.slice(1)+"index.html";
 const sitemap=FILES["sitemap.xml"];
 const urls=[...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)].map(m=>urlPath(m[1]));
+// /suche/ is a real, intentionally noindex utility page omitted from the XML sitemap.
+if(FILES["suche/index.html"])urls.push("/suche/");
 const urlSet=new Set(urls);
 if(urlSet.size!==urls.length)throw Error("Duplicate sitemap URLs");
 const hubKeys=new Set(MODEL.hubs.map(h=>h.slug));
 const postHub=new Map(MODEL.posts.map(p=>["/ratgeber/"+p.slug+"/",p.hub]));
 const classify=u=>{
  if(u==="/")return {type:"homepage",cluster:"portal"};
+ if(u==="/suche/")return {type:"utility-noindex",cluster:"site-utility"};
  if(u==="/ratgeber/"||u.startsWith("/ratgeber/seite/"))return {type:"archive",cluster:"editorial-navigation"};
  if(u.startsWith("/ratgeber/"))return {type:"article",cluster:postHub.get(u)||"unknown"};
  if(u.startsWith("/themen/"))return {type:"hub",cluster:u.split("/")[2]};
@@ -80,7 +83,7 @@ for(const row of report){
   if(hubKeys.has(row.cluster))recommendation(row.path,hub,"Alle Ratgeber zum Thema "+row.cluster,"Supporting article to hub");
  }
 }
-const payload={site:BASE,source:"scripts/build.mjs and published sitemap (not Search Console)",scope:"all published URLs; sitewide navigation distinguished from contextual links",nodeCount:report.length,edgeCount:details.length,
+const payload={site:BASE,source:"scripts/build.mjs, published sitemap and /suche/ noindex utility (not Search Console)",scope:"all published URLs; sitewide navigation distinguished from contextual links",nodeCount:report.length,edgeCount:details.length,
  types:report.reduce((a,r)=>(a[r.type]=(a[r.type]||0)+1,a),{}),
  contextualEdgeCount:details.filter(x=>x.scope==="contextual").length,
  nodes:report};
