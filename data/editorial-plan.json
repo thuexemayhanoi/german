@@ -3024,22 +3024,22 @@
       "hub": "reiseplanung",
       "title": "SIM-Karte und mobiles Daten für die Navigation",
       "slug": "sim-karte-und-mobiles-daten-fuer-die-navigation",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 25,
       "keywordHypothesis": "sim karte vietnam internet",
       "intent": "commercial",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/sim-karte-und-mobiles-daten-fuer-die-navigation/"
     },
     {
       "id": "DE-276",
       "hub": "reiseplanung",
       "title": "Karten-Apps und Offline-Navigation für Vietnam wählen",
       "slug": "karten-apps-und-offline-navigation-fuer-vietnam-waehlen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 26,
       "keywordHypothesis": "offline navigation vietnam app",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/karten-apps-und-offline-navigation-fuer-vietnam-waehlen/"
     },
     {
       "id": "DE-277",
