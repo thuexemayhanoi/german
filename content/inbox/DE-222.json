@@ -1,0 +1,64 @@
+{
+  "id": "DE-222",
+  "hub": "dokumente-vertrag",
+  "title": "Führerscheinkategorien in Vietnam zuverlässig nachschlagen",
+  "slug": "fuehrerscheinkategorien-in-vietnam-zuverlaessig-nachschlagen",
+  "status": "IDEA",
+  "priority": 22,
+  "keywordHypothesis": "fuehrerschein kategorien vietnam",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Führerscheinkategorien in Vietnam zuverlässig nachschlagen: Der Weg über das Auswärtige Amt und offizielle Stellen, ohne Forum-Märchen und Fehlinfos.",
+  "excerpt": "Deutsche Klassen gelten nicht einfach in Vietnam. Lies, wie du Kategorien und Bedingungen über offizielle Quellen prüfst und das Ergebnis für die Anmietung nutzt.",
+  "sections": [
+    {
+      "heading": "Warum Kategorien nicht einfach übertragbar sind",
+      "paragraphs": [
+        "Führerscheinkategorien sind nationale Konstruktionen: Was in Deutschland die Klassen A, B oder A1 heißen, hat in Vietnam eigene Bezeichnungen, eigene Hubraumgrenzen und eigene Bedingungen. Wer deutsche Begriffe einfach mitnimmt und erwartet, dass die Welt dahinter gleich bleibt, macht den häufigsten Fehler der Recherche. Die Frage lautet nie, was eine Kategorie bei uns erlaubt, sondern was das Gastland für dein Vorhaben verlangt.",
+        "Daraus folgt eine Regel für jede Nachschlage-Aktion: Vergleiche nie die Namen, sondern immer die Bedingungen. Ob ein Roller mit einem bestimmten Hubraum gefahren werden darf, entscheidet sich nicht am Buchstaben auf dem Dokument, sondern an den Regeln, die Vietnam für ausländische Fahrer festlegt, und die stehen nicht in einem deutschen Forum, sondern bei den Stellen, die dafür zuständig sind."
+      ]
+    },
+    {
+      "heading": "Der Weg über offizielle Stellen",
+      "paragraphs": [
+        "Für deutsche Reisende beginnt die Recherche beim Auswärtigen Amt: Die Reise- und Sicherheitshinweise für Vietnam beschreiben, welche ausländischen Fahrerlaubnisse anerkannt sind und wo die Grenzen liegen, etwa dass die Klasse B das Führen von Zweirädern über 50 Kubikzentimeter Hubraum nicht abdeckt. Das ist die verlässlichste deutschsprachige Zusammenfassung, die es gibt, und der sinnvolle erste Schritt jeder Prüfung.",
+        "Für die vietnamesische Seite der Regelung sind die zuständigen vietnamesischen Behörden die Quelle: Wer genau wissen will, welche Kategorien des vietnamesischen Führerscheins existieren und was sie erlauben, findet das bei den offiziellen Stellen des Landes und nicht in Reiseberichten. Für die konkrete Reise reicht meist die Kombination: deutsche Hinweise lesen, im Zweifel bei der deutschen Auslandsvertretung nachfragen, dann das Ergebnis mit dem Verleih besprechen."
+      ]
+    },
+    {
+      "heading": "Warum der Schein allein keine Antwort ist",
+      "paragraphs": [
+        "Selbst wer die Kategorien richtig versteht, kann in einen Denkfehler tappen: Der Führerschein dokumentiert eine Befähigung, aber ob du fahren darfst, entscheidet die Kombination aus deiner Lizenz und der Anerkennung im Gastland. Ein deutscher Motorradführerschein berechtigt in Vietnam nicht automatisch zu allem, was er zu Hause erlaubt, und ein internationaler Zusatz ändert daran nichts, weil er nur übersetzt und nichts hinzufügt.",
+        "Noch tückischer sind die stillen Zusatzbedingungen: Verleihe haben eigene Regeln, welche Fahrzeuge sie an welche Fahrer herausgeben, und Versicherungen können Ausschlüsse definieren, die über die reine Fahrerlaubnisfrage hinausgehen. Das Nachschlagen der Kategorien ist deshalb der erste Schritt und nicht der letzte, denn danach kommen die Fragen an den Verleih und der Blick in die Vertragsbedingungen."
+      ]
+    },
+    {
+      "heading": "Eine praktische Recherchevorlage",
+      "paragraphs": [
+        "Nimm dir fünf Zeilen und schreibe auf: dein Vorhaben mit der Fahrzeugklasse, die du fahren willst, deine vorhandenen Lizenzen mit ihren Klassen, die Aussage des Auswärtigen Amts zu genau diesen Klassen, die Aussage des Verleihs zu deinem Vorhaben und die Quelle, auf die sich beide berufen. Diese Zeilen zwingen dich, Behauptungen von Fakten zu trennen, und sie machen aus einer vagen Ahnung ein überprüfbares Nachfrageergebnis.",
+        "Der größte Nutzen dieser Vorlage zeigt sich im Gespräch: Du kannst Fragen stellen, die eine überprüfbare Antwort haben, statt nach einem allgemeinen Gefühl zu fragen. Ob der Verleih bei deiner Konstellation vermietet, ob er die Regelung kennt, ob er seine Zusagen schriftlich bestätigen kann, jede Antwort ordnet den Anbieter ein, und du entscheidest auf der Basis von Informationen und nicht von Versprechungen."
+      ]
+    },
+    {
+      "heading": "Ergebnisse festhalten und vorlegen",
+      "paragraphs": [
+        "Was du herausgefunden hast, gehört auf die Reise: Speichere die relevanten Seiten der offiziellen Hinweise offline, notiere Datum und Quelle deiner Nachfragen und nimm deine Dokumente in Kopie mit, den nationalen Führerschein, die internationale Fahrerlaubnis und eine Passkopie. Bei einer Kontrolle oder einem Gespräch mit dem Verleih zählt, was du zeigen kannst, und nicht, was du zu Hause gelesen hast.",
+        "Auch hier gilt: Sorgfalt ist keine Schikane, sondern Reisestil. Das Auswärtige Amt rät Reisenden in Vietnam ohnehin zur Vorsicht bei Verträgen und dazu, Pfandforderungen an Dokumente abzulehnen. Wer seine Unterlagen kennt, kopiert und geordnet hat, kann solche Situationen souverän lösen. Die Recherche über Führerscheinkategorien ist am Ende nichts anderes als Vorarbeit, die dich unterwegs vor unangenehmen Entscheidungen bewahrt."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14",
+  "readMinutes": 4
+}

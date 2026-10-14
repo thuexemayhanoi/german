@@ -1,0 +1,64 @@
+{
+  "id": "DE-220",
+  "hub": "mietpreise-kaution",
+  "title": "Gesamtkosten einer Rollerwoche ehrlich durchrechnen",
+  "slug": "gesamtkosten-einer-rollerwoche-ehrlich-durchrechnen",
+  "status": "IDEA",
+  "priority": 30,
+  "keywordHypothesis": "kosten roller woche vietnam",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Eine Rollerwoche in Hanoi ehrlich durchrechnen: Alle Kostenblöcke sammeln, Anbieter fair vergleichen und einen realistischen Puffer einplanen.",
+  "excerpt": "Der Tagespreis verrät wenig über die wahre Wochenrechnung. Lies, wie du Miete, Kaution, Kraftstoff und Puffer ehrlich zusammenrechnest und fair vergleichst.",
+  "sections": [
+    {
+      "heading": "Warum der Tagespreis allein täuscht",
+      "paragraphs": [
+        "Eine Woche besteht aus mehr als der Summe von sieben Tagespreisen: Manche Verleihe bieten eigene Sätze für längere Mietdauern an, andere rechnen einfach siebenmal den Tagespreis ab, wieder andere gewähren einen Abschlag erst ab einer bestimmten Dauer. Wer wissen will, was eine Rollerwoche wirklich kostet, darf deshalb nicht beim erstgenannten Preis stehen bleiben, sondern muss die Rechnung über die ganze Woche machen.",
+        "Genau diese Gesamtrechnung ist die ehrlichere Betrachtungsweise, denn sie zwingt dich, alle Kostenblöcke zu sehen statt nur den attraktivsten: die Miete selbst, die Kaution als gebundenes Geld, den Kraftstoff, das Zubehör und den Spielraum für Unvorhergesehenes. Am Ende steht eine Zahl, mit der du planen kannst, und die häufig erstaunlich anders aussieht, als der erste Blick auf das Preisschild vermuten ließ."
+      ]
+    },
+    {
+      "heading": "Alle Kostenblöcke sammeln",
+      "paragraphs": [
+        "Beginne mit einer einfachen Liste: erst der Mietpreis für die Woche, wie auch immer er berechnet wird, ob als eigener Wochensatz oder als Tagespreis mal sieben. Dann die Kaution, die kein Verlust ist, aber trotzdem Geld, das du während der Woche nicht ausgeben kannst. Danach der Kraftstoff: Er gehört bei den meisten Mieten ebenso wenig zum Preis wie die Luft in den Reifen, und eine Woche Fahrt verbraucht spürbar mehr als der Weg zum nächsten Café.",
+        "Ergänze die kleineren Posten, die gern vergessen werden: Helm und Zubehör, sofern sie nicht im Preis liegen, sowie alles, was du an Sicherheit und Komfort dazukaufst. Wer ehrlich rechnet, schreibt auch die ungewollten Posten mit einer Pauschale auf, etwa eine verspätete Rückgabe oder eine kleine Reparatur nach einem Parkrempler. Nicht, weil das garantiert passiert, sondern weil eine Rechnung, die nur vom besten Fall ausgeht, keine ehrliche Rechnung ist."
+      ]
+    },
+    {
+      "heading": "Vergleichen mit derselben Methode",
+      "paragraphs": [
+        "Rechne jeden Anbieter, den du ernsthaft erwägst, mit genau derselben Liste durch: derselbe Zeilenaufbau, dieselben Annahmen, dieselbe Woche. Erst die vergleichbare Rechnung zeigt, dass ein Angebot bei genauerem Hinsehen die Kaution günstiger einbezieht oder dass ein scheinbar niedrigerer Tagespreis nach sieben Tagen und einem vollen Tank am Ende teurer ist als das Konkurrenzangebot. Vergleichen heißt nachrechnen und nicht ablesen.",
+        "Frage bei Unklarheiten direkt beim Verleih nach: Gilt der genannte Satz für die ganze Woche, gibt es bei längerer Mietdauer einen Abschlag, sind Helm und Zubehör enthalten? Jede Antwort gehört in deine Rechnung. Ein Anbieter, der solche Fragen präzise beantwortet, erleichtert dir nicht nur den Vergleich, er zeigt auch, wie er später über Schäden und Rückgaben sprechen wird."
+      ]
+    },
+    {
+      "heading": "Puffer einplanen, ohne Panik zu machen",
+      "paragraphs": [
+        "Ein realistischer Puffer ist der Unterschied zwischen einer entspannten Woche und einer angespannten: Plane für alle Fälle etwas ein, das nicht in der Miete enthalten ist, etwa eine Rückfahrt mit einem anderen Verkehrsmittel, falls du den Roller vorzeitig abgibst, oder eine Beteiligung an einer Reparatur, falls etwas passiert. Ein Puffer ist kein Geld, das du ausgibst, sondern Geld, das du verfügbar haben solltest.",
+        "Wie groß der Puffer sein muss, hängt von deiner Reise ab: Stadtfahrten mit kurzen Wegen und bekannten Straßen brauchen weniger Reserve als mehrtägige Ausflüge ins Umland. Wähle den Betrag so, dass du ihn im Notfall entbehren kannst, ohne die Reise umplanen zu müssen, dann ist er vorhanden, wenn er gebraucht wird, und harmlos, wenn nicht."
+      ]
+    },
+    {
+      "heading": "Was die ehrliche Rechnung dir bringt",
+      "paragraphs": [
+        "Wer die Woche vorher durchrechnet, verhandelt anders: Du kennst deinen Rahmen, erkennst überhöhte Zusatzkosten sofort und kannst auf ein vollständiges Angebot eingehen, statt über eine Einzelzahl zu feilschen. Die Rechnung ist dein innerer Kompass beim Gespräch vor Ort, und sie schützt dich vor dem klassischen Fehler, sich für einen niedrigen Tagespreis zu entscheiden und die Nebenkosten erst unterwegs kennenzulernen.",
+        "Am Ende ist die Gesamtkostenrechnung mehr als eine Kopfübung: Sie ist die Grundlage für eine Entscheidung, die du unterwegs nicht mehr treffen musst. Angebote können sich ändern, und Anbieter können unterschiedliche Leistungen einschließen, aber eine Woche Rollerfahren, die von Anfang an ehrlich geplant war, fühlt sich in jedem Fall anders an als eine, deren Rechnung erst am Ende der Reise aufgeht."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14",
+  "readMinutes": 4
+}

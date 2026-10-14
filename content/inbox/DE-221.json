@@ -1,0 +1,64 @@
+{
+  "id": "DE-221",
+  "hub": "dokumente-vertrag",
+  "title": "Vietnamesischer Führerschein und ausländische Anerkennung",
+  "slug": "vietnamesischer-fuehrerschein-und-auslaendische-anerkennung",
+  "status": "IDEA",
+  "priority": 21,
+  "keywordHypothesis": "vietnamesischer fuehrerschein anerkennung",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Vietnamesischer Führerschein und die Anerkennung ausländischer Lizenzen: Was Klasse B und B196 in Vietnam wirklich erlauben, und was nicht.",
+  "excerpt": "Klasse B deckt Zweiräder über 50 Kubikzentimeter in Vietnam nicht ab, B196 wird nicht anerkannt. Lies, welche Quellen verlässlich sind und was das für deine Miete bedeutet.",
+  "sections": [
+    {
+      "heading": "Warum die Frage vor der Fahrt geklärt sein muss",
+      "paragraphs": [
+        "Die Frage nach dem gültigen Führerschein ist die unbequemste aller Mietfragen und genau deshalb die wichtigste: Wer in Vietnam ohne die richtige Fahrerlaubnis unterwegs ist, riskiert nicht nur Ärger bei Kontrollen, sondern auch echte Probleme, sollte es zu einem Unfall kommen. Beides lässt sich vermeiden, wenn die Frage vor der Unterschrift unter den Mietvertrag beantwortet wird und nicht erst hinterher.",
+        "Genau hier lohnt der Blick in offizielle Quellen: Das Auswärtige Amt informiert in seinen Reise- und Sicherheitshinweisen für Vietnam ausführlich darüber, welche ausländischen Fahrerlaubnisse zum Führen von Fahrzeugen und Zweirädern anerkannt sind. Diese Hinweise sind die verlässlichste deutschsprachige Grundlage, weil sie aktuell gehalten werden und keine Forumserfahrung wiedergeben. Wer zuerst dort liest, spricht mit dem Verleih auf einer soliden Basis."
+      ]
+    },
+    {
+      "heading": "Was der deutsche Führerschein hier abdeckt",
+      "paragraphs": [
+        "Der deutsche Führerschein der Klasse B berechtigt in Deutschland zum Führen von Kraftwagen, doch in Vietnam deckt er das Führen von Motorrädern und Rollern mit mehr als 50 Kubikzentimetern Hubraum nicht ab. Das Auswärtige Amt stellt das in seinen Hinweisen unmissverständlich klar, und viele Reisende lernen diese Regel erst kennen, wenn es zu spät ist. Die Klasse B mag zu Hause viel erlauben, für größere Zweiräder in Vietnam ist sie keine Fahrerlaubnis.",
+        "Auch die in Deutschland verbreitete Erweiterung B196 hilft an dieser Stelle nicht weiter, denn sie wird in Vietnam nicht anerkannt. Wer zu Hause mit dieser Erweiterung Leichtkrafträder fahren darf, hat damit in Vietnam keine zusätzliche Berechtigung für Roller oder Motorräder. Die Konsequenz ist einfach, aber unpopulär: Ohne passende Fahrerlaubnis bleibt im Bereich der Zweiräder im Wesentlichen die Klasse bis 50 Kubikzentimeter als legaler Spielraum."
+      ]
+    },
+    {
+      "heading": "Die internationale Fahrerlaubnis richtig einordnen",
+      "paragraphs": [
+        "Die internationale Fahrerlaubnis ist kein eigenständiges Fahrdokument, sondern die Übersetzungshilfe deiner nationalen Lizenz: Sie macht deinen deutschen Führerschein vor Ort lesbar, erweitert aber nicht dessen Klassen. Mit der internationalen Fahrerlaubnis zur Klasse B darfst du in Vietnam also dasselbe fahren wie mit dem deutschen Dokument allein, und das heißt für Zweiräder über 50 Kubikzentimeter: nicht fahren.",
+        "Sinnvoll ist die internationale Fahrerlaubnis trotzdem, denn sie erleichtert Kontrollen und papierene Vorgänge. Verwechsle nur Hilfsmittel und Erlaubnis nicht: Wer dir weismacht, mit irgendeinem Dokument sei alles erlaubt, redet über Dinge, die er nicht verantworten kann. Was zählt, ist die Kombination aus dem, was deine Lizenz hergibt, und dem, was das Gastland anerkennt, und nichts anderes."
+      ]
+    },
+    {
+      "heading": "Offizielle Quellen statt Hörensagen",
+      "paragraphs": [
+        "Zu Fahrerlaubnisfragen kursieren die widersprüchlichsten Behauptungen: von Vermietern, die sagen, es reiche immer, über Reiseführer mit veralteten Regeln bis zu Foren, in denen Erfahrungsberichte aus verschiedenen Jahren durcheinandergehen. Der einzige Weg durch dieses Dickicht ist die Reihenfolge der Quellen: erst das Auswärtige Amt für die deutsche Perspektive, dann die zuständigen vietnamesischen Stellen für die lokale Regelung, und erst danach das Gespräch mit dem Verleih.",
+        "Im Zweifel helfen auch die deutschen Auslandsvertretungen in Vietnam weiter, die bei konkreten Fragen den Weg zur richtigen Stelle zeigen können. Das ist kein Zeichen von Ängstlichkeit, sondern von Ernsthaftigkeit, denn du bereitest eine Fahrt im Ausland vor, bei der du mit einer fremden Regelung und einer fremden Sprache gleichzeitig zurechtkommen musst."
+      ]
+    },
+    {
+      "heading": "Konsequenzen für die Fahrzeugwahl",
+      "paragraphs": [
+        "Was bedeutet das praktisch für die Anmietung? Ohne passende Fahrerlaubnis bleibt die Klasse bis 50 Kubikzentimeter der Bereich, über den du mit dem Verleih sprechen kannst, sofern du dich vorher an den offiziellen Hinweisen orientiert hast. Alles darüber hinaus setzt eine passende Lizenz voraus, und wer eine besitzt, sollte sie zur Übergabe mitbringen und im Vertrag festhalten lassen.",
+        "Und wer die passende Fahrerlaubnis nicht besitzt, hat eine klare, sichere Alternative: das kleinere Zweirad, sofern die eigene Fahrpraxis dafür reicht, oder ein anderes Verkehrsmittel für Strecken, die damit nicht machbar sind. Ein Verleih, der dir ohne Nachfrage ein größeres Fahrzeug übergibt, obwohl deine Papiere nichts hergeben, nimmt es mit deiner Sicherheit und seiner Haftung nicht genau, und das ist eine Information über den Anbieter, die wichtiger ist als jeder Preis."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14",
+  "readMinutes": 4
+}
