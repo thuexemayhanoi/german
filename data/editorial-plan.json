@@ -1132,22 +1132,22 @@
       "hub": "abholung-rueckgabe",
       "title": "Kilometerstand und Kraftstoffstand notieren",
       "slug": "kilometerstand-und-kraftstoffstand-notieren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 3,
       "keywordHypothesis": "kilometerstand und kraftstoffstand notieren",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/kilometerstand-und-kraftstoffstand-notieren/"
     },
     {
       "id": "DE-104",
       "hub": "abholung-rueckgabe",
       "title": "Sichtbare Vorschäden gemeinsam dokumentieren",
       "slug": "sichtbare-vorschaeden-gemeinsam-dokumentieren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 4,
       "keywordHypothesis": "sichtbare vorschäden gemeinsam dokumentieren",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/sichtbare-vorschaeden-gemeinsam-dokumentieren/"
     },
     {
       "id": "DE-105",
