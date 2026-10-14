@@ -2386,22 +2386,22 @@
       "hub": "mietpreise-kaution",
       "title": "Leistungsumfang im Mietpreis sichtbar machen",
       "slug": "leistungsumfang-im-mietpreis-sichtbar-machen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 27,
       "keywordHypothesis": "mietpreis leistungen roller",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/leistungsumfang-im-mietpreis-sichtbar-machen/"
     },
     {
       "id": "DE-218",
       "hub": "mietpreise-kaution",
       "title": "Bargeld, Karte und Wechselgeld beim Bezahlen der Miete",
       "slug": "bargeld-karte-und-wechselgeld-beim-bezahlen-der-miete",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 28,
       "keywordHypothesis": "bezahlung roller miete vietnam",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/bargeld-karte-und-wechselgeld-beim-bezahlen-der-miete/"
     },
     {
       "id": "DE-219",
