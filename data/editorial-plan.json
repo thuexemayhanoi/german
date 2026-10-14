@@ -1374,22 +1374,22 @@
       "hub": "probleme-hilfe",
       "title": "Bei verlorenen Schlüsseln richtig vorgehen",
       "slug": "bei-verlorenen-schluesseln-richtig-vorgehen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 5,
       "keywordHypothesis": "bei verlorenen schlüsseln richtig vorgehen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/bei-verlorenen-schluesseln-richtig-vorgehen/"
     },
     {
       "id": "DE-126",
       "hub": "probleme-hilfe",
       "title": "Standort im Notfall mitteilen",
       "slug": "standort-im-notfall-mitteilen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 6,
       "keywordHypothesis": "standort im notfall mitteilen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/standort-im-notfall-mitteilen/"
     },
     {
       "id": "DE-127",
