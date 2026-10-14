@@ -1110,22 +1110,22 @@
       "hub": "abholung-rueckgabe",
       "title": "Fahrzeugübergabe: vollständiger Ablauf",
       "slug": "fahrzeuguebergabe-vollstaendiger-ablauf",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 1,
       "keywordHypothesis": "fahrzeugübergabe: vollständiger ablauf",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/fahrzeuguebergabe-vollstaendiger-ablauf/"
     },
     {
       "id": "DE-102",
       "hub": "abholung-rueckgabe",
       "title": "Fotos bei der Abholung sinnvoll machen",
       "slug": "fotos-bei-der-abholung-sinnvoll-machen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 2,
       "keywordHypothesis": "fotos bei der abholung sinnvoll machen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/fotos-bei-der-abholung-sinnvoll-machen/"
     },
     {
       "id": "DE-103",
