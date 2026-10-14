@@ -1,0 +1,63 @@
+{
+  "id": "DE-269",
+  "hub": "probleme-hilfe",
+  "title": "Notfallnummern und Apps für Reisende in Vietnam",
+  "slug": "notfallnummern-und-apps-fuer-reisende-in-vietnam",
+  "status": "IDEA",
+  "priority": 29,
+  "keywordHypothesis": "notfallnummern vietnam",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Notfallnummern kennen, bevor du fährst: Dieser Ratgeber listet die wichtigsten Nummern in Vietnam, nützliche Apps und deine Vorbereitung auf den Ernstfall.",
+  "excerpt": "Im Notfall zählt jede Sekunde. Lies, welche Notrufnummern in Vietnam gelten, welche Apps dich unterwegs unterstützen und wie du Kontaktdaten so vorbereitest, dass du im Stress nicht suchen musst.",
+  "sections": [
+    {
+      "heading": "Die wichtigsten Notrufnummern in Vietnam",
+      "paragraphs": [
+        "In Vietnam erreichst du die Polizei unter der 113, den Rettungsdienst unter der 115 und die Feuerwehr unter der 114. Speichere diese drei Nummern vor deiner ersten Fahrt ins Telefon, am besten mit klar benannten Einträgen. Wer im Stress erst lange suchen muss, verliert wertvolle Minuten, die bei einem Unfall entscheidend sein können.",
+        "Denk außerdem an die Sprachfrage. Ein Anruf auf Vietnamesisch zu führen, ist für die meisten Reisenden kaum möglich, deshalb hilft es, wenn eine Unterkunft oder der Vermieter beim Anruf unterstützt. Halte deine Position mit Straße und Orientierungspunkt bereit, damit die Einsatzkräfte dich schnell finden."
+      ]
+    },
+    {
+      "heading": "Apps, die dich im Ernstfall unterstützen",
+      "paragraphs": [
+        "Offline-Karten gehören auf jedes Gerät. Sie zeigen dir auch ohne Netz, wo du dich gerade befindest, und helfen, der Notrufzentrale oder dem Vermieter eine klare Position zu nennen. Lade die Kartenausschnitte für deine Region vor der Abreise herunter, und teste die Funktion einmal im Hotel, statt sie erst im Notfall zu entdecken.",
+        "Übersetzungs-Apps mit Sprachausgabe erleichtern den Kontakt mit Helfern vor Ort. Wähle eine App, die offline arbeitet, und speichere kurze Standardsätze wie die Bitte um Hilfe oder die Frage nach dem nächsten Krankenhaus. Auch Messaging-Dienste sind nützlich, weil du damit Fotos vom Unfallort an den Vermieter senden kannst."
+      ]
+    },
+    {
+      "heading": "Kontaktdaten und Dokumente vorbereiten",
+      "paragraphs": [
+        "Lege vor der Fahrt eine Notiz mit deinen wichtigsten Kontakten an: die Nummer des Vermieters, die Adresse deiner Unterkunft und die Nummer deiner Reiseversicherung. Ergänze die Kontaktdaten der deutschen Auslandsvertretung, weil sie bei ernsteren Problemen weiterhelfen kann. Diese Liste gehört ins Handy und ausgedruckt ins Gepäck.",
+        "Prüfe zusätzlich die Unterlagen deiner Versicherung. Welche Leistungen im Ausland gelten, wie du eine Meldung auslöst und welche Belege gebraucht werden, steht in den Bedingungen. Wer das zu Hause in Ruhe liest, handelt im Ernstfall schneller und weiß, welche Schritte auf ihn zukommen."
+      ]
+    },
+    {
+      "heading": "Im Notfall: die richtige Reihenfolge",
+      "paragraphs": [
+        "Kümmere dich zuerst um Verletzte und um deine Sicherheit. Prüfe, ob jemand Hilfe braucht, wähle bei medizinischen Notfällen die 115 und bringe dich aus dem Gefahrenbereich. Rufe danach die Polizei, wenn ein Vorfall mit Dritten passiert ist, denn für die spätere Abwicklung ist eine polizeiliche Aufnahme oft unverzichtbar.",
+        "Informiere danach deinen Vermieter und deine Unterkunft. Der Verleiher kann dir eine Werkstatt nennen oder ein Ersatzfahrzeug organisieren, die Unterkunft hilft bei Dolmetschern und Transport. Fotos und Notizen ergänzt du, sobald die Lage stabil ist, damit die Dokumentation den Ablauf sauber widerspiegelt."
+      ]
+    },
+    {
+      "heading": "Nachbereitung und Lehren für die Fahrt",
+      "paragraphs": [
+        "Dokumentiere den Vorfall so bald wie möglich. Notiere Datum, Uhrzeit, Ort und Ablauf, und sammle Kontaktdaten von Beteiligten und Zeugen. Fotos von Schäden ergänzen die Aufzeichnungen und machen deine Schilderung für Dritte nachvollziehbar, egal ob es um die Erstattung oder um die Rückgabe geht.",
+        "Ziehe aus dem Vorfall deine Schlüsse. Vielleicht passt die Route künftig besser zu deiner Erfahrung, vielleicht fährst du seltener nach Einbruch der Dunkelheit. Das Auswärtige Amt weist darauf hin, dass viele Unfälle in Vietnam nach Einbruch der Dunkelheit passieren, und diese Vorsicht schützt dich auf jeder weiteren Tour."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

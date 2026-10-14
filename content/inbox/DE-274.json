@@ -1,0 +1,63 @@
+{
+  "id": "DE-274",
+  "hub": "reiseplanung",
+  "title": "Unterkünfte mit Parkmöglichkeit für Mietroller finden",
+  "slug": "unterkuenfte-mit-parkmoeglichkeit-fuer-mietroller-finden",
+  "status": "IDEA",
+  "priority": 24,
+  "keywordHypothesis": "hotel parkplatz roller hanoi",
+  "intent": "commercial",
+  "publishedUrl": null,
+  "description": "Sichere Parkplätze für den Mietroller sind ein wichtiges Kriterium bei der Unterkunftssuche. Lies, worauf du achtest und wie du die Parkfrage klärst.",
+  "excerpt": "Wo übernachtet der Roller sicher? Bewachte Parkplätze, Innenhöfe und Abstellräume machen den Unterschied. Lies, wie du geeignete Unterkünfte findest und die Parkfrage schon vor der Buchung klärst.",
+  "sections": [
+    {
+      "heading": "Warum sichere Stellplätze zählen",
+      "paragraphs": [
+        "Ein gemieteter Roller will sicher abgestellt sein, sonst wird die Unterkunft zum Risiko. In dichten Vierteln wie der Altstadt von Hanoi sind Parkplätze knapp, und leichtfertig abgestellte Fahrzeuge wecken Begehrlichkeiten. Eine Unterkunft mit bewachtem Stellplatz nimmt dir diese Sorge ab und schützt die Kaution, die du beim Vermieter hinterlegt hast.",
+        "Die Parkfrage beeinflusst auch deine Tagesplanung. Weißt du, dass der Roller sicher steht, planst du Abendprogramme und frühe Abfahrten entspannter. Fehlt der Stellplatz, endet jeder Tag mit der Suche nach einer Alternative, und genau diese Reibung vermeidest du mit der richtigen Wahl der Unterkunft."
+      ]
+    },
+    {
+      "heading": "Unterkünfte vor der Buchung prüfen",
+      "paragraphs": [
+        "Prüfe das Parkthema, bevor du buchst. Lies die Beschreibung der Unterkunft aufmerksam, und sieh dir Fotos der Hofseinfahrt und der Umgebung an. Begriffe wie bewachter Parkplatz, Innenhof oder Abstellraum sind starke Hinweise, während vage Formulierungen eine Rückfrage vor der Buchung verlangen.",
+        "Schreibe dem Betrieb eine kurze Nachricht mit deinen konkreten Fragen: Steht ein überdachter oder bewachter Platz bereit, kostet er extra, und passt der Roller mit Gepäck hinein? Die Antwort verrät dir nicht nur die Fakten, sondern auch, wie ernst der Betrieb die Anliegen seiner Gäste überhaupt nimmt."
+      ]
+    },
+    {
+      "heading": "Was Unterkünfte in Hanoi anbieten",
+      "paragraphs": [
+        "Viele Hotels und kleinere Gästehäuser verfügen über einen Innenhof oder eine bewachte Fläche vor dem Eingang, in denen Zweiräder Platz finden. In praktischen Vierteln kommen öffentliche bewachte Parkplätze hinzu, die gegen eine kleine Gebühr genutzt werden. Frage nach der nächstgelegenen Option, wenn die Unterkunft selbst keinen Platz anbietet.",
+        "Manche Betriebe lösen das Thema kreativ, etwa mit Absprachen zu Nachbarn oder einem Stellplatz in der nächsten Gasse. Solche Lösungen funktionieren im Alltag, verlangen aber klare Absprachen. Frag, wer bei einem Schaden zuständig ist, und fotografiere den Roller an seinem Standort für deine eigenen Unterlagen."
+      ]
+    },
+    {
+      "heading": "Vermieter und Unterkunft verbinden",
+      "paragraphs": [
+        "Bringe deinen Verleiher ins Spiel, denn er kennt die Stadt und oft auch einzelne Häuser. Nenne ihm die Adresse deiner Unterkunft, und frag, ob sie aus seiner Sicht eine sichere Abstellsituation bietet. Manche Stationen liefern den Roller direkt dorthin, wenn die Umgebung für ein geparktes Fahrzeug passt.",
+        "Kläre bei der Buchung auch die Wege rund um das Haus. Kurze Strecken zwischen Unterkunft und ruhigen Ausfallstraßen sparen dir jeden Morgen nervige Manöver durch engen Verkehr. Ein Blick auf die Karte zeigt dir schnell, welche Viertel für Rollerfahrer besonders angenehm starten und enden."
+      ]
+    },
+    {
+      "heading": "Standards für die gesamte Reise",
+      "paragraphs": [
+        "Behalte den Anspruch bei, auch wenn du mehrere Unterkünfte wechselst. Prüfe jede neue Bleibe auf die gleiche Weise, und akzeptiere keine Lösung, die du nicht nachvollziehst. Die Mühe lohnt sich, weil du über die ganze Reise hinweg für dein Fahrzeug verantwortlich bleibst, und gute Nächte brauchen ein ruhiges Gewissen.",
+        "Plane die Parkfrage von Anfang an mit ein, und sie bleibt ein Nebenthema statt ein Stolperstein. Mit einer Unterkunft, die deinen Roller ernst nimmt, startet jeder Tag ruhig, und du konzentrierst dich auf das, wofür du überhaupt fährst: auf die Straßen rund um Hanoi und ihre wechselnden Landschaften."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

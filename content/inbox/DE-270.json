@@ -1,0 +1,63 @@
+{
+  "id": "DE-270",
+  "hub": "probleme-hilfe",
+  "title": "Mietkosten bei Fahrzeugstillstand fair diskutieren",
+  "slug": "mietkosten-bei-fahrzeugstillstand-fair-diskutieren",
+  "status": "IDEA",
+  "priority": 30,
+  "keywordHypothesis": "mietkosten stillstand roller",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Steht der Mietroller still, wird die Kostenfrage heikel. Lies hier, wie du den Vertrag einordnest, sachlich argumentierst und eine faire Lösung aushandelst.",
+  "excerpt": "Der Roller steht still, die Miete läuft weiter: Das muss nicht zum Streit führen. Lies, welche Argumente im Gespräch mit dem Vermieter zählen und wie du Absprachen zur Abrechnung sauber festhältst.",
+  "sections": [
+    {
+      "heading": "Warum die Kostenfrage schnell geklärt werden muss",
+      "paragraphs": [
+        "Ein stehender Roller kostet dich Zeit und unter Umständen Geld, und je länger die Situation unklar bleibt, desto schwerer wird die spätere Abrechnung. Kläre deshalb am ersten Stillstandstag, wie es weitergeht: Reparatur, Ersatzfahrzeug oder vorzeitige Rückgabe. Jede dieser Varianten hat andere Folgen für die offenen Miettage und die Stimmung zwischen dir und dem Verleiher.",
+        "Sprich das Thema sachlich an, statt Vorwürfe zu machen. Der Verleiher will in den meisten Fällen ebenfalls eine Lösung, denn ein geparkter Roller bringt auch ihm nichts. Eine partnerschaftliche Grundhaltung öffnet mehr Spielraum für Kulanz als ein Konfrontationskurs am Telefon oder direkt in der Station."
+      ]
+    },
+    {
+      "heading": "Was der Vertrag zum Stillstand regelt",
+      "paragraphs": [
+        "Lies zuerst die Passagen zu Reparatur und Ausfall. Manche Verträge sehen vor, dass bei technischen Defekten ohne dein Verschulden keine Mietkosten anfallen, andere regeln eine anteilige Verrechnung. Genau diese Details entscheiden, mit welchen Argumenten du in das Gespräch gehen kannst und wo Verhandlungsspielraum bleibt.",
+        "Prüfe außerdem, wie der Vertrag Verantwortlichkeiten verteilt. War der Defekt bei der Übernahme schon erkennbar, liegt die Bewertung anders als bei einem Schaden aus deiner Fahrt. Deine Fotos vom Übergabestand und ein lückenloser Ablaufbericht stärken deine Position erheblich, weil sie den Zustand belegbar machen."
+      ]
+    },
+    {
+      "heading": "Argumente für ein faires Gespräch",
+      "paragraphs": [
+        "Bring Ordnung in deine Fakten, bevor du sprichst. Zeitpunkt des Defekts, Meldung an den Vermieter, Absprachen zur Reparatur und Belege der Werkstatt gehören in eine kurze Zusammenfassung. Wer den Ablauf chronologisch schildert, wirkt glaubwürdig und erspart dem Verleiher Rückfragen, die die Diskussion nur verlängern.",
+        "Trenne sauber zwischen Wunsch und berechtigtem Anliegen. Ein Ersatzfahrzeug für die ausgefallenen Tage zu bekommen, ist eine faire Bitte, wenn der Vertrag nichts regelt, aber kein automatisch einklagbares Recht. Formuliere deine Vorschläge entsprechend, dann bleibt das Gespräch auf einer lösungsorientierten Ebene."
+      ]
+    },
+    {
+      "heading": "Alternativen zur weiterlaufenden Miete",
+      "paragraphs": [
+        "Verhandle über konkrete Varianten statt über Grundsätzliches. Eine vorzeitige Rückgabe mit anteiliger Abrechnung, ein Ersatzfahrzeug ohne Aufpreis oder eine Gutschrift auf den nächsten Miettag sind übliche Kompromisse. Frage nach, welche Variante für den Verleiher am einfachsten umsetzbar ist. Ein konkreter Vorschlag entkrampft jedes Gespräch schneller als allgemeines Jammern über die Situation.",
+        "Halte die vereinbarte Lösung schriftlich fest. Eine kurze Nachricht, in der beide Seiten die Konditionen bestätigen, verhindert späteres Streiten über Details. Ergänze Datum und Uhrzeit der Absprache, und bewahre den Verlauf bis zur finalen Abrechnung vollständig auf."
+      ]
+    },
+    {
+      "heading": "Vorbeugen für die nächste Miete",
+      "paragraphs": [
+        "Lies den Vertrag vor der nächsten Buchung genauer. Achte auf Klauseln zu Ausfall, Ersatzfahrzeug und Erstattung, und frag aktiv nach, wenn der Text nichts dazu sagt. Seriöse Verleiher reagieren auf diese Fragen offen, weil sie zeigen, dass dir ein geregelter Ablauf wichtig ist. Notiere die Antworten direkt neben die Klauseln, dann findest du sie im Streitfall ohne langes Suchen wieder.",
+        "Dokumentiere jede Übernahme gründlich. Fotos, ein Übergabeprotokoll und eine kurze Probefahrt senken das Risiko späterer Streitfälle deutlich. Wer von Anfang an sauber arbeitet, verhandelt im Fall eines Stillstands von einer deutlich besseren Position aus und behält die Übersicht."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
