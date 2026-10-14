@@ -1,0 +1,63 @@
+{
+  "id": "DE-276",
+  "hub": "reiseplanung",
+  "title": "Karten-Apps und Offline-Navigation für Vietnam wählen",
+  "slug": "karten-apps-und-offline-navigation-fuer-vietnam-waehlen",
+  "status": "IDEA",
+  "priority": 26,
+  "keywordHypothesis": "offline navigation vietnam app",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Ohne Offline-Karten steht die Navigation im Regen still. Lies, wie du die passende Karten-App für Vietnam wählst, Routen vorab planst und im Stadtverkehr navigierst.",
+  "excerpt": "Du willst dich in Hanoi nicht verfahren? Karten-Apps und Offline-Navigation nehmen dir die Orientierung ab. Lies, welche Funktionen zählen, wie du Routen zu Hause vorbereitest und was dein Akku durchhält.",
+  "sections": [
+    {
+      "heading": "Warum Offline-Karten in Vietnam Pflicht sind",
+      "paragraphs": [
+        "Die Netzversorgung schwankt zwischen Stadt und Land stärker, als viele Reisende erwarten. In Hanoi findest du fast überall Verbindung, auf Landstraßen und in bergigen Regionen können Funklöcher auftreten. Wer seine Karten vorher herunterlädt, navigiert auch dort sicher weiter, wo die Verbindung gerade versagt.",
+        "Offline bedeutet dabei nicht weniger genau. Die Basiskarten zeigen Straßen, Orte und Verläufe vollständig, nur live-abhängige Zusätze wie aktuelle Staus fehlen. Für die Routenplanung eines Rollerfahrers reicht dieser Stand in der Regel völlig aus, und die App verbraucht zudem weniger Akku."
+      ]
+    },
+    {
+      "heading": "Die passende App für dich auswählen",
+      "paragraphs": [
+        "Achte bei der Auswahl auf drei Funktionen: herunterladbare Regionen, eine klare Sprachausgabe und einen ehrlichen Offline-Modus ohne versteckte Abo-Fallen. Teste die App zu Hause an einer bekannten Strecke, dann siehst du sofort, ob die Ansagen verständlich und die Ansicht übersichtlich genug für den Roller sind. Eine gut lesbare Schriftgröße und ein Nachtmodus sind auf unbekannten Straßen wertvolle Helfer, weil sie deine Augen deutlich schonen.",
+        "Lies die Bewertungen mit Blick auf Vietnam. Nicht jede App kartiert kleine Landwege gleich gut, und Erfahrungsberichte anderer Reisender zeigen, welche Darstellung im Zielgebiet realistisch arbeitet. Zwei Apps parallel zu installieren kostet nichts und gibt dir eine Reserve, wenn eine Karte hakt."
+      ]
+    },
+    {
+      "heading": "Routen vorab zu Hause vorbereiten",
+      "paragraphs": [
+        "Plane die wichtigsten Etappen am Schreibtisch. Markiere Start, Zwischenstopps und das Ziel, und prüfe die vorgeschlagene Route auf offenkundige Fehler. Du erkennst so problematische Abschnitte früh und entscheidest in Ruhe, ob du eine größere Straße oder die kleine Variante fahren willst.",
+        "Speichere mehrere Varianten ab. Eine Haupt- und eine Ausweichroute pro Fahrttag geben dir Sicherheit bei Straßensperren, Regen oder unerwarteten Highlights. Ergänze Tankstopps und Pausenorte als Pins, dann hast du alle wichtigen Punkte auch ohne Verbindung direkt vor dir. Gespeicherte Ziele starten auch dann sofort, wenn die App einmal neu lädt."
+      ]
+    },
+    {
+      "heading": "Navigation im dichten Stadtverkehr",
+      "paragraphs": [
+        "In Hanoi verlangt die Navigation volle Aufmerksamkeit. Halte das Gerät gut sichtbar, aber so, dass dein Blick nur kurz von der Straße abweicht, und nutze die Ansagen, statt auf den Bildschirm zu starren. Ampeln und Einbahnen wechseln schnell, deshalb gleiche die Route mit den Schildern vor Ort ab.",
+        "Übe die ersten Fahrten auf einfachen Wegen. Wer die Grundfunktionen beherrscht, ist im Notfall schneller bei der Hand. Anhalten ist keine Schande: Bleib unsicher, dann fahre an den Rand, kläre die Richtung, und starte erst dann weiter, wenn du wirklich sicher bist. Mit der Zeit entsteht ein sicheres Gefühl für die Abbiegungen deiner Viertel."
+      ]
+    },
+    {
+      "heading": "Akku, Halterung und Papier-Ersatz",
+      "paragraphs": [
+        "Sichere die Stromversorgung deines Geräts. Eine Halterung am Roller, ein geladener Akku und eine Powerbank gehören zur Grundausstattung, weil Navigation den Akku spürbar leert. Bei mehrstündigen Fahrten dimme den Bildschirm, und schalte Funktionen ab, die du unterwegs nicht brauchst.",
+        "Behalte eine Analogvariante im Gepäck. Eine gedruckte Karte oder eine Notiz mit den wichtigsten Wegpunkten funktioniert ohne Strom und ohne Netz. Wer beide Welten kombiniert, navigiert durch Vietnam souverän, egal was Technik und Akku an einem langen Fahrttag machen."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
