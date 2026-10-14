@@ -3068,22 +3068,22 @@
       "hub": "reiseplanung",
       "title": "Von Hanoi nach Ho-Chi-Minh-Stadt: Streckenlogik",
       "slug": "von-hanoi-nach-ho-chi-minh-stadt-streckenlogik",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 29,
       "keywordHypothesis": "route hanoi saigon",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/von-hanoi-nach-ho-chi-minh-stadt-streckenlogik/"
     },
     {
       "id": "DE-280",
       "hub": "reiseplanung",
       "title": "Rückflug und Fahrzeugrückgabe zeitlich abstimmen",
       "slug": "rueckflug-und-fahrzeugrueckgabe-zeitlich-abstimmen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 30,
       "keywordHypothesis": "rueckgabe vor rueckflug",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/rueckflug-und-fahrzeugrueckgabe-zeitlich-abstimmen/"
     },
     {
       "id": "DE-281",
