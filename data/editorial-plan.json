@@ -1594,22 +1594,22 @@
       "hub": "reiseplanung",
       "title": "Planung für Fahranfänger: kleine Schritte",
       "slug": "planung-fuer-fahranfaenger-kleine-schritte",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 5,
       "keywordHypothesis": "planung für fahranfänger: kleine schritte",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/planung-fuer-fahranfaenger-kleine-schritte/"
     },
     {
       "id": "DE-146",
       "hub": "reiseplanung",
       "title": "Wetterflexibel unterwegs sein",
       "slug": "wetterflexibel-unterwegs-sein",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 6,
       "keywordHypothesis": "wetterflexibel unterwegs sein",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/wetterflexibel-unterwegs-sein/"
     },
     {
       "id": "DE-147",
