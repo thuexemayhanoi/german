@@ -692,22 +692,22 @@
       "hub": "sicherheit-verkehr",
       "title": "Sichtbarkeit bei schlechter Beleuchtung",
       "slug": "sichtbarkeit-bei-schlechter-beleuchtung",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 3,
       "keywordHypothesis": "sichtbarkeit bei schlechter beleuchtung",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/sichtbarkeit-bei-schlechter-beleuchtung/"
     },
     {
       "id": "DE-064",
       "hub": "sicherheit-verkehr",
       "title": "Bei Regen fahren oder Fahrt verschieben?",
       "slug": "bei-regen-fahren-oder-fahrt-verschieben",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 4,
       "keywordHypothesis": "bei regen fahren oder fahrt verschieben?",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/bei-regen-fahren-oder-fahrt-verschieben/"
     },
     {
       "id": "DE-065",
