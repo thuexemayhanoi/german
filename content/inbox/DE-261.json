@@ -1,0 +1,63 @@
+{
+  "status": "IDEA",
+  "intent": "informational",
+  "publishedUrl": null,
+  "date": "2026-10-14",
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "id": "DE-261",
+  "hub": "probleme-hilfe",
+  "priority": 21,
+  "keywordHypothesis": "roller panne hanoi",
+  "title": "Rollerpanne in Hanoi: Werkstatt oder Vermieter kontaktieren",
+  "slug": "rollerpanne-in-hanoi-werkstatt-oder-vermieter-kontaktieren",
+  "description": "Bei einer Rollerpanne in Hanoi gilt: erst sicher abstellen, dann den Vermieter kontaktieren. Warum der Anruf beim Verleiher meist die bessere erste Wahl ist.",
+  "excerpt": "Der Motor stirbt, die Kette springt, die Elektrik versagt: Eine Panne mitten in Hanoi ist unangenehm, aber lösbar. Warum du zuerst den Vermieter anrufst und wann eine Werkstatt dran ist, erklärt dieser Beitrag.",
+  "sections": [
+    {
+      "heading": "Erst die Situation sichern",
+      "paragraphs": [
+        "Schiebe den Roller zuerst aus dem Verkehrsfluss, auf einen Gehweg, eine Parkbucht oder einen Seitenstreifen, und stelle den Motor ab. Warnblinker gibt es an Rollern selten, deshalb markiere die Situation durch deine Position weit am Fahrbahnrand. Deine Sicherheit steht vor jedem mechanischen Problem, das du klären willst.",
+        "Sind Menschen verletzt, rufe sofort die medizinische Notfallnummer 115, denn die Versorgung hat Vorrang vor allem anderen. Das Auswärtige Amt weist darauf hin, dass die medizinische Versorgung außerhalb der großen Städte begrenzt sein kann, weshalb du bei Verletzungen keine Zeit mit Abwägen verlierst."
+      ]
+    },
+    {
+      "heading": "Warum der Vermieter zuerst dran ist",
+      "paragraphs": [
+        "Der Vermieter kennt sein Fahrzeug, kennt Werkstätten in deiner Nähe und trägt die Verantwortung für den Zustand des Rollers. Ein Anruf mit Position und Fehlerbeschreibung bringt dich in der Regel schneller zu einer Lösung als jede eigene Suche. Viele Verleihe schicken jemanden vorbei oder nennen dir die Adresse ihrer Partnerwerkstatt.",
+        "Zusätzlich klärt der Anruf die Kostenfrage vor der Reparatur: Wer zahlt was, wenn der Defekt auf Verschleiß beruht, und was gilt bei selbst verursachten Schäden. Ohne dieses Gespräch riskierst du Zahlungen, die im Nachhinein schwer einzuordnen sind. Dokumentiere den Defekt mit Fotos, bevor irgendetwas repariert wird."
+      ]
+    },
+    {
+      "heading": "Wenn eine Werkstatt direkt ist",
+      "paragraphs": [
+        "Manchmal stehst du vor einer Werkstatt, und der Fehler ist offensichtlich klein, etwa ein gelöster Schlauch oder eine leere Batterie. Dann kannst du vor Ort helfen lassen, nachdem du kurz beim Vermieter angerufen hast. Dieser Anruf bleibt wichtig, weil er die Reparatur legitimiert und die Abwicklung in geordnete Bahnen bringt.",
+        "Lass dir den Fehler zeigen, bevor etwas getauscht wird, und fotografiere das alte und das neue Teil. Rechne bei kleinen Reparaturen mit Wartezeiten von Minuten statt Stunden, denn Rollerwerkstätten in Hanoi arbeiten schnell und pragmatisch. Belege sammelst du für die spätere Klärung mit dem Verleiher."
+      ]
+    },
+    {
+      "heading": "Ersatzfahrzeug und Weiterfahrt",
+      "paragraphs": [
+        "Bleibt der Roller liegen, frage den Vermieter nach einem Ersatzfahrzeug, denn manche Verleihe organisieren das bei größeren Defekten. Ob ein Anspruch besteht, steht im Vertrag; ohne Klausel ist es eine Kulanzfrage, die du ruhig stellen darfst. Die offizielle Tourismusseite Vietnam Travel empfiehlt, Transportabsprachen vorab zu klären, und die Panne ist der Moment, in dem diese Vorbereitung zahlt.",
+        "Bis das Ersatzfahrzeug da ist, nutze die Zeit: Fotos sortieren, Belege fotografieren, Absprachen schriftlich festhalten. So entsteht aus der Panne eine dokumentierte Geschichte statt einer vagen Erinnerung. Wer den Ablauf sauber hält, bekommt den Schaden meist unkompliziert geregelt."
+      ]
+    },
+    {
+      "heading": "Vorbeugen für die nächsten Fahrten",
+      "paragraphs": [
+        "Nach der Panne lohnt ein kurzer Blick zurück: Ließ sich der Defekt vorher erkennen, etwa an ungewöhnlichen Geräuschen, weichen Bremsen oder schleppendem Startverhalten? Solche Signale notierst du künftig bei der Übernahme und sprichst sie an. Die meisten Pannen sind keine Schicksalsschläge, sondern verschobene kleine Signale.",
+        "Speichere die Rufnummer des Vermieters offline und trage eine kleine Karte mit den Notfallnummern bei dir, denn Handys sterben gern im ungünstigsten Moment. Das Auswärtige Amt empfiehlt generell, sich vor Fahrten über Sicherheits- und Verhaltenshinweise zu informieren, und eine Panne ist genau der Fall, in dem Vorbereitung sichtbar Ruhe stiftet."
+      ]
+    }
+  ]
+}

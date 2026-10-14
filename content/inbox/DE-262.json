@@ -1,0 +1,63 @@
+{
+  "status": "IDEA",
+  "intent": "informational",
+  "publishedUrl": null,
+  "date": "2026-10-14",
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "id": "DE-262",
+  "hub": "probleme-hilfe",
+  "priority": 22,
+  "keywordHypothesis": "reifenpanne roller unterwegs",
+  "title": "Reifenpanne unterwegs: sicher abstellen zuerst",
+  "slug": "reifenpanne-unterwegs-sicher-abstellen-zuerst",
+  "description": "Eine Reifenpanne unterwegs beginnt immer gleich: sicher abstellen. Wie du den Stopp richtig machst, wo du Hilfe findest und was du vorher klärst.",
+  "excerpt": "Ein dumpfes Klacken, der Roller zieht, und der Reifen ist leer: Reifenpannen gehören zu den häufigsten Pannen unterwegs. Der erste Schritt entscheidet über Sicherheit. Dieser Beitrag zeigt den Ablauf.",
+  "sections": [
+    {
+      "heading": "Der erste Moment zählt",
+      "paragraphs": [
+        "Ein platter Reifen verändert das Fahrverhalten schlagartig: Die Lenkung wird schwergängig, das Heck bricht in Kurven aus, und die Haftung sinkt. Fahre nicht weiter, sondern fahre gleichmäßig aus, ohne abrupte Lenkbewegungen oder Vollbremsung, und steuere den Fahrbahnrand an. Der Instinkt will anhalten, und genau den folgst du kontrolliert.",
+        "Stelle den Roller abseits des Verkehrs ab: auf einen Gehweg, eine Parkbucht oder einen Seitenstreifen, und soweit von der Fahrbahn weg wie möglich. Schau erst, wo die Autos fahren, und dann, wo du stehst. Das Auswärtige Amt rät generell zu umsichtigem Verhalten im Straßenverkehr, und die ersten Minuten nach einer Panne sind der entscheidende Moment für deine Sicherheit."
+      ]
+    },
+    {
+      "heading": "Warum Weiterfahren der Fehler ist",
+      "paragraphs": [
+        "Wer mit platten Reifen weiterfährt, zerstört den Mantel, beschädigt die Felge und riskiert einen Sturz. Die Reparaturkosten steigen von einem Flicken auf einen kompletten Reifenwechsel, und die Kontrolle über das Fahrzeug sinkt mit jedem Meter. Ein paar hundert Meter bis zur Werkstatt klingen verlockend, sind aber die teuersten Meter der Tour.",
+        "Schiebe den Roller stattdessen zu Fuß, wenn eine Werkstatt in Sichtweite ist, oder rufe den Vermieter an, wenn die Strecke länger ist. Reifendienste sind in Hanoi dicht verteilt und auf schnelle Flickarbeiten eingestellt. Wer den Roller schiebt, bewegt ihn genau so schnell wie mit platten Reifen, nur ohne Folgeschäden und ohne Risiko."
+      ]
+    },
+    {
+      "heading": "Hilfe organisieren",
+      "paragraphs": [
+        "Ruf als Erstes den Vermieter an und beschreibe Ort und Schaden, denn er kennt die nächste Werkstatt und entscheidet über Reparatur oder Ersatzrad. Fotografiere den Reifen und die Umgebung, bevor irgendetwas gemacht wird. Diese Fotos ordnen den Schaden zeitlich und sachlich ein, falls Fragen zur Abwicklung entstehen sollten.",
+        "Die Reparatur selbst läuft in den meisten Fällen schnell: Der Reifen wird abgenommen, der Schlauch gefunden, geflickt oder ersetzt und alles wieder montiert. Bleib dabei, schau zu und lass dir zeigen, was defekt war. Ein Beleg über die Arbeit gehört zu deiner Dokumentation für die spätere Klärung mit dem Verleiher."
+      ]
+    },
+    {
+      "heading": "Kosten und Abwicklung",
+      "paragraphs": [
+        "Wer für die Reifenpanne zahlt, hängt von der Ursache ab: Normale Verschleißschäden liegen üblicherweise beim Vermieter, während Schäden durch Fehlverhalten oder grobe Beschädigung zu deinen Lasten gehen können. Diese Zuordnung klärst du am Telefon, bevor du bezahlst, und hältst das Ergebnis schriftlich fest. Blinde Zahlungen vor Ort schaffen später Unklarheit.",
+        "Frage bei der Gelegenheit, ob der Mietroller ein Reparaturset oder Werkzeug dabei hat, denn manche Verleihe legen Flicksets unter die Sitzbank. Die offizielle Tourismusseite Vietnam Travel empfiehlt, Abläufe vorab zu planen, und die Frage nach dem Reparaturset gehört in jede Abholungsroutine vor der ersten Fahrt."
+      ]
+    },
+    {
+      "heading": "Vorbeugen auf den nächsten Fahrten",
+      "paragraphs": [
+        "Prüfe vor jeder Fahrt den Reifendruck mit einem Daumendruck und den Zustand der Reifen mit einem Blick auf Schnitte und Fremdkörper. Nach der Panne lohnt der Blick auf die Ursache: War der Reifen überaltert, unter Druck oder einfach verbraucht, sprich das beim Vermieter an. Reifen sind der einzige Kontakt zwischen dir und der Straße, und sie verdienen deine Aufmerksamkeit.",
+        "Merke dir die Lage der nächsten Reifendienste auf deinen Standardrouten, und speichere die Rufnummer des Vermieters offline. Das Auswärtige Amt weist darauf hin, dass ein Großteil der Verkehrsunfälle nach Einbruch der Dunkelheit geschieht, weshalb eine Panne am Abend doppelt unangenehm ist. Wer bei Tageslicht fährt und vorbereitet ist, hat die Reifenpanne im schlimmsten Fall zu einem Zwischenstopp mit Kaffee gemacht."
+      ]
+    }
+  ]
+}

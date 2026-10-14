@@ -1,0 +1,63 @@
+{
+  "status": "IDEA",
+  "intent": "informational",
+  "publishedUrl": null,
+  "date": "2026-10-14",
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "id": "DE-260",
+  "hub": "abholung-rueckgabe",
+  "priority": 30,
+  "keywordHypothesis": "gepaeckaufbewahrung hanoi",
+  "title": "Gepäckaufbewahrung während der Fahrttage klären",
+  "slug": "gepaeckaufbewahrung-waehrend-der-fahrttage-klaeren",
+  "description": "Während du mit dem Roller fährst, muss das restliche Gepäck gut liegen. Wie du Aufbewahrung in der Unterkunft klärst und was unterwegs mit darf.",
+  "excerpt": "Der große Koffer bleibt im Hotel, während der Roller unterwegs ist: Gepäckaufbewahrung will geklärt sein. Welche Fragen du vorher stellst, wie du Wertvolles schützt und was du mitnimmst, liest du hier.",
+  "sections": [
+    {
+      "heading": "Die Frage vor der ersten Fahrt",
+      "paragraphs": [
+        "Kläre mit deiner Unterkunft, wo du nicht benötigtes Gepäck während der Fahrttage aufbewahren kannst. Viele Hotels bieten einen Abstellraum oder Schließfächer an, und die meisten wissen aus Erfahrung, was mit Rollerfahrern gut funktioniert. Diese Frage gehört an den Check-in wie die Frage nach dem Frühstück oder dem WLAN.",
+        "Vereinbare zusätzlich, was mit dem Gepäck passiert, wenn du nach dem Ausflug in eine andere Unterkunft wechselst oder direkt zum Flughafen fährst. Manche Häuser geben Gepäck bis am Abend auf und organisieren Transfers mit. Diese Absprachen kosten fünf Minuten am ersten Tag und strukturieren deine ganze Fahrwoche im Voraus."
+      ]
+    },
+    {
+      "heading": "Was mit darf und was bleibt",
+      "paragraphs": [
+        "Unter dem Sitz eines Rollers passen Helm, Regenjacke, ein Tagesrucksack und etwas Wasser, mehr nicht. Alles übrige bleibt in der Aufbewahrung. Packe für die Fahrttage eine kleine Tragetasche mit Dokumenten, Ladekabel, Wechselkleidung und Erste-Hilfe-Miniatur, und lass den Rest zurück, wo er sicher liegt.",
+        "Das Auswärtige Amt weist darauf hin, dass es gelegentlich zu Diebstählen durch vorbeifahrende Zweiräder kommt. Werte Sachen gehören deshalb in die Unterkunft oder in eine verschlossene Box, nicht in offene Gepäckablagen. Fotografiere den Inhalt deiner Tragetasche einmal, dann weißt du jederzeit, was dabei sein muss und was zu Hause geblieben ist."
+      ]
+    },
+    {
+      "heading": "Wertsachen richtig verwahren",
+      "paragraphs": [
+        "Dokumente wie Pass und Fahrerlaubnis bleiben am besten am Körper, in einer Brusttasche oder einem verschließbaren Fach. Bargeld teilst du auf mehrere Orte auf, und die Karte für die Kaution bleibt getrennt vom Alltagsgeld. Diese Verteilung kostet dich nichts und begrenzt jeden denkbaren Verlust auf ein erträgliches Maß.",
+        "Nutze, wenn vorhanden, den Safe der Unterkunft für Ersatzkarten und Rückreisetickets, und fotografiere die wichtigsten Dokumente als Sicherungskopie. Notiere die Sperrnummern deiner Karten getrennt von den Karten selbst, etwa im Hotelvertrag oder bei einer Begleitung. Wer diese Vorbereitung einmal getroffen hat, fährt die ganze Woche deutlich leichter."
+      ]
+    },
+    {
+      "heading": "Übergänge zwischen den Fahrttagen",
+      "paragraphs": [
+        "Zwischen zwei Touren wird die Tragetasche oft umgepackt, und genau da verschwinden kleine Dinge. Nimm dir am Abend fünf Minuten für den Übergang: Dokumente prüfen, Akkus laden, Kleidung wechseln, Tasche auf Vorderstand bringen. Diese kleine Routine hält die Fahrttage getrennt und macht jeden Morgen startklar, ohne dass du suchst.",
+        "Fragst du nach einer mehrtägigen Tour die Unterkunft um Aufbewahrung des Rollers über Nacht, kläre auch die Gepäckfrage neu: Was bleibt am Roller, was kommt ins Zimmer. Bewachte Stellplätze sind für Roller der Standard, für Wertsachen bleibt aber die Regel, nichts Sichtbares zu hinterlassen und alles zu verschließen."
+      ]
+    },
+    {
+      "heading": "Der letzte Fahrtag und die Abreise",
+      "paragraphs": [
+        "Am Abreisetag laufen Gepäck und Roller zusammen: Rückgabe des Fahrzeugs, dann Gepäck aus der Aufbewahrung, dann Transfer zum Flughafen. Plane die Reihenfolge und die Zeitpuffer vorher, damit nichts durcheinandergerät. Wer den Roller schon am Vortag zurückgibt und den Abreisetag nur für Gepäck und Transfer nutzt, startet deutlich entspannter in die Heimreise.",
+        "Die offizielle Tourismusseite Vietnam Travel empfiehlt, Transportwege vorab zu planen, und der Abreisetag ist genau so ein Transportweg. Mit geklärter Gepäckaufbewahrung, gepackten Taschen und einer Reihenfolge im Kopf endet deine Fahrwoche so organisiert, wie sie begonnen hat, und keine Tasche bleibt auf der Strecke."
+      ]
+    }
+  ]
+}

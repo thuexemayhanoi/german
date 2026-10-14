@@ -1,0 +1,63 @@
+{
+  "status": "IDEA",
+  "intent": "informational",
+  "publishedUrl": null,
+  "date": "2026-10-14",
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "id": "DE-258",
+  "hub": "abholung-rueckgabe",
+  "priority": 28,
+  "keywordHypothesis": "tankstand rueckgabe roller",
+  "title": "Tankstand bei der Rückgabe nachvollziehbar belegen",
+  "slug": "tankstand-bei-der-rueckgabe-nachvollziehbar-belegen",
+  "description": "Der Tankstand bei der Rückgabe will belegt sein. Wie du den Kraftstoffstand dokumentierst, Missverständnisse vermeidest und die Abwicklung sauber läuft.",
+  "excerpt": "Tankstreit ist der häufigste Rückgabeärger, und er lässt sich komplett vermeiden: mit Fotos, klaren Absprachen und einer kurzen Routine. So belegst du den Tankstand bei der Rückgabe nachvollziehbar.",
+  "sections": [
+    {
+      "heading": "Die Absprache vor der ersten Fahrt",
+      "paragraphs": [
+        "Alles beginnt bei der Abholung: Frage, wie der Tankstand bei der Rückgabe sein soll. Manche Verleihe erwarten den Stand wie bei der Übergabe, andere eine volle Rückgabe. Halte die Absprache schriftlich fest, etwa als Satz im Chatverlauf mit dem Vermieter. Damit steht der Maßstab fest, an dem sich später alles misst.",
+        "Notiere außerdem, welche Kraftstoffsorte das Fahrzeug benötigt, denn an vielen Tankstellen in Vietnam teilst du dein Anliegen dem Personal an der Kasse mit. Ein Foto des Tankdeckels und des Klebers daneben hilft beim nächsten Stopp. Diese eine Minute bei der Abholung erspart dir Irritationen an jeder Tankstelle deiner Fahrtwoche."
+      ]
+    },
+    {
+      "heading": "Fotos als Beleg",
+      "paragraphs": [
+        "Fotografiere den Tankstand bei der Abholung und bei der Rückgabe im direkten Vergleich: gleiche Perspektive auf die Tankuhr, Zeitstempel aktiviert. Liegt eine analoge Anzeige vor, fotografierst du zusätzlich den Gesamtkilometerstand, denn der Zusammenhang von gefahrenen Kilometern und Verbrauch ist ein zweiter, unabhängiger Beleg für deinen Stand.",
+        "Speichere beide Fotos in demselben Album wie deine Übergabebilder, damit sie zusammenbleiben. Bei der Rückgabe zeigst du sie zusammen mit dem Zustand des Fahrzeugs. Wer den Tank fotografisch festhält, dreht jede spätere Diskussion in eine Sekundensache, weil die Anzeige klar dokumentiert ist und beide Seiten dieselben Bilder sehen."
+      ]
+    },
+    {
+      "heading": "Am Rückgabetag richtig tanken",
+      "paragraphs": [
+        "Plane die letzte Tankfahrt bewusst: Tanke in der Nähe der Rückgabe, nicht zu früh, damit der Stand nicht durch stehen gelassene Reste verwässert wird. Fahre danach direkt zur Übergabe, ohne unnötige Umwege. An der Station angekommen, fotografierst du die Tankuhr ein letztes Mal, bevor ihr mit dem Vergleich beginnt.",
+        "Bist du unter Zeitdruck, widerstehe der Versuch, das Tanken zu überspringen und die Differenz zu bezahlen. Eine klare Dokumentation ist besser als jede pauschale Nachzahlung, weil sie zeigt, dass du die Absprache erfüllt hast. Zahlen ohne Beleg öffnen dagegen Diskussionen über Beträge, die keiner mehr nachvollziehen kann, wenn die Woche vorbei ist."
+      ]
+    },
+    {
+      "heading": "Grenzfälle und Sonderregeln",
+      "paragraphs": [
+        "Bei Elektrollern gilt dieselbe Logik mit Ladestand statt Tank: Frage bei der Abholung, wie der Akku zurückgegeben wird, und halte die Ladestandsanzeige auf dem Display im Foto fest. Die Grenzfälle sind bei allen Fahrzeugen gleich, denn ein fehlender Beleg macht aus einer klaren Absprache eine reine Erinnerungssache.",
+        "Konnte aus nachvollziehbarem Grund nicht getankt werden, etwa weil die letzte Tankstelle geschlossen war, kläre das offen bei der Übergabe und halte die mündliche Lösung schriftlich fest. Das Auswärtige Amt rät Reisenden zu klarer Dokumentation bei Vertragspunkten, und der Tankstand ist genau so ein Vertragspunkt mit Aussagekraft."
+      ]
+    },
+    {
+      "heading": "Rückblickend alles im Griff behalten",
+      "paragraphs": [
+        "Bewahre die Tankbelege der letzten Füllung zusammen mit den Fotos auf, bis die Kaution zurückgezahlt ist. Erst dann ist der Tankpunkt vollständig erledigt und darf aus deiner Ablage verschwinden. Diese Ablage braucht wenig Platz und gibt dir in jeder Nachfrage einen ruhigen, belegbaren Stand.",
+        "Die offizielle Tourismusseite Vietnam Travel empfiehlt, Abläufe im Voraus zu denken, und der Tank gehört in jede Rückgabeplanung: letzte Tankfahrt, Foto, Übergabe. Mit dieser Routine wird der häufigste Streitpunkt der Mietbranche zu einem langweiligen, kurzen Check am Ende einer schönen Fahrtwoche."
+      ]
+    }
+  ]
+}
