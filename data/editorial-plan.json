@@ -1814,22 +1814,22 @@
       "hub": "technik-wartung",
       "title": "Warnanzeigen richtig ansprechen",
       "slug": "warnanzeigen-richtig-ansprechen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 5,
       "keywordHypothesis": "warnanzeigen richtig ansprechen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/warnanzeigen-richtig-ansprechen/"
     },
     {
       "id": "DE-166",
       "hub": "technik-wartung",
       "title": "Ungewöhnliche Geräusche melden",
       "slug": "ungewoehnliche-geraeusche-melden",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 6,
       "keywordHypothesis": "ungewöhnliche geräusche melden",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/ungewoehnliche-geraeusche-melden/"
     },
     {
       "id": "DE-167",
