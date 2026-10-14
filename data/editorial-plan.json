@@ -2562,22 +2562,22 @@
       "hub": "sicherheit-verkehr",
       "title": "Vorfahrtsverständnis und Rechtsverkehr in Hanoi",
       "slug": "vorfahrtsverstaendnis-und-rechtsverkehr-in-hanoi",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 23,
       "keywordHypothesis": "vorfahrt hanoi verkehr",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/vorfahrtsverstaendnis-und-rechtsverkehr-in-hanoi/"
     },
     {
       "id": "DE-234",
       "hub": "sicherheit-verkehr",
       "title": "Hupe im vietnamesischen Verkehr als Signal verstehen",
       "slug": "hupe-im-vietnamesischen-verkehr-als-signal-verstehen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 24,
       "keywordHypothesis": "hupe verkehr vietnam",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/hupe-im-vietnamesischen-verkehr-als-signal-verstehen/"
     },
     {
       "id": "DE-235",
