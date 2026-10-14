@@ -824,22 +824,22 @@
       "hub": "sicherheit-verkehr",
       "title": "Mit Gepäck sicher die Balance behalten",
       "slug": "mit-gepaeck-sicher-die-balance-behalten",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 15,
       "keywordHypothesis": "mit gepäck sicher die balance behalten",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/mit-gepaeck-sicher-die-balance-behalten/"
     },
     {
       "id": "DE-076",
       "hub": "sicherheit-verkehr",
       "title": "Ruhig bleiben bei dichtem Verkehr",
       "slug": "ruhig-bleiben-bei-dichtem-verkehr",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 16,
       "keywordHypothesis": "ruhig bleiben bei dichtem verkehr",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/ruhig-bleiben-bei-dichtem-verkehr/"
     },
     {
       "id": "DE-077",
