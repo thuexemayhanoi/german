@@ -1,0 +1,63 @@
+{
+  "id": "DE-060",
+  "hub": "dokumente-vertrag",
+  "title": "Unterlagen-Checkliste für die Abholung",
+  "slug": "unterlagen-checkliste-fuer-die-abholung",
+  "status": "IDEA",
+  "priority": 20,
+  "keywordHypothesis": "unterlagen-checkliste für die abholung",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Unterlagen-Checkliste für die Abholung des Mietfahrzeugs: was Sie dabeihaben und was Sie mitbekommen müssen – für einen Abholtag ohne Nachträge.",
+  "excerpt": "Die Abholung ist der Tag, an dem alles zusammenkommen muss: Ihre Dokumente, die Papiere des Verleihers und die Zahlungswege. Mit einer Checkliste holen Sie entspannt ab – dieser Ratgeber listet die Punkte auf, die dabei sein müssen.",
+  "sections": [
+    {
+      "heading": "Warum die Abholung ein eigener Prüftag ist",
+      "paragraphs": [
+        "Die Abholung ist mehr als ein Termin – sie ist der Moment, in dem aus einer Reservierung ein Vertrag wird. Wer mit den richtigen Unterlagen kommt und weiß, welche Dokumente er erhalten muss, hat die Abholung in einer halben Stunde hinter sich. Wer ohne Vorbereitung kommt, verhandelt am Stand des Verleihers über Details, die er zu Hause in Ruhe hätte klären können.",
+        "Die Checkliste in diesem Ratgeber hat deshalb zwei Spalten: die eine für das, was Sie dabeihaben müssen, die andere für das, was Sie mitbekommen müssen. Erst wenn beide Spalten abgehakt sind, ist die Abholung abgeschlossen – nicht beim Verlassen des Hofes, sondern beim Abschluss der Papiere."
+      ]
+    },
+    {
+      "heading": "Spalte eins: Ihre Unterlagen",
+      "paragraphs": [
+        "Bringen Sie Ihre Identitätsdokumente mit: den Reisepass und den Führerschein, den Sie führen wollen. Prüfen Sie vor dem Termin, dass die Fahrerlaubnis zum geplanten Fahrzeug passt – das Auswärtige Amt hält fest, dass die Klasse B in Vietnam keine Zweiräder über 50 ccm abdeckt und die Klasse B196 nicht anerkannt wird. Diese Prüfung gehört vor die Abholung, nicht auf den Hof.",
+        "Bringen Sie Ihre Zahlungswege mit: Bargeld in der Währung, die der Verleiher akzeptiert, oder das passende Zahlungsmittel für die Kaution. Denken Sie an die Rückreise: eine Geldreserve für die mögliche Verrechnung bei der Rückgabe. Und bringen Sie Ihre eigene Versicherungsdokumentation mit, etwa die Bestätigung einer Reiseversicherung – das Auswärtige Amt empfiehlt für Vietnam einen Auslandskrankenschutz, weil die medizinische Versorgung außerhalb der städtischen Zentren begrenzt ist."
+      ]
+    },
+    {
+      "heading": "Spalte zwei: die Unterlagen des Verleihers",
+      "paragraphs": [
+        "Fordern Sie bei der Abholung die Dokumente, die zu einer korrekten Anmietung gehören: den unterschriebenen Mietvertrag in Kopie, das Übergabeprotokoll mit dem dokumentierten Zustand, die Fahrzeugpapiere zum Mitführen und eine Bestätigung über die hinterlegte Kaution. Jedes dieser Dokumente erfüllt eine eigene Funktion – der Vertrag regelt das Geschäft, das Protokoll den Zustand, die Fahrzeugpapiere die Legitimität, die Kaution das Geld.",
+        "Prüfen Sie beim Erhalt die Vollständigkeit: Stehen alle Fahrzeugdaten im Vertrag? Ist das Protokoll vom Verleiher gegengezeichnet? Stimmen die Fahrzeugpapiere mit dem Fahrzeug vor Ihnen überein? Eine Abholung, bei der ein Punkt fehlt, ist keine abgeschlossene Abholung – fordern Sie die fehlenden Dokumente ein, bevor Sie losfahren. Das Auswärtige Amt rät außerdem ausdrücklich davon ab, den Reisepass als Pfand dalassen – akzeptieren Sie keine Abholung, die das verlangt."
+      ]
+    },
+    {
+      "heading": "Die Prüfschleife am Fahrzeug",
+      "paragraphs": [
+        "Die dritte Ebene der Checkliste ist das Fahrzeug selbst: Gehen Sie den Zustand in Ruhe durch und gleichen Sie ihn mit dem Protokoll ab – Reifen, Bremsen, Licht, Spiegel, Tank, Zubehör. Testen Sie die Funktionen, die im Verkehr zählen: Bremsen bei langsamer Fahrt, Hupe, Beleuchtung in allen Stufen. Das Auswärtige Amt weist darauf hin, dass viele Unfälle in Vietnam nach Einbruch der Dunkelheit geschehen – eine funktionierende Beleuchtung ist also kein Detail, sondern ein Kernpunkt Ihrer Prüfung.",
+        "Stellen Sie Ihre Dokumentation fertig, bevor Sie den Hof verlassen: Fotos mit Kennzeichen, Notizen zu Daten und Zustand, alles in einer Ablage, die Sie körpernah tragen. Mit dieser Prüfschleife endet die Abholung – und die Fahrt beginnt mit einer Dokumentenbasis, die Sie bei jeder Kontrolle und jedem Rückgabegespräch trägt."
+      ]
+    },
+    {
+      "heading": "Was Sie nicht mitnehmen müssen",
+      "paragraphs": [
+        "Eine gute Checkliste nennt auch die Dinge, die Sie nicht brauchen: keine Originaldokumente als Pfand, keine vorausgezahlten Gebühren ohne Beleg, keine Zusatzvereinbarungen ohne Vertragszeile. Alles, was Sie über die Spalten eins und zwei hinaus abgeben oder zahlen, braucht eine dokumentierte Grundlage. Diese Negativliste schützt vor dem, was bei Abholungen gern im Nebensatz vereinbart wird.",
+        "Und ein letzter Punkt: Nehmen Sie sich die Freiheit, die Abholung abzubrechen, wenn die Checkliste nicht erfüllbar ist. Fehlen zentrale Dokumente oder verweigert der Verleiher das Protokoll, dann ist das ein Befund, und der gehört vor die Fahrt. Die Auswahl an Verleihern ist groß, die offizielle Tourismusseite Vietnam Travel gibt einen Überblick zu Fortbewegung im Land – eine vollständige Checkliste ist der beste Schutz, aber die Bereitschaft wegzugehen ist der zweitbeste."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

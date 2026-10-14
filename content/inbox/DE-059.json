@@ -1,0 +1,63 @@
+{
+  "id": "DE-059",
+  "hub": "dokumente-vertrag",
+  "title": "Fahrzeugdaten korrekt dokumentieren",
+  "slug": "fahrzeugdaten-korrekt-dokumentieren",
+  "status": "IDEA",
+  "priority": 19,
+  "keywordHypothesis": "fahrzeugdaten korrekt dokumentieren",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Fahrzeugdaten korrekt dokumentieren: Kennzeichen, Fahrgestellnummer, Zustand und Zubehör erfassen – damit jede Diskussion später mit Fakten endet.",
+  "excerpt": "Ein Foto des Fahrzeugs ist schnell gemacht – aber eine echte Dokumentation umfasst mehr: Daten, Zustand, Zubehör und Zeitstempel. Dieser Ratgeber zeigt, wie Sie Fahrzeugdaten so erfassen, dass sie im Streitfall und bei Diebstahl wirklich helfen.",
+  "sections": [
+    {
+      "heading": "Warum Daten mehr sind als ein Foto",
+      "paragraphs": [
+        "Ein Foto zeigt, wie ein Fahrzeug aussieht – aber es zeigt nicht automatisch, welches Fahrzeug es ist, wann das Bild entstand und was dazu gehörte. Im Streitfall zählen genau diese Zusatzinformationen: das Kennzeichen, das die Zuordnung herstellt, der Zustand, der den Vorher-nachher-Vergleich erlaubt, und der Zeitpunkt, der Ihre Darstellung einordnet. Dokumentieren heißt, diese drei Ebenen zusammenzuführen.",
+        "Die gute Nachricht: Der Aufwand ist klein. Fünfzehn Minuten bei der Übergabe genügen, um eine Dokumentation zu erstellen, die jede spätere Diskussion auf Fakten basieren lässt statt auf Behauptungen. Der Schlüssel ist Systematik – nicht Geschwindigkeit beim Fotografieren, sondern Vollständigkeit bei den Datenpunkten."
+      ]
+    },
+    {
+      "heading": "Die Daten, die erfasst werden müssen",
+      "paragraphs": [
+        "Notieren Sie zuerst die Identitätsdaten des Fahrzeugs: Kennzeichen, Modell und Fahrgestellnummer, soweit ersichtlich. Diese Daten verbinden Ihre Dokumentation mit den Fahrzeugpapieren und mit dem Vertrag. Stimmen die notierten Daten mit den Papieren nicht überein, haben Sie den wichtigsten Befund gleich zu Beginn – und können ihn vor Fahrtantritt klären.",
+        "Erfassen Sie dann den Zustand: vorhandene Kratzer, Dellen, Beschädigungen an Verkleidung, Spiegeln und Hebeln. Fotografieren Sie dabei so, dass das Kennzeichen im Bild mit auftaucht – das ordnet jedes Foto eindeutig dem konkreten Fahrzeug zu. Ergänzen Sie den Zustand der Verbrauchsteile: Reifenprofil, Bremswirkung bei der Probefahrt, Licht in allen Stufen. Und notieren Sie das Zubehör: Helm, Werkzeug, Dokumente, Gepäckträger."
+      ]
+    },
+    {
+      "heading": "Zeitstempel und Ablage sind Teil der Dokumentation",
+      "paragraphs": [
+        "Ein Datensatz ohne Zeitpunkt verliert die Hälfte seines Werts. Smartphones speichern Zeitstempel automatisch – sorgen Sie dafür, dass Datum und Uhrzeit stimmen, und ergänzen Sie wichtige Notizen mit dem Datum von Hand. Eine Zustandsaufnahme, die eindeutig bei der Übergabe entstand, kann nicht als spätere Beschädigung umgedeutet werden.",
+        "Richten Sie eine einfache Ablage ein: ein Fotoalbum mit allen Übergabebildern, eine Notiz mit den Datenpunkten, eine Kopie des Protokolls – zusammen in einem verschlossenen Fach oder einer Tasche, getrennt vom Fahrzeug. Das Auswärtige Amt warnt vor Handtaschenraub durch vorbeifahrende Roller; wer Wertdokumente körpernah trägt, verliert im Ernstfall weniger. Ihre Dokumentation ist ein Wertdokument."
+      ]
+    },
+    {
+      "heading": "Was die Daten im Ernstfall leisten",
+      "paragraphs": [
+        "Bei der Rückgabe ist die Dokumentation Ihr Abgleich: Sie vergleichen den zurückgegebenen Zustand mit dem dokumentierten Anfangszustand und können jeden neuen Vorwurf punktgenell einordnen. Ein behaupteter Schaden, der in Ihren Übergabefotos bereits sichtbar war, endet als Diskussion von dreißig Sekunden statt von dreißig Minuten.",
+        "Im Diebstahlfall werden die Daten zur Anzeige: Kennzeichen, Modell und Fahrgestellnummer gehören in jede polizeiliche Meldung, zusammen mit dem Zeitpunkt und den Umständen. Wer diese Daten griffbereit hat, kann eine Anzeige vollständig und schnell aufsetzen – und der Verleiher braucht dieselben Daten für seine Vorgänge. Die Dokumentation dient damit beiden Seiten und spart jedem Zeit."
+      ]
+    },
+    {
+      "heading": "Dokumentationsroutine über die Mietdauer",
+      "paragraphs": [
+        "Die Dokumentation endet nicht bei der Übergabe. Pflegen Sie sie über die Mietdauer: nach einem Rastplatz, bei einer Panne, nach einem kleinen Umfaller – ein Foto und eine Zeile mit Datum genügen. Diese Zwischenstände verhindern die gefährlichste aller Streitfragen, nämlich ob ein Schaden vor oder nach einem bestimmten Ereignis entstand.",
+        "Und bei der Rückgabe selbst: Dokumentieren Sie den Endzustand, so wie Sie den Anfangszustand dokumentiert haben – Fotos mit Kennzeichen, Tank, Kilometerstand. Lassen Sie sich die Rückgabe bestätigen und bewahren Sie die gesamte Kette auf, bis die Kaution zurück ist. Das Auswärtige Amt rät, bei Papiervorgängen im Ausland sorgfältig zu arbeiten – Ihre Dokumentationskette ist genau diese Sorgfalt in Praxisform."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

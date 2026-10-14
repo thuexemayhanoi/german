@@ -1,0 +1,63 @@
+{
+  "id": "DE-057",
+  "hub": "dokumente-vertrag",
+  "title": "Mietvertrag bei längerer Reise überprüfen",
+  "slug": "mietvertrag-bei-laengerer-reise-ueberpruefen",
+  "status": "IDEA",
+  "priority": 17,
+  "keywordHypothesis": "mietvertrag bei längerer reise überprüfen",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Mietvertrag bei längerer Reise überprüfen: Wartung, Verlängerung, Panne und Rückgabeoptionen – worauf Sie bei mehrwöchigen Mieten achten.",
+  "excerpt": "Ein paar Tage Miete plan sich fast von selbst – aber bei mehrwöchigen Fahrten entstehen Fragen, die der Standardvertrag nicht regelt. Dieser Ratgeber zeigt, welche Punkte Sie bei längerer Anmietung prüfen und nachverhandeln.",
+  "sections": [
+    {
+      "heading": "Lange Mieten sind eine eigene Kategorie",
+      "paragraphs": [
+        "Ein Mietvertrag für zwei Tage gleicht einem Kurzgeschäft: kurze Dauer, überschaubare Risiken, und das Fahrzeug kommt in einem Zustand zurück, der sich vom Übergabezustand kaum unterscheidet. Bei zwei oder drei Wochen sieht alles anders aus: Reifen altern im Alltag, Öl muss geprüft werden, kleine Steinschläge summieren sich, und die Wahrscheinlichkeit einer Panne steigt mit jedem Kilometer. Der Vertrag muss diese Realität tragen.",
+        "Deshalb ist die Überprüfung bei längerer Reise kein Streitthema, sondern eine andere Leseart: Sie fragen nicht nur, was gekauft ist, sondern was über die Zeit geschieht. Wer seinen Vertrag so liest, entdeckt die Lücken, die erst nach einer Woche auf der Straße schmerzen – und die vor der Unterschrift noch verhandelbar sind."
+      ]
+    },
+    {
+      "heading": "Wartung und Verschleiß während der Miete",
+      "paragraphs": [
+        "Der wichtigste Punkt bei langen Mieten: Wer trägt die Wartung? Klären Sie schriftlich, ob Inspektionen oder Ölwechsel während Ihrer Mietdauer anfallen und wer sie veranlasst und bezahlt. Regeln Sie ebenso den Normalverschleiß: Reifen und Bremsbeläge nutzen sich ab – wer zahlt den Austausch, wenn er fällig wird, und was gilt als verbrauchsbedingte, was als schadenbedingte Erneuerung?",
+        "Praktisch hilft ein Blick auf die Zustandsdokumentation: Ein Protokoll bei der Übergabe ist Standard; bei langen Mieten lohnt sich ein Zwischenstand, etwa nach der Hälfte der Mietdauer. Drei Fotos und eine kurze Nachricht an den Verleiher halten fest, wie das Fahrzeug unterwegs aussieht – das schützt Sie vor Behauptungen, ein Schaden sei über die ganze Miete entstanden, und dem Verleiher gibt es die Chance, Verschleiß frühzeitig zu begleiten."
+      ]
+    },
+    {
+      "heading": "Verlängerung, Abbruch und Flexibilität",
+      "paragraphs": [
+        "Reisepläne ändern sich: Die Route wird schöner als gedacht, oder der Rückflug verschiebt sich. Klären Sie vorab, wie eine Verlängerung funktioniert – zu welchem Preis, mit welcher Frist, und ob das Fahrzeug überhaupt frei ist. Die gleiche Frage gilt in die andere Richtung: Was geschieht, wenn Sie das Fahrzeug früher zurückgeben als geplant? Gibt es eine Teilrückerstattung, eine Frist, oder gilt der Vertrag stur?",
+        "Diese Punkte im Vertrag zu haben, ist bei langen Mieten wichtiger als bei kurzen, denn genau diese Situationen treten über Wochen statistisch ein. Ein Verleiher, der Verlängerung und Verkürzung offen regelt, rechnet mit realen Reisen statt mit idealen. Die offizielle Tourismusseite Vietnam Travel nennt Anlaufstellen und Anbieter für Fortbewegung im Land – ein Vergleich lohnt sich, wenn Flexibilität für Ihre Route zählt."
+      ]
+    },
+    {
+      "heading": "Panne, Ausfall und Ersatz",
+      "paragraphs": [
+        "Die nächste Frage gilt dem Ausfall: Was geschieht bei einer Panne mitten in der Mietdauer? Gibt es eine Hotline, eine organisierte Hilfe, eine Werkstattregelung – und wer trägt die Kosten, wenn das Fahrzeug selbst defekt ist, ohne dass Sie einen Fehler gemacht haben? Diese Klausel wird gern ausgelassen, weil sie unangenehm zu formulieren ist, und genau deshalb sollten Sie nach ihr suchen.",
+        "Für längere Routen lohnt die Frage nach dem Ersatzfahrzeug: Fällt das Fahrzeug für Tage aus, bekommen Sie ein anderes – und zu welchen Konditionen? Eine klare Regel hier ist ein Zeichen für einen professionellen Anbieter. Und bedenken Sie den Dokumentenkosmos im Ausfall: Vertragskopie und Kontaktdaten des Verleihers griffbereit zu haben, ist bei einer Panne auf der Landstraße der Unterschied zwischen organisiert und allein."
+      ]
+    },
+    {
+      "heading": "Die Verantwortung über Wochen stabil halten",
+      "paragraphs": [
+        "Lange Mieten verführen dazu, die Regeln des Anfangs zu vergessen: Der Helm bleibt mal liegen, die Dokumente wandern in die Seitentasche, die Vertragskopie verstaubt. Halten Sie dagegen: Tragen Sie Helm und Dokumente über die ganze Mietdauer mit derselben Sorgfalt wie am ersten Tag. Das Auswärtige Amt nennt für Vietnam die Helmtragepflicht und warnt davor, dass viele Unfälle nach Einbruch der Dunkelheit geschehen – über Wochen zählt die Regelmäßigkeit, nicht der erste Tag.",
+        "Planen Sie außerdem Puffer ein: eine Rückgabe, die nicht auf die letzte Minute vor dem Flug gelegt ist, und ein Fahrzeug, das Sie einen halben Tag vor Abgabe noch einmal in Ruhe prüfen. Die Überprüfung bei längerer Reise endet nicht mit der Unterschrift – sie ist eine Gewohnheit, die Sie über die gesamte Miete mitnehmen."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

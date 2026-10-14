@@ -1,0 +1,63 @@
+{
+  "id": "DE-056",
+  "hub": "dokumente-vertrag",
+  "title": "Aktuelle Verkehrsregeln verlässlich nachschlagen",
+  "slug": "aktuelle-verkehrsregeln-verlaesslich-nachschlagen",
+  "status": "IDEA",
+  "priority": 16,
+  "keywordHypothesis": "aktuelle verkehrsregeln verlässlich nachschlagen",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Aktuelle Verkehrsregeln in Vietnam verlässlich nachschlagen: offizielle Quellen zuerst, Foren nur als Hinweis – mit der Methodik für eine belastbare Recherche.",
+  "excerpt": "Verkehrsregeln ändern sich, und Reiseländer haben eigene Regeln, die zu Hause nicht gelten. Wer vor der Fahrt in offiziellen Quellen nachschlägt, fährt sicherer – und weiß, warum eine Regel gilt. Dieser Ratgeber zeigt, wie die Recherche gelingt.",
+  "sections": [
+    {
+      "heading": "Warum Nachschlagen keine überflüssige Bürokratie ist",
+      "paragraphs": [
+        "Verkehrsregeln sind keine Naturgesetze, sondern Entscheidungen von Verwaltungen – und Entscheidungen ändern sich. Geschwindigkeitsbegrenzungen, Promillegrenzen, Helmregeln, Vorfahrtsregeln: Was auf einer alten Website steht oder in einem Forum aus drei Jahren, kann heute anders aussehen. Wer nachschlägt, gleicht sein Wissen mit dem Stand der Verwaltung ab, nicht mit dem Stand der Erinnerung.",
+        "In Vietnam kommen eigene Regelungen hinzu, die in Deutschland kein Pendant haben – etwa die Klärung, welche Zweiradklassen Ihre Führerlaubnis abdeckt. Das Auswärtige Amt hält fest, dass die Klasse B dort keine Zweiräder über 50 ccm abdeckt und die Klasse B196 nicht anerkannt wird. Diese Regel entscheidet über Fahrzeugwahl und Versicherungsschutz – und sie ist ein Beispiel dafür, warum Nachschlagen vor der Fahrt kein Luxus ist."
+      ]
+    },
+    {
+      "heading": "Die Quellen nach ihrer Verlässlichkeit ordnen",
+      "paragraphs": [
+        "Die verlässlichste Quelle für deutsche Reisende sind die Reise- und Sicherheitshinweise des Auswärtigen Amts: Sie werden gepflegt, datiert und auf den aktuellen Stand gebracht. Die zweite Ebene sind die Informationen der vietnamesischen Stellen und der offiziellen Tourismusseite Vietnam Travel, die Regeln aus lokaler Sicht beschreibt. Die dritte Ebene sind Foren und Reiseblogs – nützlich als Ideengeber, ungeeignet als Beleg.",
+        "Die Reihenfolge ist nicht Geschmackssache, sondern Methodik: Offizielle Quellen tragen Verantwortung und werden aktualisiert; Forenbeiträge tragen keine und veralten still. Nehmen Sie aus Foren die Fragen mit, die Reisende wirklich beschäftigen, und holen Sie die Antworten aus den offiziellen Quellen. So entsteht Recherche statt Gerücht."
+      ]
+    },
+    {
+      "heading": "Diese Regeln schlagen Sie konkret nach",
+      "paragraphs": [
+        "Fünf Themen deckt die Nachschlage-Pflicht vor einer Zweiradfahrt ab. Erstens die Fahrerlaubnis: Welche Klasse deckt welches Fahrzeug ab? Zweitens die Promillegrenze: Das Auswärtige Amt nennt für Vietnam null Promille für Zweiradfahrer – eine Zahl, die Sie kennen sollten, bevor der erste Straßenkaffee mit Bier daneben geplant wird. Drittens die Helmtragepflicht, die in Vietnam verpflichtend ist. Viertens die Vorschriften für Mitfahrer und Kinder. Fünftens Besonderheiten wie Handyverbot oder Abstandsregeln.",
+        "Schreiben Sie die Ergebnisse kurz auf – eine Liste mit fünf Punkten passt auf einen Zettel und in jede Jackentasche. Diese Liste ist bei einer Kontrolle oder einer Diskussion mit dem Verleiher Ihre Referenz. Wer aus einer geprüften Liste argumentiert, fährt anders als wer aus einer vagen Erinnerung argumentiert."
+      ]
+    },
+    {
+      "heading": "Verhalten im Verkehr folgt anderen Regeln",
+      "paragraphs": [
+        "Ein wichtiger Unterschied: Geschriebene Verkehrsregeln und gelebter Verkehr klaffen in manchen Ländern auseinander. Das Auswärtige Amt beschreibt für Vietnam einen Verkehr, in dem defensive Fahrweise und Aufmerksamkeit entscheidend sind – etwa dass viele Unfälle nach Einbruch der Dunkelheit geschehen und dass vorbeifahrende Roller Handtaschen rauben. Diese Hinweise sind keine Verkehrsregeln, aber Verhaltensregeln, und sie gehören zur gleichen Recherche.",
+        "Trennen Sie also zwei Listen: die offiziellen Regeln, die eine Kontrolle prüft, und die Sicherheitspraktiken, die Sie gesund durch den Verkehr bringen. Beide Listen zusammen ergeben das Fahrprofil eines vorbereiteten Reisenden – und beide speisen sich aus denselben offiziellen Quellen."
+      ]
+    },
+    {
+      "heading": "Wenn sich Regeln während der Reise ändern",
+      "paragraphs": [
+        "Regeln können sich während einer langen Reise ändern – Verwaltungen arbeiten das ganze Jahr. Prüfen Sie deshalb bei langen Aufenthalten die offiziellen Hinweise zwischendurch erneut, etwa vor einer Etappe in eine andere Region. Ein kurzer Blick auf die aktualisierten Hinweise des Auswärtigen Amts dauert Minuten und hält Ihr Wissen auf dem Stand, den Sie bei einer Kontrolle brauchen.",
+        "Und wenn Sie eine Regel nicht finden oder die Quellen sich widersprechen? Dann gilt dasselbe wie bei der Fahrerlaubnis: Fragen Sie die zuständige Stelle – Botschaft, Konsulat oder die offizielle Tourismusauskunft. Eine Antwort von der zuständigen Stelle beendet jede Unsicherheit. Wer offiziell nachschlägt und offiziell nachfragt, fährt mit dem ruhigsten Bewusstsein, das es auf zwei Rädern gibt."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

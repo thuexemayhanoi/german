@@ -1,0 +1,63 @@
+{
+  "id": "DE-055",
+  "hub": "dokumente-vertrag",
+  "title": "Versicherungsausschlüsse: worauf achten?",
+  "slug": "versicherungsausschluesse-worauf-achten",
+  "status": "IDEA",
+  "priority": 15,
+  "keywordHypothesis": "versicherungsausschlüsse: worauf achten?",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Versicherungsausschlüsse bei der Miete erkennen und einordnen: welche Ereignisse keine Deckung haben, wie Sie Ausschlüsse im Text finden und was Sie daraus folgern.",
+  "excerpt": "Nicht alles, was wie Versicherung aussieht, zahlt auch. Ausschlüsse definieren die Fälle, in denen Sie allein dastehen – und sie stehen meist mitten im Bedingungstext. Dieser Ratgeber zeigt, welche Ausschlüsse bei einer Anmietung häufig sind und wie Sie sie richtig lesen.",
+  "sections": [
+    {
+      "heading": "Ausschlüsse sind das Kleingedruckte mit Wirkung",
+      "paragraphs": [
+        "Eine Versicherung besteht aus zwei Hälften: dem, was abgedeckt ist, und dem, was ausdrücklich nicht abgedeckt ist. Die zweite Hälfte wird gern überlesen, weil sie in dunklen Absätzen am Rand der Bedingungen steht – dabei definiert sie den echten Schutzumfang. Ein Satz wie „nicht versichert sind Schäden durch...“ entscheidet über Beträge, die im Ernstfall an Ihnen hängen bleiben.",
+        "Die Logik dahinter ist einfach: Versicherungen schließen Risiken aus, die sich nicht kalkulieren lassen oder die in der Verantwortung des Fahrers liegen. Deshalb konzentrieren sich Ausschlüsse fast immer auf Verhalten und Umstände, die Sie selbst kontrollieren. Wer das Prinzip kennt, liest Ausschlusslisten nicht als Beleidigung, sondern als Landkarte der Selbstverantwortung."
+      ]
+    },
+    {
+      "heading": "Die vier Kategorien typischer Ausschlüsse",
+      "paragraphs": [
+        "Die erste Kategorie betrifft die Fahrerlaubnis: Wer ein Fahrzeug führt, das die eigene Berechtigung nicht abdeckt, verliert voraussichtlich jeden Schutz. Das Auswärtige Amt stellt klar, dass die Klasse B in Vietnam keine Zweiräder über 50 ccm abdeckt und die Klasse B196 nicht anerkannt wird – ein Ausschluss, der hier ganz konkret zuschlagen kann.",
+        "Die zweite Kategorie betrifft Substanzen und Verhalten: Alkohol und Drogen stehen fast immer am Anfang der Ausschlussliste. Das Auswärtige Amt nennt für Zweiradfahrer in Vietnam eine Null-Promille-Grenze – wer trotzdem fährt, riskiert Bußgeld, Unfall und Deckung zugleich. Die dritte Kategorie betrifft die Nutzung: Fahrten außerhalb vereinbarter Gebiete, Rennen, gewerbliche Nutzung, Geländefahrten. Die vierte betrifft die Verwahrung: Abstellen ohne Sicherung, Schlüssel im Fahrzeug, Überlassung an nicht benannte Fahrer."
+      ]
+    },
+    {
+      "heading": "Wie Sie Ausschlüsse im Text finden",
+      "paragraphs": [
+        "Suchen Sie im Bedingungstext nach festen Signalwörtern: „ausgeschlossen“, „nicht gedeckt“, „vorausgesetzt, dass“, „sofern nicht“. Diese Wendungen leiten die entscheidenden Sätze ein. Lesen Sie die Abschnitte zu diesen Wörtern doppelt – hier entsteht die Differenz zwischen dem, was Sie zu hören bekommen, und dem, was Sie unterschreiben.",
+        "Achten Sie besonders auf Kombinationen: Ein einzelner Ausschluss klingt beherrschbar, mehrere zusammen erzeugen eine Falle. Steht etwa der Nachtfahrtausschluss neben dem Helmklausel-Ausschluss und dazu eine Regel zu Regenfahrten, beschreibt der Vertrag ein Fahrprofil, das von Ihrem Reisplan abweichen kann. Prüfen Sie deshalb nicht nur, ob ein Ausschluss existiert, sondern ob Ihre geplante Fahrt in die ausgeschlossenen Umstände hineinreicht."
+      ]
+    },
+    {
+      "heading": "Ausschlüsse gegen die eigene Route prüfen",
+      "paragraphs": [
+        "Der Test ist immer derselbe: Planen Sie Ihre Route und Ihre Fahrzeiten, und gleichen Sie beides mit der Ausschlussliste ab. Fahren Sie über Pässe, die im Vertrag ausgeschlossen sind? Stehen Nachtfahrten drin, aber Ihr Rückflug geht vor Sonnenaufgang? Ist Gelände ausgeschlossen, aber Ihre Unterkunft liegt am Ende einer Schotterpiste? Jede Übereinstimmung zwischen Plan und Ausschluss ist ein Punkt, den Sie vor der Unterschrift klären.",
+        "Was Sie dabei nicht tun sollten: die Übereinstimmung ignorieren und auf den Ernstfall hoffen. Ausschlüsse sind keine Theorie, sie werden im Schadensfall angewendet – und zwar von der Seite, die den Vertrag geschrieben hat. Wenn Ihre Route mit den Bedingungen kollidiert, verhandeln Sie eine Anpassung, wählen Sie ein anderes Fahrzeug oder einen anderen Anbieter."
+      ]
+    },
+    {
+      "heading": "Fragen, die Sie an den Verleiher stellen",
+      "paragraphs": [
+        "Zwei Fragen entlarven die wichtigsten Ausschlüsse in weniger als fünf Minuten. Erstens: „Unter welchen Umständen zahlt die Versicherung im Diebstahlfall nicht?“ Zweitens: „Was kann passieren, wenn ich das Fahrzeug zu spät oder woanders zurückgebe?“ Beide Fragen betreffen Streitfälle, die erfahrungsgemäß häufig auftreten – und die Antwort zeigt, wie ehrlich die Konditionen kalkuliert sind.",
+        "Lassen Sie wesentliche Antworten schriftlich festhalten, im Vertrag oder als ergänzende Notiz mit Unterschrift. Und nutzen Sie unabhängige Quellen für den Rahmen: Das Auswärtige Amt beschreibt die Verkehrssituation in Vietnam, etwa die Helmtragepflicht und die Risiken der Dunkelheit, und die offizielle Tourismusseite Vietnam Travel nennt Anlaufstellen für Fortbewegung im Land. Wer den Rahmen kennt, liest auch die Ausschlüsse des Vertrags mit kühlerem Kopf."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
