@@ -560,22 +560,22 @@
       "hub": "dokumente-vertrag",
       "title": "Unterschied zwischen Kaution und Haftung",
       "slug": "unterschied-zwischen-kaution-und-haftung",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 11,
       "keywordHypothesis": "unterschied zwischen kaution und haftung",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/unterschied-zwischen-kaution-und-haftung/"
     },
     {
       "id": "DE-052",
       "hub": "dokumente-vertrag",
       "title": "Mietbedingungen bei mehreren Fahrern",
       "slug": "mietbedingungen-bei-mehreren-fahrern",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 12,
       "keywordHypothesis": "mietbedingungen bei mehreren fahrern",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/mietbedingungen-bei-mehreren-fahrern/"
     },
     {
       "id": "DE-053",
