@@ -2672,22 +2672,22 @@
       "hub": "routen-umgebung",
       "title": "Ausflug nach Bat Trang: Route und Erwartungen",
       "slug": "ausflug-nach-bat-trang-route-und-erwartungen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 23,
       "keywordHypothesis": "bat trang ausflug hanoi",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/ausflug-nach-bat-trang-route-und-erwartungen/"
     },
     {
       "id": "DE-244",
       "hub": "routen-umgebung",
       "title": "Seidendorf Van Phuc als kurze Ausfahrt planen",
       "slug": "seidendorf-van-phuc-als-kurze-ausfahrt-planen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 24,
       "keywordHypothesis": "van phuc seidendorf route",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/seidendorf-van-phuc-als-kurze-ausfahrt-planen/"
     },
     {
       "id": "DE-245",
