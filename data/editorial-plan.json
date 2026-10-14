@@ -1198,22 +1198,22 @@
       "hub": "abholung-rueckgabe",
       "title": "Rückgabe bei geändertem Zeitplan",
       "slug": "rueckgabe-bei-geaendertem-zeitplan",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 9,
       "keywordHypothesis": "rückgabe bei geändertem zeitplan",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/rueckgabe-bei-geaendertem-zeitplan/"
     },
     {
       "id": "DE-110",
       "hub": "abholung-rueckgabe",
       "title": "Wie du einen Zustandsbericht anlegst",
       "slug": "wie-du-einen-zustandsbericht-anlegst",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 10,
       "keywordHypothesis": "wie du einen zustandsbericht anlegst",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/wie-du-einen-zustandsbericht-anlegst/"
     },
     {
       "id": "DE-111",
