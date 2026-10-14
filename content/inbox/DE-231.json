@@ -1,0 +1,63 @@
+{
+  "id": "DE-231",
+  "hub": "sicherheit-verkehr",
+  "title": "Verkehrsregeln in Vietnam für Zweiradfahrer verstehen",
+  "slug": "verkehrsregeln-in-vietnam-fuer-zweiradfahrer-verstehen",
+  "status": "IDEA",
+  "priority": 21,
+  "keywordHypothesis": "verkehrsregeln vietnam roller",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Verkehrsregeln in Vietnam prüfst du als Zweiradfahrer am besten über offizielle Quellen. Dieser Ratgeber erklärt Rechtsverkehr, Pflichten und sichere Gewohnheiten im Alltag.",
+  "excerpt": "Der Verkehr in Hanoi folgt dem Rechtsverkehr, doch die Abläufe wirken auf Neulinge ungewohnt. Wer die Regeln kennt und die Praxis beobachtet, fährt deutlich sicherer. Dieser Beitrag ordnet Regeln, Pflichten und Verhaltensmuster ein und zeigt, worauf du vor deiner ersten Fahrt achten solltest.",
+  "sections": [
+    {
+      "heading": "Rechtsverkehr und die Grundlagen",
+      "paragraphs": [
+        "In Vietnam gilt Rechtsverkehr. Wer aus Ländern mit gewohnter Fahrpraxis kommt, unterschätzt dennoch, wie lebendig dieser Rechtsverkehr gelebt wird. Zweiräder, Autos, Busse und Fußgänger teilen sich denselben Raum, oft mit geringen Abständen. Regeln geben den Rahmen vor, doch die Aufmerksamkeit im Moment entscheidet über deine Sicherheit.",
+        "Grundlegende Pflichten wie die Helmpflicht für motorisierte Zweiräder gelten landesweit. Das Auswärtige Amt bestätigt diese Regelung und rät zu vorsichtiger Fahrweise, da die Zahl der Verkehrsunfälle hoch ist. Verlasse dich nicht darauf, dass andere sich vorbildlich verhalten. Fahren in Hanoi heißt, jederzeit bereit zu sein, auszuweichen und zu bremsen."
+      ]
+    },
+    {
+      "heading": "Warum offizielle Quellen zählen",
+      "paragraphs": [
+        "Verkehrsregeln ändern sich, und Hörensagen aus Foren veraltet schnell. Wenn du Fragen zu Zulassung, Fahrerlaubnis oder Pflichten hast, prüfe die Angaben bei offiziellen Stellen. Das Auswärtige Amt informiert auf seiner Vietnamsseite laufend über Regelungen, die für Reisende gelten, und nennt klare Einschränkungen, etwa zu Fahrerlaubnissen für stärkere Zweiräder.",
+        "Auch die offizielle Tourismusseite Vietnam Travel erklärt, wie der Verkehr in Vietnam funktioniert, und empfiehlt, Transportwege im Voraus zu planen. Wer beide Quellen gelesen hat, kennt die wichtigsten Rahmenbedingungen für die eigene Fahrt. Für Details am Ort bleiben die lokalen Behörden und dein Vermieter die erste Anlaufstelle."
+      ]
+    },
+    {
+      "heading": "Verhalten im Fließverkehr",
+      "paragraphs": [
+        "Im dichten Verkehr Hanois zählt flüssiges Mitfahren mit Ruhe und Voraussicht. Stehenbleibende Fahrzeuge, plötzliche Spurwechsel und einfahrende Roller gehören zum Alltag. Halte ausreichend Abstand, fahre mit kontrollierter Geschwindigkeit und beobachte die Fahrzeuge vor dir, statt dich allein auf Schilder zu verlassen. Defensives Fahren vermeidet die meisten kritischen Situationen von vornherein.",
+        "Blinker werden gesetzt, doch verlässlich gedeutet wird eher über Blick, Position und Geschwindigkeit. Rechne damit, dass andere überholen, abbiegen oder anhalten, ohne es lange anzukündigen. Geschwindigkeit drosseln, den Blick schweifen lassen und beide Bremsen weich bereithalten: Diese drei Gewohnheiten ersetzen in der Praxis viele theoretische Regeln."
+      ]
+    },
+    {
+      "heading": "Tempolimits und Vorschriften",
+      "paragraphs": [
+        "Die Tempolimits liegen in Vietnam deutlich niedriger als in vielen europäischen Ländern, und die Beschilderung folgt teils anderen Mustern. Prüfe vor der ersten Fahrt, welche Limits innerorts und außerorts gelten, etwa über offizielle Informationsangebote. Wer die Schilder kennt und bewusst mit Abstand fährt, hält auch bei dichtem Verkehr eine realistische Geschwindigkeit.",
+        "Alkohol am Steuer ist für Zweiradfahrer strikt untersagt: Es gilt eine Null-Promille-Grenze, wie das Auswärtige Amt klar benennt. Schon ein einzelnes Getränk kann die Fahrfähigkeit mindern und die Strafverfolgung riskieren. Plane dein Programm so, dass Fahren und Feiern zeitlich getrennt bleiben."
+      ]
+    },
+    {
+      "heading": "Vorbereitung vor der ersten Fahrt",
+      "paragraphs": [
+        "Fahre deine ersten Kilometer auf ruhigen Straßen, bevor du dich in die Hauptverkehrszeiten stürzt. Übe Anfahren, Bremsen und enge Wendemanöver, bis die Bedienelemente vertraut sind. Ein kurzer Funktionstest von Licht, Hupe und Bremsen gehört ebenso dazu wie die Einstellung der Spiegel auf deine Körpergröße.",
+        "Wer die Verkehrsregeln versteht, fahrpraktisch aber noch unsicher ist, fährt am Anfang langsamer und defensiver als der Fluss um ihn herum. Mit jeder Fahrt wächst das Gespür für Abstände und typische Abläufe. So wird aus einer Regelkenntnis allmählich eine sichere Fahrpraxis im vietnamesischen Verkehr."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "title": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
