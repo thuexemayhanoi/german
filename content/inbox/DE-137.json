@@ -1,0 +1,63 @@
+{
+  "id": "DE-137",
+  "hub": "probleme-hilfe",
+  "title": "Pannenhilfe und Mietvertrag abstimmen",
+  "slug": "pannenhilfe-und-mietvertrag-abstimmen",
+  "status": "IDEA",
+  "priority": 17,
+  "keywordHypothesis": "pannenhilfe und mietvertrag abstimmen",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Pannenhilfe und Mietvertrag abstimmen: Hotline, Bergung, Kosten und Ersatzfahrzeug vor der Abfahrt klären – damit die Panne nur ein Anruf bleibt.",
+  "excerpt": "Eine Panne ist der schlechteste Moment für Vertragsfragen. Wer Hotline, Bergung und Kosten bei der Übergabe klärt, hat im Ernstfall nur noch einen Anruf zu tätigen.",
+  "sections": [
+    {
+      "heading": "Warum die Absprache vor der Abfahrt gehört",
+      "paragraphs": [
+        "Eine Panne ist ein schlechter Moment, um Vertragsfragen zu klären: Am Straßenrand, bei Hitze oder Regen, mit defektem Fahrzeug und unbekannter Umgebung zählt nur die Sofortmaßnahme. Ob dir dabei Kosten entstehen, wer das Fahrzeug bergen lässt und ob du ein Ersatzfahrzeug bekommst, entscheidet sich aber nicht am Straßenrand – es steht im Vertrag oder in der Absprache, die du bei der Anmietung getroffen hast.",
+        "Deshalb gehört das Thema Pannenhilfe in die Übergabe, nicht in die Krise: Zwei Fragen bei der Anmietung – „Was mache ich bei einer Panne, und was kostet mich das?“ – verwandeln den Ernstfall in einen Ablauf. Die Minuten bei der Übergabe sind die günstigste Absicherung, die es gibt: Sie kosten nichts und regeln den teuersten Fall vorab."
+      ]
+    },
+    {
+      "heading": "Die vier Fragen an den Verleiher",
+      "paragraphs": [
+        "Frage eins: Gibt es eine Hotline oder eine Nummer für den Ernstfall, und zu welchen Zeiten ist sie erreichbar? Notiere die Nummer im Gerät und zusätzlich auf Papier. Frage zwei: Wer organisiert die Bergung – bringst du das Fahrzeug selbst in Sicherheit, oder schickt der Verleiher jemanden? Frage drei: Wer trägt welche Kosten – Abschleppen, Reparatur vor Ort, Ersatzfahrzeug? Frage vier: Was passiert mit der Mietzeit – verlängert sich der Vertrag, wenn das Fahrzeug steht?",
+        "Keine dieser Fragen ist ungewöhnlich; ein Verleiher, der sie sauber beantwortet, arbeitet professionell. Wer bei den Fragen ausweicht, zeigt dir vor der Abfahrt, wie die Abwicklung im Problemfall laufen wird – und das ist eine Information, die du bei der Anbieterwahl ernst nehmen solltest."
+      ]
+    },
+    {
+      "heading": "Absprachen schriftlich festhalten",
+      "paragraphs": [
+        "Mündliche Zusagen bei der Übergabe sind eine Erinnerung von zwei Personen – schriftliche Absprachen sind ein Beleg. Nach dem Gespräch genügt eine kurze Nachricht an den Verleiher: „Wie besprochen: Bei einer Panne rufe ich die Hotline an, die Bergung organisiert ihr, ein Ersatzfahrzeug stellt ihr bereit, die Mietzeit ruht.“ Die Bestätigung darauf gehört in deine Dokumentation.",
+        "Diese Nachricht hat noch einen zweiten Effekt: Sie zeigt dem Verleiher, dass du die Abwicklung ernst nimmst – und sie erinnert ihn später an das, was er selbst zugesagt hat. Verträge und Absprachen sind kein Misstrauen, sondern die Grundlage, auf der beide Seiten im Problemfall schnell handeln können."
+      ]
+    },
+    {
+      "heading": "Der Ablauf im Ernstfall",
+      "paragraphs": [
+        "Wenn die Panne dann kommt, ist die Reihenfolge kurz: Sichere zuerst den Ort – Rand der Fahrbahn, Warnblinker, Abstand –, dann die Nachricht an die Hotline mit Standort, Zustand und deinen Daten. Bist du dir über die Kosten einer Maßnahme unsicher, frage vorher: Der Bergungsauftrag, den du selbst erteilst, kann am Ende dein Auftrag sein – die Absprache von der Übergabe entscheidet.",
+        "Halte jede Entscheidung unterwegs fest: Foto vom Fahrzeug am Standort, Nachricht mit der Absprache zur Bergung, Beleg der Reparatur. Nichts davon ersetzt die Sofortmaßnahme, aber alles zusammen ergibt die Unterlagen, die du am Rückgabetag vorlegen kannst, wenn die Frage auftaucht, wer was bezahlt hat."
+      ]
+    },
+    {
+      "heading": "Sofortmaßnahme und Vertragslage unterscheiden",
+      "paragraphs": [
+        "Dieser Ablauf ergänzt die erste Hilfe bei einer Panne: die Sofortmaßnahmen am Fahrzeug, das Sichern des Orts, die Nachricht an den Verleiher – das eine ist der Notfallkoffer, das andere die Regelung, die ihn bezahlt. Wer beides auseinanderhält, verliert im Problemfall weder Zeit noch Geld: erst handeln, dann zuordnen.",
+        "Das Auswärtige Amt empfiehlt, Verträge sorgfältig zu prüfen und bei Verkehr in Vietnam umsichtig zu planen; die offizielle Tourismusseite Vietnam Travel bietet Orientierung zu Transport und Fortbewegung. Wer die Pannenhilfe im Vertrag geklärt hat, fährt mit genau dem Puffer, den diese Stellen empfehlen: nicht weniger Risiko, sondern mehr Antwort, wenn Risiko eintritt."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
