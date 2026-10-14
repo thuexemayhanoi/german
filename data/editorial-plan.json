@@ -626,22 +626,22 @@
       "hub": "dokumente-vertrag",
       "title": "Mietvertrag bei längerer Reise überprüfen",
       "slug": "mietvertrag-bei-laengerer-reise-ueberpruefen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 17,
       "keywordHypothesis": "mietvertrag bei längerer reise überprüfen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/mietvertrag-bei-laengerer-reise-ueberpruefen/"
     },
     {
       "id": "DE-058",
       "hub": "dokumente-vertrag",
       "title": "Wie du Fragen an den Verleih formulierst",
       "slug": "wie-du-fragen-an-den-verleih-formulierst",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 18,
       "keywordHypothesis": "wie du fragen an den verleih formulierst",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/wie-du-fragen-an-den-verleih-formulierst/"
     },
     {
       "id": "DE-059",
