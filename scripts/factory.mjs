@@ -103,7 +103,7 @@ export function publish(){
  save("reports/factory-last-pair.json",report);
  return report;
 }
-const status=()=>{const plan=read("data/editorial-plan.json"),counts={};for(const p of plan.topics)counts[p.status]=(counts[p.status]||0)+1;return{planned:200,published:counts.PUBLISHED||0,counts,queued:queue().map(x=>x.slice(0,-5))}};
+const status=()=>{const plan=read("data/editorial-plan.json"),counts={};for(const p of plan.topics)counts[p.status]=(counts[p.status]||0)+1;return{planned:300,published:counts.PUBLISHED||0,counts,queued:queue().map(x=>x.slice(0,-5))}};
 function main(){
  const cmd=process.argv[2]||"status";
  if(cmd==="status")console.log(JSON.stringify(status(),null,2));

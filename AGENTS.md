@@ -1,9 +1,10 @@
 # Repo contract – thuexemayhanoi/german
+- Reusable execution skill: `.agents/skills/german-seo-factory/SKILL.md` — read and follow it for writing, source-checking, QA and publishing German articles.
 - **ONLY** edit `thuexemayhanoi/german`. Never modify /global, /blog, WordPress or another website.
 - CNAME: `de.rentbikehanoi.com`. Preserve exact bytes. No DNS or GitHub Pages source migration.
 - Production `main` contains committed generated static HTML. Use `node scripts/build.mjs` followed by `node scripts/build.mjs --check`, tests and QA.
 - Language is native **German (de-DE)**; no multilingual directories or machine-translation clones.
-- `data/editorial-plan.json` has **exactly 200** unique topic slots (10 hubs × 20). Never claim IDEAs are published URLs.
+- `data/editorial-plan.json` has **exactly 300** unique topic slots (10 hubs × 30). Never claim IDEAs are published URLs.
 - `content/posts` contains *approved* static articles. An authorized even batch of 2–10 consecutive inbox drafts may be submitted under the owner's standing continuous-writer instruction ONLY after the external AI checks real citations and claims, and every draft passes QA >=75 with zero critical errors. The factory still publishes independently validated two-article pairs. The manual editorial CLI still requires its explicit per-ID approval.
 - Absolutely **no paid AI writer APIs, no API keys, no local/open-source LLM runtime, no scheduled automatic AI writing**. The content factory is a CLI and editorial QA workflow only.
 - `scripts/build.mjs` owns all generated HTML; do not hand-edit pages in output. Source templates and JSON are authoritative.

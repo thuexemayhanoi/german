@@ -20,7 +20,7 @@ function validate(d){
  const bad=(expr,msg)=>{if(expr)errors.push(msg)};
  if(!d||typeof d!=="object"||Array.isArray(d))throw Error("Entwurf muss JSON-Objekt sein");
  const topic=topics.find(x=>x.id===d.id);
- bad(!topic,"id must match DE-001 ... DE-200");if(topic){
+ bad(!topic,"id must match DE-001 ... DE-300");if(topic){
   bad(topic.status==="PUBLISHED","topic already PUBLISHED");bad(topic.hub!==d.hub,"hub differs from plan");
   bad(topic.slug!==d.slug,"slug differs from plan");bad(topic.title!==d.title,"title differs from plan (edit Matrix first if necessary)");
  }

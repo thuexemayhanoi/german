@@ -1,6 +1,6 @@
 # Continuous Writer — German pair factory (QA 75; NO AI API)
 
-**Only repository:** thuexemayhanoi/german. **Production:** main, de.rentbikehanoi.com. **Target:** 200 Matrix topics DE-001..DE-200, separately from three original START guides.
+**Only repository:** thuexemayhanoi/german. **Production:** main, de.rentbikehanoi.com. **Target:** 300 Matrix topics DE-001..DE-300, separately from three original START guides.
 
 ## Actual execution architecture
 - **External AI chat agent** (ChatGPT Work / Claude / Mistral / Gemini) writes original native-German article JSON, using its own active coding/GitHub session. It must continue from the repository's current state, not its conversation history.
@@ -18,11 +18,11 @@ The existing GitHub publisher can accept 2, 4, 6, 8 or 10 drafts in one inbox up
 4. STAGE only the 2–10 JSON drafts in `content/inbox/DE-xxx.json`. Run `node scripts/factory.mjs score content/inbox/DE-xxx.json` for EACH and `node scripts/factory.mjs check-batch` for ALL. Every article must score >=75 with zero errors. Structural QA alone is not proof of factual truth.
 5. PUSH the verified inbox batch in **one fast-forward commit** to main under the existing standing owner authorization (or use a reviewed PR if required). Do not push to content/posts, change Matrix statuses, overwrite generated HTML or force push. If main changes, refetch and revalidate.
 6. VERIFY the single `German Continuous Pair Factory` workflow succeeds: it preflights all drafts before publishing and commits each **two-article pair** separately, with full site QA and fresh-main reconciliation. Wait for the latest Pages run and actual public URLs, confirm inbox empty and Matrix up to date.
-7. REFETCH current main and start the next even handoff while the external coding session is actually connected. Stop at 200 published articles, manual owner stop, real session/quota disconnect or a material unrepairable blocker; record the state. No paid AI API, local LLM or scheduled prose writer is introduced.
+7. REFETCH current main and start the next even handoff while the external coding session is actually connected. Stop at 300 published articles, manual owner stop, real session/quota disconnect or a material unrepairable blocker; record the state. No paid AI API, local LLM or scheduled prose writer is introduced.
 
 On failure, fix evidence/quality/order and rerun QA. Do not weaken QA, fabricate citations, reset the Matrix or claim unpublished URLs exist.
 ## Stop conditions
-Only stop writing when all 200 Matrix rows are PUBLISHED, the owner manually says stop, tool/runtime/connectivity/quota truly ends, or there is a material blocking failure that cannot safely be repaired. When a session ends, save state in GitHub (already published articles, pending drafts, Matrix) and resume from fresh main in a new external AI session. No claim of perpetual AI execution without a live session.
+Only stop writing when all 300 Matrix rows are PUBLISHED, the owner manually says stop, tool/runtime/connectivity/quota truly ends, or there is a material blocking failure that cannot safely be repaired. When a session ends, save state in GitHub (already published articles, pending drafts, Matrix) and resume from fresh main in a new external AI session. No claim of perpetual AI execution without a live session.
 
 ## Factory CLI
 - node scripts/factory.mjs status — counts and pending queue.
@@ -51,4 +51,4 @@ PASS requires score >=75 and zero critical. This scores measurable structure, **
 
 ## One-time instruction for a connected external coding AI
 
-Work ONLY in thuexemayhanoi/german. Read fresh main AGENTS.md and docs/CONTINUOUS_WRITER.md. The owner authorizes repeat external AI writing while this coding session remains active. Recover any pending inbox/failed run first. Select 2, 4, 6, 8 or 10 consecutive uncompleted DE IDs (prefer 4–6), write distinctive native-German articles with real verified sources, score each >=75 and pass `node scripts/factory.mjs check-batch`. Push only the complete researched inbox JSON batch as one safe fast-forward writer commit. Wait for the deterministic factory to publish each two-article checkpoint and GitHub Pages to deploy; verify current main, published URLs and inbox empty; fetch fresh main and repeat. Continue until 200/200, manual stop, genuine session disconnect or serious unrecoverable error. Fix errors instead of bypassing QA. No paid AI APIs, no background writing by GitHub Actions, no fake citations.
+Work ONLY in thuexemayhanoi/german. Read fresh main AGENTS.md and docs/CONTINUOUS_WRITER.md. The owner authorizes repeat external AI writing while this coding session remains active. Recover any pending inbox/failed run first. Select 2, 4, 6, 8 or 10 consecutive uncompleted DE IDs (prefer 4–6), write distinctive native-German articles with real verified sources, score each >=75 and pass `node scripts/factory.mjs check-batch`. Push only the complete researched inbox JSON batch as one safe fast-forward writer commit. Wait for the deterministic factory to publish each two-article checkpoint and GitHub Pages to deploy; verify current main, published URLs and inbox empty; fetch fresh main and repeat. Continue until 300/300, manual stop, genuine session disconnect or serious unrecoverable error. Fix errors instead of bypassing QA. No paid AI APIs, no background writing by GitHub Actions, no fake citations.
