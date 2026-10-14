@@ -2034,22 +2034,22 @@
       "hub": "nachhaltig-reisen",
       "title": "Lärm und unnötige Fahrten reduzieren",
       "slug": "laerm-und-unnoetige-fahrten-reduzieren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 5,
       "keywordHypothesis": "lärm und unnötige fahrten reduzieren",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/laerm-und-unnoetige-fahrten-reduzieren/"
     },
     {
       "id": "DE-186",
       "hub": "nachhaltig-reisen",
       "title": "Sensible Orte respektvoll besuchen",
       "slug": "sensible-orte-respektvoll-besuchen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 6,
       "keywordHypothesis": "sensible orte respektvoll besuchen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/sensible-orte-respektvoll-besuchen/"
     },
     {
       "id": "DE-187",
