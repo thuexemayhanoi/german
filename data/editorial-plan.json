@@ -1462,22 +1462,22 @@
       "hub": "probleme-hilfe",
       "title": "Was tun bei Konflikten über den Zustand?",
       "slug": "was-tun-bei-konflikten-ueber-den-zustand",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 13,
       "keywordHypothesis": "was tun bei konflikten über den zustand?",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/was-tun-bei-konflikten-ueber-den-zustand/"
     },
     {
       "id": "DE-134",
       "hub": "probleme-hilfe",
       "title": "Ruhig bleiben bei unerwarteten Kostenfragen",
       "slug": "ruhig-bleiben-bei-unerwarteten-kostenfragen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 14,
       "keywordHypothesis": "ruhig bleiben bei unerwarteten kostenfragen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/ruhig-bleiben-bei-unerwarteten-kostenfragen/"
     },
     {
       "id": "DE-135",
