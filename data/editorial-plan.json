@@ -3222,22 +3222,22 @@
       "hub": "nachhaltig-reisen",
       "title": "Tempel und Pagoden: respektvolle Anfahrt planen",
       "slug": "tempel-und-pagoden-respektvolle-anfahrt-planen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 23,
       "keywordHypothesis": "tempel pagode anfahrt",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/tempel-und-pagoden-respektvolle-anfahrt-planen/"
     },
     {
       "id": "DE-294",
       "hub": "nachhaltig-reisen",
       "title": "Lokale Werkstätten und Anbieter bewusst unterstützen",
       "slug": "lokale-werkstaetten-und-anbieter-bewusst-unterstuetzen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 24,
       "keywordHypothesis": "lokale werkstatt hanoi",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/lokale-werkstaetten-und-anbieter-bewusst-unterstuetzen/"
     },
     {
       "id": "DE-295",
