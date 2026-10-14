@@ -1,0 +1,63 @@
+{
+  "id": "DE-028",
+  "hub": "mietpreise-kaution",
+  "title": "Wie lässt sich ein Mietangebot dokumentieren?",
+  "slug": "wie-laesst-sich-ein-mietangebot-dokumentieren",
+  "status": "IDEA",
+  "priority": 8,
+  "keywordHypothesis": "wie lässt sich ein mietangebot dokumentieren?",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Ein Mietangebot ohne Papierfestigung wird schnell zur Erinnerungsfrage. So dokumentieren Sie Preis, Leistungen und Absprachen in Hanoi sauber.",
+  "excerpt": "Mündliche Absprachen sind bei der Fahrzeugmiete der Normalfall – und im Streitfall wertlos. Dieser Ratgeber zeigt, wie Sie Mietpreis, Leistungen und Zusagen mit einfachen Mitteln dokumentieren: Nachrichten, Fotos und eine kurze Zusammenfassung genügen völlig.",
+  "sections": [
+    {
+      "heading": "Warum Dokumentation mehr als ein Papierkram ist",
+      "paragraphs": [
+        "Ein Mietangebot besteht aus vielen Einzelheiten: Tagessatz, Kaution, Zubehör, Rückgabezeit und die kleinen Zusagen am Rand. Ohne Festhaltung entsteht daraus eine Erinnerung, die bei beiden Seiten unterschiedlich aussieht. Der Streit kommt dann nicht durch Unehrlichkeit, sondern durch Erinnerungslücken.",
+        "Dokumentation ersetzt dabei keinen Vertrag, sondern schafft eine gemeinsame Grundlage, auf die sich beide Seiten berufen können. Das schont die Beziehung zum Verleiher und entlastet Sie am letzten Tag, wenn Zeitdruck und Rückreise das Denken eng machen. Drei Werkzeuge genügen dafür vollständig."
+      ]
+    },
+    {
+      "heading": "Nachrichten als leichtestes Werkzeug",
+      "paragraphs": [
+        "Das einfachste Mittel ist eine kurze Nachricht nach dem Gespräch, in der Sie die Eckpunkte zusammenfassen: Preis, Zeitraum, Kaution, Zubehör und Rückgabetag. Bitten Sie um ein kurzes Bestätigen oder eine Antwort mit Korrekturen. Ab diesem Moment existiert die Absprache schriftlich.",
+        "Formulieren Sie die Nachricht in einfachen, kurzen Sätzen und vermeiden Sie Fachbegriffe. Es geht nicht um Rechtssprache, sondern um gemeinsames Verständnis. Der Verleiher merkt dabei nebenbei, dass Absprachen bei Ihnen sichtbar bleiben, und behandelt Zusagen von selbst sorgfältiger. Die offizielle Tourismusseite Vietnam Travel empfiehlt generell eine gute Vorbereitung für unterwegs, und diese Nachricht ist ein Teil davon."
+      ]
+    },
+    {
+      "heading": "Fotos der Übergabe und des Angebots",
+      "paragraphs": [
+        "Fotografieren Sie bei der Übergabe das Fahrzeug aus allen Richtungen, den Kilometerstand, die Kraftstoffanzeige, den Helm und sichtbare Vorschäden in Nahaufnahme. Diese Bilder dienen bei der Rückgabe als Zustandsbeleg und verhindern die Diskussion über neue Kratzer.",
+        "Fotografieren Sie zusätzlich, falls vorhanden, den Aushang mit den Preisen oder die Handnotiz des Verleihers. Auch ein Bild des Facebookprofils oder der Visitenkarte mit Kontaktdaten hilft im Alltag, wenn Sie die Nummer des Ansprechpartners brauchen. Jedes Foto dauert Sekunden und wirkt monatelang. Speichern Sie die Bilder zusätzlich in einer Cloud oder verschicken Sie sie an Ihre eigene Adresse, damit ein Verlust des Handys sie nicht mitnimmt."
+      ]
+    },
+    {
+      "heading": "Die kurze Zusammenfassung mit fünf Punkten",
+      "paragraphs": [
+        "Schreiben Sie für sich selbst eine Zusammenfassung mit den wesentlichen fünf Punkten: Wer vermietet was, zu welchem Satz, bis wann, mit welcher Kaution und mit welchen Zusagen. Diese Notiz liegt auf Ihrem Handy und beantwortet im Alltag jede Frage ohne Nachdenken.",
+        "Halten Sie auch die Rückgabe in derselben Weise fest: Zeit, Ort, Zustand, Bestätigung durch den Verleiher. Damit ist der Kreislauf der Miete lückenlos dokumentiert. Diese Gewohnheit funktioniert übrigens genauso bei Hotels, Touren und jeder weiteren Anmietung auf Ihrer Reise. Falls später eine Rückfrage kommt, haben Sie alles beisammen und antworten aus der Ruhe heraus."
+      ]
+    },
+    {
+      "heading": "Der Ton macht die Dokumentation",
+      "paragraphs": [
+        "Wichtig ist die Haltung: Dokumentation ist kein Ausdruck von Misstrauen, sondern von Professionalität. Sie dokumentieren für sich und den Verleiher, nicht gegen ihn. Erläutern Sie dem Verleiher kurz, dass Sie Ihre Reisen grundsätzlich so begleiten. Die meisten Anbieter reagieren mit Respekt, weil geordnete Mieter weniger Arbeit bedeuten als ungeordnete.",
+        "Bleiben Sie dabei freundlich und ohne Belehrung. Eine gute Dokumentation endet nie in einem Konflikt, sondern verhindert ihn. Genau das macht sie zum wertvollsten Werkzeug rund um Ihre Fahrzeugmiete in Hanoi."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

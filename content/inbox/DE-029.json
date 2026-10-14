@@ -1,0 +1,63 @@
+{
+  "id": "DE-029",
+  "hub": "mietpreise-kaution",
+  "title": "Verlängerung des Mietzeitraums planen",
+  "slug": "verlaengerung-des-mietzeitraums-planen",
+  "status": "IDEA",
+  "priority": 9,
+  "keywordHypothesis": "verlängerung des mietzeitraums planen",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Die Verlängerung der Roller-Miete in Hanoi richtig planen: Gültigkeit des Preises, Kommunikation, Übergabepunkte und typische Fehler im Überblick.",
+  "excerpt": "Sie bleiben länger in Hanoi als geplant und möchten den Mietroller behalten? Dann entscheidet die Verlängerung über Planungssicherheit und Preis. Dieser Ratgeber zeigt, wie Sie die Verlängerung vorbereiten, rechtzeitig klären und ohne Diskussionsdruck am letzten Tag umsetzen.",
+  "sections": [
+    {
+      "heading": "Warum Verlängerungen im Voraus geregelt werden sollten",
+      "paragraphs": [
+        "Eine Mietverlängerung wirkt harmlos, solange sie theoretisch ist. In der Praxis landet sie oft am letzten Tag zwischen Rückgabezeit und Kofferpacken, also genau dann, wenn niemand Zeit hat. Unter diesem Druck entstehen schnelle Zusagen auf unklare Konditionen und damit die teuersten Absprachen der gesamten Miete. Unter diesem Druck entstehen Absprachen, die beide Seiten später bereuen.",
+        "Wer die Verlängerung dagegen früh anspricht, verhandelt aus der Ruhe. Der Verleiher kann das Fahrzeug einplanen, und Sie kennen die Konditionen, bevor Ihre Pläne festgezurrt sind. Das Thema gehört damit nicht ans Ende der Miete, sondern in ihre Mitte."
+      ]
+    },
+    {
+      "heading": "Den passenden Zeitpunkt für das Gespräch wählen",
+      "paragraphs": [
+        "Sprechen Sie das Thema an, sobald Sie eine realistische Chance sehen, länger zu bleiben. Nicht jeder Tag einer Verlängerung muss feststehen; entscheidend ist das Signal an den Verleiher, damit er nicht anders über das Fahrzeug verfügt. Zwei bis drei Tage Vorlauf sind im Stadtalltag meist fair.",
+        "Wählen Sie einen ruhigen Moment für das Gespräch und nicht die Übergabe eines anderen Kunden oder den Feierabendstress. Eine kurze, freundliche Nachricht reicht im ersten Schritt völlig. Danach genügt die Bestätigung der Konditionen in gleicher Form. Ein ruhiger Moment verbessert die Antwortqualität mehr als jede Verhandlungstechnik."
+      ]
+    },
+    {
+      "heading": "Gültigkeit des Preises und Konditionen klären",
+      "paragraphs": [
+        "Die zentrale Frage lautet: Bleibt der vereinbarte Tagessatz auch für die Verlängerung bestehen? Klären Sie zudem, ob die Kaution unverändert bleibt und ob andere Vereinbarungen wie die Rückgabezeit weiter gelten. Diese drei Punkte genügen für eine saubere Verlängerung.",
+        "Halten Sie das Ergebnis in einer kurzen Nachricht fest, analog zur ursprünglichen Absprache. So entsteht kein zweites Mietverhältnis mit unklaren Regeln, sondern eine Fortschreibung der bestehenden. So bleibt die Miete in jeder Phase dasselbe Geschäft mit denselben Regeln, nur mit anderem Enddatum. Dokumentation wirkt hier genauso wie bei der ersten Anmietung."
+      ]
+    },
+    {
+      "heading": "Was bei Ausfällen oder Planänderungen passiert",
+      "paragraphs": [
+        "Denken Sie eine Richtung weiter: Was geschieht, wenn Sie die geplante Verlängerung doch nicht brauchen? Klären Sie, bis wann Sie ohne Kosten zurückrudern können. Eine kleine Frist dafür ist für beide Seiten fair und nimmt der Verabredung die Schwere.",
+        "Klären Sie auch die Gegenrichtung: Was geschieht, wenn das Fahrzeug in der verlängerten Phase ausfällt oder anderweitig gebraucht wird? Ein kurzer Satz dazu, wie Ersatzfahrzeug oder anteilige Abrechnung geregelt sind, gehört in die Verlängerungsabsprache. Diese kleine Absicherung kostet kein Geld und beruhigt beide Seiten für den gesamten Zeitraum. Diese Sorgfalt wirkt auf gute Verleiher vertrauensbildend."
+      ]
+    },
+    {
+      "heading": "Verlängerung und Reisewege kombinieren",
+      "paragraphs": [
+        "Prüfen Sie vor der Verlängerung, ob das Zweirad überhaupt die richtige Basis für die zusätzlichen Tage ist. Für eine Zwischenetappe in einer weiter entfernten Region beschreibt die offizielle Tourismusseite Vietnam Travel Alternativen wie Züge und Überlandverbindungen. Manchmal ist die Rückgabe vor der Weiterreise die bessere Verlängerung. Diese Option offen zu halten ist keine Unentschiedenheit, sondern Planungsqualität.",
+        "Kombinieren Sie beides, wenn es passt: Rückgabe vor der Fernetappe, neue Anmietung nach der Rückkehr. Viele Verleiher in Hanoi kennen dieses Muster und unterstützen es. Eine ehrlich geplante Verlängerung ist immer besser als eine nur aus Bequemlichkeit verlängerte Miete."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

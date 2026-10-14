@@ -1,0 +1,63 @@
+{
+  "id": "DE-025",
+  "hub": "mietpreise-kaution",
+  "title": "Kraftstoffregelung bei der Miete prüfen",
+  "slug": "kraftstoffregelung-bei-der-miete-pruefen",
+  "status": "IDEA",
+  "priority": 5,
+  "keywordHypothesis": "kraftstoffregelung bei der miete prüfen",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Kraftstoffregelung bei der Roller-Miete prüfen: Tankgröße, Übergabestand, Nächster Tanken und Absprachen mit dem Verleiher im Detail.",
+  "excerpt": "Die Kraftstoffregelung klingt nach einer Kleinigkeit, entscheidet aber über reale Mehrkosten am Ende der Miete. Dieser Ratgeber erklärt, worauf Sie bei Übergabe, Fahrbetrieb und Rückgabe achten und welche Absprachen Sie mit dem Verleiher treffen sollten.",
+  "sections": [
+    {
+      "heading": "Warum die Kraftstoffregelung den Mietpreis bewegt",
+      "paragraphs": [
+        "Der Kraftstoff ist bei fast jeder Fahrzeugmiete die offene Rechnung am Schluss: Wird der Roller voll übergeben und voll zurückgegeben, leer und leer, oder irgendwo dazwischen? Jede Variante hat Vorzüge, aber nur eine klare Absprache schützt vor einer Nachforderung.",
+        "Das Thema verdient deshalb mehr Aufmerksamkeit, als seine zwei Zeilen im Gespräch andeuten. Wenn am Ende der Miete ein Streit über ein paar Liter entsteht, liegt das nie am Kraftstoff selbst, sondern an der fehlenden Regelung davor. Klären Sie die Grundfrage deshalb bewusst und in Ruhe. Zwei Minuten Vorarbeit ersparen hier eine Diskussion, die später keiner mehr braucht."
+      ]
+    },
+    {
+      "heading": "Tankgröße und Reichweite realistisch einschätzen",
+      "paragraphs": [
+        "Mietroller in Hanoi haben kleine Tanks, die im Alltagstakt nachgetankt werden müssen. Das ist kein Nachteil, sondern eine Frage der Planung: Wer weiß, wie weit das Fahrzeug etwa kommt, tankt entspannt in regelmäßigen Abständen statt bis an den Rand der Leerfahrt.",
+        "Planen Sie bei Ausflügen außerhalb der Stadt die Strecke grob und prüfen Sie unterwegs, wo die nächste Tankstelle liegt. In dichter besiedelten Regionen ist das Netz dicht, auf abgelegeneren Strecken sollten Sie nicht in den Reservebereich fahren. Wer frühzeitig tankt, vermeidet das Risiko, mit leerem Tank am Straßenrand zu stehen."
+      ]
+    },
+    {
+      "heading": "Den Übergabestand gemeinsam festhalten",
+      "paragraphs": [
+        "Bei der Übergabe zählt der Moment: Fotografieren Sie die Kraftstoffanzeige und halten Sie im besten Fall schriftlich fest, welcher Stand gilt. Diese dreißig Sekunden vermeiden später die typische Diskussion, bei der beide Seiten einen anderen Stand im Kopf haben.",
+        "Fragen Sie den Verleiher ausdrücklich, wie die Regelung bei der Rückgabe aussieht: gleicher Stand wie bei der Übernahme oder ein voller Tank am Ende. Lassen Sie sich die Antwort in einer kurzen Nachricht geben oder notieren Sie sie gemeinsam auf der Quittung. Schriftlichkeit schlägt Erinnerung, wenn am letzten Tag Zeitdruck herrscht."
+      ]
+    },
+    {
+      "heading": "Der Kraftstoffzähler am Fahrzeug und seine Tücken",
+      "paragraphs": [
+        "Die Kraftstoffanzeige an Mietrollern funktioniert in vielen Fällen nur grob: Manche Anzeigen springen in Sprüngen, andere neigen zum Frühalarm oder zum späten Alarm. Verlassen Sie sich deshalb nicht allein auf die Anzeige, sondern koppeln Sie sie an Ihren Kilometerstand im Kopf.",
+        "Ein bewährter Trick ist ein fester Nachtankrhythmus, etwa nach einer bestimmten Anzahl gefahrener Tage oder vor jeder längeren Fahrt. So entkoppeln Sie Ihren Alltag vom Zickzack der Anzeige und wissen immer ungefähr, was im Tank ist. Das gibt Ruhe und spart im Zweifelsfall das Schieben des Fahrzeugs."
+      ]
+    },
+    {
+      "heading": "Tanken, Quittungen und die Rückgabe",
+      "paragraphs": [
+        "Behalten Sie die Quittungen Ihrer Tankstopps bis zur Rückgabe. Sie dokumentieren nicht nur Ihre Ausgaben, sondern helfen auch, den Rückgabestand nachvollziehbar zu machen, falls die Anzeige der Realität widerspricht. Bei kleineren Stationen außerorts hilft außerdem eine kleine Reserve an Bargeld, denn Karten werden nicht überall akzeptiert.",
+        "Zur Rückgabe selbst gilt derselbe Grundsatz wie bei der Übergabe: gemeinsam anschauen, im Zweifel fotografieren, kurz bestätigen. Wer die Kraftstoffregelung so durchgehend behandelt, überträgt das Thema dorthin, wo es hingehört: in den normalen Fahralltag statt in die Abschlussrechnung."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

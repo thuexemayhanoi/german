@@ -1,0 +1,63 @@
+{
+  "id": "DE-030",
+  "hub": "mietpreise-kaution",
+  "title": "Kostenvergleich bei mehreren Fahrzeugen",
+  "slug": "kostenvergleich-bei-mehreren-fahrzeugen",
+  "status": "IDEA",
+  "priority": 10,
+  "keywordHypothesis": "kostenvergleich bei mehreren fahrzeugen",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Kostenvergleich bei mehreren Mietfahrzeugen in Hanoi: So vergleichen Sie Leistungen, Zustand und Bedingungen statt nur Tagespreise.",
+  "excerpt": "Zwei Roller, zwei Preise – und trotzdem ist der billigere nicht immer der günstigere. Dieser Ratgeber zeigt, wie Sie einen echten Kostenvergleich über mehrere Angebote aufbauen, welche Positionen hineingehören und wie Sie am Ende souverän entscheiden.",
+  "sections": [
+    {
+      "heading": "Warum ein Preisvergleich allein nicht ausreicht",
+      "paragraphs": [
+        "Der Tagessatz ist die sichtbarste Zahl einer Fahrzeugmiete, aber er beschreibt nur eine Seite des Angebots. Zustand, Ausstattung, Unterstützung und die Regelungen zu Kaution und Rückgabe bestimmen, was die Miete am Ende wirklich kostet. Zwei gleiche Zahlen können damit völlig unterschiedliche Werte beschreiben.",
+        "Ein sauberer Vergleich braucht deshalb ein Gerüst, in dem die weichen Faktoren neben den harten Zahlen stehen. Das Gerüst aufzubauen dauert keine Viertelstunde, und es zahlt sich bei jeder weiteren Anmietung in Ihrem Leben aus. Bei der zweiten und dritten Anmietung in derselben Stadt wird es dann zur Checkliste, die Sie nur noch abhaken. Genau das ist der Kern dieses Ratgebers."
+      ]
+    },
+    {
+      "heading": "Die Vergleichstabelle in fünf Zeilen",
+      "paragraphs": [
+        "Bauen Sie eine einfache Tabelle mit den Angeboten als Spalten und fünf Zeilen als Kategorien: Preis und Mietdauer, Zustand des Fahrzeugs, Ausstattung und Zubehör, Regelungen zu Kaution und Rückgabe sowie erreichbarer Support. Füllen Sie die Zeilen direkt nach jedem Gespräch aus, solange die Eindrücke frisch sind.",
+        "Bleiben Sie bei den Notizen konkret und ohne Wertung: Reifenprofil in Ordnung oder nicht, Helm dabei oder nicht, Kaution geregelt oder offen. Je sachlicher die Tabelle, desto deutlicher spricht sie am Ende. Die Entscheidung fällt dann fast von selbst auf die Spalte mit der rundesten Gesamtleistung."
+      ]
+    },
+    {
+      "heading": "Zustand als Kostenfaktor ernst nehmen",
+      "paragraphs": [
+        "Der Zustand eines Fahrzeugs ist ein Preisbestandteil in Verkleidung: Ein gepflegtes Zweirad mit sauberen Bremsen und gutem Profil kostet im Betrieb weniger Aufregung, Zeit und Risiko als ein ramponiertes Schnäppchen. Bei den Verkehrsverhältnissen in Vietnam, wie das Auswärtige Amt sie beschreibt, wiegt dieser Faktor besonders schwer.",
+        "Bewerten Sie im Vergleich deshalb nicht das Aussehen, sondern die Technik: Bremsen, Bereifung, Beleuchtung und Laufverhalten. Ein Anbieter mit gepflegter Flotte hat außerdem meist eine geordnete Werkstattorganisation im Hintergrund – ein Vorteil, der erst im Pannenfall sichtbar wird, dann aber entscheidend."
+      ]
+    },
+    {
+      "heading": "Bedingungen und Support einbeziehen",
+      "paragraphs": [
+        "Die Bedingungen entscheiden über die Kosten im Störfall: Was passiert bei einer Panne, bei einer verspäteten Rückgabe, bei einem Schaden? Wer hier klare und faire Antworten gibt, senkt Ihr Kostenrisiko messbar, selbst wenn sein Tagessatz etwas höher liegt.",
+        "Gewichten Sie die Kategorien nach Ihrer Situation: Für eine kurze Stadtmiete zählt Zustand mehr als Langzeitregelungen, für eine mehrwöchige Miete dreht sich das Verhältnis. Ein Kostenvergleich ist immer ein persönlicher Vergleich, und die Gewichtung gehört bewusst zu Ihnen. Eine ehrliche Gewichtung macht den Vergleich konsistent, egal welche Angebote auf dem Tisch liegen."
+      ]
+    },
+    {
+      "heading": "Souverän entscheiden und dokumentieren",
+      "paragraphs": [
+        "Wenn die Tabelle steht, entscheiden Sie zügig und begründen Sie die Wahl für sich in einem Satz. Diese Begründung schützt vor dem Gefühl, das falsche Angebot gewählt zu haben, wenn während der Miete kleinere Reibungen auftauchen. Kleine Reibungen gibt es bei jedem Verleiher.",
+        "Dokumentieren Sie die gewählten Konditionen wie im Artikel zur Angebotsdokumentation beschrieben, und schließen Sie die Miete mit derselben Ruhe ab, mit der Sie sie ausgewählt haben. Ein gut vorbereiteter Kostenvergleich ist keine Bürokunst, sondern die Grundlage für eine entspannte Zeit auf zwei Rädern in Hanoi."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "DE-026",
+  "hub": "mietpreise-kaution",
+  "title": "Zubehör im Mietpreis: worauf achten?",
+  "slug": "zubehoer-im-mietpreis-worauf-achten",
+  "status": "IDEA",
+  "priority": 6,
+  "keywordHypothesis": "zubehör im mietpreis: worauf achten?",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Zubehör im Mietpreis: Helm, Schloss, Regenkleidung und Stauraum – worauf Sie bei der Roller-Miete in Hanoi konkret achten sollten.",
+  "excerpt": "Ob ein Mietpreis wirklich günstig ist, entscheidet sich oft im Zubehör. Dieser Ratgeber listet auf, welche Ausstattungsteile bei einer Roller-Miete in Hanoi üblich sind, wie Sie deren Zustand prüfen und wie Sie die Frage 'inklusive oder extra' sauber klären.",
+  "sections": [
+    {
+      "heading": "Warum Zubehör über den echten Mietpreis entscheidet",
+      "paragraphs": [
+        "Der Tagessatz auf dem Schild nennt das Fahrzeug, aber nicht das Drumherum. Helm, Schloss, Stauraum und Regenkleidung entscheiden darüber, ob die Fahrt sicher, trocken und praktisch abläuft. Was davon separat berechnet wird, macht ein nominell günstiges Angebot im Ergebnis teurer.",
+        "Betrachten Sie Zubehör deshalb als Teil des Preises und nicht als Anhang. Ein Angebot, das einen intakten Helm und ein Schloss einschließt, ist bei gleichem Preis mehr wert als eines, das beides erst nach Vertragsabschluss erwähnt. Fragen Sie deshalb zuerst nach der Ausstattung, danach nach der Zahl. Diese Reihenfolge sortiert das Gespräch genau in der Reihenfolge, die für Ihre Sicherheit zählt."
+      ]
+    },
+    {
+      "heading": "Der Helm: Zustand und Passform prüfen",
+      "paragraphs": [
+        "Der Helm ist das wichtigste Einzelteil der gesamten Miete. Prüfen Sie die Passform: Er soll fest sitzen, ohne zu drücken, und das Visier muss sich schließen lassen, ohne zu klemmen. Achten Sie auf Risse im Kunststoff und abgenutzte Polster, denn ein beschädigter Helm bietet kaum Schutz.",
+        "In Vietnam gilt Helmpflicht, und die Sicherheitshinweise des Auswärtigen Amts machen deutlich, wie ernst Zweiradunfälle genommen werden müssen. Fragen Sie deshalb nach einem zweiten Helm in gleicher Qualität, wenn Sie mit einer Begleitung fahren. Ein Verleiher, der hier ohne Diskussion liefert, nimmt seine Verantwortung ernst. Die Ausstattung ist dabei der sichtbarste Beleg für den Anspruch eines Anbieters."
+      ]
+    },
+    {
+      "heading": "Schloss und Diebstahlschutz einschätzen",
+      "paragraphs": [
+        "Ein stabiles Schloss gehört bei der Übergabe zum Standard, denn Zweiraddiebstahl ist in Vietnam ein reales und häufiges Thema, wie das Auswärtige Amt ausdrücklich beschreibt. Prüfen Sie, ob das Schloss vollständig ist und ob sein Schlüssel oder die Kombination einwandfrei funktioniert.",
+        "Fragen Sie zusätzlich, wo das Fahrzeug über Nacht sicher steht: bei Ihnen, beim Verleiher oder in einem bewachten Bereich. Parken Sie im Zweifel an belebten, gut sichtbaren Stellen und schließen Sie das Zweirad an einem festen Gegenstand an. Zubehör entfaltet seinen Wert nur in Verbindung mit der richtigen Gewohnheit."
+      ]
+    },
+    {
+      "heading": "Stauraum, Regenkleidung und Kleinteile",
+      "paragraphs": [
+        "Prüfen Sie die praktischen Kleinteile: Sitzbankkoffer, Handyhalterung, Regenschutz und gegebenenfalls ein Topcase. Für den Stadtalltag reicht oft der Koffer unter der Sitzbank, für Touren mit Gepäck wird zusätzlicher Stauraum wertvoll. Jedes Teil, das fehlt, wird unterwegs plötzlich wichtig.",
+        "Klären Sie bei jedem Position den Status: enthalten, gegen Aufpreis oder nicht vorhanden. Lassen Sie sich die Zusagen in einer Nachricht zusammenfassen, damit die Rückgabe nicht zur neuen Preisrunde wird. Diese Liste ist in zwei Minuten erstellt und begleitet Sie durch die gesamte Miete."
+      ]
+    },
+    {
+      "heading": "Die Rückgabe im Blick behalten",
+      "paragraphs": [
+        "Alles Zubehör, das Sie bei der Übergabe erhalten, ist Teil der Rückgabe. Fotografieren Sie Helm, Schloss und Koffer bei der Übernahme, um den Zustand zu belegen. Die Aufnahmen schützen beide Seiten und machen die Rückgabe zu einer Formsache statt zu einer Diskussion.",
+        "Gewöhnen Sie sich daran, Schlüssel und Helm am selben Ort zu verwahren wie Ihre eigenen Wertsachen. So kehrt mit dem Fahrzeug auch das Zubehör pünktlich zurück, und aus dem Mietverhältnis wird ein glatter Ablauf. Genau das ist der Zweck der anfänglichen Fragen zur Ausstattung."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
