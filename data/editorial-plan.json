@@ -3002,22 +3002,22 @@
       "hub": "reiseplanung",
       "title": "Beste Reisezeit für Zweiradtouren in Nordvietnam",
       "slug": "beste-reisezeit-fuer-zweiradtouren-in-nordvietnam",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 23,
       "keywordHypothesis": "beste reisezeit nordvietnam motorrad",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/beste-reisezeit-fuer-zweiradtouren-in-nordvietnam/"
     },
     {
       "id": "DE-274",
       "hub": "reiseplanung",
       "title": "Unterkünfte mit Parkmöglichkeit für Mietroller finden",
       "slug": "unterkuenfte-mit-parkmoeglichkeit-fuer-mietroller-finden",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 24,
       "keywordHypothesis": "hotel parkplatz roller hanoi",
       "intent": "commercial",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/unterkuenfte-mit-parkmoeglichkeit-fuer-mietroller-finden/"
     },
     {
       "id": "DE-275",
