@@ -2760,22 +2760,22 @@
       "hub": "abholung-rueckgabe",
       "title": "Abholung im Hotel oder in der Verleihstation abwägen",
       "slug": "abholung-im-hotel-oder-in-der-verleihstation-abwaegen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 21,
       "keywordHypothesis": "roller abholung hotel",
       "intent": "commercial",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/abholung-im-hotel-oder-in-der-verleihstation-abwaegen/"
     },
     {
       "id": "DE-252",
       "hub": "abholung-rueckgabe",
       "title": "Lieferung des Mietfahrzeugs an die Unterkunft klären",
       "slug": "lieferung-des-mietfahrzeugs-an-die-unterkunft-klaeren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 22,
       "keywordHypothesis": "roller lieferung hotel",
       "intent": "commercial",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/lieferung-des-mietfahrzeugs-an-die-unterkunft-klaeren/"
     },
     {
       "id": "DE-253",
