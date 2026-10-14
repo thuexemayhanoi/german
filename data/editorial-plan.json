@@ -3134,22 +3134,22 @@
       "hub": "technik-wartung",
       "title": "Motorhitze und Leerlauf im Stadtverkehr einordnen",
       "slug": "motorhitze-und-leerlauf-im-stadtverkehr-einordnen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 25,
       "keywordHypothesis": "motorhitze leerlauf roller",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/motorhitze-und-leerlauf-im-stadtverkehr-einordnen/"
     },
     {
       "id": "DE-286",
       "hub": "technik-wartung",
       "title": "Tankdeckel und Kraftstoffsystem bei der Übernahme prüfen",
       "slug": "tankdeckel-und-kraftstoffsystem-bei-der-uebernahme-pruefen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 26,
       "keywordHypothesis": "tankdeckel kraftstoff roller",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/tankdeckel-und-kraftstoffsystem-bei-der-uebernahme-pruefen/"
     },
     {
       "id": "DE-287",
