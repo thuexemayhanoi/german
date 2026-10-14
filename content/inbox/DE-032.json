@@ -1,0 +1,63 @@
+{
+  "id": "DE-032",
+  "hub": "mietpreise-kaution",
+  "title": "Angebote mit unterschiedlicher Mietdauer vergleichen",
+  "slug": "angebote-mit-unterschiedlicher-mietdauer-vergleichen",
+  "status": "IDEA",
+  "priority": 12,
+  "keywordHypothesis": "angebote mit unterschiedlicher mietdauer vergleichen",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Angebote mit unterschiedlicher Mietdauer richtig vergleichen: Umrechnen auf einen Zeitraum, Leistungen mitdenken und die eigene Nutzung ehrlich einschätzen.",
+  "excerpt": "Ein Anbieter nennt einen Tagessatz, der andere einen Wochensatz, der dritte einen Monatspreis – wie vergleichen Sie das? Dieser Ratgeber zeigt die Methode: alles auf denselben Zeitraum umrechnen, Leistungen mitdenken und am Ende gegen Ihre echte Nutzung entscheiden.",
+  "sections": [
+    {
+      "heading": "Warum rohe Zahlen nicht vergleichbar sind",
+      "paragraphs": [
+        "Drei Angebote auf dem Tisch, drei verschiedene Basen: Der Tagessatz des einen wirkt klein, der Wochenpreis des zweiten wirkt groß, der Monatsrabatt des dritten ist gar nicht einzuordnen. Wer diese Zahlen direkt vergleicht, vergleicht Äpfel mit Ananas. Die Basis macht den Vergleich, nicht die Zahl selbst. Hinzu kommt, dass manche Anbieter staffeln und andere pauschalieren, wodurch selbst gleiche Begriffe verschiedenes bedeuten.",
+        "Der erste Schritt ist deshalb immer eine Normalisierung: Rechnen Sie jedes Angebot auf denselben Zeitraum um, am besten auf Ihre real geplante Mietdauer. Erst dann stehen vergleichbare Zahlen im Raum und die eigentliche Entscheidung beginnt."
+      ]
+    },
+    {
+      "heading": "Auf einen gemeinsamen Zeitraum umrechnen",
+      "paragraphs": [
+        "Nehmen Sie Ihre geplante Mietdauer als Maßstab und fragen Sie bei jedem Anbieter konkret nach dem Preis für genau diese Dauer. Damit verschwinden alle Paketlogiken, und drei Aussagen stehen direkt nebeneinander. Das ist die einzige ehrliche Vergleichsgrundlage.",
+        "Achten Sie dabei auf die Leistungen hinter den Zahlen: Ein Wochensatz kann Helm, Schloss und Unterstützung einschließen, während der niedrigere Tagessatz des Nachbarn jedes Extra separat berechnet. Schreiben Sie die inkludierten Leistungen unter jede Zahl, denn erst Zahl und Leistung zusammen ergeben einen Preis. Notieren Sie die Ergebnisse direkt untereinander, damit der Überblick nicht wieder in drei Einzelgesprächen verpufft."
+      ]
+    },
+    {
+      "heading": "Was bei der Umrechnung verloren geht",
+      "paragraphs": [
+        "Die Umrechnung hat eine Schwäche: Sie geht von einer konstanten Nutzung aus. In der Realität sind Mietdauern beweglich – Sie bleiben zwei Tage länger oder kehren zwei Tage früher zurück. Angebote, die auf lange Pakete setzen, sind bei Änderungen oft unflexibler als reine Tagespreise.",
+        "Fragen Sie deshalb bei jedem Angebot zusätzlich, was bei einer Verlängerung oder einer Verkürzung geschieht. Bleibt der umgerechnete Satz stabil, spricht das für den Anbieter. Verändert er sich zu Ihrem Nachteil, gehört dieser Punkt in Ihre Bewertung, denn Planbarkeit hat einen realen Wert."
+      ]
+    },
+    {
+      "heading": "Break-even-Denken für Ihre Miete",
+      "paragraphs": [
+        "Zwischen Tages- und Paketpreisen existiert meist ein Punkt, ab dem das längere Paket die bessere Basis wird. Diesen Punkt finden Sie ohne Mathe-Aufwand: Fragen Sie einfach, was Ihre voraussichtliche Miete in beiden Varianten kostet und wie sicher Ihre Planung ist. Die Antwort liegt meist auf dem Tisch. Dieser Punkt liegt selten geheimnisvoll, er wird nur selten ehrlich benannt.",
+        "Bewerten Sie die zwei Risiko-Richtungen ehrlich: Bleiben Sie kürzer als geplant, ist das Tagesmodell gnädiger; bleiben Sie deutlich länger, zahlt sich das Paket aus. Ihre Prognosequalität entscheidet damit stärker als jede Preisliste. Wer seine Pläne kennt, wählt richtig, wer sie ignoriert, zahlt Lehrgeld."
+      ]
+    },
+    {
+      "heading": "Der Vergleich endet in einer Entscheidung",
+      "paragraphs": [
+        "Ein solcher Vergleich ist keine Preisfrage, sondern eine Strukturfrage: Welches Modell passt zu Ihrer realen Nutzung, Ihren Planungsgewohnheiten und Ihrer Bereitschaft, an Regeln festzuhalten? Das günstigste Modell für disziplinierte Langzeitmieter ist das falsche für spontane Kurzbleiber.",
+        "Die offizielle Tourismusseite Vietnam Travel empfiehlt generell, Transportentscheidungen an der geplanten Strecke auszurichten, und für die Mietdauer gilt dasselbe. Der beste Preis ist der, der zu Ihrer Wirklichkeit passt, nicht der niedrigste auf dem Papier. So endet jeder saubere Vergleich."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "DE-036",
+  "hub": "mietpreise-kaution",
+  "title": "Mietpreis und Fahrzeugzustand zusammen betrachten",
+  "slug": "mietpreis-und-fahrzeugzustand-zusammen-betrachten",
+  "status": "IDEA",
+  "priority": 16,
+  "keywordHypothesis": "mietpreis und fahrzeugzustand zusammen betrachten",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Mietpreis und Fahrzeugzustand immer zusammen betrachten: Sicherheitsrelevante Mängel wiegen schwerer als jeder Rabatt – so bewerten Sie richtig.",
+  "excerpt": "Ein günstiger Preis verliert seinen Reiz, wenn die Bremsen schwergängig sind. Dieser Ratgeber zeigt, wie Sie Mietpreis und Fahrzeugzustand als zusammengehöriges Paar bewerten, welche Mängel den Preis zweitklassig machen und wann ein höherer Preis seine Berechtigung hat.",
+  "sections": [
+    {
+      "heading": "Preis und Zustand sind immer ein Paar",
+      "paragraphs": [
+        "Ein Mietpreis beschreibt nie nur eine Zahl, sondern ein Angebot im Zustand seiner Zeit: Der Tagessatz gilt für dieses Fahrzeug mit diesen Bremsen, dieser Bereifung und dieser Pflegehistorie. Wer Preis und Zustand getrennt bewertet, kauft eine Zahl und erlebt ein Fahrzeug. Beide gehören untrennbar zusammen.",
+        "Die praktische Konsequenz: Schauen Sie das konkrete Fahrzeug an, bevor Sie über den Preis entscheiden. Ein Angebot, das Sie nur am Telefon oder am Schild bewerten, ist ein Angebot über ein unbekanntes Fahrzeug. Die Probefahrt ist damit Teil der Preisfindung, nicht ihr Anhang."
+      ]
+    },
+    {
+      "heading": "Sicherheitsrelevante Mängel wiegen am schwersten",
+      "paragraphs": [
+        "Nicht alle Mängel sind gleich: Ein verkratzter Spiegel ist Kosmetik, ein stumpfes Profil ist Substanz. Sortieren Sie jeden Mangel in zwei Kategorien – kosmetisch und sicherheitsrelevant – und gewichten Sie nur die zweite. Bremsen, Bereifung, Beleuchtung und Lenkung bilden den Kern der zweiten Kategorie.",
+        "Bei sicherheitsrelevanten Mängeln gilt die klare Regel: kein Rabatt der Welt rechtfertigt die Fahrt. Das Auswärtige Amt beschreibt die Unfallgefahren im vietnamesischen Straßenverkehr ohne Beschönigung, und ein technisch schwaches Fahrzeug vergrößert genau dieses Risiko. In solchen Fällen ist der richtige Preis der, den Sie beim nächsten Anbieter zahlen."
+      ]
+    },
+    {
+      "heading": "Wann ein höherer Preis gerechtfertigt ist",
+      "paragraphs": [
+        "Ein höherer Preis hat dann eine Basis, wenn er einen sichtbaren Unterschied beschreibt: ein gepflegteres Fahrzeug, bremsbare Bremsen, vollständige Beleuchtung, bessere Bereifung und ein geordneter Umgang mit Übergabe und Rückgabe. Diese Unterschiede dürfen im Preis sichtbar werden, denn sie sind reale Leistungen.",
+        "Prüfen Sie die Gegenprobe mit der Probefahrt: Fühlt sich das teurere Fahrzeug tatsächlich souveräner an, bleiben die Bremsen klar und das Fahrwerk ruhig, dann beschreibt der Aufpreis eine Realität. Fühlt es sich gleich an wie das günstigere, dann zahlen Sie für ein Emblem oder eine Adresse – und können getrost zurückgehen."
+      ]
+    },
+    {
+      "heading": "Wann der günstige Preis der bessere Deal bleibt",
+      "paragraphs": [
+        "Der günstige Preis ist dann ein echter Deal, wenn das Fahrzeug technisch sauber ist und nur in Kosmetik oder Alter zurückliegt: ein verblasster Lack, ein älterer Sitzbezug, kleine Gebrauchsspuren. Solche Fahrzeuge fahren genauso gut wie gepflegte, und der Preisunterschied bleibt in Ihrer Tasche.",
+        "Voraussetzung bleibt die ehrliche technische Prüfung: Zeigen die Kernkomponenten keine Mängel, spricht nichts gegen den günstigeren Anbieter. Genau deshalb gehört die Prüfreihenfolge vor die Preisfrage – erst der Zustand, dann die Zahl. Diese Reihenfolge macht Sie unbeeindruckt von Aufklebern und Angeboten."
+      ]
+    },
+    {
+      "heading": "Die gemischte Realität richtig einordnen",
+      "paragraphs": [
+        "In der Praxis sind die meisten Angebote Mischungen: gepflegt an der Bremse, schwach am Lack, gut im Preis, mittel beim Support. Bewerten Sie jede Position einzeln und bilden Sie danach Ihr Gesamtbild. Ein Fahrzeug mit sauberer Technik und abgenutzter Optik ist für die Fahrt wertvoller als das umgekehrte Paar.",
+        "Enden Sie mit einer einfachen Notiz: Preis, Zustand, Regeln – drei Zeilen, eine Entscheidung. Wer so entscheidet, hat Preis und Zustand wieder zu dem gemacht, was sie sind: zwei Hälften desselben Angebots. Genau das macht eine Miete am Ende zu einem guten oder eben zu einem teuren Geschäft."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
