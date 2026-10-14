@@ -1,0 +1,63 @@
+{
+  "status": "IDEA",
+  "intent": "informational",
+  "publishedUrl": null,
+  "date": "2026-10-14",
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "id": "DE-243",
+  "hub": "routen-umgebung",
+  "priority": 23,
+  "keywordHypothesis": "bat trang ausflug hanoi",
+  "title": "Ausflug nach Bat Trang: Route und Erwartungen",
+  "slug": "ausflug-nach-bat-trang-route-und-erwartungen",
+  "description": "Bat Trang ist das bekannte Töpferdorf am Roten Fluss. Route, Erwartungen und praktische Tipps für deinen Ausflug mit dem Mietroller ab Hanoi.",
+  "excerpt": "Das Töpferdorf Bat Trang liegt nur rund dreizehn Kilometer von Hanoi entfernt und eignet sich gut für einen halbtägigen Ausflug mit dem Roller. Was dich auf der Route erwartet und wie du vor Ort klarkommst, liest du hier.",
+  "sections": [
+    {
+      "heading": "Was dich in Bat Trang erwartet",
+      "paragraphs": [
+        "Bat Trang ist ein Dorf, das seit Jahrhunderten von der Keramik lebt. Werkstätten, Brennöfen und Läden reihen sich aneinander, und auf der Marktstraße stapeln sich Schüsseln, Vasen und Figuren. Für Reisende ist das Dorf ein sehenswertes Ziel, weil hier Handwerk sichtbar bleibt, das anderswo längst in Fabriken verschwunden ist.",
+        "Erwarte keine mondäne Ausstellungsmeile, sondern ein Arbeitsviertel mit Staub, Wärme und echtem Betriebsamkeit. In vielen Werkstätten darfst du beim Töpfern zusehen oder selbst eine Schale drehen. Nimm Zeit für die Gassen mit, denn der Reiz des Orts liegt im Nebeneinander von Alltag und Handwerk."
+      ]
+    },
+    {
+      "heading": "Die Route ab Hanoi",
+      "paragraphs": [
+        "Von der Innenstadt fährst du in Richtung Südosten und quert den Roten Fluss über die Vinh-Tuy- oder die Thanh-Tri-Brücke. Die Strecke beträgt je nach Startpunkt rund dreizehn Kilometer und ist in etwa vierzig Minuten gut zu schaffen. Nach der Brücke folgen Deich- und Dorfstraßen bis zum Ortseingang.",
+        "Die Deichstraßen sind meist schmal und wellig, und Lastwagen der umliegenden Ziegeleien nutzen dieselben Wege. Fahre daher vorausschauend und mit beiden Händen am Lenker. Orientiere dich an der Beschilderung oder einer Offline-Karte, denn Abzweigungen sind nicht immer selbsterklärend beschildert."
+      ]
+    },
+    {
+      "heading": "Fahren auf Deichstraßen",
+      "paragraphs": [
+        "Deichwege gehören zu den typischen Straßen Nordvietnams und verlangen eine ruhige Fahrweise. Wellen, Schlaglöcher und losere Oberflächen treten im Wechsel auf, besonders nach Regenfällen. Wähle eine Geschwindigkeit, mit der du jede Stelle rechtzeitig erkennen kannst, und überhole nur mit freier Sicht.",
+        "Achte auf entgegenkommende Fahrzeuge, die in der Mitte fahren, und auf Fußgänger, die den Deich als Weg nutzen. Bei Nässe wird der Untergrund rutschig, weshalb du bei einsetzendem Regen lieber eine Pause einlegst. Das Auswärtige Amt rät generell zu umsichtiger Fahrweise und weist darauf hin, dass viele Unfälle nach Einbruch der Dunkelheit geschehen."
+      ]
+    },
+    {
+      "heading": "Vor Ort im Dorf",
+      "paragraphs": [
+        "Parke deinen Roller auf einem bewachten Platz am Rand der Marktstraße und gehe die letzten Meter zu Fuß. In den Gassen ist der Platz knapp, und herangetragene Ware behindert die Wege. Zu Fuß entdeckst du außerdem die Details, die die Fahrt verstreichen lässt: Farbbecken, Stapel von Brennöfen und Händler mit Leiterwagen.",
+        "Beim Einkauf hilft Geduld, denn in fast allen Läden wird verhandelt. Prüfe Stücke auf Bruchstellen und frage nach sicherer Verpackung, wenn du größere Sachen kaufst. Für den Rückweg verstauest du Einkäufe tief in der Gepäckablage oder einem Rucksack, damit nichts im Fahrtwind leidet."
+      ]
+    },
+    {
+      "heading": "Rückweg und Tagesplan",
+      "paragraphs": [
+        "Starte früh am Morgen, wenn der Verkehr aus der Stadt noch dünn ist, und plane den Rückweg für den frühen Nachmittag. So fährst du beide Strecken bei Tageslicht und vermeidest die Hauptlast der Pendler am Abend. Nimm Wasser und einen kleinen Imbiss mit, denn im Dorf gibt es einfache Garküchen, aber keine ausgebaute Cafékultur.",
+        "Die offizielle Tourismusseite Vietnam Travel empfiehlt, Transportwege vorab zu planen, und genau das zahlt sich hier aus: Route, Pause und Rückfahrt stehen vorher fest. Wer den Ausflug so anlegt, erlebt Bat Trang als gelungenen Kontrast zur Großstadt und kommt mit guter Stimmung und intaktem Roller zurück."
+      ]
+    }
+  ]
+}

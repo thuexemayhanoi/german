@@ -1,0 +1,63 @@
+{
+  "status": "IDEA",
+  "intent": "informational",
+  "publishedUrl": null,
+  "date": "2026-10-14",
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "id": "DE-246",
+  "hub": "routen-umgebung",
+  "priority": 26,
+  "keywordHypothesis": "long bien bruecke hanoi",
+  "title": "Long-Bien-Brücke erleben: Geschichte und Zugang",
+  "slug": "long-bien-bruecke-erleben-geschichte-und-zugang",
+  "description": "Die Long-Bien-Brücke ist Hanois berühmteste Brücke über den Roten Fluss. Geschichte, Zugang für Rollerfahrer und Tipps für den Besuch auf zwei Rädern.",
+  "excerpt": "Die Long-Bien-Brücke verbindet die Altstadt mit dem nördlichen Flussufer und ist zugleich Denkmal und Verkehrsader. Ihre Stahlbögen erzählen über hundert Jahre Stadtgeschichte. So erlebst du die Brücke sicher und richtig.",
+  "sections": [
+    {
+      "heading": "Geschichte der Brücke",
+      "paragraphs": [
+        "Die Long-Bien-Brücke wurde um die Wende zum zwanzigsten Jahrhundert unter der Kolonialherrschaft errichtet und trug zunächst den Namen des damaligen Generalgouverneurs. Die Stahlfachwerk-Konstruktion überspannt den Roten Fluss über eine Länge von mehr als einem Kilometer und war bei ihrer Fertigstellung eine der längsten Brücken Asiens.",
+        "Im Krieg wurde die Brücke mehrfach beschädigt und danach immer wieder repariert, weshalb manche Abschnitte aus verschiedenen Jahrzehnten stammen. Heute ist sie ein Denkmal des Alltags: Züge, Motorroller und Fußgänger nutzen sie Seite an Seite, während unter ihren Bögen Gemüsegärten und kleine Felder liegen."
+      ]
+    },
+    {
+      "heading": "Zugang und Freigabe heute",
+      "paragraphs": [
+        "Für Autos bleibt die Brücke gesperrt, doch Fußgänger, Radfahrer und Motorroller dürfen sie nutzen. Von der Altstadt fährst du über die Phung-Hung-Straße zum Brückenkopf, wo eine Rampe auf das Brückendeck führt. Der Weg ist schmal, und der Fahrbahnbelag besteht aus Stahlblechen mit Lücken, die bei Nässe Vorsicht verlangen.",
+        "Parke deinen Roller am besten in der Nähe des Brückenkopfs auf einem bewachten Platz und betritt die Brücke zu Fuß. So hast du beide Hände frei für Fotos und dich störst niemanden im schmalen Verkehr. Wer mit dem Roller über die Brücke will, fährt ruhig in der Spur und weicht Fußgängern vorsichtig aus."
+      ]
+    },
+    {
+      "heading": "Erlebnis auf dem Brückendeck",
+      "paragraphs": [
+        "Die Fahrt oder der Spaziergang über die Brücke gehört zu den eindrucksvollsten Momenten Hanois. Unter dir fließt der Rote Fluss vorbei, mit Sandbänken und Booten, und hinter den Stahlbögen zeichnet sich die Skyline der Stadt ab. Am frühen Morgen liegt Nebel über dem Wasser, am späten Nachmittag taucht die Sonne alles in warmes Licht.",
+        "Auf dem Brückendeck läuft der Zug auf eigenen Gleisen in der Mitte. Wenn ein Zug naht, weichen alle nach den Seiten aus; halte daher Abstand zu den Gleisen und achte auf Signale. Die Erfahrung, den Zug in wenigen Metern vorbeirauschen zu sehen, gehört zur Faszination dieses Ortes."
+      ]
+    },
+    {
+      "heading": "Rund um die Brücke",
+      "paragraphs": [
+        "Unter der Brücke auf der Altstadtseite liegt ein lebhafter Markt, der vor allem am Morgen Gemüse und Früchte aus den Gärten am Fluss verkauft. Ein Bummel dorther verbindet sich gut mit dem Brückenbesuch. Am Nordufer laden Deichwege und Dörfer zu kurzen Ausfahrten ein, wenn du weiter fahren möchtest.",
+        "Für Fotografen lohnt sich der Blick von den Uferstraßen zurück auf die Brücke, denn die Stahlbögen wirken aus der Distanz am stärksten. Kombiniere den Besuch mit einem Frühstück in der Altstadt, die nur wenige Gehminuten entfernt liegt. So entsteht ein Vormittag, der Geschichte und Alltag Hanois zusammenbringt."
+      ]
+    },
+    {
+      "heading": "Sicher unterwegs",
+      "paragraphs": [
+        "Behandle die Brücke wie eine enge Landstraße: mäßiges Tempo, gute Sichtkontrolle und Rücksicht auf alle, die zu Fuß unterwegs sind. Das Stahlblech kann glatt sein, besonders nach Regen, und die Übergänge zwischen den Segmenten erzeugen kurze Stöße. Wer ungeduldig überholt, riskiert mehr als er gewinnt.",
+        "Das Auswärtige Amt weist darauf hin, dass ein Großteil der Verkehrsunfälle nach Einbruch der Dunkelheit geschieht; die Brücke ist abends schwach beleuchtet. Besuche sie daher bei Tageslicht, wie es die Stimmung sowieso verlangt. Die offizielle Tourismusseite Vietnam Travel rät, Wege vorab zu planen, und das gilt auch für die Rampe, den Parkplatz und die Rückroute."
+      ]
+    }
+  ]
+}

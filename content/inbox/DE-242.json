@@ -1,0 +1,63 @@
+{
+  "status": "IDEA",
+  "intent": "informational",
+  "publishedUrl": null,
+  "date": "2026-10-14",
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "id": "DE-242",
+  "hub": "routen-umgebung",
+  "priority": 22,
+  "keywordHypothesis": "westsee hanoi routefahrt",
+  "title": "Rundfahrt am Westsee: Entspannte Strecke in Hanoi",
+  "slug": "rundfahrt-am-westsee-entspannte-strecke-in-hanoi",
+  "description": "Der Westsee ist die entspannteste Strecke für eine Rundfahrt in Hanoi. Route, sehenswerte Stopps und die beste Tageszeit für deine Tour mit dem Mietroller.",
+  "excerpt": "Eine Rundfahrt am Westsee zeigt Hanoi von seiner grünen Seite. Etwa siebzehn Kilometer führen an Uferpromenaden, Pagoden und ruhigen Wohnvierteln vorbei. Dieser Beitrag erklärt die Strecke, passende Stopps und wie du die Fahrt sicher planst.",
+  "sections": [
+    {
+      "heading": "Warum sich der Westsee lohnt",
+      "paragraphs": [
+        "Der Westsee ist der größte See Hanois und vermittelt ein völlig anderes Gefühl als die enge Altstadt. Die Straße folgt dem Ufer in einer langen Schleife, und der Verkehr fließt hier deutlich ruhiger. Für eine erste längere Fahrt mit dem Mietroller ist diese Runde ideal, weil sie überschaubar bleibt und immer wieder Ausblicke auf das Wasser bietet.",
+        "Für die komplette Runde um den See solltest du je nach Pausen etwa eineinhalb Stunden einplanen. Die Strecke ist damit weder ein Spaziergang noch eine Tortour. An warmen Tagen gehört die Fahrt zu den angenehmsten Möglichkeiten, die Stadt zu erleben, weil der See für kühlere Luft sorgt."
+      ]
+    },
+    {
+      "heading": "Die Strecke im Überblick",
+      "paragraphs": [
+        "Die Hauptroute folgt dem Ufer über die Straßen Au Co im Westen und Nghi Tam bis Xuan La im Norden. Dazwischen liegen Abschnitte mit Promenaden, Hotels und Wohnhäusern im Wechsel. Der Damm Thanh Nien verbindet den Westsee mit dem kleineren Truc-Bach-See und bietet eine der bekanntesten Aussichten der Stadt.",
+        "Fahre die Runde in Richtung Uhrzeigersinn oder dagegen, je nachdem, wo du startest, denn beide Richtungen sind gleichmäßig befahrbar. Achte an Kreuzungen auf Bussen und Taxis, die aus Seitenstraßen einfädeln. Wer hier gleichmäßig und mit Abstand fährt, kommt ohne hektische Situationen um den See herum."
+      ]
+    },
+    {
+      "heading": "Stopps entlang der Route",
+      "paragraphs": [
+        "Die Tran-Quoc-Pagode liegt auf einer kleinen Halbinsel an der Thanh-Nien-Straße und zählt zu den ältesten Tempeln der Stadt. Ein kurzer Stopp lohnt sich für die ruhige Anlage am Wasser. Im Nordwesten des Sees liegt der Tempel Quan Thanh mit seiner großen Bronzestatue, ein weiterer dankbarer Haltpunkt auf der Runde.",
+        "Kombiniere die Stopps mit einer Pause in einem der Cafés am Ufer, denn die Rundfahrt lebt von ihrem Tempo. Nimm die Zeit mit, die der See dir schenkt, statt Kilometer zu sammeln. Für Fotos lohnen sich vor allem die Abschnitte mit Blick über das Wasser zur Skyline im Osten."
+      ]
+    },
+    {
+      "heading": "Verkehr und Fahrstil",
+      "paragraphs": [
+        "Am Westsee gilt derselbe Rechtsverkehr wie überall in Hanoi, doch die breiteren Straßen lassen mehr Raum. Dennoch solltest du mit plötzlichen Spurwechseln von Taxis rechnen, die Gäste zu den Hotels am Ufer bringen. Bussen begegnest du vor allem auf den Hauptstraßen im Norden und Westen der Runde.",
+        "Fahre defensiv und benutze die Außenspur nicht als Rennbahn, denn auch Fußgänger und Radfahrer teilen sich den Rand. In den Wohnstraßen abseits der Hauptroute spielen Kinder und Lieferanten die Straße als Erweiterung ihrer Häuser. Wer langsam und sichtbar fährt, fährt hier am sichersten."
+      ]
+    },
+    {
+      "heading": "Tageszeit und Vorbereitung",
+      "paragraphs": [
+        "Die schönste Zeit für die Runde ist der frühe Morgen, wenn das Licht weich ist und die Uferpromenade von Tai-Chi-Gruppen belebt wird. Auch der späte Nachmittag lohnt sich, wenn die Sonne über dem Wasser untergeht. Das Auswärtige Amt weist darauf hin, dass ein Großteil der Verkehrsunfälle nach Einbruch der Dunkelheit geschieht, weshalb du die Fahrt bei Tageslicht beenden solltest.",
+        "Prüfe vor der Fahrt Bremsen, Licht und Reifen deines Mietrollers, denn auf der langen Runde fallen Mängel schneller auf. Nimm Wasser mit und plane eine regenfreie Stunde ein, denn der See zeigt sich bei Nässe von seiner rutschigen Seite. Mit der offiziellen Tourismusseite Vietnam Travel als Anregung für gute Vorbereitung gelingt die Tour als entspannter Auftakt deiner Fahrwoche."
+      ]
+    }
+  ]
+}

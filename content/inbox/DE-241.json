@@ -1,0 +1,63 @@
+{
+  "status": "IDEA",
+  "intent": "informational",
+  "publishedUrl": null,
+  "date": "2026-10-14",
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "id": "DE-241",
+  "hub": "routen-umgebung",
+  "priority": 21,
+  "keywordHypothesis": "old quarter hanoi parken",
+  "title": "Altstadtviertel Hanoi: parken statt einfahren",
+  "slug": "altstadtviertel-hanoi-parken-statt-einfahren",
+  "description": "Die engen Gassen der Altstadt sind kein Fahrziel. Erfahre, wo du am Rand parkst, wie du Wertsachen sicher verstaust und die Altstadt entspannt zu Fuß erlebst.",
+  "excerpt": "Wer mit dem Mietroller in die Altstadt von Hanoi einfährt, riskiert Stress statt Urlaubsgefühl. Klüger ist es, am Rand zu parken und die letzten Meter zu gehen. Dieser Beitrag zeigt, wo das gelingt und worauf du unterwegs achtest.",
+  "sections": [
+    {
+      "heading": "Warum die Altstadt kein Fahrziel ist",
+      "paragraphs": [
+        "Die Altstadt Hanois lebt von engen Gassen, vollen Gehwegen und einem ständigen Wechselspiel aus Verkaufsständen, Lieferern und Fußgängern. Platz für fließenden Zweiradverkehr bleibt dabei kaum. Wer hier mit dem Roller einfährt, verbringt die Zeit eher mit Rangieren und Ausweichen als mit Sehen und Genießen.",
+        "Für die berühmten Viertel rund um Hang Ma, Hang Bac und Dong Xuan gilt deshalb eine einfache Regel: Sie entfalten sich zu Fuß. Plane deine Fahrt bis an den Rand des Viertels und lege den Rest der Strecke gehend zurück. Du siehst mehr, kommst entspannter an und vermeidest die typischen Engstellen der Hauptverkehrszeiten."
+      ]
+    },
+    {
+      "heading": "Parkplätze am Rand finden",
+      "paragraphs": [
+        "Rund um die Altstadt gibt es bewachte Parkplätze, die von Platzwarten betreut werden. Such dir beim ersten Besuch einen solchen Stellplatz und merke dir die Lage für die nächsten Fahrten. Gegen eine kleine Gebühr bekommst du dort einen Platz, der besser aufpasst als jede geparkte Maschine im Niemandsland.",
+        "Achte darauf, dass du deinen Roller so abstellst, dass der Ausgang nicht blockiert ist, und photographiere den Standort mit einem kurzen Handyfoto. In den Nebenstraßen wechseln zugewiesene Bereiche tagsüber und abends, weil Lieferverkehr und Anwohner denselben Raum nutzen. Wer ungebärdig abstellt, riskiert Umsetzer und Kratzer."
+      ]
+    },
+    {
+      "heading": "Wertsachen und Dokumenten sicher verstauen",
+      "paragraphs": [
+        "Verstaue Helm, Dokumente und Wertvolles unter dem Sitz oder nimm sie mit. Das Auswärtige Amt weist darauf hin, dass es gelegentlich zu Diebstählen durch vorbeirauschende Zweiradfahrer kommt, die Taschen von Unachtsamen entwenden. Offen liegendes Gepäck lockt Übergriffe an, die sich mit zwei Handgriffen vermeiden lassen.",
+        "Nimm die Papiere des Fahrzeugs und deinen Ausweis in einer kleinen Tasche mit, wenn du durch die Gassen schlenderst. Der Roller bleibt danach ein unattraktives Ziel. Notiere dir zusätzlich die Nummer des Vermieters, damit du bei Fragen zum Abstellen kurz nachfragen kannst, statt zu rätseln."
+      ]
+    },
+    {
+      "heading": "Die letzten Meter zu Fuß gehen",
+      "paragraphs": [
+        "Von einem Stellplatz am Rand erreichst du den Hoan-Kiem-See, die Märkte und die Tempel der Altstadt in wenigen Gehminuten. Der Spaziergang durch die Gassen gehört zum Erlebnis dazu: Manufakturen, Cafés und Straße kitchens zeigen sich nur im Schritttempo. Wer rollert, sieht vor allem die Stoßstange davor.",
+        "Plane für den Fußweg mehr Zeit ein, als eine Karte vermuten lässt, denn jede Gasse lädt zum Verweilen ein. Starte früh am Morgen, wenn die Luft frisch ist und die Verkaufsstände aufbauen, oder komme am späten Nachmittag, wenn das Licht weich wird. Beide Tageszeiten belohnen Fotografen und Neugierige gleichermaßen."
+      ]
+    },
+    {
+      "heading": "Planung mit dem Vermieter besprechen",
+      "paragraphs": [
+        "Frage bei der Übernahme, welche Stellplätze der Vermieter empfiehlt und welche Bereiche er vom Fahren ausnimmt. Manche Verleihe nennen konkrete Adressen, die für Roller gut geeignet sind. Die offizielle Tourismusseite Vietnam Travel empfiehlt, Transportwege vorab zu planen; übertrage das auf die Altstadt, indem du Ziel und Stellplatz vor der Fahrt festlegst.",
+        "Kläre auch, wie du bei einer Panne in der Altstadt reagierst, denn enge Gassen erschweren Hilfe. Notiere die Hotline des Verleihs und speichere die Adresse des Stellplatzes. Wer mit ruhigem Plan losfährt, erlebt das Viertel so, wie es gedacht ist: lebendig, laut und voller Entdeckungen ohne Steuer im Rücken."
+      ]
+    }
+  ]
+}
