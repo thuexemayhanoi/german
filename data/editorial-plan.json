@@ -1924,22 +1924,22 @@
       "hub": "technik-wartung",
       "title": "Lenkverhalten bei der Übergabe beurteilen",
       "slug": "lenkverhalten-bei-der-uebergabe-beurteilen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 15,
       "keywordHypothesis": "lenkverhalten bei der übergabe beurteilen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/lenkverhalten-bei-der-uebergabe-beurteilen/"
     },
     {
       "id": "DE-176",
       "hub": "technik-wartung",
       "title": "Kennzeichen und Fahrzeugdaten abgleichen",
       "slug": "kennzeichen-und-fahrzeugdaten-abgleichen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 16,
       "keywordHypothesis": "kennzeichen und fahrzeugdaten abgleichen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/kennzeichen-und-fahrzeugdaten-abgleichen/"
     },
     {
       "id": "DE-177",
