@@ -120,22 +120,22 @@
       "hub": "fahrzeugwahl",
       "title": "Motorroller mit Stauraum auswählen",
       "slug": "motorroller-mit-stauraum-auswaehlen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 11,
       "keywordHypothesis": "motorroller mit stauraum auswählen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/motorroller-mit-stauraum-auswaehlen/"
     },
     {
       "id": "DE-012",
       "hub": "fahrzeugwahl",
       "title": "Vertraute Bedienelemente erkennen",
       "slug": "vertraute-bedienelemente-erkennen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 12,
       "keywordHypothesis": "vertraute bedienelemente erkennen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/vertraute-bedienelemente-erkennen/"
     },
     {
       "id": "DE-013",
