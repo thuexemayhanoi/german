@@ -2496,22 +2496,22 @@
       "hub": "dokumente-vertrag",
       "title": "Wenn der Vermieter Vertragsbedingungen bricht",
       "slug": "wenn-der-vermieter-vertragsbedingungen-bricht",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 27,
       "keywordHypothesis": "vermieter vertragsbruch miete",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/wenn-der-vermieter-vertragsbedingungen-bricht/"
     },
     {
       "id": "DE-228",
       "hub": "dokumente-vertrag",
       "title": "Versicherungsfragen in Vietnam an offiziellen Quellen prüfen",
       "slug": "versicherungsfragen-in-vietnam-an-offiziellen-quellen-pruefen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 28,
       "keywordHypothesis": "versicherung roller vietnam",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/versicherungsfragen-in-vietnam-an-offiziellen-quellen-pruefen/"
     },
     {
       "id": "DE-229",
