@@ -1,0 +1,63 @@
+{
+  "id": "DE-084",
+  "hub": "routen-umgebung",
+  "title": "Fotostopps sicher in eine Route einbauen",
+  "slug": "fotostopps-sicher-in-eine-route-einbauen",
+  "status": "IDEA",
+  "priority": 4,
+  "keywordHypothesis": "fotostopps sicher in eine route einbauen",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Fotostopps sicher planen: geeignete Halteplätze wählen, das Zweirad richtig abstellen und Wertsachen schützen – so bleibt der schönste Punkt der Tour ohne Risiko.",
+  "excerpt": "Die schönsten Motive liegen selten an sicheren Halteplätzen: Wer spontan am Straßenrand anhält, riskiert mehr als ein verwackeltes Bild. Dieser Ratgeber zeigt, wie Fotostopps Teil der Routenplanung werden.",
+  "sections": [
+    {
+      "heading": "Warum der spontane Stopp zum Risiko wird",
+      "paragraphs": [
+        "Der Augenblick ist verlockend: Licht über den Feldern, ein Tor im Morgennebel, Leben am Straßenrand. Doch der spontane Stopp am Fahrbahnrand gehört zu den riskantesten Momenten einer Ausfahrt: Nachfolgende rechnen nicht mit einem haltenden Zweirad, der Standraum endet oft im fließenden Verkehr, und der Blick fürs Motiv ersetzt nicht den Blick für den Verkehr.",
+        "Deshalb gilt: Fotostopps werden geplant wie Pausen und Wendepunkte – als Teil der Route, nicht als Ausnahme von ihr. Wer die Orte für Bilder vor der Abfahrt wählt, fotografiert an sicheren Stellen und fährt zwischen ihnen mit ruhigem Kopf. Das Bild profitiert davon ebenso wie die Fahrt."
+      ]
+    },
+    {
+      "heading": "Was einen sicheren Halteplatz ausmacht",
+      "paragraphs": [
+        "Ein sicherer Fotostopp hat drei Eigenschaften: Er liegt außerhalb der Fahrbahn oder an einem breiten, klar einsehbaren Rand; er ist aus beiden Richtungen früh erkennbar; und er bietet Platz für Fahrzeug und Person, ohne dass jemand ausweichen muss. Schmale Standstreifen und Orte hinter Kurvenkuppen fallen durch diese Prüfung – und genau das ist ihr Zweck.",
+        "Prüfen Sie den Ort auch für die Rückfahrt: Manche Plätze sind auf dem Hinweg bequem, auf dem Rückweg aber nur über eine unübersichtliche Ausfahrt erreichbar. Ein Fotostopp, der nur aus einer Richtung sicher ist, wird in die Richtung eingebaut, die stimmt – oder er entfällt. Es gibt immer ein zweites Motiv."
+      ]
+    },
+    {
+      "heading": "Das Fahrzeug richtig abstellen",
+      "paragraphs": [
+        "Stellen Sie das Zweirad so ab, dass es keine Fahrlinie schneidet und nicht ins Rollen kommen kann: Seitenständer auf festem Grund, Hanglage bedacht, Lenker einschlagen, und bei steilen Plätzen das Rad so positionieren, dass es gegen den Hang lehnt. Der Schlüssel kommt in die Tasche, nicht ins Schloss – und der Helm nicht auf den Spiegel, sondern mit zum Motiv.",
+        "Denken Sie auch an die Zeit: Ein Fotostopp von fünf Minuten verträgt fast jede Parkposition, eine halbe Stunde nicht. Für längere Aufenthalte suchen Sie Plätze mit echtem Standraum, etwa den Rand einer Seitenstraße oder eine Fläche neben Häusern – dort gehört ein geparktes Zweirad zum Bild, am Fahrbahnrand einer Durchgangsstraße nicht."
+      ]
+    },
+    {
+      "heading": "Handy und Kamera im Griff behalten",
+      "paragraphs": [
+        "Das Auswärtige Amt warnt vor Handtaschenraub durch vorbeifahrende Motorroller – für Fotostopps heißt das: Das Handy, das gerade das Motiv hält, ist das auffälligste Objekt im Umkreis. Fotografieren Sie mit dem Rücken zum abgestellten Fahrzeug, halten Sie das Gerät mit beiden Händen, und verstauen Sie es nach dem Bildschuss sofort wieder. Umhängetaschen quer über den Oberkörper statt lose über die Schulter.",
+        "Verteilen Sie Wertsachen: Handy, Geld und Papiere gehören nicht in eine Tasche. Wer fotografiert, hat das Gerät in der Hand – und damit in der Hand auch das, was für einen Vorbeifahrenden sichtbar ist. Besonnenheit schlägt hier Ausrüstung: Der beste Schutz ist die Gewohnheit, nach jedem Bild wegzuräumen, statt das Gerät offen in der Hand zu tragen."
+      ]
+    },
+    {
+      "heading": "Stopps als Teil der Tourplanung",
+      "paragraphs": [
+        "In der Routenplanung bekommen Fotostopps feste Plätze: zu Beginn ein Motiv im sanften Morgenlicht, in der Mitte der Tour der Anlass für die große Pause, am Ende der Punkt, der die Rückfahrt versüßt – alle mit Uhrzeit, damit die Lichtverhältnisse stimmen und die Rückkehr vor der Dämmerung bleibt, wie es das Auswärtige Amt für Fahrten in Vietnam empfiehlt.",
+        "Die offizielle Tourismusseite Vietnam Travel gibt einen Überblick zu Fortbewegung und Anlaufstellen im Land – kombinieren Sie diese Übersicht mit einer Route, deren Fotostopps geplant sind. Dann kehren Sie mit Bildern zurück, ohne dass die Tour für ein einzelnes Foto zum Risiko wurde."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

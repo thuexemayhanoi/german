@@ -1,0 +1,63 @@
+{
+  "id": "DE-083",
+  "hub": "routen-umgebung",
+  "title": "Stadtverkehr und Ausfallstraßen unterscheiden",
+  "slug": "stadtverkehr-und-ausfallstrassen-unterscheiden",
+  "status": "IDEA",
+  "priority": 3,
+  "keywordHypothesis": "stadtverkehr und ausfallstraßen unterscheiden",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Stadtverkehr und Ausfallstraßen stellen unterschiedliche Anforderungen: Tempo, Abstand und Aufmerksamkeit im Wechsel – so meistern Sie beide Fahrwelten.",
+  "excerpt": "Wer in Hanoi startet, kennt den dichten Stadtverkehr – doch wenige Kilometer weiter ändern sich Straße, Tempo und Risiko. Dieser Ratgeber zeigt, wie sich beide Fahrwelten unterscheiden und wie Sie den Wechsel bewusst fahren.",
+  "sections": [
+    {
+      "heading": "Zwei Fahrwelten hinter einem Stadtrand",
+      "paragraphs": [
+        "Der Stadtverkehr in Hanoi ist ein eigener Kosmos: dicht, langsam, laut, ständig in Bewegung. Fahrzeuge fahren dicht auf, Spurwechsel geschehen im Zentimeterbereich, und die Aufmerksamkeit gilt weniger der Geschwindigkeit als dem Lesen des Verkehrs. Wer hier sicher fährt, fährt vorausschauend und gelassen – der Stadtverkehr belohnt Ruhe und bestraft Hektik.",
+        "Die Ausfallstraße ist das Gegenteil in fast jeder Eigenschaft: schneller, offener, geprägt von Lkw, Bussen und Überholvorgängen. Der Fehler, den viele Reisende machen, ist die Annahme, die Fahrweise der Stadt lasse sich einfach mitnehmen. Wer mit Stadttempo auf die Ausfallstraße wechselt, wird zum Hindernis – und wer mit Ausfallstraßen-Tempo in die Stadt rollt, zum Risiko."
+      ]
+    },
+    {
+      "heading": "Im Stadtverkehr: Lesen statt Rasen",
+      "paragraphs": [
+        "Im dichten Verkehr zählt die Beobachtung: Wer schert gleich aus, wo entsteht eine Lücke, welches Fahrzeug dürfte den Vorrang nehmen, obwohl es ihn nicht hat. Die Geschwindigkeit liegt niedrig, die Entscheidungsdichte liegt hoch. Fahren Sie mit Abstand zum Vordermann, den Blick weit nach vorn und die Hand breit am Bremshebel – das ist im Stadtverkehr die Norm, nicht Nervosität.",
+        "Zur Wachsamkeit in der Stadt gehört ein Thema, das das Auswärtige Amt ausdrücklich nennt: Handtaschenraub durch vorbeifahrende Motorroller. Tragen Sie Taschen körpernah und verschlossen, legen Sie Wertsachen nicht offen in Körbe, und halten Sie beim Anhalten Abstand zum fließenden Verkehr. Die meisten dieser Situationen lassen sich vermeiden, bevor sie entstehen – durch die Wahl, wo man hält und wie man trägt."
+      ]
+    },
+    {
+      "heading": "Auf der Ausfallstraße: Tempo, Abstand, Belag",
+      "paragraphs": [
+        "Auf der Ausfallstraße kehrt sich das Verhältnis um: Die Geschwindigkeit steigt, die Entscheidungsdichte sinkt – und die Folgen eines Fehlers wachsen. Halten Sie Abstand zu Lkw und Bussen, rechnen Sie mit Überholvorgängen aus beiden Richtungen und mit Fahrzeugen, die aus Seitenwegen einbiegen. Der Belag wechselt häufiger als in der Stadt: Schlaglöcher, Sandfelder und Baustellenabschnitte gehören zur Normalität der Landstraße.",
+        "Das Auswärtige Amt weist darauf hin, dass viele Unfälle in Vietnam nach Einbruch der Dunkelheit geschehen. Für die Ausfallstraße heißt das konkret: die Rückfahrt so planen, dass sie vor der Dämmerung endet. Bei höherem Tempo wächst im Dunkeln nicht nur das eigene Risiko, sondern auch das Risiko, das andere für die eigene Fahrweise tragen."
+      ]
+    },
+    {
+      "heading": "Der Übergang: Wo die Stadt ausläuft",
+      "paragraphs": [
+        "Der anspruchsvollste Abschnitt vieler Fahrten liegt am Stadtrand: Dort mischt sich der dichte Stadtverkehr mit dem zunehmenden Tempo der Ausfallstraße, Busse drängen in Haltebuchten, Lkw biegen in Gewerbegebiete, und die Nervosität der Ortsfahrt trifft auf die Nachlässigkeit der Landstraße. Fahren Sie diesen Übergang bewusst mit Reserven: Tempo zurücknehmen, Abstand vergrößern, Spiegel und Schulterblick intensivieren.",
+        "Am Stadtrand gilt auf dem Rückweg das Gleiche in umgekehrter Richtung: Der Körper ist nach der offenen Strecke auf Tempo eingestellt, die Stadt verlangt aber sofort wieder die Lesart des dichten Verkehrs. Wer den Wechsel als eigenen Abschnitt begreift, statt ihn als Rest der Route zu übersehen, fährt beide Welten mit dem richtigen Kopf."
+      ]
+    },
+    {
+      "heading": "Die Route nach den beiden Welten bauen",
+      "paragraphs": [
+        "Bauen Sie Ausfahrten so, dass der Wechsel zwischen Stadtverkehr und Ausfallstraße geplant ist: ein klarer Start durch die Stadt in ruhiger Stunde, ein Wendepunkt, der vor der Dämmerung wieder erreicht ist, und Pausen, die nicht am Fahrbahnrand im fließenden Verkehr liegen. Die Unterscheidung der beiden Fahrwelten ist damit kein Buchwissen, sondern das Gerüst der Tour.",
+        "Die offizielle Tourismusseite Vietnam Travel gibt einen Überblick zu Fortbewegungsarten und Straßenverhältnissen im Land – kombinieren Sie diese Übersicht mit der Unterscheidung von Stadtverkehr und Ausfallstraße, und Sie wählen Routen, die zu Ihrer Erfahrung und zu Ihrem Tag passen."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
