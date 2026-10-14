@@ -1352,22 +1352,22 @@
       "hub": "probleme-hilfe",
       "title": "Technisches Warnsignal richtig melden",
       "slug": "technisches-warnsignal-richtig-melden",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 3,
       "keywordHypothesis": "technisches warnsignal richtig melden",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/technisches-warnsignal-richtig-melden/"
     },
     {
       "id": "DE-124",
       "hub": "probleme-hilfe",
       "title": "Unklare Schäden sachlich dokumentieren",
       "slug": "unklare-schaeden-sachlich-dokumentieren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 4,
       "keywordHypothesis": "unklare schäden sachlich dokumentieren",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/unklare-schaeden-sachlich-dokumentieren/"
     },
     {
       "id": "DE-125",
