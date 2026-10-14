@@ -1682,22 +1682,22 @@
       "hub": "reiseplanung",
       "title": "Reisen mit Mitfahrer realistisch planen",
       "slug": "reisen-mit-mitfahrer-realistisch-planen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 13,
       "keywordHypothesis": "reisen mit mitfahrer realistisch planen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/reisen-mit-mitfahrer-realistisch-planen/"
     },
     {
       "id": "DE-154",
       "hub": "reiseplanung",
       "title": "Routenalternativen vorbereiten",
       "slug": "routenalternativen-vorbereiten",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 14,
       "keywordHypothesis": "routenalternativen vorbereiten",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/routenalternativen-vorbereiten/"
     },
     {
       "id": "DE-155",
