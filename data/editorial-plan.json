@@ -428,22 +428,22 @@
       "hub": "mietpreise-kaution",
       "title": "Welche Fragen gehören in eine Kostenübersicht?",
       "slug": "welche-fragen-gehoeren-in-eine-kostenuebersicht",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 19,
       "keywordHypothesis": "welche fragen gehören in eine kostenübersicht?",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/welche-fragen-gehoeren-in-eine-kostenuebersicht/"
     },
     {
       "id": "DE-040",
       "hub": "mietpreise-kaution",
       "title": "Budgetplanung für eine ruhige Zweiradreise",
       "slug": "budgetplanung-fuer-eine-ruhige-zweiradreise",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 20,
       "keywordHypothesis": "budgetplanung für eine ruhige zweiradreise",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/budgetplanung-fuer-eine-ruhige-zweiradreise/"
     },
     {
       "id": "DE-041",
