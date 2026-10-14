@@ -648,22 +648,22 @@
       "hub": "dokumente-vertrag",
       "title": "Fahrzeugdaten korrekt dokumentieren",
       "slug": "fahrzeugdaten-korrekt-dokumentieren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 19,
       "keywordHypothesis": "fahrzeugdaten korrekt dokumentieren",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/fahrzeugdaten-korrekt-dokumentieren/"
     },
     {
       "id": "DE-060",
       "hub": "dokumente-vertrag",
       "title": "Unterlagen-Checkliste für die Abholung",
       "slug": "unterlagen-checkliste-fuer-die-abholung",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 20,
       "keywordHypothesis": "unterlagen-checkliste für die abholung",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/unterlagen-checkliste-fuer-die-abholung/"
     },
     {
       "id": "DE-061",
