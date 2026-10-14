@@ -1286,22 +1286,22 @@
       "hub": "abholung-rueckgabe",
       "title": "Abgabe außerhalb geplanter Zeiten klären",
       "slug": "abgabe-ausserhalb-geplanter-zeiten-klaeren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 17,
       "keywordHypothesis": "abgabe außerhalb geplanter zeiten klären",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/abgabe-ausserhalb-geplanter-zeiten-klaeren/"
     },
     {
       "id": "DE-118",
       "hub": "abholung-rueckgabe",
       "title": "Übergabeprotokoll in einfacher Form",
       "slug": "uebergabeprotokoll-in-einfacher-form",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 18,
       "keywordHypothesis": "übergabeprotokoll in einfacher form",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/uebergabeprotokoll-in-einfacher-form/"
     },
     {
       "id": "DE-119",
