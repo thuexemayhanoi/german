@@ -1000,22 +1000,22 @@
       "hub": "routen-umgebung",
       "title": "Routenplanung für vorsichtige Fahrer",
       "slug": "routenplanung-fuer-vorsichtige-fahrer",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 11,
       "keywordHypothesis": "routenplanung für vorsichtige fahrer",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/routenplanung-fuer-vorsichtige-fahrer/"
     },
     {
       "id": "DE-092",
       "hub": "routen-umgebung",
       "title": "Plan B bei schlechtem Wetter",
       "slug": "plan-b-bei-schlechtem-wetter",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 12,
       "keywordHypothesis": "plan b bei schlechtem wetter",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/plan-b-bei-schlechtem-wetter/"
     },
     {
       "id": "DE-093",
