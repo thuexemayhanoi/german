@@ -1,0 +1,63 @@
+{
+  "id": "DE-110",
+  "hub": "abholung-rueckgabe",
+  "title": "Wie du einen Zustandsbericht anlegst",
+  "slug": "wie-du-einen-zustandsbericht-anlegst",
+  "status": "IDEA",
+  "priority": 10,
+  "keywordHypothesis": "wie du einen zustandsbericht anlegst",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Wie du einen Zustandsbericht anlegst: Aufbau, Kriterien und Form eines Berichts, der Fahrzeugzustand bei Übergabe und Rückgabe vergleichbar macht.",
+  "excerpt": "Ein Zustandsbericht ist kein Protokoll für Juristen, sondern eine Tabelle für den gesunden Menschenverstand: Was ist da, wie ist es, wann wurde es festgehalten. Dieser Ratgeber zeigt, wie du einen Bericht baust, der bei der Rückgabe arbeitet.",
+  "sections": [
+    {
+      "heading": "Was ein Zustandsbericht ist – und was nicht",
+      "paragraphs": [
+        "Ein Zustandsbericht ist eine geordnete Feststellung: Er listet das Fahrzeug in seinen Teilen und Zuständen auf, mit Datum und Uhrzeit, und macht damit einen Moment vergleichbar. Er ist keine Bewertung – er urteilt nicht über gut oder schlecht, sondern beschreibt, was eine Prüfung gesehen hat. Genau darin liegt sein Wert: Beschreibungen lassen sich vergleichen, Urteile nicht.",
+        "Der Bericht braucht zwei Zeitpunkte, um zu arbeiten: einen bei der Abholung, einen bei der Rückgabe. Erst der Vergleich macht aus den beiden Listen eine Aussage – was gleich ist, war schon da; was neu ist, ist während der Miete entstanden. Ohne den ersten Zeitpunkt gibt es den Vergleich nicht, und ohne Vergleich ist der Bericht nur eine Liste."
+      ]
+    },
+    {
+      "heading": "Der Aufbau: von außen nach innen",
+      "paragraphs": [
+        "Baue den Bericht nach einer Route durch das Fahrzeug auf: Front, Lenker und Armaturen, Tank und Seiten, Sitzbank und Staufach, Heck, Räder, Licht. Diese Reihenfolge hat zwei Vorteile: Sie deckt das Fahrzeug vollständig ab, und du findest jeden Punkt wieder, weil die Reihenfolge der Prüfung der Reihenfolge am Fahrzeug folgt.",
+        "Jeder Eintrag bekommt dieselbe Form: Teil, Zustand, Besonderheit. Front: Kratzer links unter dem Scheinwerfer, etwa daumenbreit. Reifen hinten: Profil in Ordnung, keine sichtbaren Beschädigungen. Die Einträge brauchen keine Sprache, die Juristen beeindruckt – sie brauchen Präzision, die bei der Rückgabe dasselbe Bild wiedererkennen lässt."
+      ]
+    },
+    {
+      "heading": "Was hineingehört – und was nicht",
+      "paragraphs": [
+        "In den Bericht gehören alle sichtbaren Befunde: Kratzer, Dellen, Verschleißerscheinungen, funktionierende und nicht funktionierende Teile, Füllstände, Zubehör mit Anzahl. Auch unauffällige Punkte gehören hinein – ein Bericht, der nur Mängel listet, lässt bei der Rückgabe die Frage offen, ob der Rest geprüft und in Ordnung war. Die Formel lautet: geprüft und in Ordnung ist ein Befund wie jeder andere.",
+        "Nicht hinein gehört, was der Bericht nicht leisten kann: technische Tiefenprüfungen, Wertungen über die Miete, Vermutungen über Ursachen. Der Bericht beschreibt, was sichtbar ist – für alles Weitere gibt es die Probefahrt und den Verleiher. Wer den Bericht auf seine Aufgabe beschränkt, hält ihn in fünf Minuten machbar."
+      ]
+    },
+    {
+      "heading": "Die Form: schriftlich, datiert, unterschrieben",
+      "paragraphs": [
+        "Der Bericht lebt von seiner Form: schriftlich, mit Datum und Uhrzeit, mit einer Zeile für die Unterschrift des Verleihers oder mindestens für die Bestätigung, dass er beim Verfassen dabei war. Ein Bericht, den nur du unterschreibst, ist deine Liste; ein Bericht, den beide gesehen haben, ist eine gemeinsame Basis.",
+        "Die praktischste Form ist die einfachste: eine halbe Seite mit den festen Kategorien, handschriftlich ergänzt, mit einer Foto-Serie, die die Einträge belegt. Kein Formular aus dem Internet – dein eigenes Blatt, das du bei jeder Miete wiedererkennst. Die Wiederholung macht den Bericht vergleichbar, und der Vergleich ist sein ganzer Zweck."
+      ]
+    },
+    {
+      "heading": "Der Bericht bei der Rückgabe",
+      "paragraphs": [
+        "Bei der Rückgabe wird der Bericht zur Arbeitsgrundlage: Geh die Liste am Fahrzeug durch, Eintrag für Eintrag, und markiere, was gleich ist und was neu. Der Vorgang dauert bei einem geführten Bericht fünf Minuten – bei einem ungeführten Gedächtnis dauert er die gesamte Diskussion, die du mit dem Bericht vermeiden wolltest.",
+        "Die offizielle Tourismusseite Vietnam Travel gibt einen Überblick zu Fortbewegung und Anlaufstellen im Land – kombiniere diese Übersicht mit einem Bericht, den du selbst angelegt hast. Dann endet die Miete mit einem Blatt, das beide Seiten lesen können, und das ist das beste Ende, das eine Miete haben kann."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

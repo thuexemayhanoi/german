@@ -1,0 +1,63 @@
+{
+  "id": "DE-109",
+  "hub": "abholung-rueckgabe",
+  "title": "Rückgabe bei geändertem Zeitplan",
+  "slug": "rueckgabe-bei-geaendertem-zeitplan",
+  "status": "IDEA",
+  "priority": 9,
+  "keywordHypothesis": "rückgabe bei geändertem zeitplan",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Rückgabe bei geändertem Zeitplan: früher, später oder an anderem Ort – wie Sie Abweichungen ankündigen, vereinbaren und dokumentieren, ohne Streit zu riskieren.",
+  "excerpt": "Pläne ändern sich – die Rückgabe muss davon nicht betroffen sein: Wer Abweichungen früh ankündigt und neu vereinbart, hält die Miete sauber. Dieser Ratgeber zeigt die drei typischen Fälle und ihre richtige Behandlung.",
+  "sections": [
+    {
+      "heading": "Warum die Ankündigung alles entscheidet",
+      "paragraphs": [
+        "Zwischen einer angekündigten und einer verschwiegenen Abweichung liegt der Unterschied zwischen einer Vereinbarung und einem Verstoß: Der Verleiher kann eine früher oder später geplante Rückgabe einplanen, einen anderen Ort vorbereiten, eine Lösung anbieten – aber nur, wenn er davon erfährt, bevor die vereinbarte Uhrzeit abläuft. Die Ankündigung ist deshalb keine Höflichkeit, sondern der Kern des Umgangs mit geplanten Plänen.",
+        "Die Regel mit dem besten Verhältnis von Aufwand zu Wirkung lautet: anrufen, sobald die Abweichung absehbar ist. Ein Anruf zwei Stunden vor der Uhrzeit ist eine Verlegung; eine Erklärung zwei Stunden danach ist eine Überschreitung – und die Abrechnung folgt dem Unterschied."
+      ]
+    },
+    {
+      "heading": "Frühere Rückgabe ankündigen",
+      "paragraphs": [
+        "Die frühere Rückgabe klingt nach dem unproblematischen Fall – sie ist es oft nicht: Der Verleiher plant Personal und Nachmieter nach der vereinbarten Uhrzeit, und eine Rückgabe am Morgen statt am Abend kann eine Umstellung bedeuten. Die Ankündigung einer früheren Rückgabe ist deshalb dieselbe Pflicht wie die der späteren – der Verleiher entscheidet, ob er sie annehmen kann.",
+        "Prüfen Sie im Zweifel die vertragliche Seite: Manche Mietverträge rechnen nach Tagen, nicht nach Stunden, und eine früher zurückgegebene Stunde ist dann ein Geschenk ohne Gegenwert. Das ist kein Grund zur Verärgerung – aber ein Grund, die Rückgabe mit dem Verleiher statt vor ihm zu planen."
+      ]
+    },
+    {
+      "heading": "Spätere Rückgabe vereinbaren",
+      "paragraphs": [
+        "Die spätere Rückgabe ist der häufigste Fall und der am wenigsten vorbereitete: Wer die Uhrzeit überschreiten muss, braucht eine neue Vereinbarung – Uhrzeit, Bedingung, zusätzliche Kosten – und sie schriftlich. Eine mündliche Zustimmung am Telefon ist der Anfang; eine Nachricht, die den neuen Stand festhält, ist die Absicherung.",
+        "Bedenken Sie bei der neuen Uhrzeit die Rahmen, die auch für die erste galten: die Rückgabe vor der Dämmerung, soweit die Fahrt noch dauert – das Auswärtige Amt verbindet die Nachtstunden in Vietnam mit einem erhöhten Unfallrisiko – und der Puffer nach der Rückkehr für die Übergabe selbst. Eine Verlängerung, die in die Dunkelheit führt, löst ein Zeitproblem und schafft ein Sicherheitsproblem."
+      ]
+    },
+    {
+      "heading": "Anderer Rückgabeort: fragen statt organisieren",
+      "paragraphs": [
+        "Der geänderte Ort ist der dritte Fall: Die Rückgabe am Hotel statt am Laden, am Flughafen statt in der Stadt. Was dabei oft übersehen wird: Der Verleiher muss dem zustimmen, denn der Ort ist Teil der Rückgabevereinbarung – und ein Fahrzeug, das an einem nicht vereinbarten Ort abgestellt wird, ist eine Rückgabe, die niemand erhalten hat.",
+        "Sprechen Sie bei der Anfrage alles an, was die Vereinbarung braucht: Ort mit Adresse, Uhrzeit, Zustand des Fahrzeugs, Übergabe des Schlüssels und der Papiere. Je konkreter die Anfrage, desto schneller die Antwort – und desto sauberer die Dokumentation, die am Ende in der Abrechnung steht."
+      ]
+    },
+    {
+      "heading": "Dokumentieren und abrechnen",
+      "paragraphs": [
+        "Jede Abweichung, die Sie vereinbart haben, gehört auf denselben Stapel wie der Vertrag: schriftliche Nachricht oder Vertragszusatz, Datum, Uhrzeit, Unterschrift oder Bestätigung. Die Abrechnung einer Miete mit geändertem Zeitplan ist dann so einfach wie jede andere – sie folgt dem Papier, nicht der Erinnerung.",
+        "Die offizielle Tourismusseite Vietnam Travel gibt einen Überblick zu Fortbewegung und Anlaufstellen im Land – kombinieren Sie diese Übersicht mit dem Grundsatz, Abweichungen früh zu vereinbaren statt spät zu erklären. Dann ist der geänderte Zeitplan ein Kapitel der Miete und nicht ihr Ende."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

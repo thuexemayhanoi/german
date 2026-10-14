@@ -1,0 +1,63 @@
+{
+  "id": "DE-112",
+  "hub": "abholung-rueckgabe",
+  "title": "Fahrzeugschlüssel sicher aufbewahren",
+  "slug": "fahrzeugschluessel-sicher-aufbewahren",
+  "status": "IDEA",
+  "priority": 12,
+  "keywordHypothesis": "fahrzeugschlüssel sicher aufbewahren",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Fahrzeugschlüssel sicher aufbewahren: am Körper tragen, nie im Schloss vergessen und den Zweitschlüssel klären – die kleine Regelkunde rund um den wichtigsten Gegenstand der Miete.",
+  "excerpt": "Ein verlorener Schlüssel ist mehr als eine Suche: Er kann das Ende der Mobilität und der Anfang einer Abrechnung sein. Dieser Ratgeber zeigt, wie der Schlüssel während der Miete sicher bleibt – und was zu tun ist, wenn er trotzdem verschwindet.",
+  "sections": [
+    {
+      "heading": "Warum der Schlüssel eine eigene Regel verdient",
+      "paragraphs": [
+        "Der Schlüssel eines Mietfahrzeugs ist ein kleiner Gegenstand mit großer Wirkung: Ohne ihn steht die Tour, ohne ihn beginnt die Rückgabe mit einer Erklärung, und je nach Fahrzeug kann ein verlorener Schlüssel eine Reparatur oder einen Austausch bedeuten, dessen Kosten im Vertrag geregelt sind oder nicht. Der Schlüssel verdient deshalb eine eigene Gewohnheit – wie der Helm und die Dokumente.",
+        "Die Grundregel ist alt und gilt trotzdem: Der Schlüssel bleibt am Körper, nicht am Fahrzeug. Eine Innentasche mit Reißverschluss, ein Band am Handgelenk oder ein Karabiner an der Hose – die Form ist egal, die Eigenschaft nicht: Der Schlüssel sitzt dort, wo er den Tag überbleibt, ohne dass man an ihn denken muss."
+      ]
+    },
+    {
+      "heading": "Die zwei Momente des Risikos",
+      "paragraphs": [
+        "Der erste Risikomoment ist das Abstellen des Fahrzeugs: Der Schlüssel wird aus dem Schloss gezogen und wandert in die Tasche – nicht auf den Sitz, nicht unter den Spiegel, nicht ins offene Staufach. Wer diese Bewegung zur festen Gewohnheit macht, verliert den Schlüssel nicht in der Minute, in der die Aufmerksamkeit dem Parkplatz gilt.",
+        "Der zweite Moment ist die Pause: Helm ab, Jacke aus, Schlüssel in der Jacke, Jacke über den Sitz – und eine halbe Stunde später weiß keiner mehr, wo der Schlüssel ist. Die Regel für Pausen lautet: Der Schlüssel wechselt nicht den Ort, nur die Hand. Aus der Tasche in die Hand, aus der Hand in die Tasche – niemals auf den Tisch, auf die Sitzbank oder zu den Sachen, die die Pause verlassen können."
+      ]
+    },
+    {
+      "heading": "Zweitschlüssel und Schloss klären",
+      "paragraphs": [
+        "Bei der Übergabe gehört die Schlüsselfrage in die Vereinbarung: Wie viele Schlüssel gibt es, wo bleibt der Zweitschlüssel, und was gilt, wenn einer verloren geht. Manche Verleihe behalten den Zweitschlüssel – das ist eine gute Regel für beide Seiten, denn er ist die Versicherung gegen den Verlust und die Erwartung, dass du die Nummer des Verleihers speicherst.",
+        "Halte den Verlustfall so fest, wie er im Vertrag steht oder besprochen wurde: Wer informiert wird, wann, mit welchen Folgen. Ein Zweitschlüssel, der beim Verleiher bleibt, macht den Verlust zur Lieferung – ein Zweitschlüssel, der niemandem gehört, macht ihn zur Diskussion. Klären ist hier billiger als verhandeln."
+      ]
+    },
+    {
+      "heading": "Wenn der Schlüssel trotzdem verschwindet",
+      "paragraphs": [
+        "Der Verlust eines Schlüssels ist ein Fall für den Kontaktweg, den du bei der Übergabe vereinbart hast: anrufen, den Standort und die Situation schildern, die nächste Absprache treffen. Das Fahrzeug bleibt abgeschlossen an einem sicheren Ort, solange nichts anderes vereinbart ist – ein abgeschlossenes Fahrzeug ohne Schlüssel ist ein Problem, ein offenes ohne Schlüssel ist zwei.",
+        "Und der Verlust ist ein Fall für die Dokumentation: Wo und wann ist der Schlüssel verloren gegangen, was hast du unternommen, was hat der Verleiher geantwortet. Das Auswärtige Amt empfiehlt bei Zwischenfällen im Ausland einen kühlen Kopf und die Einbeziehung der Vermietstation – die Dokumentation ist die Form, die dieser Empfehlung gibt."
+      ]
+    },
+    {
+      "heading": "Die Rückgabe mit beiden Schlüsseln",
+      "paragraphs": [
+        "Die Rückgabe zählt Schlüssel wie Zubehör: Der erste aus der Tasche, der Zweite, soweit er dir gehört, aus der Verwahrung – und beide in die Hand des Verleihers, mit einer Zeile in der Rückgabeliste. Der Schlüssel ist der letzte Gegenstand der Miete, der übergeben wird, und der erste, der bei der Abrechnung fehlt, wenn er nicht gezählt wurde.",
+        "Die offizielle Tourismusseite Vietnam Travel gibt einen Überblick zu Fortbewegung und Anlaufstellen im Land – kombiniere diese Übersicht mit einer Schlüsselgewohnheit, die den ganzen Tag trägt. Dann bleibt der Schlüssel dort, wo er gehört – bei dir, bis zur Rückgabe."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "DE-111",
+  "hub": "abholung-rueckgabe",
+  "title": "Kaution bei Rückgabe nachvollziehen",
+  "slug": "kaution-bei-rueckgabe-nachvollziehen",
+  "status": "IDEA",
+  "priority": 11,
+  "keywordHypothesis": "kaution bei rückgabe nachvollziehen",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Kaution bei der Rückgabe nachvollziehen: Zustand vergleichen, Abzüge prüfen und Rückgabe dokumentieren – so bekommst du die Kaution, die dir zusteht.",
+  "excerpt": "Die Kaution ist der letzte Punkt einer Miete und der wichtigste: Hier wird entschieden, was die Fahrt tatsächlich gekostet hat. Dieser Ratgeber zeigt, wie du die Rückgabe der Kaution prüfst und nachvollziehst.",
+  "sections": [
+    {
+      "heading": "Was die Kaution bei der Rückgabe ist",
+      "paragraphs": [
+        "Die Kaution ist eine Sicherheit, die bei der Rückgabe aufgelöst wird – nicht automatisch, sondern nach einer Prüfung: Zustand des Fahrzeugs, Vollständigkeit des Zubehörs, Kraftstoffstand nach Vertragsregel, Kilometerstand nach Vereinbarung. Jede dieser Prüfungen kann zu einem Abzug führen – und jeder Abzug hat eine Grundlage oder keine. Deine Aufgabe bei der Rückgabe ist es, den Abzügen ihre Grundlage zu geben oder sie zurückzuweisen.",
+        "Die Grundlagen stehen alle im Vertrag: Höhe der Kaution, Form der Rückgabe, Bedingungen für Abzüge. Wer den Vertrag bei der Übergabe gelesen hat, kennt die Grundlagen bei der Rückgabe auswendig – und wer sie nicht kennt, sollte den Vertrag vor der Diskussion lesen, nicht während oder nach ihr."
+      ]
+    },
+    {
+      "heading": "Der Vergleich am Fahrzeug",
+      "paragraphs": [
+        "Die Rückgabe beginnt am Fahrzeug mit dem Zustandsvergleich: dein Bericht von der Abholung gegen den Befund der Rückgabe, Spur für Spur. Was im Bericht stand, ist erledigt; was neu ist, wird benannt, gelegen und bewertet. Der Vergleich ist ein ruhiger Vorgang – er wird schwierig nur, wenn einer der beiden Zeitpunkte nicht dokumentiert war.",
+        "Bei den Zahlen gilt dasselbe in kürzerer Form: Kilometerstand und Kraftstoffstand gegen die Werte und Regeln der Übergabe. Zwei Zahlenpaare, eine Vertragsregel, ein Ergebnis – der rechnerische Teil der Rückgabe dauert keine zwei Minuten, wenn beide Zeitpunkte notiert waren."
+      ]
+    },
+    {
+      "heading": "Abzüge prüfen statt hinnehmen",
+      "paragraphs": [
+        "Ein Abzug ist kein Naturereignis, sondern eine Forderung: Er benennt einen Grund, einen Betrag und eine Grundlage im Vertrag. Prüfe alle drei: Passt der Grund zum Befund, ist der Betrag nachvollziehbar, deckt der Vertrag die Grundlage? Ein Abzug, der diese drei Fragen besteht, ist berechtigt – und einer, der sie nicht besteht, ist verhandelbar bis zurückweisbar.",
+        "Der häufigste Fehler bei Abzügen ist der Zeitdruck: Wer das Flugzeug oder den Bus im Nacken hat, nimmt Zahlen hin, die er in Ruhe geprüft hätte. Nimm dir die Zeit, die du für die Kaution reserviert hast – eine Rückgabe mit Zeitpuffer prüft Abzüge, eine Rückgabe ohne Puffer konsumiert sie."
+      ]
+    },
+    {
+      "heading": "Die Rückgabe der Kaution dokumentieren",
+      "paragraphs": [
+        "Die Rückgabe der Kaution selbst ist ein Vorgang mit Ort, Uhrzeit und Form: bar, per Überweisung, vollständig oder mit Abzug. Halte das Ergebnis schriftlich fest – eine Quittung, eine Nachricht, eine Zeile mit Unterschrift: Kaution zurückgegeben, Betrag, Datum. Der Moment dauert eine Minute und beendet die Miete offiziell.",
+        "Ist die Rückgabe nicht vollständig sofort möglich – etwa bei Überweisung oder einer Prüfung, die der Verleiher erst vornehmen will – dann gehört die Vereinbarung darüber auf Papier: Betrag, Zeitpunkt, Weg. Eine mündliche Zusage über Geld ist wie eine mündliche Rückgabezeit: Sie existiert, solange beide sich erinnern."
+      ]
+    },
+    {
+      "heading": "Wenn die Kaution streitig wird",
+      "paragraphs": [
+        "Wird die Kaution streitig, entscheidet die Dokumentation: Bericht, Fotos, Vertrag, Nachrichten. Wer die vier Zeitpunkte und Zustände festgehalten hat, führt eine Akte – wer nur erinnert, führt ein Gespräch. Das Auswärtige Amt rät Reisenden, bei Streit mit Geschäftspartnern im Ausland einen kühlen Kopf zu bewahren und Unterlagen zu sammeln – dein Zustandsbericht ist genau diese Sammlung.",
+        "Die offizielle Tourismusseite Vietnam Travel gibt einen Überblick zu Fortbewegung und Anlaufstellen im Land – kombiniere diese Übersicht mit einer Rückgabe, die jeden Schritt dokumentiert. Dann ist die Kaution das letzte Kapitel einer geordneten Miete und nicht das erste Kapitel eines Streits."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
