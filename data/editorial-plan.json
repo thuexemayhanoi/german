@@ -208,22 +208,22 @@
       "hub": "fahrzeugwahl",
       "title": "Wann ein Mietroller keine gute Idee ist",
       "slug": "wann-ein-mietroller-keine-gute-idee-ist",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 19,
       "keywordHypothesis": "wann ein mietroller keine gute idee ist",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/wann-ein-mietroller-keine-gute-idee-ist/"
     },
     {
       "id": "DE-020",
       "hub": "fahrzeugwahl",
       "title": "Checkliste zur Wahl des Mietfahrzeugs",
       "slug": "checkliste-zur-wahl-des-mietfahrzeugs",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 20,
       "keywordHypothesis": "checkliste zur wahl des mietfahrzeugs",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/checkliste-zur-wahl-des-mietfahrzeugs/"
     },
     {
       "id": "DE-021",
