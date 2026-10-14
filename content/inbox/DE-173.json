@@ -1,0 +1,63 @@
+{
+  "id": "DE-173",
+  "hub": "technik-wartung",
+  "title": "Kontrollpunkte für die tägliche Sichtprüfung",
+  "slug": "kontrollpunkte-fuer-die-taegliche-sichtpruefung",
+  "status": "IDEA",
+  "priority": 13,
+  "keywordHypothesis": "kontrollpunkte für die tägliche sichtprüfung",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Kontrollpunkte für die tägliche Sichtprüfung: Reifen, Licht, Bremsflüssigkeit, Kabel und Untergrund mit wenigen Handgriffen am Morgen prüfen und Abweichungen richtig einordnen.",
+  "excerpt": "Eine Sichtprüfung dauert fünf Minuten und verrät dir mehr über den Zustand deines Rollers als jede Fahrt. Diese Kontrollpunkte solltest du täglich abgehen.",
+  "sections": [
+    {
+      "heading": "Warum die Sichtprüfung zur Routine wird",
+      "paragraphs": [
+        "Die tägliche Sichtprüfung ist die unspektakulärste Sicherheitsmaßnahme der gesamten Miete – und die wirkungsvollste. Defekte entwickeln sich selten von einer Sekunde zur nächsten: Ein Reifen verliert über Tage an Druck, eine Kabelverbindung korrodiert allmählich, eine Schraube lockert sich in kleinen Schritten. Wer jeden Morgen hinsieht, bemerkt die Entwicklung, solange sie noch harmlos ist; wer nur bei auffälligen Symptomen hinsieht, sieht sie, wenn sie bereits ein Problem darstellt.",
+        "Die Routine selbst ist schnell aufgebaut: Dieselbe Reihenfolge, dieselben Kontrollpunkte, jeden Tag. Fünf Minuten am Morgen, die du im Stehen neben dem Roller verbringst, erzeugen ein Gefühl dafür, was an diesem Fahrzeug normal ist – und genau dieses Normalgefühl ist es, das dir Abweichungen zuverlässig meldet, noch bevor du sie bewusst suchst."
+      ]
+    },
+    {
+      "heading": "Die Reifen und der Stand des Fahrzeugs",
+      "paragraphs": [
+        "Beginne am Boden: Schau unter den Roller, bevor du ihn anfasst. Öl- oder Kraftstoffspuren am Untergrund sind die ehrlichsten Anzeigen von Undichtigkeiten, weil sie sich über Nacht sammeln, während das Fahrzeug stillsteht. Prüfe danach den Reifendruck mit Daumen und Auge – ein deutlich weicherer Reifen, eine sichtbare Änderung der Standfläche oder ein Fremdkörper im Profil gehören zu den Mängeln, die du vor der ersten Fahrt des Tages ansprichst.",
+        "Beurteile auch die optische Achse des Fahrzeugs: Steht der Roller gerade auf beiden Rädern, oder wirkt die Sitzbank schief? Ein schräger Stand kann auf einen beschädigten Hauptständer oder ein frühzeitiges Federproblem hindeuten – beides sind Punkte, die du im Stehen siehst, die dir aber unterwegs als unangenehme Überraschung begegnen."
+      ]
+    },
+    {
+      "heading": "Licht, Signale und Anzeigen am Morgen",
+      "paragraphs": [
+        "Schalte die Zündung ein und prüfe die Beleuchtung: Abblendlicht, Bremslicht bei beiden Bremshebeln, Blinker vorne und hinten, Hupe. Die Prüfung dauert weniger als eine Minute, wenn du die Reihenfolge einmal festgelegt hast – und sie ist gerade in Hanoi wichtig, weil das Licht nicht nur dich sehen lässt, sondern auch die Verkehrsteilnehmer, die aus Einfahrten und Gassen kommen.",
+        "Gleichzeitig kontrolliere die Warnanzeigen im Cockpit: Leuchten alle Symbole beim Einschalten kurz auf und erlöschen dann, wie es sich gehört? Eine Anzeige, die durchgehend leuchtet oder flackert, ist ein Hinweis des Fahrzeugs an dich – nimm ihn ernst und sprich ihn beim Verleiher an, bevor du eine halbe Stadt lang mit einem unerklärten Signal fährst."
+      ]
+    },
+    {
+      "heading": "Bremsen, Kabel und bewegliche Teile",
+      "paragraphs": [
+        "Die Bremsprüfung am Morgen braucht keine Fahrt: Ziehe beide Hebel und tritt die Fußbremse, und achte auf Druckpunkt, Widerstand und Geräusch. Ein Druckpunkt, der sich von gestern unterscheidet, oder ein Quietschen, das gestern noch nicht da war, sind die frühesten greifbaren Signale einer Entwicklung – und ein Grund, die Frage beim Verleiher zu stellen, solange die Antwort noch unverbindlich ist.",
+        "Wirf einen kurzen Blick auf sichtbare Kabel und Züge: Sitzen die Anschlüsse am Lenker fest, sind die Bowdenzüge unbeschädigt, und bewegt sich der Gasgriff weich und kehrt von selbst zurück? Diese Prüfung dauert Sekunden, weil sie keine Demontage verlangt – und sie deckt genau die Elemente ab, deren Ausfall im Fahrbetrieb am unangenehmsten wäre."
+      ]
+    },
+    {
+      "heading": "Abweichungen richtig einordnen",
+      "paragraphs": [
+        "Nicht jede Abweichung ist ein Defekt: Ein Roller, der über Nacht im Freien steht, hat am Morgen kalte Reifen mit leicht anderem Druck, und eine leichte Kondensation an Anzeigen ist kein Grund zur Sorge. Die Sichtprüfung verlangt deshalb auch Urteilskraft – je länger du das Fahrzeug kennst, desto genauer unterscheidest du zwischen dem, was zu diesem Roller gehört, und dem, was neu ist.",
+        "Im Zweifel gilt dieselbe Regel wie bei jedem Mangel: Sprich ihn an. Eine kurze Nachricht an den Verleiher mit einer klaren Beschreibung kostet nichts und schafft Klarheit – im besten Fall bestätigt der Verleiher, dass alles normal ist, und du fährst mit ruhigem Kopf; im anderen Fall hast du den Mangel dokumentiert, bevor er zum Ausfall wird."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

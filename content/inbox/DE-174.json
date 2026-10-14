@@ -1,0 +1,63 @@
+{
+  "id": "DE-174",
+  "hub": "technik-wartung",
+  "title": "Warum ein kurzer Funktionstest wichtig ist",
+  "slug": "warum-ein-kurzer-funktionstest-wichtig-ist",
+  "status": "IDEA",
+  "priority": 14,
+  "keywordHypothesis": "warum ein kurzer funktionstest wichtig ist",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Warum ein kurzer Funktionstest wichtig ist: Bremsen, Licht und Lenkung bei der Abholung und am Morgen mit kurzen Handgriffen prüfen und den Test zur festen Angewohnheit machen.",
+  "excerpt": "Zwei Minuten Funktionstest vor der ersten Fahrt verhindern mehr Probleme als jede Werkstatt. Wie ein solcher Test aussieht und warum er bei jedem Mietfahrzeug neu gehört.",
+  "sections": [
+    {
+      "heading": "Was ein Funktionstest vom Kreuzen unterscheidet",
+      "paragraphs": [
+        "Ein flüchtiger Blick und ein gesunder Menschenverstand sind keine Fahrzeugprüfung. Der Unterschied zwischen Blick und Test liegt in der Wiederholbarkeit: Ein Funktionstest ist eine kurze, feste Abfolge von Handgriffen, die jedes Mal dieselben Bausteine in derselben Reihenfolge prüft. Weil die Abfolge gleich bleibt, bemerkst du Veränderungen zuverlässig – der Test vergleicht das Fahrzeug von heute mit dem, das du gestern geprüft hast.",
+        "Genau deshalb ist der Test bei einem Mietfahrzeug wichtiger als am eigenen: Du startest ohne Vorgeschichte, ohne Wissen darüber, wie das Fahrzeug sich am Tag zuvor angefühlt hat. Die ersten zwei Minuten der Abholung sind deine einzige Chance, die Basis zu erstellen, an der alle späteren Vergleiche hängen. Ohne Basis gibt es keinen Vergleich – und ohne Vergleich bleibt jeder Mangel unsichtbar, bis er sich auf der Strecke zeigt."
+      ]
+    },
+    {
+      "heading": "Die Bausteine des Tests bei der Abholung",
+      "paragraphs": [
+        "Der Funktionstest bei der Abholung gliedert sich in drei kurze Blöcke. Der erste Block läuft am stehenden Fahrzeug: Zündung einschalten, alle Licht- und Signalfunktionen prüfen, Hupe betätigen, Anzeigen im Cockpit beobachten. Der zweite Block gehört den Bremsen: Hebel und Pedal bei stillstehendem Fahrzeug betätigen, Druckpunkt und Widerstand vergleichen, danach bei langsamem Rollen eine gezielte Bremsung mit beiden Bremsen einzeln ausführen, um das Verhältnis von Hand- und Fußbremse kennenzulernen.",
+        "Der dritte Block ist der Langsamtest: Fahre die ersten hundert Meter bewusst langsam und prüfe Lenkungsverhalten, Gasannahme und die Rückstellung des Gasgriffs. Diese Meter sind Teil des Tests, nicht Teil der Fahrt – wer sie mit Absicht langsam angeht, entdeckt Unstimmigkeiten, die bei vollem Tempo als Ruckeln oder Vibration durchgehen würden."
+      ]
+    },
+    {
+      "heading": "Warum der Test am Morgen wiederholt wird",
+      "paragraphs": [
+        "Der Funktionstest endet nicht mit der Abholung: Ein Fahrzeug ist ein Zustand, kein Datum. Was bei der Übergabe einwandfrei funktioniert hat, kann über Nacht undicht werden, locker gehen oder klemmen. Die Wiederholung am Morgen jedes Miettags ist deshalb derselbe Test wie bei der Abholung, nur kürzer – die Bausteine sind bereits vertraut, und die Prüfung zieht sich auf das Wesentliche zusammen: Reifen sichten, Bremsen ziehen, Licht und Anzeigen kontrollieren, losfahren und die ersten Meter bewusst begleiten.",
+        "Die Wiederholung klingt nach Disziplin, ist aber eher eine Frage der Verankerung: Koppel den Test an eine feste Handlung, etwa ans Anlegen des Helms oder ans Schließen der Unterkunft, und er gehört zur Fahrt wie der Schlüssel zur Tür. Wer ihn einmal fest verankert hat, vermisst ihn später, wenn er fehlt – ein sicheres Zeichen dafür, dass er zur Routine geworden ist."
+      ]
+    },
+    {
+      "heading": "Der Helm gehört zur Prüfung dazu",
+      "paragraphs": [
+        "Der Funktionstest betrifft nicht nur das Fahrzeug, sondern auch die eigene Ausrüstung – und an erster Stelle den Helm. Das Auswärtige Amt weist in seinen Hinweisen zu Vietnam darauf hin, dass das Tragen eines Helmes vorgeschrieben ist; ein Helm, der diese Vorschrift nur formal erfüllt, aber nicht richtig sitzt, leistet im Ernstfall weniger als nichts. Der Prüfschritt ist kurz: Helm aufsetzen, Riemen schließen, Kopf kräftig schütteln – der Helm darf sich nicht verschieben, und der Riemen darf nicht rutschen.",
+        "Prüfe am Morgen auch die Kleinigkeiten, die am Abend leicht untergehen: Das Visier sollte frei von Rissen sein, und der Verschluss sollte sich mit Handschuhen bedienen lassen. Werden Helme vom Verleiher gestellt und der Sitz passt nicht, frage nach einer anderen Größe – der Zustand des Helms ist genauso wenig eine Gefälligkeit wie der Zustand der Bremsen."
+      ]
+    },
+    {
+      "heading": "Wenn der Test ein Ergebnis hat",
+      "paragraphs": [
+        "Der beste Funktionstest ist der, der kein Ergebnis liefert – alles normal, losfahren. Aber der Test hat seinen Wert genau dann, wenn er eines liefert: ein Flackern der Anzeige, ein Bremsdruck, der sich weicher anfühlt als gestern, ein Gasgriff mit schwergängiger Rückstellung. Solche Befunde sind keine Gründe zur Panik, sondern Einladungen zur Reaktion: Sprich den Befund beim Verleiher an, beschreibe ihn klar und lass dich beraten, ob das Fahrzeug weiterfahren darf.",
+        "Halte den Test auch in dem Fall bei, in dem er zum Stillstand führt: Ein Fahrzeug, das auffällt, gehört nicht in den Verkehr, so schwer es fällt, einen Tag oder eine Strecke zu streichen. Der Test gibt dir in dieser Situation das Entscheidende zurück – eine Begründung, die du vor dir selbst und vor dem Verleiher vertreten kannst, statt ein Bauchgefühl, über das sich streiten lässt."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

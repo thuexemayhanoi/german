@@ -1,0 +1,63 @@
+{
+  "id": "DE-169",
+  "hub": "technik-wartung",
+  "title": "Roller auf offensichtliche Schäden prüfen",
+  "slug": "roller-auf-offensichtliche-schaeden-pruefen",
+  "status": "IDEA",
+  "priority": 9,
+  "keywordHypothesis": "roller auf offensichtliche schäden prüfen",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Roller auf offensichtliche Schäden prüfen: Kratzer, Dellen und Risse bei der Abholung erfassen, den Zustand dokumentieren und den Unterschied zwischen Kosmetik und Funktion kennen.",
+  "excerpt": "Ein Kratzer, den du bei der Abholung nicht bemerkst, kann dir bei der Rückgabe angelastet werden. So prüfst du einen Mietroller auf offensichtliche Schäden und hältst den Zustand sauber fest.",
+  "sections": [
+    {
+      "heading": "Warum die Schadenprüfung vor der Unterschrift gehört",
+      "paragraphs": [
+        "Jeder sichtbare Schaden an einem Mietroller wird irgendwann einmal zugeordnet – die Frage ist nur, ob durch dich oder durch den Verleiher. Prüfungen, die erst nach der Unterschrift stattfinden, haben eine schwache Beweisposition: Aus Sicht des Verleihers gilt der Roller als einwandfrei übergeben, sobald du ihn angenommen hast. Die Schadenprüfung gehört deshalb an den Anfang der Abholung, gemeinsam mit der Übergabe der Kaution und vor dem ersten Starten des Motors.",
+        "Das Auswärtige Amt empfiehlt in seinen Hinweisen zu Vietnam ausdrücklich, bei der Anmietung alle Details zu dokumentieren – nicht aus Misstrauen, sondern weil Streit über Schäden erfahrungsgemäß die häufigste Reibung zwischen Mieter und Verleiher ist. Eine kurze, saubere Bestandsaufnahme schützt beide Seiten und nimmt der Rückgabe die Spannung."
+      ]
+    },
+    {
+      "heading": "Was du beim Umrundungsgang kontrollierst",
+      "paragraphs": [
+        "Geh einmal vollständig um das Fahrzeug herum und schau gezielt auf die Stellen, die bei Stürzen und Parkremplern zuerst leiden: die Frontverkleidung, die Lenkerenden, die Spiegel, die Trittbretter und die Sitzbank. Achte auf tiefe Kratzer, Dellen im Blech, gesprungene Kunststoffteile und Risse an Schweißnähten. Lege den Finger an Stellen, die verdächtig aussehen – überstrichene Kratzer lassen sich oft ertasten, bevor sie auffallen.",
+        "Stell dich danach neben den Roller und schau auf den Boden: Öl- oder Kühlwasserspuren unter dem Fahrzeug sind ein Hinweis auf einen technischen Mangel, nicht auf einen Schönheitsfehler. Auch der Unterfahrschutz, die Auspuffanlage und der Hauptständer verdienen einen Blick, denn gerade dort sammeln sich die Folgen älterer Umfaller, die im ersten Moment unsichtbar bleiben."
+      ]
+    },
+    {
+      "heading": "Kosmetik und Funktion sauber unterscheiden",
+      "paragraphs": [
+        "Nicht jeder Kratzer ist ein Problem. Ein Mietroller, der durch den Hanoi-Verkehr geht, sammelt Gebrauchsspuren, wie ein Reiseführer Eselsohren sammelt – das ist normal und kostet dich bei der Rückgabe nichts. Entscheidend ist die Grenze zwischen Optik und Funktion: Ein Riss in der Verkleidung, der das Teil stabil hält, ist Kosmetik. Ein Riss, durch den sich die Verkleidung bei jeder Fahrt hebt, ein verbogener Lenker oder ein Spiegel, der sich nicht mehr feststellen lässt, sind funktionale Mängel.",
+        "Notiere diese Unterscheidung wörtlich in deinem Übergabeprotokoll. Formulierungen wie „tiefe Kratzer links an der Frontverkleidung, Funktion unbeeinträchtigt“ oder „rechter Spiegel lose, Verstellung nicht möglich“ machen später deutlich, dass du den Zustand bewusst geprüft hast – und nicht erst bei der Rückgabe entstehen lassen wolltest."
+      ]
+    },
+    {
+      "heading": "Fotos als Gedächtnis der Übergabe",
+      "paragraphs": [
+        "Das Auge übersieht unter Zeitdruck mehr, als wir zugeben möchten, und das Gedächtnis ist nach drei Tagen Mietdauer noch unzuverlässiger. Fotos sind die ehrlichste Form der Dokumentation: Mach Übersichtsaufnahmen von allen vier Seiten, dazu Nahaufnahmen der Stellen, die dir beim Umrundungsgang aufgefallen sind. Achte darauf, dass Datum und Uhrzeit im Gerät stimmen, und speichere die Bilder an einem Ort, den du nicht versehentlich löschst.",
+        "Wichtig ist die Vollständigkeit: Halte auch den Kilometerstand und die Tankanzeige fest, denn beides gehört zum Zustand bei der Übergabe genauso dazu wie die Karosserie. Ein vollständiger Satz Fotos dauert drei Minuten und ersetzt jede nachträgliche Diskussion über die Frage, ob der Riss am Heck schon vor der Miete da war oder während deiner Fahrt entstanden ist."
+      ]
+    },
+    {
+      "heading": "Was du bei auffälligen Schäden tust",
+      "paragraphs": [
+        "Bleibt nach der Prüfung ein Schaden hängen, der dich stört, sprich ihn vor der Abfahrt an und lass ihn im Übergabeprotokoll festhalten. Ein seriöser Verleiher kennt seine Fahrzeuge und bestätigt Vorschäden meist ohne Diskussion; wenn er abweicht, kannst du ein anderes Fahrzeug wählen, solange die Wahl noch offen ist. Nach der Abfahrt ist diese Option geschlossen.",
+        "Gleichzeitig lohnt ein Blick auf die Kaution: Das Auswärtige Amt rät, den Reisepass niemals als Pfand bei Vermietern zu hinterlegen – die Forderung ist ein Warnsignal, unabhängig vom Zustand des Fahrzeugs. Eine Kaution in bar oder per Hinterlegung, deren Rückführung im Protokoll geregelt ist, passt zu einem Verleiher, der auch bei Schäden fair abrechnet. So startest du mit einem sauber dokumentierten Fahrzeug und einem klaren Kopf in die Mietzeit."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "DE-170",
+  "hub": "technik-wartung",
+  "title": "Grundfunktionen vor der Fahrt kennenlernen",
+  "slug": "grundfunktionen-vor-der-fahrt-kennenlernen",
+  "status": "IDEA",
+  "priority": 10,
+  "keywordHypothesis": "grundfunktionen vor der fahrt kennenlernen",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Grundfunktionen vor der Fahrt kennenlernen: Hupe, Lichtschalter, Gasgriff und Sicherheitsabschaltung am stehenden Fahrzeug finden und jede Funktion einmal ausprobieren.",
+  "excerpt": "Jeder Roller ist anders bestückt, und die Hupe sucht man im Verkehr nicht gerne. So lernst du die Grundfunktionen eines fremden Fahrzeugs kennen, bevor du losfährst.",
+  "sections": [
+    {
+      "heading": "Warum Vertrautheit vor der ersten Fahrt entsteht",
+      "paragraphs": [
+        "Die Grundfunktionen eines Rollers sind immer dieselben – aber die Positionen unterscheiden sich von Modell zu Modell. Der Lichtschalter sitzt mal am Lenker, mal am Cockpit, die Hupe mal direkt am Daumen, mal darunter, und bei manchen Modellen gehört zum Start eine Bremse gezogen, bei anderen nicht. Wer diese Kleinigkeiten erst im fließenden Verkehr sucht, lenkt Aufmerksamkeit dorthin, wo sie am dringendsten gebraucht wird: auf die Straße.",
+        "Deshalb gehört die Einführung in ein fremdes Fahrzeug an den Stand, nicht in die Fahrbahn. Fünf Minuten im Stand ersparen dir auf der ersten Strecke durch Hanoi Suchbewegungen am Lenker, die im entscheidenden Moment den Blick von der Fahrbahn ziehen. Die Vietnam-Tourismusbehörde empfiehlt in ihren Hinweisen zum Transport im Land, ein fremdes Fahrzeug vor der Fahrt in Ruhe kennenzulernen – genau dafür ist die Standphase da."
+      ]
+    },
+    {
+      "heading": "Die Bedienelemente am Lenker aufsuchen",
+      "paragraphs": [
+        "Beginne mit den Elementen, die du im Betrieb am schnellsten brauchst: Hupe, Lichthupe, Blinker und die Betätigung der Scheinwerfer. Drücke jedes Element einmal, ohne den Motor zu starten, und präge dir die Position ein. Prüfe danach die Bedienung der Bremsen am Lenker: Welche Handbremse gehört zu welchem Rad, wie fühlt sich der Hebel an, und lässt er sich mit den Fingern erreichen, ohne dass du die Handgelenke verdrehen musst.",
+        "Fahre mit den übrigen Schaltern fort: dem Kill-Schalter, der die Zündung unterbricht, der Starttaste am Lenker und dem Schließmechanismus des Tanksitzes. Der Kill-Schalter verdient besondere Aufmerksamkeit, weil er bei manchen Rollern leicht versehentlich betätigt wird – wer ihn kennt, steht nie mit plötzlich ausbleibendem Motor am Straßenrand und rätselt, woher das Problem kommt."
+      ]
+    },
+    {
+      "heading": "Gas, Kupplung und Gangwechsel richtig einordnen",
+      "paragraphs": [
+        "Bei einem Roller mit stufenlosem Getriebe ist die Gasannahme weicher als bei jedem Schaltmotorrad – aber auch hier gibt es Unterschiede: Manche Roller reagieren auf den ersten Millimeter am Gasgriff nervös, andere brauchen deutlich Drehzahl, bevor sie anziehen. Zieh den Gasgriff am Stand zweimal langsam bis zum Anschlag und lass ihn wieder los, um zu spüren, wie leicht oder schwergängig die Rückstellung ist. Ein Gasgriff, der hängen bleibt, ist ein Mangel, den du vor der Abfahrt ansprechen solltest.",
+        "Bei einem Schaltmotorrad gehört das Kennenlernen der Kupplung dazu: Finde den Punkt, an dem die Kupplung zu greifen beginnt, und probe den ersten Gang bei gezogener Kupplung am Stand. Wer zum ersten Mal in Vietnam ein Schaltmotorrad fährt, sollte diese Übung zwei- oder dreimal wiederholen – die Motorräder in Vietnam sind meist leicht und übersichtlich, aber die Kupplungspunkte variieren trotzdem von Modell zu Modell."
+      ]
+    },
+    {
+      "heading": "Die Einweisung durch den Verleiher nutzen",
+      "paragraphs": [
+        "Ein guter Verleiher erklärt die Funktionen seines Fahrzeugs von sich aus – nutze diese Einweisung, statt sie höflich abzuwinken. Frage gezielt nach den Stellen, die dir unklar sind: Wo sitzt der Kraftstoffhahn, falls vorhanden, wo die Sitzbankverriegelung, wo die Tanköffnung liegt? Muss beim Starten eine Bremse gezogen werden, und gibt es einen Seitenständerschalter, der das Starten verhindert, wenn der Ständer noch ausgeklappt ist.",
+        "Lass dir die Antwort nicht nur zeigen, sondern zeige sie selbst einmal: eine Handlung, die man selbst ausgeführt hat, sitzt sicherer als jede Erklärung. Diese zwei Minuten kosten nichts und gehören zu den sinnvollsten Investitionen der gesamten Anmietung – sie entscheiden, wie souverän du in den ersten Minuten im Verkehr sitzt."
+      ]
+    },
+    {
+      "heading": "Der Helm gehört zur Grundausstattung",
+      "paragraphs": [
+        "Das Kennenlernen der Grundfunktionen endet nicht am Fahrzeug: Prüfe auch den übergebenen Helm. Das Auswärtige Amt weist in seinen Hinweisen zu Vietnam darauf hin, dass das Tragen eines Helmes Pflicht ist – ein übergebener Helm sollte deshalb fest sitzen, ein funktionierendes Visier haben und ohne Risse im Schaumstoff sein. Ein Helm, der nur locker aufsetzbar ist, erfüllt seinen Zweck nicht, und du darfst ihn beanstanden.",
+        "Nimm die Helm-Probe ernst: Kinnriemen schließen, Kopf zweimal kräftig schütteln, und der Helm darf sich nicht verschieben. Wenn das Modell nicht passt, frage nach einem anderen – seriöse Verleiher halten Größen vor. So steht am Ende der Standphase ein Fahrer, der sein Fahrzeug kennt, und ein Helm, der im Ernstfall hält."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
