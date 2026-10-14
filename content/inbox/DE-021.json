@@ -1,0 +1,63 @@
+{
+  "id": "DE-021",
+  "hub": "mietpreise-kaution",
+  "title": "Tagesmiete oder Langzeitmiete: was vergleichen?",
+  "slug": "tagesmiete-oder-langzeitmiete-was-vergleichen",
+  "status": "IDEA",
+  "priority": 1,
+  "keywordHypothesis": "tagesmiete oder langzeitmiete: was vergleichen?",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Tagesmiete oder Langzeitmiete in Hanoi: Diese Vergleichspunkte entscheiden wirklich – Nutzung, Leistungen, Flexibilität und Support.",
+  "excerpt": "Wer länger in Hanoi bleibt, steht schnell vor der Frage: Tagesmiete oder Langzeitmiete? Dieser Ratgeber zeigt, welche Vergleichspunkte wirklich zählen, wenn Sie die beiden Varianten für sich bewerten, und worin die entscheidenden Unterschiede liegen.",
+  "sections": [
+    {
+      "heading": "Der erste Vergleichspunkt: Ihre reale Nutzung",
+      "paragraphs": [
+        "Die Entscheidung zwischen Tages- und Langzeitmiete beginnt nicht beim Preis, sondern bei Ihrem Nutzungsprofil. Fahren Sie täglich in der Stadt, oder steht das Zweirad an mehreren Tagen pro Woche ungenutzt her? Je öfter Sie tatsächlich fahren, desto eher lohnt sich eine durchgehende Miete über den gesamten Aufenthalt. Ein klassischer Fehler ist die spontane Miete am ersten Tag nach Bauchgefühl, weil Ihnen Vergleichswerte für eine ehrliche Einschätzung dann noch fehlen.",
+        "Notieren Sie vor der Anfrage eine einfache Übersicht: voraussichtliche Aufenthaltsdauer, geplante Fahrten pro Woche und die Wahrscheinlichkeit von spontanen Ausflügen. Diese drei Angaben sortieren die Angebote schneller als jeder Preisvergleich, weil sie die Frage beantworten, welche Variante zu Ihrem Rhythmus passt."
+      ]
+    },
+    {
+      "heading": "Leistungen vergleichen, nicht nur Tagespreise",
+      "paragraphs": [
+        "Ein niedriger Tagessatz bedeutet wenig, wenn Helm, Schloss, Lieferung oder Unterstützung im Pannenfall separat berechnet werden. Vergleichen Sie deshalb zusammengehörige Pakete: Was ist bei einem Angebot inbegriffen, was kommt beim anderen oben drauf? Erst diese Aufstellung macht zwei Preise wirklich vergleichbar.",
+        "Bei Langzeitmieten lohnt die Frage nach einem Fahrzeugwechsel während der Mietdauer: Was passiert, wenn das Zweirad einen Defekt hat oder Ihre Pläne sich ändern? Ein Anbieter, der bei längeren Mieten einen Tausch oder eine Reparaturpause fair regelt, bietet reale Substanz, die auf dem Preisschild unsichtbar bleibt. Ein ehrlicher Anbieter kann diese Fragen ohne Zögern beantworten, weil sie seinen Alltag beschreiben und nicht seine Kalkulation verletzen."
+      ]
+    },
+    {
+      "heading": "Flexibilität und Verlängerung im Alltag",
+      "paragraphs": [
+        "Tagesmieten punkten mit kurzer Bindung: Sie entscheiden täglich neu, ob das Zweirad weiterhin gebraucht wird. Für Reisende mit offener Weiterroute ist das ein echter Vorteil, denn der Aufenthalt in Hanoi lässt sich selten auf den Tag genau planen.",
+        "Langzeitmieten leben dagegen von Klarheit über die Verlängerung: Fragen Sie, wie eine Spontanverlängerung geregelt ist und ob der vereinbarte Satz dabei erhalten bleibt. Wer diese Frage vorab schriftlich oder per Nachricht geklärt hat, vermeidet später die unangenehme Diskussion auf dem Hof des Verleihers."
+      ]
+    },
+    {
+      "heading": "Wartung und Unterstützung während der Mietdauer",
+      "paragraphs": [
+        "Je länger ein Fahrzeug gemietet wird, desto wichtiger wird die Frage nach Wartung und Support. Klären Sie, wer kleine Reparaturen übernimmt, ob es eine erreichbare Nummer im Pannenfall gibt und wie mit normalem Verschleiß umgegangen wird, der nicht durch Sie entstanden ist.",
+        "Die Reisehinweise des Auswärtigen Amts für Vietnam machen deutlich, wie wichtig ein verkehrstaugliches Fahrzeug ist. Ein Anbieter, der bei einer Langzeitmiete Wartung aktiv und ohne Diskussion übernimmt, ist damit mehr wert als der nominell billigste Tagessatz der Stadt."
+      ]
+    },
+    {
+      "heading": "Wann sich welche Variante lohnt",
+      "paragraphs": [
+        "Als Faustregel gilt: Bei regelmäßiger Nutzung über eine längere Zeit, stabilem Standort und konkretem Bedarf im Alltag spricht vieles für die Langzeitmiete. Sie bietet Planungssicherheit und in der Regel bessere Gesamtbedingungen als die Summe der Einzeltage.",
+        "Bei unklarer Aufenthaltsdauer, niedriger Fahrtenfrequenz oder geplanten längeren Abwesenheiten aus Hanoi bleibt die Tagesmiete die ehrlichere Wahl. Die offizielle Tourismusseite Vietnam Travel zeigt zudem Alternativen für Strecken, die gar kein eigenes Fahrzeug brauchen. Die beste Miete ist immer die, die zu Ihrem echten Bedarf passt."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "DE-019",
+  "hub": "fahrzeugwahl",
+  "title": "Wann ein Mietroller keine gute Idee ist",
+  "slug": "wann-ein-mietroller-keine-gute-idee-ist",
+  "status": "IDEA",
+  "priority": 19,
+  "keywordHypothesis": "wann ein mietroller keine gute idee ist",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Wann ein Mietroller in Hanoi keine gute Idee ist: Fahrerlaubnis, Erfahrung, Nachtverkehr und Alternativen ehrlich unter die Lupe genommen.",
+  "excerpt": "Ein Mietroller ist in Hanoi praktisch, aber nicht für jede Situation die richtige Wahl. Dieser Ratgeber benennt klar die Fälle, in denen Sie auf zwei Rädern lieber verzichten sollten, und zeigt Alternativen, mit denen Sie trotzdem flexibel bleiben.",
+  "sections": [
+    {
+      "heading": "Wenn die Fahrerlaubnis nicht ausreicht",
+      "paragraphs": [
+        "Vor jeder Mietentscheidung steht die rechtliche Frage: Dürfen Sie dieses Fahrzeug überhaupt fahren? Nach den Hinweisen des Auswärtigen Amts dürfen Inhaber eines deutschen Führerscheins der Klasse B in Vietnam keine Zweiräder mit mehr als 50 ccm führen. Die deutsche Klasse B196 wird in Vietnam ausdrücklich nicht anerkannt.",
+        "Wer ohne die passende Fahrerlaubnis unterwegs ist, riskiert nicht nur Ärger mit der Polizei, sondern auch den Versicherungsschutz im Schadensfall. Fragen Sie deshalb beim Verleiher konkret nach der Hubraumklasse und wählen Sie im Zweifel ein 50cc-Modell oder verzichten Sie auf die eigene Fahrt. Ein geparkter Stolz ist billiger als ein Unfall ohne Deckung."
+      ]
+    },
+    {
+      "heading": "Ohne Rollerfahrung ehrlich bleiben",
+      "paragraphs": [
+        "Hanois Verkehr verzeiht keine Anfängerfehler. Wer zu Hause nie auf einem Zweirad saß, sollte seine ersten Fahrminuten nicht im dichten Fließverkehr einer Millionenstadt absolvieren. Kreuzungen ohne klare Vorfahrt, spurlose Fahrbahnen und Überraschungen von links und rechts überfordern ungeübte Fahrer innerhalb weniger Minuten.",
+        "Eine ehrliche Selbsteinschätzung schützt mehr als jede Sicherheitsausrüstung. Wenn das Fahren auf zwei Rädern neu für Sie ist, planen Sie Übungszeit in ruhigen Nebenstraßen ein oder buchen Sie eine geführte Tour mit erfahrenem Guide. Für Besorgungen und kurze Wege in der Umgebung des Hotels lohnt außerdem der Spaziergang, denn viele Strecken in Hanois Innenstadt sind zu Fuß schneller als mit einem Fahrzeug."
+      ]
+    },
+    {
+      "heading": "Alkohol und Fahrten in der Dunkelheit",
+      "paragraphs": [
+        "In Vietnam gilt für Fahrer von Zweirädern die Null-Promille-Grenze, wie das Auswärtige Amt ausdrücklich betont. Ein Abend mit Bier und der anschließende Heimweg mit dem Roller sind damit keine Option. Planen Sie für Abende im Altstadtviertel von vornherein eine andere Rückfahrtsuche ein als das eigene Zweirad.",
+        "Auch die Dunkelheit selbst ist ein eigenes Risiko. Das Auswärtige Amt weist darauf hin, dass ein großer Teil der Verkehrsunfälle in Vietnam nach Einbruch der Dunkelheit geschieht. Wer nur nachts Zeit zum Fahren hat, fährt unter den schlechtestmöglichen Bedingungen und sollte lieber auf ein Taxi oder einen Fahrer ausweichen."
+      ]
+    },
+    {
+      "heading": "Medizinische Versorgung fernab der Städte",
+      "paragraphs": [
+        "Für geplante Fernstrecken gilt ein weiteres Kriterium: die medizinische Versorgung im Notfall. Das Auswärtige Amt stellt klar, dass die medizinische Versorgung außerhalb der städtischen Zentren in Vietnam nicht mit europäischen Standards vergleichbar ist. Schwerste Unfälle auf Landstraßen mit touristischen Zweiradfahrern kommen immer wieder vor.",
+        "Wenn Ihre Route weit abseits größerer Städte führt und Sie wenig Fahrerfahrung haben, ist ein Mietroller die falsche Basis für diesen Trip. Die offizielle Tourismusseite Vietnam Travel beschreibt Alternativen wie Züge und Überlandbusse, die lange Distanzen sicherer und entspannter zurücklegen. Kombinieren Sie: Stadt flexibel, Land komfortabel."
+      ]
+    },
+    {
+      "heading": "Alternativen, die trotzdem mobil machen",
+      "paragraphs": [
+        "Verzichten heißt nicht stillstehen. Für Strecken in der Stadt sind Taxis und Fahrdienst-Apps meist schneller als die Parkplatzsuche mit dem eigenen Roller. Für Ausflüge bieten geführte Motorradtouren das Erlebnis ohne das volle Risiko der Eigenfahrt.",
+        "Prüfen Sie außerdem, ob Ihr Verleiher Fahrzeuge mit Fahrer oder Halbtagestouren anbietet. Viele Anbieter in Hanoi haben darauf eingestellt. Wer die eigene Fahrt ehrlich verneint, bekommt so trotzdem Bewegung, Landschaft und Freiheit, ohne die eingangs beschriebenen Risiken einzugehen."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

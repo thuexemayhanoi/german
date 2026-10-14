@@ -1,0 +1,63 @@
+{
+  "id": "DE-020",
+  "hub": "fahrzeugwahl",
+  "title": "Checkliste zur Wahl des Mietfahrzeugs",
+  "slug": "checkliste-zur-wahl-des-mietfahrzeugs",
+  "status": "IDEA",
+  "priority": 20,
+  "keywordHypothesis": "checkliste zur wahl des mietfahrzeugs",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Checkliste zur Wahl des Mietfahrzeugs in Hanoi: von der Fahrerlaubnis über die technische Prüfung bis zu Kaution und Probefahrt in fünf Schritten.",
+  "excerpt": "Die Wahl des richtigen Mietfahrzeugs gelingt mit einer festen Checkliste deutlich entspannter. Dieser Ratgeber führt Sie von den rechtlichen Grundlagen über die technische Prüfung bis zur dokumentierten Übergabe und hilft, typische Anfängerfehler zu vermeiden.",
+  "sections": [
+    {
+      "heading": "Warum eine Checkliste Zeit und Ärger spart",
+      "paragraphs": [
+        "An der Übergabe eines Mietfahrzeugs wirken viele Faktoren zusammen: rechtliche Voraussetzungen, technischer Zustand, Ausstattung und Papierkram. Ohne feste Reihenfolge vergessen Reisende im Alltagstrubel Hanois leicht einen Punkt und merken ihn erst, wenn es zu spät ist.",
+        "Eine Checkliste wandelt diese Gemengelage in fünf überschaubare Schritte. Sie wirkt wie ein Profi-Test bei der Fahrzeugabnahme und gibt Ihnen beim Gespräch mit dem Verleiher eine klare Struktur. Wer mit Liste auftritt, wird außerdem ernster genommen als jemand, der das erste beste Fahrzeug mitnimmt. Und das Beste: Diese Routine wirkt ab dem zweiten Fahrzeug wie ein Handgriff, weil die Punkte immer gleich bleiben."
+      ]
+    },
+    {
+      "heading": "Schritt eins: Fahrerlaubnis und Fahrzeugklasse klären",
+      "paragraphs": [
+        "Beginnen Sie bei sich selbst: Dürfen Sie das anvisierte Fahrzeug legal fahren? Das Auswärtige Amt stellt klar, dass die Klasse B in Vietnam keine Zweiräder über 50 ccm abdeckt und die Klasse B196 nicht anerkannt wird. Klären Sie diese Frage, bevor Sie über Modelle oder Preise sprechen.",
+        "Stimmen die rechtlichen Rahmenbedingungen, definieren Sie Ihr Einsatzprofil: hauptsächlich Stadtfahrten, Ausflüge in die Umgebung oder mehrtägige Touren? Daraus ergibt sich die Hubraumklasse, die benötigte Ausstattung und wie wichtig Stauraum und Wetterlage für Ihre Wahl sind. Eine schriftliche Notiz dieser Eckpunkte hilft, beim Verleiher zielgerichtet zu fragen statt allgemein zu bleiben."
+      ]
+    },
+    {
+      "heading": "Schritt zwei: die technische Prüfung vor Ort",
+      "paragraphs": [
+        "Prüfen Sie am Fahrzeug selbst die Kernkomponenten in fester Reihenfolge: Reifenprofil an beiden Rädern, Bremswirkung vorne und hinten, Beleuchtung inklusive Bremslicht, Hupe, Spiegel und Lenkerlager. Ziehen Sie vorsichtig am Vorderrad und prüfen Sie auf Spiel in der Gabel.",
+        "Achten Sie auf Flüssigkeiten unter dem geparkten Fahrzeug und auf die Leichtgängigkeit der Sitzbankmechanik. Notieren Sie sichtbare Vorschäden direkt beim Verleiher und halten Sie sie fotografisch fest. Was dokumentiert ist, kann Ihnen bei der Rückgabe nicht persönlich angelastet werden. Prüfen Sie außerdem das Startverhalten und den Leerlauf des Motors, denn beide zeigen sofort, ob die Technik hinter dem Fahrzeug gepflegt wurde."
+      ]
+    },
+    {
+      "heading": "Schritt drei: Ausstattung und Papiere prüfen",
+      "paragraphs": [
+        "Zur Ausstattung gehören mindestens ein intakter Helm, ein Schloss für das Fahrzeug und die Zusage einer Nummer für den Pannenfall. Fragen Sie danach genauso gezielt wie danach, was die Kaution abdecken soll und in welcher Form sie hinterlegt wird.",
+        "Ihr Reisepass bleibt dabei grundsätzlich bei Ihnen: Das Auswärtige Amt riet in seinen Vietnam-Hinweisen bereits dazu, den Pass nicht als Pfand bei der Anmietung zu hinterlegen. Klären Sie Alternativen zur Kaution in bar oder per sonstigem Nachweis direkt im Gespräch."
+      ]
+    },
+    {
+      "heading": "Schritt vier und fünf: Probefahrt und Entscheidung",
+      "paragraphs": [
+        "Absolvieren Sie vor der finalen Entscheidung eine kurze Probefahrt in einer ruhigen Umgebung. Achten Sie auf klare Bremsen, saubere Gasannahme und ein stabiles Fahrverhalten bei niedrigem Tempo. Fällt hier etwas auf, das im Stand nicht sichtbar war, lassen Sie es vor der Abfahrt beheben oder wechseln Sie das Fahrzeug.",
+        "Treffen Sie die Entscheidung erst nach der Probefahrt und halten Sie die vereinbarten Konditionen schriftlich oder fotografisch fest: Kaution, Rückgabezeit, Tankregelung und erreichbare Kontaktstelle. Mit dieser abgeschlossenen Checkliste starten Sie deutlich souveräner in den Hanoier Verkehr."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

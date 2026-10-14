@@ -1,0 +1,63 @@
+{
+  "id": "DE-023",
+  "hub": "mietpreise-kaution",
+  "title": "Kaution verstehen: Fragen vor der Zahlung",
+  "slug": "kaution-verstehen-fragen-vor-der-zahlung",
+  "status": "IDEA",
+  "priority": 3,
+  "keywordHypothesis": "kaution verstehen: fragen vor der zahlung",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Kaution beim Roller-Mieten in Hanoi verstehen: Pass, Pfand, Dokumentation und Rückzahlung – die wichtigsten Fragen vor der Zahlung.",
+  "excerpt": "Die Kaution ist der häufigste Streitpunkt bei Fahrzeugmieten. Dieser Ratgeber erklärt, was eine Kaution abdecken soll, warum Ihr Reisepass niemals als Pfand dienen sollte und welche Fragen Sie vor der Zahlung klären, um bei der Rückgabe keine bösen Überraschungen zu erleben.",
+  "sections": [
+    {
+      "heading": "Warum die Kaution mehr ist als eine Formalität",
+      "paragraphs": [
+        "Die Kaution ist das Sicherheitsnetz des Verleihers und zugleich der häufigste Anlass für Streit bei Fahrzeugmieten. Sie regelt, wer welches Risiko trägt, wenn das Zweirad beschädigt, verspätet oder unvollständig zurückkommt. Wer die Regeln vor der Zahlung versteht, vermeidet im Nachhinein hitzige Debatten.",
+        "Behandeln Sie die Kaution deshalb wie einen kleinen Vertrag innerhalb des Vertrags: Höhe, Form, Zweck und Rückgabezeitpunkt gehören in einem Zug geklärt. Eine mündliche Absprache im Vorbeigehen ist dabei nicht das Ziel, sondern ein schriftlicher Nachvollzug, den beide Seiten später nachlesen können."
+      ]
+    },
+    {
+      "heading": "Der Reisepass bleibt bei Ihnen",
+      "paragraphs": [
+        "Der wichtigste Grundsatz lautet: Hinterlegen Sie Ihren Reisepass nicht als Pfand. Das Auswärtige Amt rät in seinen Vietnam-Hinweisen ausdrücklich davon ab, den Pass bei der Fahrzeuganmietung zu hinterlegen. Ohne Pass werden Sie im Notfall blockiert, und die Ersatzbeschaffung über eine Botschaft ist aufwendig und teuer.",
+        "Seriöse Verleiher akzeptieren Alternativen: eine Barkaution, ein Pfand anderer Art oder eine dokumentierte Vereinbarung. Verlangt ein Anbieter trotzdem den Pass, ist das ein deutliches Warnsignal. Wählen Sie in dem Fall einen anderen Verleiher, denn diese Entscheidung kostet Sie Minuten und erspart Ihnen im Zweifelsfall Tage. Fotografieren Sie zusätzlich eine Kontaktmöglichkeit des Verleihers, damit Sie im Unglücksfall nicht erst danach suchen müssen."
+      ]
+    },
+    {
+      "heading": "Was die Kaution normalerweise abdecken soll",
+      "paragraphs": [
+        "Sprechen Sie offen darüber, welchen Zweck die Kaution erfüllt. Üblicherweise sichert sie Schäden am Fahrzeug ab, die über normale Gebrauchsspuren hinausgehen, sowie den Verlust von Zubehör wie Helm, Schloss oder Schlüssel. Diese Zuordnung zu benennen, ist legitim und hilft beiden Seiten.",
+        "Wichtig ist die Grenze: Was zählt als normaler Verschleiß, den der Verleiher trägt, und was als Schaden, den Sie verursachen? Klären Sie diese Linie vor der Fahrt an konkreten Beispielen, etwa kleinen Kratzern beim Rangieren oder abgenutzten Griffen. Ohne diese Absprache wird jede Rückgabe zur Verhandlungssache. Wer die Linie nicht klären kann oder will, verschiebt die Entscheidung über Ihr Geld in einen Moment, in dem Sie unter Zeitdruck stehen."
+      ]
+    },
+    {
+      "heading": "Zustand dokumentieren: Fotos vor der Abfahrt",
+      "paragraphs": [
+        "Fotografieren Sie das Fahrzeug bei der Übergabe aus allen vier Richtungen, dazu die Tachoanzeige, den Helm und vorhandene Kratzer in Nahaufnahme. Die Fotos speichern Sie mit Zeitstempel, und der Verleiher bekommt auf Wunsch dieselben Bilder per Nachricht.",
+        "Diese Dokumentation dauert keine fünf Minuten und schützt beide Seiten. Bei der Rückgabe vergleichen Sie Zustand und Bilder in Ruhe; strittige Stellen lassen sich dann sachlich statt emotional klären. Fotografierte Fakten sind die billigste Absicherung, die es gibt."
+      ]
+    },
+    {
+      "heading": "Rückgabe und Auflösung der Kaution",
+      "paragraphs": [
+        "Klären Sie vor der Zahlung, wann genau die Kaution nach der Rückgabe aufgelöst oder zurückgezahlt wird und wer diese Entscheidung trifft. Eine Rückgabe im Beisein des Verleihers mit gemeinsamem Blick über das Fahrzeug ist der sauberste Ablauf, weil keine Seite später allein interpretiert.",
+        "Halten Sie die Rückgabe mit einem kurzen Foto oder einer Nachricht fest, in der der Verleiher den Zustand bestätigt. Werden Teile der Kaution einbehalten, fragen Sie nach dem konkreten Grund und der dokumentierten Grundlage. Diese Struktur sorgt dafür, dass die Kaution das bleibt, was sie sein soll: eine Absicherung, kein Lizenz zum Nachverhandeln."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

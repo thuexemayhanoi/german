@@ -1,0 +1,63 @@
+{
+  "id": "DE-022",
+  "hub": "mietpreise-kaution",
+  "title": "Mietpreis in Hanoi: welche Leistungen zählen?",
+  "slug": "mietpreis-in-hanoi-welche-leistungen-zaehlen",
+  "status": "IDEA",
+  "priority": 2,
+  "keywordHypothesis": "mietpreis in hanoi: welche leistungen zählen?",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Welche Leistungen zählen beim Mietpreis in Hanoi wirklich? Ausstattung, Service, Transparenz und die richtigen Fragen vor der Zahlung im Überblick.",
+  "excerpt": "Der sichtbare Mietpreis sagt in Hanoi oft wenig über den realen Gegenwert aus. Dieser Ratgeber erklärt, welche Leistungen einen fairen Mietpreis ausmachen, wie Sie Transparenz beim Verleiher erkennen und welche Fragen Sie vor der Zahlung stellen sollten.",
+  "sections": [
+    {
+      "heading": "Warum der sichtbare Preis selten der ganze Preis ist",
+      "paragraphs": [
+        "Zwei Angebote mit gleichem Tagessatz können völlig unterschiedlichen Gegenwert bieten. Der eine Verleiher liefert Helm und Schloss mit, erreichbaren Support und ein gepflegtes Fahrzeug; der andere übergibt den Roller ohne jedes Extra und stellt Einzelteile später gesondert in Rechnung.",
+        "Bewerten Sie deshalb nie nur die Zahl auf dem Schild, sondern immer das Gesamtpaket dahinter. Der Mietpreis ist ein Tausch: Ihre Zahlung gegen Leistung, Zustand und Unterstützung. Erst wenn Sie alle drei Seiten des Tauschs kennen, können Sie Preise seriös miteinander vergleichen. Ein Vergleich ohne Leistungsvergleich ist deshalb kein Vergleich, sondern nur ein Zahlenspiel mit unklaren Regeln."
+      ]
+    },
+    {
+      "heading": "Ausstattung, die im Preis enthalten sein sollte",
+      "paragraphs": [
+        "Ein gepflegtes Fahrzeug in verkehrstauglichem Zustand ist die Basisleistung, nicht ein Extra. Dazu gehören funktionierende Bremsen, ausreichendes Profil, vollständige Beleuchtung und ein unbeschädigter Helm. Fehlt einer dieser Punkte, ist der Listenpreis angesichts der Verkehrsverhältnisse in Hanoi irrelevant.",
+        "Fragen Sie gezielt, ob ein Zweithelm für Mitfahrer, ein Schloss für das Fahrzeug und ein Stauraum für Wertsachen zur Verfügung stehen. Diese Positionen fallen im Alltag ständig an. Ein Verleiher, der sie ohne Diskussion einschließt, kalkuliert ehrlicher als einer, der sie als spätere Überraschung behandelt. Notieren Sie die zugesagten Leistungen direkt nach dem Gespräch, damit Sie die Antworten später in Ruhe vergleichen können statt unter Zeitdruck auf dem Hof."
+      ]
+    },
+    {
+      "heading": "Service und Unterstützung als Preisbestandteil",
+      "paragraphs": [
+        "Erreichbarer Support ist ein echter Leistungsbestandteil, auch wenn er im Moment der Übergabe unsichtbar bleibt. Klären Sie, an wen Sie sich bei einer Panne, einem Plattfuß oder einer Frage zum Fahrzeug wenden und in welchen Zeiten diese Stelle erreichbar ist.",
+        "Das Auswärtige Amt beschreibt in seinen Vietnam-Hinweisen die hohe Unfallgefahr im Straßenverkehr und die besonderen Belastungen für Zweiradfahrer. Vor diesem Hintergrund ist ein Verleiher, der im Ernstfall schnell reagiert, Teil Ihrer Sicherheit und damit Teil des Preises, den Sie zahlen."
+      ]
+    },
+    {
+      "heading": "Transparenz beim Verleiher erkennen",
+      "paragraphs": [
+        "Seriöse Anbieter erkennen Sie an der Art, wie sie über Geld sprechen. Auf klare Fragen zur Kaution, zu Rückgabezeiten und zu möglichen Zusatzpositionen folgen klare Antworten. Ausweichende Formulierungen oder ein plötzlicher Zeitdruck bei der Übergabe sind dagegen warnende Signale.",
+        "Verlangen Sie die wesentlichen Punkte in schriftlicher oder nachrichtlicher Form, seien es Fotos der Übergabe oder ein kurzer Chatverlauf. Die offizielle Tourismusseite Vietnam Travel empfiehlt generell eine gute Vorbereitung für unterwegs, und dokumentierte Absprachen gehören dazu. Transparenz vor der Zahlung spart Konflikte bei der Rückgabe."
+      ]
+    },
+    {
+      "heading": "Fragen, die Sie vor der Zahlung stellen",
+      "paragraphs": [
+        "Fassen Sie die Kernfragen zusammen: Was ist im Preis enthalten? Wie hoch ist die Kaution und was deckt sie? Wann und wie wird sie zurückgezahlt? Welche Zusatzpositionen kann es geben und wer entscheidet darüber? Diese vier Fragen decken die häufigsten Streitpunkte ab.",
+        "Nehmen Sie sich die Zeit, die Antworten wirklich zu hören, und entscheiden Sie erst danach. Wer diese Fragen vor der Zahlung klärt, zahlt am Ende selten zu viel und startet mit einem Verleiher in die Miete, der zu seinen Konditionen steht. Genau daran erkennen Sie faire Mietpreise in Hanoi."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
