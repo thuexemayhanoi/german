@@ -2936,22 +2936,22 @@
       "hub": "probleme-hilfe",
       "title": "Erstattungsfragen nach Fahrzeugproblemen klären",
       "slug": "erstattungsfragen-nach-fahrzeugproblemen-klaeren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 27,
       "keywordHypothesis": "erstattung mietprobleme",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/erstattungsfragen-nach-fahrzeugproblemen-klaeren/"
     },
     {
       "id": "DE-268",
       "hub": "probleme-hilfe",
       "title": "Anspruch auf Ersatzfahrzeug im Vertrag nachlesen",
       "slug": "anspruch-auf-ersatzfahrzeug-im-vertrag-nachlesen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 28,
       "keywordHypothesis": "ersatzfahrzeug miete vertrag",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/anspruch-auf-ersatzfahrzeug-im-vertrag-nachlesen/"
     },
     {
       "id": "DE-269",
