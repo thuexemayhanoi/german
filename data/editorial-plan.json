@@ -1990,22 +1990,22 @@
       "hub": "nachhaltig-reisen",
       "title": "Rücksicht im Stadtverkehr zeigen",
       "slug": "ruecksicht-im-stadtverkehr-zeigen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 1,
       "keywordHypothesis": "rücksicht im stadtverkehr zeigen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/ruecksicht-im-stadtverkehr-zeigen/"
     },
     {
       "id": "DE-182",
       "hub": "nachhaltig-reisen",
       "title": "Verantwortungsvoll in Wohngebieten fahren",
       "slug": "verantwortungsvoll-in-wohngebieten-fahren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 2,
       "keywordHypothesis": "verantwortungsvoll in wohngebieten fahren",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/verantwortungsvoll-in-wohngebieten-fahren/"
     },
     {
       "id": "DE-183",
