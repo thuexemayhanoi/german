@@ -604,22 +604,22 @@
       "hub": "dokumente-vertrag",
       "title": "Versicherungsausschlüsse: worauf achten?",
       "slug": "versicherungsausschluesse-worauf-achten",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 15,
       "keywordHypothesis": "versicherungsausschlüsse: worauf achten?",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/versicherungsausschluesse-worauf-achten/"
     },
     {
       "id": "DE-056",
       "hub": "dokumente-vertrag",
       "title": "Aktuelle Verkehrsregeln verlässlich nachschlagen",
       "slug": "aktuelle-verkehrsregeln-verlaesslich-nachschlagen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 16,
       "keywordHypothesis": "aktuelle verkehrsregeln verlässlich nachschlagen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/aktuelle-verkehrsregeln-verlaesslich-nachschlagen/"
     },
     {
       "id": "DE-057",
