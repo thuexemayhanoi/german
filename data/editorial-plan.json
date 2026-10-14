@@ -2232,22 +2232,22 @@
       "hub": "fahrzeugwahl",
       "title": "50ccm Roller in Vietnam: Chancen und Grenzen",
       "slug": "50ccm-roller-in-vietnam-chancen-und-grenzen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 23,
       "keywordHypothesis": "50ccm roller vietnam",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/50ccm-roller-in-vietnam-chancen-und-grenzen/"
     },
     {
       "id": "DE-204",
       "hub": "fahrzeugwahl",
       "title": "Motorroller Verleih Hanoi: Anbieter klug vergleichen",
       "slug": "motorroller-verleih-hanoi-anbieter-klug-vergleichen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 24,
       "keywordHypothesis": "motorroller verleih hanoi",
       "intent": "commercial",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/motorroller-verleih-hanoi-anbieter-klug-vergleichen/"
     },
     {
       "id": "DE-205",
