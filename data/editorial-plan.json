@@ -1792,22 +1792,22 @@
       "hub": "technik-wartung",
       "title": "Bremsgefühl vor dem Losfahren beurteilen",
       "slug": "bremsgefuehl-vor-dem-losfahren-beurteilen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 3,
       "keywordHypothesis": "bremsgefühl vor dem losfahren beurteilen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/bremsgefuehl-vor-dem-losfahren-beurteilen/"
     },
     {
       "id": "DE-164",
       "hub": "technik-wartung",
       "title": "Spiegel und Bedienelemente einstellen",
       "slug": "spiegel-und-bedienelemente-einstellen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 4,
       "keywordHypothesis": "spiegel und bedienelemente einstellen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/spiegel-und-bedienelemente-einstellen/"
     },
     {
       "id": "DE-165",
