@@ -2518,22 +2518,22 @@
       "hub": "dokumente-vertrag",
       "title": "Mietbedingungen für Fahrten außerhalb der Provinz klären",
       "slug": "mietbedingungen-fuer-fahrten-ausserhalb-der-provinz-klaeren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 29,
       "keywordHypothesis": "roller fahren provinz miete",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/mietbedingungen-fuer-fahrten-ausserhalb-der-provinz-klaeren/"
     },
     {
       "id": "DE-230",
       "hub": "dokumente-vertrag",
       "title": "Vertragsdokumentation per Foto und Messenger sichern",
       "slug": "vertragsdokumentation-per-foto-und-messenger-sichern",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 30,
       "keywordHypothesis": "mietvertrag foto dokumentation",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/vertragsdokumentation-per-foto-und-messenger-sichern/"
     },
     {
       "id": "DE-231",
