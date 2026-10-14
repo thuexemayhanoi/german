@@ -1044,22 +1044,22 @@
       "hub": "routen-umgebung",
       "title": "Wie du eine Route kritisch bewertest",
       "slug": "wie-du-eine-route-kritisch-bewertest",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 15,
       "keywordHypothesis": "wie du eine route kritisch bewertest",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/wie-du-eine-route-kritisch-bewertest/"
     },
     {
       "id": "DE-096",
       "hub": "routen-umgebung",
       "title": "Strecke für Fahrer und Mitfahrer abstimmen",
       "slug": "strecke-fuer-fahrer-und-mitfahrer-abstimmen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 16,
       "keywordHypothesis": "strecke für fahrer und mitfahrer abstimmen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/strecke-fuer-fahrer-und-mitfahrer-abstimmen/"
     },
     {
       "id": "DE-097",
