@@ -137,3 +137,30 @@ body.g-ai-keyboard .g-ai-panel{border-radius:15px}
 @media(prefers-reduced-motion:reduce){
  .g-quick-main,.g-ai-fab{transition:none!important}
 }
+
+
+/* Six latest homepage cards: photo layer stays inside existing premium cards.
+   The gradient placeholders remain intact until uploaded photos are committed. */
+.card-visual--photo{isolation:isolate;min-width:0}
+.card-visual--photo .card-image{
+ position:absolute;inset:0;width:100%;height:100%;display:block;
+ object-fit:cover;object-position:center;z-index:0;
+ transition:transform .25s ease;
+}
+.card-visual--photo::after{
+ content:"";position:absolute;inset:0;top:0;right:0;
+ background:linear-gradient(to top,rgba(16,33,24,.58),rgba(16,33,24,.03) 60%);
+ opacity:1;z-index:1;pointer-events:none;
+}
+.card-visual--photo span{
+ position:relative;z-index:2;
+ background:rgba(20,44,32,.78);color:#fff;
+ box-shadow:0 2px 12px rgba(15,25,17,.12);
+}
+@media(hover:hover) and (prefers-reduced-motion:no-preference){
+ .post-card:hover .card-visual--photo .card-image{transform:scale(1.035)}
+}
+@media(min-width:771px){.card-visual--photo{height:clamp(166px,14vw,196px)}}
+@media(min-width:531px) and (max-width:770px){.card-visual--photo{height:170px}}
+@media(max-width:530px){.card-visual--photo{height:clamp(180px,49vw,234px)}}
+@media(prefers-reduced-motion:reduce){.card-visual--photo .card-image{transition:none!important}}
