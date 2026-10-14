@@ -846,22 +846,22 @@
       "hub": "sicherheit-verkehr",
       "title": "Warum Eile die falsche Reisebegleitung ist",
       "slug": "warum-eile-die-falsche-reisebegleitung-ist",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 17,
       "keywordHypothesis": "warum eile die falsche reisebegleitung ist",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/warum-eile-die-falsche-reisebegleitung-ist/"
     },
     {
       "id": "DE-078",
       "hub": "sicherheit-verkehr",
       "title": "Straßenoberflächen aufmerksam beurteilen",
       "slug": "strassenoberflaechen-aufmerksam-beurteilen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 18,
       "keywordHypothesis": "straßenoberflächen aufmerksam beurteilen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/strassenoberflaechen-aufmerksam-beurteilen/"
     },
     {
       "id": "DE-079",
