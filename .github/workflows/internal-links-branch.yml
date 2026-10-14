@@ -1,0 +1,51 @@
+name: German Internal Link Branch Build & QA
+on:
+  push:
+    branches:
+      - feature/german-contextual-internal-links-20261015
+permissions:
+  contents: write
+concurrency:
+  group: german-contextual-links-branch-only
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verify protected CNAME and generator syntax
+        run: |
+          test "$(cat CNAME)" = "de.rentbikehanoi.com"
+          node --check scripts/build.mjs
+          node --check scripts/internal-link-graph.mjs
+          node --check scripts/qa-internal-links.mjs
+      - name: Regenerate published output and full internal-link graph
+        run: |
+          node scripts/build.mjs
+          node scripts/internal-link-graph.mjs
+      - name: Full QA and deterministic graph checks
+        run: |
+          node scripts/build.mjs --check
+          node scripts/qa.mjs
+          node scripts/qa-internal-links.mjs
+          node scripts/internal-link-graph.mjs --check
+          node --test tests/site.test.mjs tests/factory.test.mjs
+      - name: Commit generated outputs only to technical branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "german-internal-links[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Generator outputs unchanged"
+            exit 0
+          fi
+          git commit -m "build(german): update hub/main links and audited graph"
+          git push origin HEAD:feature/german-contextual-internal-links-20261015
