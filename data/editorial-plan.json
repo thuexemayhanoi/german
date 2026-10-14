@@ -472,22 +472,22 @@
       "hub": "dokumente-vertrag",
       "title": "Fahrerlaubnisfragen richtig recherchieren",
       "slug": "fahrerlaubnisfragen-richtig-recherchieren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 3,
       "keywordHypothesis": "fahrerlaubnisfragen richtig recherchieren",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/fahrerlaubnisfragen-richtig-recherchieren/"
     },
     {
       "id": "DE-044",
       "hub": "dokumente-vertrag",
       "title": "Internationale Fahrerlaubnis: offizielle Quellen prüfen",
       "slug": "internationale-fahrerlaubnis-offizielle-quellen-pruefen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 4,
       "keywordHypothesis": "internationale fahrerlaubnis: offizielle quellen prüfen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/internationale-fahrerlaubnis-offizielle-quellen-pruefen/"
     },
     {
       "id": "DE-045",
