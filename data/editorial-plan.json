@@ -670,22 +670,22 @@
       "hub": "sicherheit-verkehr",
       "title": "Helm richtig auswählen: Passform und Sicht",
       "slug": "helm-richtig-auswaehlen-passform-und-sicht",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 1,
       "keywordHypothesis": "helm richtig auswählen: passform und sicht",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/helm-richtig-auswaehlen-passform-und-sicht/"
     },
     {
       "id": "DE-062",
       "hub": "sicherheit-verkehr",
       "title": "Defensiv fahren im dichten Stadtverkehr",
       "slug": "defensiv-fahren-im-dichten-stadtverkehr",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 2,
       "keywordHypothesis": "defensiv fahren im dichten stadtverkehr",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/defensiv-fahren-im-dichten-stadtverkehr/"
     },
     {
       "id": "DE-063",
