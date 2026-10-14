@@ -890,22 +890,22 @@
       "hub": "routen-umgebung",
       "title": "Kurze Ausfahrten ab Hanoi planen",
       "slug": "kurze-ausfahrten-ab-hanoi-planen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 1,
       "keywordHypothesis": "kurze ausfahrten ab hanoi planen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/kurze-ausfahrten-ab-hanoi-planen/"
     },
     {
       "id": "DE-082",
       "hub": "routen-umgebung",
       "title": "Route vor Abfahrt überprüfen: praktische Methode",
       "slug": "route-vor-abfahrt-ueberpruefen-praktische-methode",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 2,
       "keywordHypothesis": "route vor abfahrt überprüfen: praktische methode",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/route-vor-abfahrt-ueberpruefen-praktische-methode/"
     },
     {
       "id": "DE-083",
