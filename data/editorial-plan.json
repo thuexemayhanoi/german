@@ -2848,22 +2848,22 @@
       "hub": "abholung-rueckgabe",
       "title": "Rückgabe bei Nacht oder Regen sicher gestalten",
       "slug": "rueckgabe-bei-nacht-oder-regen-sicher-gestalten",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 29,
       "keywordHypothesis": "rueckgabe nacht regen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/rueckgabe-bei-nacht-oder-regen-sicher-gestalten/"
     },
     {
       "id": "DE-260",
       "hub": "abholung-rueckgabe",
       "title": "Gepäckaufbewahrung während der Fahrttage klären",
       "slug": "gepaeckaufbewahrung-waehrend-der-fahrttage-klaeren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 30,
       "keywordHypothesis": "gepaeckaufbewahrung hanoi",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/gepaeckaufbewahrung-waehrend-der-fahrttage-klaeren/"
     },
     {
       "id": "DE-261",
