@@ -1528,22 +1528,22 @@
       "hub": "probleme-hilfe",
       "title": "Probleme vor der Rückgabe melden",
       "slug": "probleme-vor-der-rueckgabe-melden",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 19,
       "keywordHypothesis": "probleme vor der rückgabe melden",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/probleme-vor-der-rueckgabe-melden/"
     },
     {
       "id": "DE-140",
       "hub": "probleme-hilfe",
       "title": "Persönliche Sicherheits- und Kontaktliste",
       "slug": "persoenliche-sicherheits-und-kontaktliste",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 20,
       "keywordHypothesis": "persönliche sicherheits- und kontaktliste",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/persoenliche-sicherheits-und-kontaktliste/"
     },
     {
       "id": "DE-141",
