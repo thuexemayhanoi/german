@@ -1264,22 +1264,22 @@
       "hub": "abholung-rueckgabe",
       "title": "Rückgabe ohne Zeitdruck organisieren",
       "slug": "rueckgabe-ohne-zeitdruck-organisieren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 15,
       "keywordHypothesis": "rückgabe ohne zeitdruck organisieren",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/rueckgabe-ohne-zeitdruck-organisieren/"
     },
     {
       "id": "DE-116",
       "hub": "abholung-rueckgabe",
       "title": "Gemeinsame Kontrolle bei der Rückgabe",
       "slug": "gemeinsame-kontrolle-bei-der-rueckgabe",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 16,
       "keywordHypothesis": "gemeinsame kontrolle bei der rückgabe",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/gemeinsame-kontrolle-bei-der-rueckgabe/"
     },
     {
       "id": "DE-117",
