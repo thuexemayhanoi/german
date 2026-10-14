@@ -1660,22 +1660,22 @@
       "hub": "reiseplanung",
       "title": "Kompakte Checkliste am Vorabend",
       "slug": "kompakte-checkliste-am-vorabend",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 11,
       "keywordHypothesis": "kompakte checkliste am vorabend",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/kompakte-checkliste-am-vorabend/"
     },
     {
       "id": "DE-152",
       "hub": "reiseplanung",
       "title": "Navigation und Akku vor Abfahrt prüfen",
       "slug": "navigation-und-akku-vor-abfahrt-pruefen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 12,
       "keywordHypothesis": "navigation und akku vor abfahrt prüfen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/navigation-und-akku-vor-abfahrt-pruefen/"
     },
     {
       "id": "DE-153",
