@@ -4,7 +4,7 @@
 - Production `main` contains committed generated static HTML. Use `node scripts/build.mjs` followed by `node scripts/build.mjs --check`, tests and QA.
 - Language is native **German (de-DE)**; no multilingual directories or machine-translation clones.
 - `data/editorial-plan.json` has **exactly 200** unique topic slots (10 hubs × 20). Never claim IDEAs are published URLs.
-- `content/posts` contains *approved* static articles. An authorized two-article inbox queue may be published under the owner's standing batch instruction ONLY after the external writer verifies claims and citations and the deterministic factory passes QA >=75 with zero critical errors. The manual editorial CLI still requires its explicit per-ID approval.
+- `content/posts` contains *approved* static articles. An authorized even batch of 2–10 consecutive inbox drafts may be submitted under the owner's standing continuous-writer instruction ONLY after the external AI checks real citations and claims, and every draft passes QA >=75 with zero critical errors. The factory still publishes independently validated two-article pairs. The manual editorial CLI still requires its explicit per-ID approval.
 - Absolutely **no paid AI writer APIs, no API keys, no local/open-source LLM runtime, no scheduled automatic AI writing**. The content factory is a CLI and editorial QA workflow only.
 - `scripts/build.mjs` owns all generated HTML; do not hand-edit pages in output. Source templates and JSON are authoritative.
 - Keep semantic accessible mega menu, responsive header, premium article body/footer; sitemap includes only published HTML.
@@ -13,5 +13,5 @@
 - GitHub Pages only; minimize dependencies and scripts to keep quick performance and operational simplicity.
 
 ## Continuous external writer (standing owner instruction)
-- Read `docs/CONTINUOUS_WRITER.md`. Active AI chat session writes next two articles in native German, source-checks them, QA >=75, pushes two `content/inbox/DE-xxx.json` drafts, waits for factory + Pages, fetches fresh main and immediately repeats while runtime is active.
+- Read `docs/CONTINUOUS_WRITER.md`. Active AI chat session may write an even batch of 2–10 consecutive native German drafts, checks real citations, scores each QA >=75, runs `node scripts/factory.mjs check-batch`, pushes inbox drafts, waits for all two-article checkpoints and Pages, fetches fresh main, and repeats while connected.
 - GitHub Actions is deterministic; it neither generates prose nor calls AI APIs. No perpetual external AI process can be guaranteed when a session ends. Never reset matrix, force push, skip pending repair or publish fictitious citations.

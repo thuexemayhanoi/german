@@ -43,5 +43,5 @@ Publication is never automatically approved. New topics exist in `data/editorial
 
 See [editorial workflow](docs/EDITORIAL_WORKFLOW.md) and [release checklist](docs/RELEASE_CHECKLIST.md).
 
-## Continuous German AI-chat writing — two articles per round
-[Continuous writer and publisher runbook](docs/CONTINUOUS_WRITER.md). A connected ChatGPT/Claude/Mistral/Gemini coding chat writes exactly 2 original German articles, scores each >=75, pushes source drafts, waits for the deterministic GitHub factory to publish and Pages to complete, fetches fresh main and immediately starts the next pair. GitHub Actions does not write articles or call AI APIs. The queue can resume after session interruption.
+## Continuous German AI-chat writing — up to five pairs per handoff
+[Continuous writer and publisher runbook](docs/CONTINUOUS_WRITER.md). A connected ChatGPT/Claude/Mistral/Gemini coding chat writes 2, 4, 6, 8 or 10 original German articles per handoff, verifies real sources, scores each >=75, runs `node scripts/factory.mjs check-batch`, then submits one inbox batch. The factory publishes up to five independent QA-passing pairs in one workflow, then Pages deploys. The external AI refreshes main and starts another handoff. GitHub Actions does not write articles or call AI APIs. The queue can resume after session interruption.

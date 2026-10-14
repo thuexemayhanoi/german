@@ -41,3 +41,4 @@ jobs:
           node scripts/editorial.mjs next --count 3
           node scripts/factory.mjs status
           node scripts/factory.mjs next 2
+          node scripts/factory.mjs check-batch
