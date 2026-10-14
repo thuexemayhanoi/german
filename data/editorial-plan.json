@@ -1330,22 +1330,22 @@
       "hub": "probleme-hilfe",
       "title": "Panne unterwegs: erste sichere Schritte",
       "slug": "panne-unterwegs-erste-sichere-schritte",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 1,
       "keywordHypothesis": "panne unterwegs: erste sichere schritte",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/panne-unterwegs-erste-sichere-schritte/"
     },
     {
       "id": "DE-122",
       "hub": "probleme-hilfe",
       "title": "Vermieter bei Problemen sinnvoll kontaktieren",
       "slug": "vermieter-bei-problemen-sinnvoll-kontaktieren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 2,
       "keywordHypothesis": "vermieter bei problemen sinnvoll kontaktieren",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/vermieter-bei-problemen-sinnvoll-kontaktieren/"
     },
     {
       "id": "DE-123",
