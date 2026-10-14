@@ -2144,22 +2144,22 @@
       "hub": "nachhaltig-reisen",
       "title": "Bewusste Verkehrsmittelwahl in Hanoi",
       "slug": "bewusste-verkehrsmittelwahl-in-hanoi",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 15,
       "keywordHypothesis": "bewusste verkehrsmittelwahl in hanoi",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/bewusste-verkehrsmittelwahl-in-hanoi/"
     },
     {
       "id": "DE-196",
       "hub": "nachhaltig-reisen",
       "title": "Rücksicht auf Fußgänger und Radfahrer",
       "slug": "ruecksicht-auf-fussgaenger-und-radfahrer",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 16,
       "keywordHypothesis": "rücksicht auf fußgänger und radfahrer",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/ruecksicht-auf-fussgaenger-und-radfahrer/"
     },
     {
       "id": "DE-197",
