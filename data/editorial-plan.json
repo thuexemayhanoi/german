@@ -1242,22 +1242,22 @@
       "hub": "abholung-rueckgabe",
       "title": "Was du beim zweiten Blick kontrollierst",
       "slug": "was-du-beim-zweiten-blick-kontrollierst",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 13,
       "keywordHypothesis": "was du beim zweiten blick kontrollierst",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/was-du-beim-zweiten-blick-kontrollierst/"
     },
     {
       "id": "DE-114",
       "hub": "abholung-rueckgabe",
       "title": "Kurze Einweisung vor der Fahrt erbitten",
       "slug": "kurze-einweisung-vor-der-fahrt-erbitten",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 14,
       "keywordHypothesis": "kurze einweisung vor der fahrt erbitten",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/kurze-einweisung-vor-der-fahrt-erbitten/"
     },
     {
       "id": "DE-115",
