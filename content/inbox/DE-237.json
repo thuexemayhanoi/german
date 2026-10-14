@@ -1,0 +1,63 @@
+{
+  "id": "DE-237",
+  "hub": "sicherheit-verkehr",
+  "title": "Erste Hilfe nach einem Zweiradunfall: Orientierung",
+  "slug": "erste-hilfe-nach-einem-zweiradunfall-orientierung",
+  "status": "IDEA",
+  "priority": 27,
+  "keywordHypothesis": "erste hilfe unfall vietnam",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Nach einem Zweiradunfall in Vietnam richtig handeln: Unfallort sichern, Polizei rufen, Erste Hilfe leisten und alle Schritte klar dokumentieren.",
+  "excerpt": "Niemand plant einen Unfall, aber Orientierung im Ernstfall ist Gold wert. Dieser Beitrag erklärt die ersten Schritte nach einem Zweiradunfall in Vietnam: Absichern, Helfen, Polizei rufen, dokumentieren und wie du im Anschluss mit Vermieter und Versicherung kommunizierst.",
+  "sections": [
+    {
+      "heading": "Sofort nach dem Vorfall",
+      "paragraphs": [
+        "Halte zuerst einen Moment inne, atme tief durch und prüfe die Lage. Verletzte Personen haben Vorrang vor jedem Sachschaden. Bewege Verletzte nur, wenn am Unfallort Gefahr besteht, etwa durch weiterfließenden Verkehr. Sichere die Stelle, wo es möglich ist, und mache andere Fahrer durch Zeichen auf die Situation aufmerksam.",
+        "Wenn du selbst verletzt bist, akzeptiere Hilfe und verlasse den Unfallort nicht, um Probleme zu vermeiden. Nach einem Unfall in Vietnam gilt: Die Polizei wird gerufen und die Stelle nicht verlassen, wie das Auswärtige Amt klar empfiehlt. Das schützt dich rechtlich und stellt die ordnungsgemäße Aufnahme des Vorfalls sicher."
+      ]
+    },
+    {
+      "heading": "Erste Hilfe leisten",
+      "paragraphs": [
+        "Bei sichtbaren Blutungen drücke ein sauberes Tuch fest auf die Wunde. Bei Bewusstlosigkeit ohne normale Atmung wird sofort ein Rettungsdienst gerufen und mit der Herzdruckmassage begonnen. Sprich Verletzte ruhig an und lasse sie nicht allein. Auch kleine Handgriffe können warten, bis Hilfe kommt.",
+        "Bewahre als Helfende Ruhe, auch wenn die Situation unübersichtlich wirkt. Frage Umstehende gezielt nach Unterstützung, etwa für das Abhalten des Verkehrs oder das Rufen der Rettung. Die Notrufnummer für medizinische Notfälle in Vietnam ist 115. Wer die Nummer kennt, spart im Ernstfall wertvolle Sekunden."
+      ]
+    },
+    {
+      "heading": "Polizei und Dokumentation",
+      "paragraphs": [
+        "Nach der medizinischen Absicherung folgt die formale Seite. Rufe die Polizei hinzu und schildere den Ablauf sachlich, ohne Schuldzuweisungen. Fotografiere die Unfallstelle aus mehreren Richtungen, die beteiligten Fahrzeuge und sichtbare Schäden. Notiere Namen und Kontakte von Beteiligten und Zeugen, soweit möglich.",
+        "Verändere nichts an den Fahrzeugen, bevor die Aufnahme abgeschlossen ist. Frage nach einer Kopie des Unfallberichts oder einer Bestätigung über die Meldung. Diese Dokumente sind später wichtig für den Vermieter und die Versicherung. Ein geordneter Ablauf am Unfallort verhindert, dass aus einem Vorfall ein langwieriger Streit wird."
+      ]
+    },
+    {
+      "heading": "Mit dem Vermieter kommunizieren",
+      "paragraphs": [
+        "Informiere den Vermieter so früh wie möglich, am besten noch am Unfalltag. Schildere den Vorfall ruhig und teile mit, welche Schritte bereits laufen. Frage, wie mit dem Fahrzeug weiter verfahren werden soll: Abholen, Reparatur oder Rückführung. Klare Kommunikation schützt das Vertrauen auf beiden Seiten.",
+        "Sende die gesammelten Dokumente in einer Übersicht, etwa Fotos, Berichtsnummer und deine Kontaktdaten. Prüfe im Anschluss die im Mietvertrag festgehaltenen Regeln zu Haftung und Versicherung, damit du weißt, welche Kosten auf dich zukommen können. Wer hier transparent handelt, vermeidet spätere Missverständnisse und schließt Streitpunkte frühzeitig aus."
+      ]
+    },
+    {
+      "heading": "Vorbeugung und Vorbereitung",
+      "paragraphs": [
+        "Der beste Umgang mit Unfällen bleibt die Vermeidung. Fahre bei Tageslicht, trage konsequent einen Helm und verzichte auf Alkohol, für den die Null-Promille-Grenze gilt. Das Auswärtige Amt betont, dass ein Großteil der Unfälle nach Einbruch der Dunkelheit geschieht. Deine Planung kann genau hier ansetzen.",
+        "Speichere wichtige Nummern vor der ersten Fahrt offline: Rettungsdienst, Polizei, Vermieter und deine Botschaft. Prüfe, welche Kliniken in deiner Nähe liegen, denn die medizinische Versorgung außerhalb der großen Städte ist begrenzt. Vorbereitung ersetzt im Ernstfall keine Ruhe, aber sie verschafft dir Luft zum klaren Denken."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "title": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

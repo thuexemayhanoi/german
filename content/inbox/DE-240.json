@@ -1,0 +1,63 @@
+{
+  "id": "DE-240",
+  "hub": "sicherheit-verkehr",
+  "title": "Kliniken und Gesundheitshilfe in Hanoi finden",
+  "slug": "kliniken-und-gesundheitshilfe-in-hanoi-finden",
+  "status": "IDEA",
+  "priority": 30,
+  "keywordHypothesis": "klinik hanoi notfall",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Gesundheitshilfe in Hanoi vorbereiten: Kliniken, Apotheken, Notfallnummern und Dokumente. So bist du im Ernstfall schnell versorgt und weißt, wohin.",
+  "excerpt": "Vor der ersten Fahrt mit dem Mietroller lohnt ein Blick auf die Gesundheitsversorgung: Welche Kliniken gibt es in Hanoi, welche Nummern gelten im Notfall und welche Dokumente du dabeihaben solltest, liest du hier.",
+  "sections": [
+    {
+      "heading": "Warum Vorbereitung zählt",
+      "paragraphs": [
+        "Im Ernstfall zählt jede Minute. Wer schon weiß, welche Einrichtungen in der Nähe seiner Unterkunft liegen und welche Nummern gelten, handelt im Stress klarer. Das Auswärtige Amt betont in seinen Reisehinweisen, dass die medizinische Versorgung außerhalb der großen Städte begrenzt ist. In Hanoi selbst ist die Auswahl besser, eine Vorauswahl triffst du trotzdem am besten vor der Fahrt.",
+        "Notiere dir zwei oder drei Ziele für unterschiedliche Fälle: eine Klinik für Notfälle, eine Praxis für kleinere Beschwerden und eine Apotheke im Viertel. Wer diese Liste offline speichert, ist auch ohne mobile Daten abgesichert. Ergänze die Kontaktdaten deines Vermieters, der im Zweifel schnell weiterhilft und Empfehlungen kennt."
+      ]
+    },
+    {
+      "heading": "Notfallnummern kennen",
+      "paragraphs": [
+        "In Vietnam gilt 115 als Notrufnummer für medizinische Notfälle. Zusätzlich lohnt es sich, die Notfallkontakte deiner Reiseversicherung offline zu speichern und die Botschaft oder das Konsulat deines Landes zu kennen. Das Auswärtige Amt informiert auf seiner Vietnamsseite über wichtige Anlaufstellen für Reisende.",
+        "Vereinbare vor der ersten Fahrt mit deinen Mitreisenden, wer im Notfall ruft und wer vor Ort bleibt. Klare Rollen vermeiden im Chaos Doppelarbeit. Speichert die Nummern auf mehreren Geräten, nicht nur auf einem Smartphone, denn Akkus sind gerade leer, wenn man sie braucht."
+      ]
+    },
+    {
+      "heading": "Kliniken in Hanoi auswählen",
+      "paragraphs": [
+        "In Hanoi gibt es internationale Kliniken mit englischsprachigem Personal sowie lokale Krankenhäuser mit unterschiedlicher Ausstattung. Für Reisende sind Einrichtungen mit Erfahrung im Umgang mit internationalen Patienten häufig der schnellste Weg zur Behandlung. Bewertungen und Hinweise anderer Reisender helfen bei der Vorauswahl, ersetzen aber keine eigene Prüfung.",
+        "Frage im Hotel oder im Verleih nach Erfahrungen mit nahe gelegenen Einrichtungen. Wer im Alltag vor Ort lebt, kennt die Wege und weiß, welche Adressen erreichbar sind. Notiere die genaue Adresse inklusive Bezirk, weil in Hanoi gleiche Straßennamen mehrfach vorkommen können."
+      ]
+    },
+    {
+      "heading": "Dokumente und Bezahlung",
+      "paragraphs": [
+        "Trage eine Kopie deines Reisepasses bei dir und bewahre das Original sicher auf, denn Dokumente sollten nicht als Pfand beim Verleih liegen bleiben. Auch die Versicherungskarte oder die Notfallnummer deiner Reiseversicherung gehören in die Tasche. Behalte Rechnungen und Berichte jeder Behandlung, denn Versicherungen erstatten nur mit vollständigen Belegen.",
+        "Kläre vor der Abreise, welche Leistungen deine Reiseversicherung übernimmt und ob sie direkte Abrechnungen mit Kliniken unterstützt. Frage in der Klinik nach den Zahlungsarten, bevor eine Behandlung beginnt. Wer diese Punkte kennt, vermeidet böse Überraschungen in einer ohnehin belastenden Situation."
+      ]
+    },
+    {
+      "heading": "Kleine Beschwerden unterwegs",
+      "paragraphs": [
+        "Apotheken sind in Hanoi weit verbreitet und beraten häufig auch zu einfachen Beschwerden. Bei hitzebedingten Problemen, kleineren Schürfwunden oder Magenbeschwerden hilft eine gut sortierte Reiseapotheke, die du vor der Fahrt zusammenstellst. Behandle kleine Wunden ernst und halte sie sauber, gerade im warmen und feuchten Klima.",
+        "Nach einem Sturz mit dem Roller gilt: Lass auch kleinere Verletzungen an Kopf oder Gelenken ärztlich prüfen, wenn Schwindel, Schmerzen oder Schwellungen auftreten. Die offizielle Tourismusseite Vietnam Travel empfiehlt, Transporte und Wege im Voraus zu planen. Diese Routine schützt auch deine Gesundheit, weil sie Hektik aus dem Ernstfall nimmt."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "title": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

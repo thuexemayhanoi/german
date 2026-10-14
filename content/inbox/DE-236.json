@@ -1,0 +1,63 @@
+{
+  "id": "DE-236",
+  "hub": "sicherheit-verkehr",
+  "title": "Unfallrisiko Roller in Vietnam ehrlich einschätzen",
+  "slug": "unfallrisiko-roller-in-vietnam-ehrlich-einschaetzen",
+  "status": "IDEA",
+  "priority": 26,
+  "keywordHypothesis": "unfallrisiko roller vietnam",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Das Unfallrisiko auf dem Roller in Vietnam ehrlich einschätzen: Risikofaktoren, sichere Gewohnheiten und eine realistische Selbsteinschätzung für Reisende.",
+  "excerpt": "Zweiräder sind in Vietnam alltäglich, das Risiko bleibt trotzdem real. Wer die Hauptfaktoren kennt, fährt klüger: Dunkelheit, Geschwindigkeit, Unbekanntheit und Ermüdung. Dieser Beitrag hilft dir, dein eigenes Risiko nüchtern zu bewerten und deine Fahrten entsprechend zu gestalten.",
+  "sections": [
+    {
+      "heading": "Ein ehrlicher Blick auf die Lage",
+      "paragraphs": [
+        "Die Zahl der Verkehrsunfälle in Vietnam ist hoch, und Zweiräder sind stark betroffen. Das Auswärtige Amt rät in seinen Reisehinweisen zu großer Vorsicht im Straßenverkehr und weist darauf hin, dass ein erheblicher Teil der Unfälle nach Einbruch der Dunkelheit geschieht. Diese Fakten schrecken nicht davon ab zu fahren, aber sie verdienen ehrliche Beachtung in deiner Planung.",
+        "Risiko bedeutet nicht Verbot, sondern Respekt. Wer die eigene Fahrt so gestaltet, dass die Hauptfaktoren gemieden werden, fährt deutlich sicherer. Der Unterschied zwischen einem gelungenen Urlaub und einem Krankenhausaufenthalt liegt selten im Zufall, sondern meist in gewohnheitsmäßigen Entscheidungen wie der Uhrzeit, der Route und dem Tempo."
+      ]
+    },
+    {
+      "heading": "Die wichtigsten Risikofaktoren",
+      "paragraphs": [
+        "Dunkelheit steht weit oben. Schlechte Sicht, unbeleuchtete Fahrzeuge und Ermüdung treffen am Abend zusammen. Geschwindigkeit kommt direkt danach: Ein hohes Tempo verkürzt die Reaktionszeit in einem Verkehr, der ohnehin unvorhersehbar ist. Beide Faktoren lassen sich durch einfache Planung fast vollständig vermeiden.",
+        "Unbekanntheit gehört ebenfalls dazu. Neue Straßen, ungewohnte Verkehrsabläufe und ein fremdes Fahrzeug belasten die Konzentration in den ersten Tagen deutlich. Auch Alkohol bleibt ein Faktor, weshalb für Zweiradfahrer die Null-Promille-Grenze gilt. Wer diese Liste kennt, kann das eigene Verhalten gezielt anpassen."
+      ]
+    },
+    {
+      "heading": "Selbsteinschätzung ohne Beschönigung",
+      "paragraphs": [
+        "Beantworte dir vor der Miete ehrlich: Wie erfahren fahre ich wirklich, und wie sicher bin ich im dichten Stadtverkehr? Fahrerfahrung aus ruhigen Gegenden übersetzt sich nicht automatisch nach Hanoi. Wer unsicher ist, beginnt mit kurzen Fahrten auf ruhigen Straßen und weitet sich langsam aus. Ehrlichkeit mit sich selbst ist hier ein echter Schutzfaktor.",
+        "Beobachte deinen eigenen Zustand täglich. Ermüdung, Hitze, Hunger und Stress wirken unterschwellig und steigen über den Tag. Plane Fahrten in die Stunden, in denen du konzentriert bist, und lege Pausen ein, wenn die Aufmerksamkeit sinkt. Der Druck, einen Zeitplan zu erreichen, ist der schlechteste Beifahrer."
+      ]
+    },
+    {
+      "heading": "Gewohnheiten, die das Risiko senken",
+      "paragraphs": [
+        "Fahre bei Tageslicht, mit moderater Geschwindigkeit und mit defensivem Blick nach vorn. Halte Abstand zu Bussen und Lastwagen, die große Sichtfelder verdecken und breite blinde Zonen haben. Ein gut sitzender Helm gehört bei jeder Fahrt dazu, denn er ist gesetzliche Pflicht und zugleich der wirksamste Schutz bei einem Sturz.",
+        "Kommuniziere deine Absichten: früh die Fahrtrichtung annehmen, Blinker nutzen und Blickkontakt suchen. Das Auswärtige Amt empfiehlt außerdem, Gegenstände wie Taschen sicher zu verwahren, da es gelegentlich zu Diebstählen durch vorbeirauschende Zweiradfahrer kommt. Kleine Routinen senken das Risiko spürbar, ohne die Freude am Fahren zu mindern."
+      ]
+    },
+    {
+      "heading": "Wenn es doch passiert",
+      "paragraphs": [
+        "Auch bei guter Vorbereitung bleibt ein Restrisiko. Deshalb gehört zur ehrlichen Einschätzung auch die Antwort auf die Frage: Was tun nach einem Unfall? Das Auswärtige Amt rät, die Polizei zu rufen und die Unfallstelle nicht zu verlassen, bis die Situation geklärt ist. Bewahre Ruhe und dokumentiere den Vorfall mit Fotos.",
+        "Trage die wichtigsten Nummern offline mit dir, darunter die Kontaktdaten deines Vermieters. Die medizinische Versorgung ist außerhalb der großen Städte begrenzt, wie offizielle Hinweise betonen. Wer überlegt handelt und vorbereitet ist, meistert auch schwierige Momente klarer. Ehrliche Risikoeinschätzung endet nicht bei der Vorsorge, sondern umfasst den Ernstfall mit."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "title": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

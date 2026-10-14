@@ -1,0 +1,63 @@
+{
+  "id": "DE-235",
+  "hub": "sicherheit-verkehr",
+  "title": "Alkohol und Zweiradfahren: keine Risiken eingehen",
+  "slug": "alkohol-und-zweiradfahren-keine-risiken-eingehen",
+  "status": "IDEA",
+  "priority": 25,
+  "keywordHypothesis": "alkohol roller vietnam",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Für Zweiradfahrer gilt in Vietnam eine Null-Promille-Grenze. Dieser Beitrag erklärt die Regel, die Folgen und wie du Abende mit Fahrten sauber trennst.",
+  "excerpt": "Ein Bier am Abend und trotzdem der Roller zur Unterkunft? In Vietnam ist das für Zweiradfahrer tabu. Erfahre, was die Null-Promille-Regel bedeutet, wie du Abende planst und welche Alternativen es gibt, wenn ein Fest ansteht.",
+  "sections": [
+    {
+      "heading": "Was die Null-Promille-Regel bedeutet",
+      "paragraphs": [
+        "Für Fahrer motorisierter Zweiräder gilt in Vietnam eine strikte Null-Promille-Grenze. Das Auswärtige Amt nennt diese Regelung in seinen Reisehinweisen klar und ohne Ausnahmen. Schon ein einzelnes Glas kann ausreichend sein, um die Grenze zu überschreiten. Wer mit einem Mietroller unterwegs ist, fährt an Tagen mit Fahrten am besten vollständig ohne Alkohol.",
+        "Anders als in manchen europäischen Ländern gibt es keinen geduldeten Restwert. Die Regel gilt für Fahrer und Mitfahrer gleichermaßen und wird bei Kontrollen auch durchgesetzt. Bußgelder, Unfallfragen und Ärger mit dem Vermieter sind die möglichen Folgen. Am einfachsten vermeidest du das alles, indem du Fahren und Trinken konsequent trennst."
+      ]
+    },
+    {
+      "heading": "Warum die Grenze so streng ist",
+      "paragraphs": [
+        "Zweiräder bieten kaum Schutz. Schon geringe Mengen verlangsamen Reaktionen und stören das Gleichgewicht, zwei Fähigkeiten, die im Verkehr Hanois über Sicherheit entscheiden. Die Zahl der Verkehrsunfälle im Land ist hoch, und ein Großteil davon geschieht nach Einbruch der Dunkelheit, wie das Auswärtige Amt betont. Alkohol verstärkt genau diese Risikofaktoren.",
+        "Wer unter Einfluss fährt, riskiert nicht nur die eigene Gesundheit, sondern auch die anderer. Im Schadensfall kommen rechtliche Schritte, Kosten und der Verlust des Versicherungsschutzes hinzu. Mietverträge schließen Fahren unter Einfluss in aller Regel ausdrücklich aus. Eine konsequente Haltung spart dir im Ernstfall Geld, Nerven und Gesundheit."
+      ]
+    },
+    {
+      "heading": "Abende klug planen",
+      "paragraphs": [
+        "Plane dein Programm so, dass Fahrten und Feiern nicht auf denselben Tag fallen. Besuche Restaurants und Bars in Gehweite deiner Unterkunft, wenn du an dem Abend trinken möchtest. In Hanoi sind viele Ausgehviertel kompakt, und ein kurzer Fußweg ersetzt jede Fahrt. Solche Entscheidungen triffst du am besten vor dem ersten Getränk.",
+        "Vereinbare mit Begleitern im Voraus, wer an einem Abend fährt und wer nicht. Wer der Fahrer des Abends ist, bleibt konsequent nüchtern. Diese Absprache wirkt zuerst übertrieben ernst, zahlt sich aber aus, sobald der Abend später wird und die Rückfahrt ansteht."
+      ]
+    },
+    {
+      "heading": "Alternativen zum Selbstfahren",
+      "paragraphs": [
+        "Für den Heimweg gibt es in Hanoi einfache Alternativen. Taxis und Fahrdienste sind weit verbreitet und in den Abendstunden leicht verfügbar. Wer den Standort der Unterkunft notiert hat, vermeidet Sprachprobleme auf der Fahrt. Die Kosten dafür sind überschaubar und deutlich günstiger als die Folgen eines Unfalls.",
+        "Auch der Roller muss untergebracht werden: Frage den Vermieter im Voraus, ob du das Fahrzeug sicher in der Nähe abstellen kannst, und nutze bewachte Parkplätze. Am nächsten Morgen fährst du dann mit klarem Kopf ab. So bleibt der Abend entspannt und der Mietvertrag unberührt."
+      ]
+    },
+    {
+      "heading": "Verantwortung auch unterwegs",
+      "paragraphs": [
+        "Auf Ausflügen gilt dieselbe Disziplin. Bei mehrtägigen Touren gehört der Verzicht selbstverständlich zur Tagesplanung, auch wenn lokale Begleiter dazu einladen. Wer eigene Grenzen kennt und klar kommuniziert, wird in der Regel respektiert. Ein höfliches Nein ist einfacher als jede Entschuldigung nach einem Vorfall.",
+        "Die offizielle Tourismusseite Vietnam Travel empfiehlt, Transportwege vorab zu planen. Nutze das auch für die Abende: Wer weiß, wie er nach Hause kommt, genießt das Getränk mit ruhigem Gewissen. Sicherheit entsteht selten durch Verbote allein, sondern durch klare Entscheidungen, die du vor der Situation triffst."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "title": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

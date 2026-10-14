@@ -1,0 +1,63 @@
+{
+  "id": "DE-238",
+  "hub": "sicherheit-verkehr",
+  "title": "Sozius sicher mitnehmen: Position und Ablauf",
+  "slug": "sozius-sicher-mitnehmen-position-und-ablauf",
+  "status": "IDEA",
+  "priority": 28,
+  "keywordHypothesis": "sozius roller sicher",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Einen Sozius sicher mitnehmen: Position, Aufsteigen, Kommunikation und Helm. So gelingt die gemeinsame Fahrt mit dem Mietroller in Hanoi.",
+  "excerpt": "Zu zweit unterwegs sein klingt entspannt, verlangt aber Vorbereitung. Wie dein Beifahrer richtig aufsteigt, sitzt und mit dir kommuniziert, erklärt dieser Beitrag für sichere Fahrten zu zweit auf dem Mietroller.",
+  "sections": [
+    {
+      "heading": "Vor der Fahrt klären",
+      "paragraphs": [
+        "Nimm nur Personen mit, die mit dem Verkehr in Vietnam vertraut sind oder ausdrücklich bereit sind, deine Regeln zu befolgen. Kläre vor dem Start, wie ihr euch während der Fahrt verständigt und wer Entscheidungen trifft. Ein kurzes Gespräch von zwei Minuten verhindert später gefährliche spontane Bewegungen auf dem Sitz.",
+        "Prüfe das Fahrzeug: Manche Mietroller sind für den Soziusbetrieb besser geeignet als andere. Genügend Platz, stabile Trittbretter und ein zweiter Helm gehören zur Grundausstattung. Ohne zweiten passenden Helm darf niemand mitfahren, denn die Helmpflicht gilt auch für Mitfahrer. Bei Unsicherheit erbittest du einen kurzen Test im Hof der Verleihstation."
+      ]
+    },
+    {
+      "heading": "Richtig aufsteigen",
+      "paragraphs": [
+        "Der Fahrer sitzt zuerst, hält das Fahrzeug mit beiden Händen und beiden Füßen stabil. Der Sozius steigt erst auf, wenn das Fahrzeug steht, am besten von der linken Seite, und setzt sich mittig hinter den Fahrer. Beide Füße bleiben auf den Trittbrettern, bis die Fahrt beginnt.",
+        "Beim Anfahren gilt: kein Grund zur Eile. Starte ruhig und geradeaus, um der Person hinter dir Halt zu geben. Enge Kurven fährst du langsam und kontrolliert, bis beide ein Gefühl für das Fahrzeug entwickelt haben. Die ersten Minuten einer gemeinsamen Fahrt sind eine Eingewöhnung, kein Wettrennen."
+      ]
+    },
+    {
+      "heading": "Die richtige Position",
+      "paragraphs": [
+        "Der Sozius sitzt eng hinter dem Fahrer, ohne ihn beim Lenken zu behindern. Die Hände halten sich am Griff hinter dem Sitz oder leicht an der Hüfte des Fahrers. Starke Eigenbewegungen, etwa das Mitlenken mit dem Oberkörper, stören die Balance und sind tabu. Ruhige Körperspannung macht die Fahrt für beide leichter.",
+        "Der Fahrer kündigt Bremsungen früh an, damit der Sozius sich vorbereiten kann. Ein kurzes Wort genügt, bevor es losgeht, langsamer wird oder eine Kurve ansteht. Die Person hinten soll sich auf Halt und Balance konzentrieren und muss nicht selbst den Verkehr im Blick behalten."
+      ]
+    },
+    {
+      "heading": "Kommunikation unterwegs",
+      "paragraphs": [
+        "Vereinbart klare kurze Signale: ein Klopfen für den Stoppwunsch, ein Wort für langsamer. Unterwegs ist der Fahrwind laut, und lange Gespräche funktionieren ohnehin nicht. Für die Navigation ist der Fahrer zuständig, für das Wohlbefinden darf der Sozius jederzeit ein Pausensignal geben.",
+        "Plane bei Fahrten zu zweit häufiger Pausen ein, denn der Sozius ermüdet schneller als der Fahrer. Auch Hitze und der Geräuschpegel der Stadt kosten Kraft. Eine gemeinsame Fahrt funktioniert gut, wenn beide ihre Bedürfnisse ansprechen, bevor Erschöpfung zur Gefahr wird. Pausen sind zugleich Gelegenheiten, die Stimmung zu prüfen."
+      ]
+    },
+    {
+      "heading": "Sicherheit geht vor",
+      "paragraphs": [
+        "Fahre nur mit angegurtetem Helm für beide. Das Auswärtige Amt bestätigt die landesweite Helmpflicht für Fahrer und Mitfahrer und rät zu vorsichtiger Fahrweise im gesamten Straßenverkehr. Bei Unsicherheit des Sozius reduzierst du Tempo und Strecke, statt Ansprüche an den Tag zu legen.",
+        "Die offizielle Tourismusseite Vietnam Travel empfiehlt, Transportwege im Voraus zu planen. Übertrage das auf eure Fahrt: kurze Strecken, klare Ziele, ruhige Zeiten. So bleibt die gemeinsame Fahrt das, was sie sein soll: eine bequeme Art, Hanoi zu zweit zu erleben."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "title": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

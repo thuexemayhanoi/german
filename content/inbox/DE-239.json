@@ -1,0 +1,63 @@
+{
+  "id": "DE-239",
+  "hub": "sicherheit-verkehr",
+  "title": "Regenzeit und rutschige Straßen sicher managen",
+  "slug": "regenzeit-und-rutschige-strassen-sicher-managen",
+  "status": "IDEA",
+  "priority": 29,
+  "keywordHypothesis": "regenfahrt roller vietnam",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Regenzeit in Hanoi: nasse Fahrbahnen, plötzliche Schauer und rutschige Straßen sicher managen. Praktische Tipps für Fahrten mit dem Mietroller im Regen.",
+  "excerpt": "In Hanoi kann das Wetter innerhalb von Minuten kippen. Nasse Fahrbahnen, Ölfilme und überschwemmte Straßenzüge verlangen eine eigene Fahrweise. Dieser Beitrag zeigt, wie du Regengüsse einschätzt, wann du pausierst und wie du sicher durch die Regenzeit kommst.",
+  "sections": [
+    {
+      "heading": "Die Regenzeit verstehen",
+      "paragraphs": [
+        "In Nordvietnam gibt es klare Regenzeiten mit heftigen, aber meist kurzen Güßen. Oft regnet es am Nachmittag oder Abend, während die Vormittage trocken bleiben. Wer die typischen Muster kennt, plant Fahrten in trockene Fenster und vermeidet das Fahren mitten im Schauer. Beobachte den Himmel und den Wetterbericht über den Tag verteilt.",
+        "Die ersten Minuten eines Regens sind am heikelsten. Staub, Öl und Gummiabrieb bilden auf der Fahrbahn einen gefährlichen Film, bevor der Regen sie abwäscht. Bremswege verlängern sich deutlich, und Fahrbahnmarkierungen sowie Gullideckel werden glitschig. Nach einer halben Stunde Regen sinkt das Risiko etwas, die Vorsicht bleibt aber bestehen."
+      ]
+    },
+    {
+      "heading": "Fahrweise auf nassen Straßen",
+      "paragraphs": [
+        "Reduziere das Tempo früh und deutlich. Bremsen sanft und über beide Bremsen verteilt, ohne die Räder zu blockieren. Kurven fährst du mit konstantem, niedrigem Tempo und ohne Lastwechsel mitten in der Kurve. Ein defensiver Abstand zu den Fahrzeugen vor dir gibt dir Zeit zum Reagieren, wenn etwas unerwartet passiert.",
+        "Meide unbeleuchtete Fahrzeuge, scharfe Bordsteine und Pfützen, deren Tiefe du nicht kennst. Unter Wasser können sich Löcher oder Deckel verbergen. Fahre nicht durch stehendes Wasser, wenn du die Tiefe nicht siehst, und suche stattdessen einen Umweg. Besser ein Umweg als die verlorene Kontrolle über das Fahrzeug."
+      ]
+    },
+    {
+      "heading": "Sichtbarkeit und Schutz",
+      "paragraphs": [
+        "Regen mindert die Sicht für alle Beteiligten. Trage helle Kleidung oder eine Regenjacke mit reflektierenden Elementen und fahre mit Licht, auch am Tag. Ein Visier oder eine Regenbrille hilft gegen die Tropfen im Gesicht. Wer gesehen wird, wird seltener übersehen, und das macht nasse Fahrten deutlich sicherer.",
+        "Ein trockenes Ersatzshirt in einer wasserdichten Tasche gehört in der Regenzeit in jede Ausrüstung. Elektronik wie das Smartphone und deine Papiere packst du wasserfest ein. Nässe kühlt aus, und durchnässte Kleidung macht unruhig und unachtsam. Wer trocken bleibt, fährt konzentrierter."
+      ]
+    },
+    {
+      "heading": "Pausieren statt durchhalten",
+      "paragraphs": [
+        "Bei einem heftigen Schauer ist Anhalten oft die bessere Entscheidung. Suche einen überdachten Platz abseits der Fahrbahn und warte, bis der Regen nachlässt. Viele Güsse dauern nur zwanzig bis vierzig Minuten. Eine Pause mit einem Getränk ist angenehmer als eine riskante Fahrt mit halber Sicht.",
+        "Plane für die Regenzeit großzügige Zeitpuffer ein, damit eine Pause keine Termine gefährdet. Das Auswärtige Amt rät generell zu vorsichtiger Fahrweise und weist darauf hin, dass ein Großteil der Verkehrsunfälle nach Einbruch der Dunkelheit geschieht. Nasse Straßen in der Dunkelheit sind die schlechteste Kombination."
+      ]
+    },
+    {
+      "heading": "Vorbereitung vor der Fahrt",
+      "paragraphs": [
+        "Prüfe bei der Übergabe die Bereifung des Mietfahrzeugs. Profiltiefe und Luftdruck der Reifen machen auf nassem Untergrund einen erheblichen Unterschied. Frage den Vermieter nach dem Zustand der Bremsen und teste sie auf den ersten Metern. Ein gepflegtes Fahrzeug ist in der Regenzeit die halbe Miete.",
+        "Die offizielle Tourismusseite Vietnam Travel empfiehlt, Transportwege vorab zu planen. In der Regenzeit zahlt sich das doppelt aus: Du kennst Ausweichrouten, findest überdachte Pausenorte und gerätst nicht unter Zeitdruck. Wer den Regen als Teil der Reise akzeptiert, bleibt gelassen und fährt entsprechend sicher."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "title": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
