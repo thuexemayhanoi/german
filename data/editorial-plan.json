@@ -1748,22 +1748,22 @@
       "hub": "reiseplanung",
       "title": "Reiseplanung ohne starre Kilometerziele",
       "slug": "reiseplanung-ohne-starre-kilometerziele",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 19,
       "keywordHypothesis": "reiseplanung ohne starre kilometerziele",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/reiseplanung-ohne-starre-kilometerziele/"
     },
     {
       "id": "DE-160",
       "hub": "reiseplanung",
       "title": "Ruhiger Start in den ersten Fahrtag",
       "slug": "ruhiger-start-in-den-ersten-fahrtag",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 20,
       "keywordHypothesis": "ruhiger start in den ersten fahrtag",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/ruhiger-start-in-den-ersten-fahrtag/"
     },
     {
       "id": "DE-161",
