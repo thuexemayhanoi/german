@@ -2298,22 +2298,22 @@
       "hub": "fahrzeugwahl",
       "title": "Hubraum und Fahrzeuggröße für Stadtfahrten einordnen",
       "slug": "hubraum-und-fahrzeuggroesse-fuer-stadtfahrten-einordnen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 29,
       "keywordHypothesis": "hubraum roller stadtverkehr",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/hubraum-und-fahrzeuggroesse-fuer-stadtfahrten-einordnen/"
     },
     {
       "id": "DE-210",
       "hub": "fahrzeugwahl",
       "title": "Kraftstoffverbrauch bei Mietfahrzeugen richtig abschätzen",
       "slug": "kraftstoffverbrauch-bei-mietfahrzeugen-richtig-abschaetzen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 30,
       "keywordHypothesis": "kraftstoffverbrauch roller vietnam",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/kraftstoffverbrauch-bei-mietfahrzeugen-richtig-abschaetzen/"
     },
     {
       "id": "DE-211",
