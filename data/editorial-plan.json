@@ -274,22 +274,22 @@
       "hub": "mietpreise-kaution",
       "title": "Kraftstoffregelung bei der Miete prüfen",
       "slug": "kraftstoffregelung-bei-der-miete-pruefen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 5,
       "keywordHypothesis": "kraftstoffregelung bei der miete prüfen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/kraftstoffregelung-bei-der-miete-pruefen/"
     },
     {
       "id": "DE-026",
       "hub": "mietpreise-kaution",
       "title": "Zubehör im Mietpreis: worauf achten?",
       "slug": "zubehoer-im-mietpreis-worauf-achten",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 6,
       "keywordHypothesis": "zubehör im mietpreis: worauf achten?",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/zubehoer-im-mietpreis-worauf-achten/"
     },
     {
       "id": "DE-027",
