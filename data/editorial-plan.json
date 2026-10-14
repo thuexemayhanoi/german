@@ -2606,22 +2606,22 @@
       "hub": "sicherheit-verkehr",
       "title": "Erste Hilfe nach einem Zweiradunfall: Orientierung",
       "slug": "erste-hilfe-nach-einem-zweiradunfall-orientierung",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 27,
       "keywordHypothesis": "erste hilfe unfall vietnam",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/erste-hilfe-nach-einem-zweiradunfall-orientierung/"
     },
     {
       "id": "DE-238",
       "hub": "sicherheit-verkehr",
       "title": "Sozius sicher mitnehmen: Position und Ablauf",
       "slug": "sozius-sicher-mitnehmen-position-und-ablauf",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 28,
       "keywordHypothesis": "sozius roller sicher",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/sozius-sicher-mitnehmen-position-und-ablauf/"
     },
     {
       "id": "DE-239",
