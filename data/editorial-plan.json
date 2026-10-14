@@ -450,22 +450,22 @@
       "hub": "dokumente-vertrag",
       "title": "Mietvertrag verstehen: welche Klauseln prüfen?",
       "slug": "mietvertrag-verstehen-welche-klauseln-pruefen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 1,
       "keywordHypothesis": "mietvertrag verstehen: welche klauseln prüfen?",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/mietvertrag-verstehen-welche-klauseln-pruefen/"
     },
     {
       "id": "DE-042",
       "hub": "dokumente-vertrag",
       "title": "Dokumente für die Anmietung vorbereiten",
       "slug": "dokumente-fuer-die-anmietung-vorbereiten",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 2,
       "keywordHypothesis": "dokumente für die anmietung vorbereiten",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/dokumente-fuer-die-anmietung-vorbereiten/"
     },
     {
       "id": "DE-043",
