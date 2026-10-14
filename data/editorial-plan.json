@@ -1616,22 +1616,22 @@
       "hub": "reiseplanung",
       "title": "Reiseunterlagen offline verfügbar machen",
       "slug": "reiseunterlagen-offline-verfuegbar-machen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 7,
       "keywordHypothesis": "reiseunterlagen offline verfügbar machen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/reiseunterlagen-offline-verfuegbar-machen/"
     },
     {
       "id": "DE-148",
       "hub": "reiseplanung",
       "title": "Abholung in den Tagesplan integrieren",
       "slug": "abholung-in-den-tagesplan-integrieren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 8,
       "keywordHypothesis": "abholung in den tagesplan integrieren",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/abholung-in-den-tagesplan-integrieren/"
     },
     {
       "id": "DE-149",
