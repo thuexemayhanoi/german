@@ -1,0 +1,63 @@
+{
+  "hub": "routen-umgebung",
+  "status": "IDEA",
+  "intent": "informational",
+  "publishedUrl": null,
+  "date": "2026-10-14",
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "id": "DE-250",
+  "priority": 30,
+  "keywordHypothesis": "strassen flut hanoi regen",
+  "title": "Überschwemmte Straßen nach Starkregen umfahren",
+  "slug": "ueberschwemmte-strassen-nach-starkregen-umfahren",
+  "description": "Nach Starkregen stehen Straßen in Hanoi oft unter Wasser. Wie du überflutete Abschnitte erkennst, sicher umfährst und wann du besser pausierst.",
+  "excerpt": "Starkregen kann Straßen in Hanoi innerhalb von Minuten unter Wasser setzen. Tiefe Stellen, offene Gullideckel und Stromausfälle lauern. Dieser Beitrag erklärt, wie du überflutete Abschnitte erkennst und klug umgehst.",
+  "sections": [
+    {
+      "heading": "Warum Straßen überfluten",
+      "paragraphs": [
+        "Hanois Entwässerung kommt bei heftigen Schauern zeitweise an Grenzen, besonders in tief liegenden Straßenzügen. Innerhalb von Minuten können Kreuzungen knietief stehen. Das Wasser fließt langsam ab, doch die Zwischenzeit verlangt von Fahrern Aufmerksamkeit, denn die Straße gibt ihre Tiefe nicht preis.",
+        "Für Rollerfahrer ist Flutwasser ein Sonderfall: Der Roller ist leicht und sein Motor tief verbaut. Schon mittelhohes Wasser kann den Auslauf verschlucken und Elektronik erreichen. Die Grundregel lautet daher, die Höhe des Wassers immer zuerst von außen zu bewerten und im Zweifel umzukehren."
+      ]
+    },
+    {
+      "heading": "Gefahren erkennen",
+      "paragraphs": [
+        "Beobachte andere Fahrzeuge, bevor du eine geflutete Stelle befährst. Autos und Busse zeigen mit ihren Kofferräumen und Wellen, wie tief es wirklich ist. Treibendes Geröll, wirbelnde Strudel über offenen Gullis und quer fließende Wasser deuten auf Stellen hin, die du nicht befahren solltest. Wer Autos durch die Mitte folgen sieht, weiß meist genug.",
+        "Achte auf Bushaltestellen und Bordsteine als Höhenreferenz. Ist das Wasser am Bordstein, bleibt für den Roller wenig Luft. Bedecke Kanaldeckel sind tückisch, weil sie unter Wasser verschwinden. Fahren im Regen verlangt generell reduziertes Tempo und weiche Bremsungen, und in Flutwasser kommt die Sorge vor Unsichtbarem hinzu."
+      ]
+    },
+    {
+      "heading": "Sicher umfahren oder warten",
+      "paragraphs": [
+        "Meist gibt es eineParallelstraße, die höher liegt oder besser entwässert. Ein kleiner Umweg kostet Minuten und spart Reparaturen. Nutze eine Offline-Karte für Alternativen, aber vertraue auch dem lokalen Fluss: Wo Fußgänger und Cafés trockenen Fußes unterwegs sind, ist die Straße meist passierbar.",
+        "Ist keine Umgehung in Sicht, warte. Regen in Hanoi kommt oft in Schauern, und nach einer halben Stunde sinkt der Spiegel spürbar. Ein Café mit überdachtem Bereich ist die beste Warteposition, und dein Roller steht derweil erhöht und abseits des Hauptverkehrs. Geduld ist hier die schnellste Route."
+      ]
+    },
+    {
+      "heading": "Wenn du durch musst",
+      "paragraphs": [
+        "Sollte eine kurze Durchfahrt unumgänglich sein, fahre langsam und gleichmäßig im unteren Drehzahlbereich, ohne Gasstoße. Meide die tiefste Rinne der Fahrbahn und halte Abstand zu vorausfahrenden Fahrzeugen, deren Wellen höher reichen als das Wasser selbst. Nach der Durchfahrt trockne die Bremsen durch sanftes Wiederanlegen.",
+        "Bleibt der Motor stehen, schiebe den Roller aus dem Wasser, bevor du erneut startest, und lass ihn prüfen, bevor du weiterfährst. Melde den Vorfall dem Vermieter, denn Wasser im Ansaugbereich kann Folgeschäden verursachen, die sich erst später zeigen. Ehrlichkeit spart hier Geld und Nerven."
+      ]
+    },
+    {
+      "heading": "Vorbeugen und planen",
+      "paragraphs": [
+        "Verfolge das Wetter an Tagen mit Regenvorhersage und lege feste Fahrten in die Vormittagsstunden, wenn die Entwässerung meist frei ist. Das Auswärtige Amt rät zu umsichtiger Fahrweise und weist darauf hin, dass viele Verkehrsunfälle nach Einbruch der Dunkelheit geschehen; Flut und Dunkelheit zusammen sind ein Zusammenspiel, das du vermeidest.",
+        "Die offizielle Tourismusseite Vietnam Travel empfiehlt, Transportwege vorab zu planen. Übertrage das auf Regentage: Route, Alternativen und Pause vorher überlegen. Wer mit Plan losfährt, sieht Schauer als Teil des Klimas statt als Beben des Tages, und die Stadt zeigt sich auch im Regen von ihrer coolen, grünen Seite."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "hub": "routen-umgebung",
+  "status": "IDEA",
+  "intent": "informational",
+  "publishedUrl": null,
+  "date": "2026-10-14",
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "id": "DE-249",
+  "priority": 29,
+  "keywordHypothesis": "fussgaengerzone hanoi sonntag",
+  "title": "Sonntägliche Fußgängerzonen und verkehrsberuhigte Bereiche",
+  "slug": "sonntaegliche-fussgaengerzonen-und-verkehrsberuhigte-bereiche",
+  "description": "Am Wochenende werden Straßen rund um den Hoan-Kiem-See zur Fußgängerzone. Was das für Rollerfahrer bedeutet und wie du die Zonen klug einplanst.",
+  "excerpt": "An Wochenendabenden verwandelt Hanoi Straßen rund um den See in Fußgängerzonen mit Musik, Spielen und Streetfood. Für Rollerfahrer ändern sich Routen und Parkplätze. Dieser Beitrag zeigt, wie du die Abende richtig planst.",
+  "sections": [
+    {
+      "heading": "Was an Wochenenden passiert",
+      "paragraphs": [
+        "An Freitagen, Samstagen und Sonntagen werden Bereiche rund um den Hoan-Kiem-See für den motorisierten Verkehr gesperrt und der Flaniermeile Platz gegeben. Familien, Jugendgruppen und Touristen nutzen die freie Fläche für Spiele, Tanz und Fotos. Die Stimmung gehört zu den angenehmsten Momenten der Stadt.",
+        "Für Rollerfahrer heißt die Sperrung: Routen ändern sich, und die üblichen Abkürzungen funktionieren nicht. Informiere dich bei der Übernahme, welche Bereiche an welchen Abenden dicht sind, denn die Sperrzeiten können sich je nach Anlass ändern. Wer das weiß, plant den Abend entspannt statt überrascht."
+      ]
+    },
+    {
+      "heading": "Routen und Umleitungen",
+      "paragraphs": [
+        "Die Sperrungen betreffen vor allem die Straßen unmittelbar am See, während die umliegenden Achsen weiter befahren werden. Plane deine Anfahrt über die Ringstraßen des Viertels und rechne am Abend mit dichterem Verkehr, weil viele Besucher mit Rollern und Taxis anreisen. Eine halbe Stunde Puffer erspart Hektik.",
+        "Folge den Polizeiposten und Barrieren, die die Zonen abgrenzen. Sie zeigen dir verlässlicher als jede Karte, wo Fahren endet und Flanieren beginnt. Wer die Einweisungen respektiert, kommt schneller ans Ziel als wer Sperren eng interpretiert. Freundlichkeit an den Posten öffnet zudem Wege, die Karten nicht kennen."
+      ]
+    },
+    {
+      "heading": "Parken am Rand der Zonen",
+      "paragraphs": [
+        "Parke deinen Roller auf einem bewachten Platz am Rand der Fußgängerzone und nimm Helm und Wertsachen mit. In den Sperrabenden sind die Stellplätze rund um das Viertel stark belegt, daher lohnt frühes Kommen. Der Fußweg von dort zur Mitte dauert nur wenige Minuten und führt durch das beste Stimmungsviertel der Stadt.",
+        "Achte darauf, dass du deinen Roller nicht in Wegen abstellst, die für Rettungsfahrzeuge frei bleiben müssen. Die Platzwarte weisen dir Bereiche zu, die diese Rücksicht schon einkalkulieren. Ein sauber geparkter Roller macht den Abend für alle leichter."
+      ]
+    },
+    {
+      "heading": "Der Abend zu Fuß erleben",
+      "paragraphs": [
+        "Die Fußgängerzonen entfalten sich am besten ohne Helm unter dem Arm und ohne Uhr im Kopf. Probiere Streetfood an den Ständen, schaue den Tanzgruppen zu und lass dich von der Atmosphäre tragen. Das Auswärtige Amt empfiehlt generell, Wertsachen sicher zu verwahren; auf vollen Plätzen gilt das besonders für Taschen und Kameras.",
+        "Genau diese Abende zeigen eine Stadt, die den Verkehr für Stunden zurückdrängt. Wer mit dem Roller kommt, erlebt beide Seiten: diegelassene Fahrt durch die Randstraßen und die begehbare Mitte. Die Kombination macht den Reiz aus, vorausgesetzt, du trennst die beiden Modi sauber."
+      ]
+    },
+    {
+      "heading": "Planung für den Heimweg",
+      "paragraphs": [
+        "Planen den Heimweg, bevor die Stimmung dich ganz aufsaugt: Stellplatz merken, Route grob vor Augen haben und die Nummer des Vermieters griffbereit speichern. Das Auswärtige Amt weist darauf hin, dass viele Verkehrsunfälle nach Einbruch der Dunkelheit geschehen; wähle daher eine ruhige Route und fahre konzentriert.",
+        "Die offizielle Tourismusseite Vietnam Travel rät, Transport im Voraus zu planen. Wenn dich der Abend länger hält, zieh eine Fahrt mit Taxi oder App-Dienst in Betracht und stelle den Roller über Nacht auf dem bewachten Platz ab, falls der Vermieter das erlaubt. So endet ein schöner Abend, wie er begonnen hat: ohne Stress."
+      ]
+    }
+  ]
+}
