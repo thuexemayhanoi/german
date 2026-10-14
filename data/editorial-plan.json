@@ -2584,22 +2584,22 @@
       "hub": "sicherheit-verkehr",
       "title": "Alkohol und Zweiradfahren: keine Risiken eingehen",
       "slug": "alkohol-und-zweiradfahren-keine-risiken-eingehen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 25,
       "keywordHypothesis": "alkohol roller vietnam",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/alkohol-und-zweiradfahren-keine-risiken-eingehen/"
     },
     {
       "id": "DE-236",
       "hub": "sicherheit-verkehr",
       "title": "Unfallrisiko Roller in Vietnam ehrlich einschätzen",
       "slug": "unfallrisiko-roller-in-vietnam-ehrlich-einschaetzen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 26,
       "keywordHypothesis": "unfallrisiko roller vietnam",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/unfallrisiko-roller-in-vietnam-ehrlich-einschaetzen/"
     },
     {
       "id": "DE-237",
