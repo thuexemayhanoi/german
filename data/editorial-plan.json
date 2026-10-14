@@ -2716,22 +2716,22 @@
       "hub": "routen-umgebung",
       "title": "Route nach Ninh Binh: Zeitaufwand realistisch planen",
       "slug": "route-nach-ninh-binh-zeitaufwand-realistisch-planen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 27,
       "keywordHypothesis": "route hanoi ninh binh",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/route-nach-ninh-binh-zeitaufwand-realistisch-planen/"
     },
     {
       "id": "DE-248",
       "hub": "routen-umgebung",
       "title": "Navigation im Hoan-Kiem-Viertel mit Einbahnstraßen",
       "slug": "navigation-im-hoan-kiem-viertel-mit-einbahnstrassen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 28,
       "keywordHypothesis": "hoan kiem viertel navigation",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/navigation-im-hoan-kiem-viertel-mit-einbahnstrassen/"
     },
     {
       "id": "DE-249",
