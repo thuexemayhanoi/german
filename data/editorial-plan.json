@@ -1968,22 +1968,22 @@
       "hub": "technik-wartung",
       "title": "Wartungsfragen beim Verleih stellen",
       "slug": "wartungsfragen-beim-verleih-stellen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 19,
       "keywordHypothesis": "wartungsfragen beim verleih stellen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/wartungsfragen-beim-verleih-stellen/"
     },
     {
       "id": "DE-180",
       "hub": "technik-wartung",
       "title": "Technik-Checkliste vor der Rückgabe",
       "slug": "technik-checkliste-vor-der-rueckgabe",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 20,
       "keywordHypothesis": "technik-checkliste vor der rückgabe",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/technik-checkliste-vor-der-rueckgabe/"
     },
     {
       "id": "DE-181",
