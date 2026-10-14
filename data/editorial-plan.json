@@ -2320,22 +2320,22 @@
       "hub": "mietpreise-kaution",
       "title": "Motorradmiete Hanoi: Preise einordnen ohne Spekulation",
       "slug": "motorradmiete-hanoi-preise-einordnen-ohne-spekulation",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 21,
       "keywordHypothesis": "motorrad miete hanoi preise",
       "intent": "commercial",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/motorradmiete-hanoi-preise-einordnen-ohne-spekulation/"
     },
     {
       "id": "DE-212",
       "hub": "mietpreise-kaution",
       "title": "Kaution bar oder per Karte hinterlegen",
       "slug": "kaution-bar-oder-per-karte-hinterlegen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 22,
       "keywordHypothesis": "kaution roller miete",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/kaution-bar-oder-per-karte-hinterlegen/"
     },
     {
       "id": "DE-213",
