@@ -186,22 +186,22 @@
       "hub": "fahrzeugwahl",
       "title": "Das passende Zweirad für Fotostopps",
       "slug": "das-passende-zweirad-fuer-fotostopps",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 17,
       "keywordHypothesis": "das passende zweirad für fotostopps",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/das-passende-zweirad-fuer-fotostopps/"
     },
     {
       "id": "DE-018",
       "hub": "fahrzeugwahl",
       "title": "Fahrzeugwahl ohne Markenfixierung",
       "slug": "fahrzeugwahl-ohne-markenfixierung",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 18,
       "keywordHypothesis": "fahrzeugwahl ohne markenfixierung",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/fahrzeugwahl-ohne-markenfixierung/"
     },
     {
       "id": "DE-019",
