@@ -1440,22 +1440,22 @@
       "hub": "probleme-hilfe",
       "title": "Kontaktinformationen offline sichern",
       "slug": "kontaktinformationen-offline-sichern",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 11,
       "keywordHypothesis": "kontaktinformationen offline sichern",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/kontaktinformationen-offline-sichern/"
     },
     {
       "id": "DE-132",
       "hub": "probleme-hilfe",
       "title": "Verspätung frühzeitig kommunizieren",
       "slug": "verspaetung-fruehzeitig-kommunizieren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 12,
       "keywordHypothesis": "verspätung frühzeitig kommunizieren",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/verspaetung-fruehzeitig-kommunizieren/"
     },
     {
       "id": "DE-133",
