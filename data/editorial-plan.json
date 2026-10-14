@@ -1484,22 +1484,22 @@
       "hub": "probleme-hilfe",
       "title": "Fahrtabbruch als sichere Option",
       "slug": "fahrtabbruch-als-sichere-option",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 15,
       "keywordHypothesis": "fahrtabbruch als sichere option",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/fahrtabbruch-als-sichere-option/"
     },
     {
       "id": "DE-136",
       "hub": "probleme-hilfe",
       "title": "Belege und Fotos geordnet aufbewahren",
       "slug": "belege-und-fotos-geordnet-aufbewahren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 16,
       "keywordHypothesis": "belege und fotos geordnet aufbewahren",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/belege-und-fotos-geordnet-aufbewahren/"
     },
     {
       "id": "DE-137",
