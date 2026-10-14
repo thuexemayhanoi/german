@@ -1836,22 +1836,22 @@
       "hub": "technik-wartung",
       "title": "Sitzbank und Stauraum überprüfen",
       "slug": "sitzbank-und-stauraum-ueberpruefen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 7,
       "keywordHypothesis": "sitzbank und stauraum überprüfen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/sitzbank-und-stauraum-ueberpruefen/"
     },
     {
       "id": "DE-168",
       "hub": "technik-wartung",
       "title": "Kraftstoffanzeige verstehen",
       "slug": "kraftstoffanzeige-verstehen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 8,
       "keywordHypothesis": "kraftstoffanzeige verstehen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/kraftstoffanzeige-verstehen/"
     },
     {
       "id": "DE-169",
