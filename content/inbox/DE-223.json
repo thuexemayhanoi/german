@@ -1,0 +1,63 @@
+{
+  "id": "DE-223",
+  "hub": "dokumente-vertrag",
+  "title": "Mietvertrag auf Englisch oder Vietnamesisch verstehen",
+  "slug": "mietvertrag-auf-englisch-oder-vietnamesisch-verstehen",
+  "status": "IDEA",
+  "priority": 23,
+  "keywordHypothesis": "mietvertrag englisch vietnamesisch",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "So verstehst du einen Motorroller-Mietvertrag in Hanoi auf Englisch oder Vietnamesisch: Kernblöcke, Übersetzung, Nachfragen und schriftliche Sicherung.",
+  "excerpt": "Mietverträge in Hanoi liegen oft auf Englisch oder Vietnamesisch vor. Dieser Ratgeber zeigt, welche fünf Kernblöcke wichtig sind, wie du unklare Formulierungen klärst und warum schriftliche Notizen Streit vermeiden.",
+  "sections": [
+    {
+      "heading": "Warum die Vertragssprache so wichtig ist",
+      "paragraphs": [
+        "In Hanoi werden Mietverträge für Motorroller häufig auf Englisch oder Vietnamesisch vorgelegt. Beide Sprachen enthalten Fachbegriffe, deren genaue Bedeutung im Streitfall entscheidend ist. Wer einen Vertrag unterschreibt, ohne jede Klausel zu verstehen, gibt wichtige Schutzrechte auf. Deshalb lohnt es sich, die Sprachfrage bereits bei der Buchung zu klären und genügend Zeit für die Lektüre einzuplanen.",
+        "Ein Vertrag ist kein Formalstück, sondern die Grundlage für Kaution, Haftung und Rückgabe. Missverständnisse entstehen oft bei einzelnen Fachbegriffen rund um Schäden, Sicherheiten und Haftung. Wer diese Begriffe im Zusammenhang liest, erkennt schnell, welche Pflichten tatsächlich entstehen. Vor der Unterschrift sollte jede unklare Stelle angesprochen und geklärt sein."
+      ]
+    },
+    {
+      "heading": "Den Vertragsinhalt übersetzen lassen",
+      "paragraphs": [
+        "Übersetzungsapps helfen beim ersten Überblick, ersetzen aber keine Kontrolle. Für die entscheidenden Klauseln sollte eine verlässliche Übersetzung herangezogen werden. Viele Verleihe in Hanoi haben zweisprachige Versionen ihrer Verträge vorbereitet und beantworten geduldig Verständnisfragen. Eine Ruhepause für die Lektüre ist kein Zeichen von Misstrauen, sondern Ausdruck einer sauberen Routine.",
+        "Wer auf Nummer sicher gehen will, fotografiert den Vertrag und lässt die entscheidenden Passagen vor der Unterschrift von einer vertrauenswürdigen Person prüfen. Internationale Gäste finden in Botschaften oder Konsulaten ihres Heimatlandes Hinweise, wo Unterstützung bei ausländischen Verträgen zu finden ist. Das Auswärtige Amt empfiehlt generell, sich vor der Reise über lokale Gepflogenheiten zu informieren und wichtige Unterlagen sorgfältig zu lesen."
+      ]
+    },
+    {
+      "heading": "Fünf Kernblöcke im Mietvertrag",
+      "paragraphs": [
+        "Fast jeder Roller-Mietvertrag enthält fünf Kernblöcke: Mietdauer und Preis, Kaution, Haftungsregelung bei Schäden oder Diebstahl, Rückgabebedingungen sowie die Zustandsbeschreibung des Fahrzeugs. Diese Blöcke sollten vollständig gelesen werden, denn hier stehen die Regelungen, die im Streitfall Geld kosten. Fehlt einer dieser Blöcke ganz, ist das ein Warnsignal und Grund für Rückfragen.",
+        "Besondere Aufmerksamkeit verdient die Haftungsregelung. Sie bestimmt, was geschieht, wenn der Roller beschädigt wird, gestohlen wird oder in einen Unfall verwickelt ist. Das Auswärtige Amt weist darauf hin, dass die meisten Verkehrsunfälle in Vietnam nach Einbruch der Dunkelheit geschehen. Eine klare Haftungsregel im Vertrag schafft wenigstens planbare Verhältnisse für einen unvermeidlichen Rest an Risiko."
+      ]
+    },
+    {
+      "heading": "Unklare Formulierungen sofort ansprechen",
+      "paragraphs": [
+        "Jede unklare Formulierung verdient eine Frage, bevor der Vertrag unterschrieben wird. Seriöse Vermieter erklären geduldig, welche Pflichten mit der Unterschrift entstehen. Wer auf ausweichende Antworten trifft, sollte höflich bestehen oder sich für einen anderen Anbieter entscheiden. Der Markt in Hanoi ist groß, und die Auswahl an Verleihen mit transparenten Bedingungen ebenfalls.",
+        "Hilfreich ist es, konkrete Szenarien durchzusprechen: Was geschieht bei einer Panne, was bei einem Diebstahl, was bei einem Kratzer? Aus den Antworten ergibt sich schnell, ob die Vertragspraxis des Anbieters zur schriftlichen Fassung passt. Widersprüche sollten vor der Übergabe geklärt und idealerweise schriftlich festgehalten werden."
+      ]
+    },
+    {
+      "heading": "Vereinbarungen schriftlich festhalten",
+      "paragraphs": [
+        "Absprachen, die über den gedruckten Vertrag hinausgehen, gehören schriftlich festgehalten. Ein kurzer Vermerk mit Datum und Unterschrift beider Seiten verhindert, dass später an verschiedene Versionen erinnert wird. Auch Fotos des Rollers bei Übergabe und Rückgabe gehören zu einer sauberen Dokumentation, die im Streitfall den Ausschlag geben kann.",
+        "Die gesammelten Unterlagen sollten zusammen mit dem Pass und weiteren Reisedokumenten sicher verwahrt werden. Das Auswärtige Amt rät ausdrücklich davon ab, den Pass als Kaution beim Vermieter zu hinterlassen. Wer den Vertrag versteht, klare Absprachen trifft und alles dokumentiert, minimiert das Risiko unangenehmer Überraschungen während der gesamten Mietzeit."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

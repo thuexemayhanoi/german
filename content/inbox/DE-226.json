@@ -1,0 +1,63 @@
+{
+  "id": "DE-226",
+  "hub": "dokumente-vertrag",
+  "title": "Passkopien und Datenschutz bei der Vermietung",
+  "slug": "passkopien-und-datenschutz-bei-der-vermietung",
+  "status": "IDEA",
+  "priority": 26,
+  "keywordHypothesis": "passkopie verleih datenschutz",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Passkopien statt Pass-Original: So schützt du deine Daten bei der Roller-Mietung in Hanoi, notierst den Zweck und reagierst auf überzogene Forderungen.",
+  "excerpt": "Vermieter brauchen einen Identitätsnachweis, aber kaum jemals das Pass-Original. Erfahre, warum Kopien genügen, wie du Zweck und Datum auf die Kopie schreibst und was du tust, wenn der Vermieter das Original als Kaution verlangt.",
+  "sections": [
+    {
+      "heading": "Warum Kopien in der Regel ausreichen",
+      "paragraphs": [
+        "Vermieter in Hanoi benötigen für Mietverträge einen Identitätsnachweis der internationalen Gäste. In aller Regel genügt dafür eine Kopie des Passes. Das Original bleibt jederzeit in eigener Hand. Das Auswärtige Amt rät ausdrücklich davon ab, den Pass als Pfand oder Kaution bei einem Vermieter zu hinterlassen.",
+        "Der Unterschied ist erheblich: Eine Kopie erfüllt den Zweck der Identitätsprüfung, während das wichtigste Reisedokument in eigener Verwahrung bleibt. Ohne Pass werden Hotelbuchung, Geldabhebung und Ausreise unnötig schwierig. Ein Verleih, der auf dem Original besteht, nimmt damit großen Einfluss auf die gesamte weitere Reise."
+      ]
+    },
+    {
+      "heading": "Datenminimierung bei der Vermietung",
+      "paragraphs": [
+        "Nicht jedes Detail des Passes muss auf einer Kopie sichtbar sein. Sinnvoll ist es, ausschließlich die Seite mit den persönlichen Angaben zu vervielfältigen. Weitere Seiten, Visa oder Stempel sind für einen Mietvertrag kaum jemals relevant. Der Verleih erhält, was er für den Vertrag braucht, und nicht mehr.",
+        "Wer von Anfang an eine reduzierte Kopie anbietet, setzt den Rahmen für den Umgang mit den eigenen Daten. Die meisten Verleihe akzeptieren das ohne jede Diskussion. Ein höflicher Vorschlag wirkt dabei besser als eine spätere Auseinandersetzung über bereits angefertigte Unterlagen. Wer unsicher ist, ob eine Kopie genügt, fragt vorab per Nachricht nach und erspart sich die Diskussion vor Ort."
+      ]
+    },
+    {
+      "heading": "Zweck und Datum auf die Kopie schreiben",
+      "paragraphs": [
+        "Ein bewährtes Mittel gegen zweckentfremdete Kopien ist ein Vermerk direkt auf dem Blatt: Zweck der Nutzung, Datum und Name des Verleihs. So wird die Kopie für andere Anwendungen unattraktiv. Der Vermerk sollte gut lesbar sein, ohne die Personalangaben zu verdecken.",
+        "Der Vermerk kostet Sekunden und wirkt vorbeugend. Gleichzeitig signalisiert er dem Vermieter, dass der Gast seine Daten ernst nimmt. Diese Haltung diszipliniert im günstigsten Fall den gesamten Umgang mit sämtlichen Vereinbarungen der Miete."
+      ]
+    },
+    {
+      "heading": "Wenn der Vermieter zu viel verlangt",
+      "paragraphs": [
+        "Verlangt ein Vermieter das Passoriginal als Kaution, ist das ein deutliches Warnsignal. Das Auswärtige Amt empfiehlt Reisenden in Vietnam ausdrücklich, den Pass nie als Sicherheitsleistung abzugeben. Alternativ bieten viele Verleihe Geldbeträge oder Karten als Kaution an. Steht keine akzeptable Alternative zur Verfügung, ist ein Wechsel des Anbieters die sicherste Entscheidung.",
+        "Auch bei Kopien darf nachgefragt werden, wie lange sie aufbewahrt und wann sie vernichtet werden. Eine kurze Antwort genügt, um die Sorgfalt eines Anbieters einzuschätzen. In Hanoi gibt es genügend Verleihe, die mit Kopien und klaren Regeln arbeiten. Wer mehrere Verleihe während einer Reise nutzt, notiert am besten, wer welche Kopie erhalten hat."
+      ]
+    },
+    {
+      "heading": "Original-Dokumente sicher aufbewahren",
+      "paragraphs": [
+        "Der Pass und weitere Originaldokumente gehören während der gesamten Reise an einen sicheren Ort, etwa in einen verschlossenen Beutel im Hotel oder in eine verschlossene Innentasche. Das Auswärtige Amt weist darauf hin, dass in Vietnam Diebstähle aus dem fließenden Verkehr heraus vorkommen, etwa wenn Mitfahrer vorbeifahrender Motorräder nach Taschen greifen.",
+        "Eine zusätzliche Passkopie im Gepäck und ein digitaler Scan in einem sicheren Speicher erleichtern den Ersatz bei Verlust. Wer diese kleine Vorbereitung trifft, kann Vermietung, Hotel und Behörden gelassen gegenübertreten und konzentriert die Fahrt durch Hanoi genießen. Damit bleibt die Kontrolle über die eigenen Daten vom ersten bis zum letzten Reisetag in eigener Hand."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "DE-224",
+  "hub": "dokumente-vertrag",
+  "title": "Vertragsstrafen und Stornoklauseln im Detail lesen",
+  "slug": "vertragsstrafen-und-stornoklauseln-im-detail-lesen",
+  "status": "IDEA",
+  "priority": 24,
+  "keywordHypothesis": "vertragsstrafen storno miete",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Vertragsstrafen und Stornoklauseln im Roller-Mietvertrag: Auslöser, Fristen, Prüf-Fragen und der sichere Weg zur Unterschrift in Hanoi.",
+  "excerpt": "Straf- und Stornoklauseln bestimmen, was eine Miete bei vorzeitiger Beendigung oder später Rückgabe kostet. Vier Prüf-Fragen helfen, die Konditionen zu verstehen, bevor du unterschreibst.",
+  "sections": [
+    {
+      "heading": "Warum Strafklauseln genau gelesen werden müssen",
+      "paragraphs": [
+        "Strafklauseln und Stornoregelungen stehen oft im Kleingedruckten eines Mietvertrags. Sie bestimmen, welche Kosten entstehen, wenn ein Roller früher zurückgegeben, die Mietzeit verändert oder der Vertrag vorzeitig beendet wird. Wer diese Passagen überspringt, riskiert unliebsame Rechnungen bei der Rückgabe. Ein ruhiges Lesen dieser Abschnitte dauert wenige Minuten und schafft Klarheit über die eigenen Pflichten.",
+        "In Hanoi sind die Konditionen der Verleihe sehr unterschiedlich. Manche Anbieter rechnen Stornierungen großzügig ab, andere behalten die volle Mietsumme ein. Der Vertrag ist die einzige verbindliche Quelle für diese Regeln. Mündliche Zusicherungen des Personals haben im Streitfall wenig Gewicht, wenn der gedruckte Text etwas anderes besagt."
+      ]
+    },
+    {
+      "heading": "Typische Auslöser von Vertragsstrafen",
+      "paragraphs": [
+        "Häufige Auslöser für Strafzahlungen sind die späte Rückgabe des Fahrzeugs, beschädigte Ausstattung, verlorene Schlüssel oder ein Tank, der nicht im vereinbarten Zustand abgegeben wird. Auch die vorzeitige Beendigung der Mietzeit kann je nach Klausel Kosten verursachen. Wer die konkreten Auslöser kennt, kann sie während der Mietzeit gezielt vermeiden.",
+        "Bei Diebstahl oder Totalschaden greifen besondere Regelungen, die oft in einem eigenen Abschnitt stehen. Das Auswärtige Amt weist für Vietnam auf Diebstähle hin, bei denen Mitfahrer von vorbeifahrenden Motorrädern nach Taschen greifen. Die zugehörige Vertragsklausel bestimmt, wer in solchen Fällen welche Kosten trägt."
+      ]
+    },
+    {
+      "heading": "Fristen und Kündigungsmodalitäten prüfen",
+      "paragraphs": [
+        "Stornoklauseln enthalten fast immer Fristen. Häufig gilt: Je früher die Stornierung erfolgt, desto geringer fällt die Gebühr aus. Die genauen Fristen sollten vor der Unterschrift notiert werden, damit die eigene Reiseplanung rechtzeitig reagieren kann. Auch die Art der Stornierung, etwa per Nachricht oder persönlich vor Ort, kann vertraglich geregelt sein.",
+        "Verlängerungen während der laufenden Miete sind ein eigenes Thema. Manche Verträge sehen vor, dass eine Verlängerung rechtzeitig angemeldet werden muss, sonst gelten Zuschläge. Wer mehrere Tage in Hanoi bleibt, klärt diese Frage besser am ersten Tag, statt sie auf den letzten Tag zu verschieben."
+      ]
+    },
+    {
+      "heading": "Vier Prüf-Fragen vor der Unterschrift",
+      "paragraphs": [
+        "Vier Prüf-Fragen helfen bei der Lektüre: Welche Ereignisse lösen eine Strafe aus? Wie hoch fällt die Strafe jeweils aus? Bis wann kann kostenlos storniert werden? Wie wird eine Verlängerung der Mietzeit angemeldet? Wer diese vier Fragen aus dem Vertrag beantworten kann, kennt die wichtigsten finanziellen Risiken der Miete.",
+        "Bleibt eine Frage offen, sollte der Vermieter sie beantworten, bevor der Vertrag unterschrieben wird. Seriöse Anbieter haben diese Antworten parat. Auch ein Vergleich mit den Bedingungen eines zweiten Verleihs vor Ort hilft einzuschätzen, ob die eigenen Konditionen üblich sind."
+      ]
+    },
+    {
+      "heading": "Nicht blind unterschreiben",
+      "paragraphs": [
+        "Ein Mietvertrag ist ein Angebot wie jedes andere. Wer mit den Straf- und Stornoregelungen nicht einverstanden ist, darf ablehnen und den nächsten Anbieter fragen. In Hanoi konkurrieren zahlreiche Verleihe um internationale Gäste, deshalb ist ein Wechsel unkompliziert. Zeitdruck am Schalter ist kein guter Grund für eine Unterschrift.",
+        "Wer unsicher ist, nimmt den Vertrag in Ruhe durch und unterschreibt erst nach vollständiger Lektüre. Das schützt nicht vor jedem Konflikt, verhindert aber die häufigsten Missverständnisse. Das vietnamesische Fremdenverkehrsamt empfiehlt generell, Transportdienstleistungen frühzeitig zu planen und die Bedingungen im Voraus zu klären."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
