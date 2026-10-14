@@ -1,0 +1,63 @@
+{
+  "id": "DE-131",
+  "hub": "probleme-hilfe",
+  "title": "Kontaktinformationen offline sichern",
+  "slug": "kontaktinformationen-offline-sichern",
+  "status": "IDEA",
+  "priority": 11,
+  "keywordHypothesis": "kontaktinformationen offline sichern",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Kontaktinformationen offline sichern: Verleiher, Unterkünfte und Notfallnummern auf Papier und Gerät – damit der leere Akku keine Rolle spielt.",
+  "excerpt": "Im Moment, in dem du eine Nummer brauchst, ist das Handy gern leer oder ohne Netz. Wer die wichtigsten Kontakte offline trägt – auf Papier und doppelt auf dem Gerät –, ist in jeder Lage erreichbar. Dieser Ratgeber zeigt die Liste.",
+  "sections": [
+    {
+      "heading": "Warum Offline der Normalfall sein sollte",
+      "paragraphs": [
+        "Die meisten Reisenden erleben die Lage, in der alles gleichzeitig fehlt: Der Akku ist leer, das Netz ist überlastet oder nicht vorhanden, und genau dann braucht es die Nummer des Verleihers, der Unterkunft oder der Notfallstelle. Das Digitale ist ein wunderbares Werkzeug, solange es funktioniert – und die Momente, in denen es nicht funktioniert, sammeln sich gern bei Panne, Wetter und Dunkelheit, also genau dann, wenn Kontakte zählen.",
+        "Die Lösung ist älter als das Smartphone: die Papierliste. Ein Zettel mit den entscheidenden Nummern und Adressen, körpernah getragen, wasserdicht verpackt, unabhängig von Akku und Netz. Das Auswärtige Amt empfiehlt für Vietnam eine gute Vorbereitung – die Kontaktliste ist der Teil der Vorbereitung, der im Notfall zwischen Warten und Handeln unterscheidet."
+      ]
+    },
+    {
+      "heading": "Was auf die Liste gehört",
+      "paragraphs": [
+        "Die Liste hat drei Blöcke. Block eins: der Verleiher – Telefonnummer, Adresse, Nachrichtendienst-Kontakt und die Fahrzeugdaten deines Mietwagens. Block zwei: die Unterkünfte – jede Etappe mit Adresse und Nummer. Block drei: Notfallkontakte – die eigene Botschaft oder das Konsulat, die wichtigste Notfallnummer des Landes und die Versicherungskontakte, die du bei einem medizinischen Fall brauchst. Das Auswärtige Amt weist darauf hin, dass die medizinische Versorgung außerhalb der städtischen Zentren begrenzt ist – die Kontaktliste ist in ländlichen Regionen dein schnellster Draht zu Hilfe.",
+        "Ergänze die Liste um die Dokumentenangaben, die man dich im Notfall fragen wird: Nummer des Reisepasses, Führerscheindaten, Vertragsnummer der Anmietung. Diese Daten aus dem Kopf zu wissen ist gut; sie auf der Liste zu haben ist sicherer. Im Notfall zählt jede Minute, die du nicht suchst."
+      ]
+    },
+    {
+      "heading": "Doppelt tragen: Papier und Gerät",
+      "paragraphs": [
+        "Die Papierliste funktioniert nur, wenn sie zwei Eigenschaften hat: Sie ist körpernah getragen – in der Jacke, nicht im Rucksack auf dem Gepäckträger –, und sie ist doppelt vorhanden: eine Fassung bei dir, eine im Gepäck. Ein Zettel, der im Diebstahl verloren geht, ist nur so gut wie das Original im versteckten Fach. Das Auswärtige Amt warnt vor Handtaschenraub durch vorbeifahrende Roller – die Verteilung deiner Dokumente und Listen ist eine Antwort auf genau dieses Risiko.",
+        "Auf dem Gerät gilt dasselbe in digital: Die Nummern gespeichert als Kontakt und als Notiz, damit sie auch ohne Netz abrufbar sind; die offline Karte der Region geladen, damit die Navigation ohne Daten funktioniert. Wer beides trägt – Papier für den Ausfall, Digital für die Bequemlichkeit –, hat die Kontaktfrage in jeder Lage beantwortet."
+      ]
+    },
+    {
+      "heading": "Vor der Fahrt: die Liste prüfen",
+      "paragraphs": [
+        "Prüfe die Liste vor jeder größeren Etappe: Stimmen die Nummern noch? Kommt eine neue Unterkunft dazu, fällt eine weg? Hat der Verleiher eine Pannenummer, die du nicht kanntest? Die Prüfung kostet fünf Minuten am Abend und zahlt sich bei jedem Notfall aus. Eine Kontaktliste, die drei Wochen alt ist, ist eine Vermutung; eine, die gestern geprüft wurde, ist ein Werkzeug.",
+        "Nutze die Anmietung für den wichtigsten Eintrag: Frage den Verleiher nach der Notfallnummer und der Nummer, die in der Werkstatt zählt. Die offizielle Tourismusseite Vietnam Travel nennt Anlaufstellen für Fortbewegung im Land – ergänze die Liste um die Stellen deiner Route. Wer die Liste vor der Fahrt baut, trägt sie mit der Gelassenheit dessen, der weiß: Wenn etwas passiert, weiß ich, wen ich erreiche."
+      ]
+    },
+    {
+      "heading": "Im Notfall: Nummer für Nummer vorgehen",
+      "paragraphs": [
+        "Wenn der Notfall da ist, gilt die Reihenfolge der Liste, nicht die Reihenfolge der Gefühle: Erst die Situation sichern – anhalten, aus dem Verkehr, Erste Hilfe, wo nötig –, dann den Verleiher informieren, dann die Unterkunft, wenn die Etappe betroffen ist, und parallel die Notfallstellen, wenn Gesundheit oder Sicherheit im Spiel sind. Die Liste entlastet dich von der Frage „Wen rufe ich an?“ in dem Moment, in dem die Aufmerksamkeit woanders gebraucht wird.",
+        "Und wenn das Handy leer ist und das Netz fehlt: Genau dafür ist der Zettel da. Achte darauf, dass du mit fremden Telefonen die Nummern wählen kannst – ein Zettel mit Nummern in internationaler Schreibweise funktioniert überall. Wer im Notfall die Nummern hat, verliert keine Zeit mit der Suche – und Zeit ist im Notfall die Ressource, die sich nicht ersetzen lässt."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
