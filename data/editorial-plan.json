@@ -2980,22 +2980,22 @@
       "hub": "reiseplanung",
       "title": "Motorradtouren ab Hanoi: Etappen für Einsteiger",
       "slug": "motorradtouren-ab-hanoi-etappen-fuer-einsteiger",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 21,
       "keywordHypothesis": "motorradtour hanoi einsteiger",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/motorradtouren-ab-hanoi-etappen-fuer-einsteiger/"
     },
     {
       "id": "DE-272",
       "hub": "reiseplanung",
       "title": "Drei Ausflugsregionen rund um Hanoi vergleichen",
       "slug": "drei-ausflugsregionen-rund-um-hanoi-vergleichen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 22,
       "keywordHypothesis": "ausfluege um hanoi",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/drei-ausflugsregionen-rund-um-hanoi-vergleichen/"
     },
     {
       "id": "DE-273",
