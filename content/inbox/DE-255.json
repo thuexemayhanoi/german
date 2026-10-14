@@ -1,0 +1,63 @@
+{
+  "hub": "abholung-rueckgabe",
+  "status": "IDEA",
+  "publishedUrl": null,
+  "date": "2026-10-14",
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "id": "DE-255",
+  "priority": 25,
+  "keywordHypothesis": "abholung feiertag hanoi",
+  "intent": "informational",
+  "title": "Wochenende und Feiertage bei der Abholung bedenken",
+  "slug": "wochenende-und-feiertage-bei-der-abholung-bedenken",
+  "description": "Wochenende und Feiertage verändern Verkehr und Service. Wie du Abholung, Fahrplan und Rückgabe an diesen Tagen klug umstellst, erklärt dieser Beitrag.",
+  "excerpt": "Ein Mietbeginn am Wochenende oder Feiertag braucht ein paar extra Gedanken: mehr Verkehr, teils andere Öffnungszeiten und eine höhere Nachfrage. So planst du die Abholung richtig.",
+  "sections": [
+    {
+      "heading": "Was an diesen Tagen anders ist",
+      "paragraphs": [
+        "An Wochenenden verdichtet sich der Verkehr rund um Ausflugsziele, und die Innenstadt füllt sich mit Besuchern. Feiertage kommen hinzu: Dann reisen viele Familien innerhalb des Landes, und die Nachfrage nach Fahrzeugen, Platzwarten und Straßen wächst gleichzeitig. Für deine Miete bedeutet das mehr Vorlauf auf allen Ebenen.",
+        "Das Auswärtige Amt empfiehlt, sich vor Reisen über die aktuelle Lage zu informieren, und Feiertage sind genau so ein Moment, in dem sich Verhältnisse verschieben. Rechne am Abholtag mit vollem Hof, voller Straße und vollen Terminkalendern, und du planst von Beginn an realistisch statt hoffnungsvoll."
+      ]
+    },
+    {
+      "heading": "Abholung realistisch terminieren",
+      "paragraphs": [
+        "Wähle an Wochenenden eine Abholung am Morgen, wenn die Verleihstation in Ruhe arbeiten kann und du den Tag vor dir hast. Bestätige den Termin am Vortag, denn an starken Tagen werden beliebte Uhrzeiten schnell knapp. Eine kurze Bestätigungsnachricht sichert dir den Termin, den du möchtest.",
+        "An Feiertagen kläre zusätzlich, ob die Station überhaupt geöffnet hat und wer die Übergabe macht. Manche Stationen arbeiten mit reduzierter Besetzung. Frage auch nach der Rückgabe an Feiertagen, denn ein Sonntag als Rückgabetag braucht dieselbe Klärung wie ein Feiertag als Abholtag."
+      ]
+    },
+    {
+      "heading": "Verkehr am Abholtag einplanen",
+      "paragraphs": [
+        "Der Weg zur Station gehört zur Abholung dazu, und an Wochenenden sind die Straßen zur Innenstadt voller als werktags. Starte früher als sonst und rechne mit Stau an den Tagen mit hohem Ausflugsverkehr. Wer eine halbe Stunde Puffer einbaut, kommt entspannt statt verschwitzt an.",
+        "Für die erste Fahrt nach der Abholung gilt dasselbe in umgekehrter Richtung: Die Hauptrouten zu Seen und Altstadt sind an Nachmittagen dicht. Plane deine erste Fahrt bewusst in eine ruhige Richtung oder auf eine Nebenroute. Die offizielle Tourismusseite Vietnam Travel empfiehlt, Transportwege vorab zu planen, und am Wochenende macht das den hörbaren Unterschied."
+      ]
+    },
+    {
+      "heading": "Fahrten an starken Tagen",
+      "paragraphs": [
+        "An Feiertagen und Wochenenden teilst du die Ziele mit vielen anderen: Parks, Sehenswürdigkeiten und Uferstraßen sind voll. Wähle deine Ziele mit Bedacht, starte früh und kombiniere beliebt mit ruhig, dann bleibt der Tag angenehm. Rechne bei Pausen damit, dass Stellplätze schneller belegt sind als werktags.",
+        "Fahre an solchen Tagen defensiver als sonst, denn die Straßen tragen mehr unerfahrene und eilige Fahrer. Das Auswärtige Amt weist darauf hin, dass ein Großteil der Verkehrsunfälle nach Einbruch der Dunkelheit geschieht; an langen Feiertagsabenden gilt das besonders. Beende deine Fahrten bei Tageslicht, und der Feiertag bleibt ein gutes Erlebnis."
+      ]
+    },
+    {
+      "heading": "Vorkehrungen, die immer gelten",
+      "paragraphs": [
+        "Die Grundregeln der Abholung gelten auch am Wochenende: Pass nicht als Kaution hinterlegen, Übergabezustand fotografieren, Absprachen schriftlich festhalten und die Rufnummer speichern. Diese Routine kostet dich zehn Minuten und begleitet dich sicher durch alle besonderen Tage der Miete.",
+        "Plane außerdem einen Tag extra ein, wenn deine Miete an einem Feiertag endet, denn flexible Verlängerungen sind an starken Tagen seltener verfügbar. Ein Puffer am Ende der Miete entspannt die Rückgabe genauso wie ein Puffer am Anfang die Abholung. So bleiben Wochenende und Feiertag Geschenke statt Herausforderungen."
+      ]
+    }
+  ]
+}

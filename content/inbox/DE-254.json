@@ -1,0 +1,63 @@
+{
+  "hub": "abholung-rueckgabe",
+  "status": "IDEA",
+  "publishedUrl": null,
+  "date": "2026-10-14",
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "id": "DE-254",
+  "priority": 24,
+  "keywordHypothesis": "rueckgabe flughafen hanoi",
+  "intent": "commercial",
+  "title": "Rückgabe am Flughafen oder im Stadtzentrum vergleichen",
+  "slug": "rueckgabe-am-flughafen-oder-im-stadtzentrum-vergleichen",
+  "description": "Mietroller im Stadtzentrum zurückgeben oder direkt am Flughafen? Beide Varianten im Vergleich, mit allen Vor- und Nachteilen für deine Abreise.",
+  "excerpt": "Die letzte Fahrt deiner Miete kann zum Flughafen führen oder zur Station im Zentrum. Was für welche Variante spricht, welche Puffer du einplanen solltest und worüber du vorab sprechen musst, vergleicht dieser Beitrag.",
+  "sections": [
+    {
+      "heading": "Die Rückgabe im Stadtzentrum",
+      "paragraphs": [
+        "Die Rückgabe in der Station ist der Standard: Der Roller kommt dorthin zurück, wo er herkam. Die Übergabe läuft mit denselben Leuten wie die Abholung, Fotos und Zustand werden im gewohnten Rahmen verglichen, und die Kautionsabwicklung erledigt sich am Ort, wo alles begann. Danach fährst du mit Taxi oder Transfer zum Flughafen.",
+        "Der Vorteil dieser Variante liegt in der Übersicht: Alles ist geregelt, bevor du den Stadtverkehr verlässt, und du startest mit klarem Kopf in die Abreise. Plane dennoch Zeit ein, denn die Strecke zum Flughafen kann in Spitzenzeiten länger dauern, als die Karte verspricht. Ein Puffer von zwei Stunden vor dem Abflug ist ein guter Maßstab."
+      ]
+    },
+    {
+      "heading": "Die Rückgabe am Flughafen",
+      "paragraphs": [
+        "Manche Reisende geben den Roller direkt am Flughafen ab, wenn der Vermieter das anbietet. Das spart eine Umstiegssituation: Du fährst zum Terminal, übergibst dort und bist sofort am richtigen Ort. Wer früh morgens fliegt oder viel Gepäck hat, findet diese Variante besonders bequem.",
+        "Diese Option muss vorher geklärt sein, denn nicht jede Station bedient den Flughafen, und zusätzliche Bedingungen können gelten. Frage konkret nach dem Übergabeort, nach der Uhrzeit und danach, wer das Fahrzeug dort entgegennimmt. Ohne diese Absprachen im Voraus bleibt die Flughafenrückgabe eine Vermutung, keine Planung."
+      ]
+    },
+    {
+      "heading": "Vergleich der zwei Wege",
+      "paragraphs": [
+        "Im Zentrum sprichst du mit dem Team, das dich kennt, und alle Dokumente liegen an einem Platz. Am Flughafen sparst du eine Etappe und gewinnst Zeit am Abreisetag. Beide Varianten verlangen eine saubere Dokumentation: dieselben Fotos, derselbe Tankvergleich, dieselbe Winkelauswahl wie bei der Abholung.",
+        "Die Entscheidung hängt an deinem Flugplan und deinem Gepäck. Wer nachmittags abfliegt, gibt gelassen im Zentrum zurück; wer vor sechs Uhr morgens startet, ist mit einer klaren Flughafenlösung besser bedient, sofern sie angeboten und bestätigt ist. Es gibt keine bessere Variante, nur die passendere zu deinem Tag."
+      ]
+    },
+    {
+      "heading": "Zeitpuffer richtig setzen",
+      "paragraphs": [
+        "Rechne für die Rückgabe die volle Zeit für die Kontrolle ein, nicht nur die Fahrt. Fotos, Kilometerstand, Tank, Helm und Kautionsrückgabe brauchen gemeinsam eine Viertelstunde oder mehr, wenn alles ruhig läuft. Wer diesen Schritt wie einen Flughafentransfer plant, statt als Formalie, startet ohne Hektik in die Abreise.",
+        "Das Auswärtige Amt rät Reisenden, für den Straßenverkehr großzügige Zeitreserven einzuplanen, denn Verspätungen gehören zum Alltag. Übertrage das auf deine Abreise: eher eine Stunde Warten am Gate als ein Sprint zum Schalter. Die Rückgabe ist der letzte Fahrtabschnitt, und er verdient denselben Respekt wie der erste."
+      ]
+    },
+    {
+      "heading": "Was du vorher klärst",
+      "paragraphs": [
+        "Vereinbare die Rückgabevariante schriftlich und frage nach den Bedingungen für beide Wege. Notiere den Namen der Person, die den Roller entgegennimmt, falls du am Flughafen übergibst, und kläre, wie die Kautionsrückzahlung läuft. Diese Details sind in zwei Minuten besprochen und ersparen dir jede Unsicherheit am Abreisetag.",
+        "Die offizielle Tourismusseite Vietnam Travel empfiehlt, Transportwege vorab zu planen, und dein Abreisetag ist genau so ein Transportweg: Route, Puffer und Ziel vorher festlegen, dann läuft die letzte Fahrt wie alle davor. So endet die Miete so durchdacht, wie du sie begonnen hast."
+      ]
+    }
+  ]
+}

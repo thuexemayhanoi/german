@@ -1,0 +1,63 @@
+{
+  "hub": "abholung-rueckgabe",
+  "status": "IDEA",
+  "publishedUrl": null,
+  "date": "2026-10-14",
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "id": "DE-256",
+  "priority": 26,
+  "keywordHypothesis": "rueckgabe fotos vergleich",
+  "intent": "informational",
+  "title": "Zustandsfotos bei der Rückgabe systematisch vergleichen",
+  "slug": "zustandsfotos-bei-der-rueckgabe-systematisch-vergleichen",
+  "description": "Zustandsfotos von Abholung und Rückgabe im systematischen Vergleich schützen dich vor Streit. So gestaltest du die Fotoprüfung richtig.",
+  "excerpt": "Der sauberste Beweis für einen gepflegten Roller ist ein Fotopaar: Abholung und Rückgabe aus denselben Winkeln. Wie du die Fotoprüfung systematisch aufbaust, erklärt dieser Beitrag Schritt für Schritt.",
+  "sections": [
+    {
+      "heading": "Warum ein System wichtig ist",
+      "paragraphs": [
+        "Einzelne Fotos helfen, ein System überzeugt. Wer bei der Abholung feste Winkel fotografiert und bei der Rückgabe exakt wiederholt, erstellt einen Vergleich, den jeder auf einen Blick versteht. Das schützt dich bei Diskussionen über Kratzer, die vor deiner Miete entstanden sind, und es beschleunigt die Rücknahme spürbar.",
+        "Das System braucht fünf Minuten Vorbereitung und zwei Handgriffe am Ende: eine Liste mit Winkeln, die du immer durchgehst, und eine kurze Kontrolle der Belichtung. Wer die Liste einmal erstellt hat, wiederholt sie bei jeder Übergabe wie ein Pilot seinen Check. Achte auch auf die Lichtverhältnisse, denn Schatten zeigt Kratzer oft deutlicher als grelle Sonne."
+      ]
+    },
+    {
+      "heading": "Die Winkel, die dazugehören",
+      "paragraphs": [
+        "Fotografiere das Fahrzeug von vorne, hinten, links und rechts in der Halbtotalen, dazu die Nahaufnahmen von Hebeln, Blinkern und Felgen. Halte den Kilometerstand und den Tank fest, und gib den Helm dazu. Diese acht bis zehn Bilder decken die Flächen ab, an denen Mietstreit typischerweise entsteht.",
+        "Wähle für jede Aufnahme einen Wiederfindungspunkt, etwa eine Türkante oder ein Schild im Hintergrund, damit du den Winkel bei der Rückgabe problemlos triffst. Lass Zeitstempel und Ortsangaben in deiner Kamera-App aktiviert. Diese Metadaten machen die Bilder zu einem lückenlosen Protokoll, das jeder nachvollziehen kann."
+      ]
+    },
+    {
+      "heading": "Der Vergleich bei der Rückgabe",
+      "paragraphs": [
+        "Bei der Rückgabe öffnest du die Abholbilder und gehst die Winkel gemeinsam mit dem Verleiher durch. Vergleiche in derselben Reihenfolge wie bei der Aufnahme, dann entsteht kein Durcheinander. Neue Beschädigungen fallen so sofort auf, und ihr klärt sie in der Situation statt in einer späteren Diskussion.",
+        "Fotografiere dieselben Winkel erneut, auch wenn alles unauffällig ist, denn die Rückgabeaufnahmen dokumentieren den Zustand am Ende deiner Miete. Sie sind der Spiegel der Abholbilder und schließen den Kreis deiner Dokumentation. Speichere beide Sätze in einem eigenen Album mit klaren Namen und lösch nichts vor der Kautionsrückzahlung."
+      ]
+    },
+    {
+      "heading": "Typische Stolpersteine vermeiden",
+      "paragraphs": [
+        "Ein häufiger Fehler sind verwackelte oder dunkle Bilder. Achte auf ausreichend Licht, fotografiere im Schatten statt gegen die Sonne und halte das Handy ruhig. Ein zweiter häufiger Fehler ist Eile: Wer die Rückgabe auf drei Minuten drückt, übersieht den Winkel, der später zählt. Rechne der Fotoprüfung ihre zehn Minuten zu, denn sie ersetzen jede spätere Diskussion.",
+        "Verwechsle nicht die Winkel untereinander: Halte dich an die feste Reihenfolge, und die Übersicht bleibt erhalten. Das Auswärtige Amt rät Reisenden generell zu umsichtiger Vorbereitung und Dokumentation; die systematische Fotoprüfung setzt genau das für die Fahrzeuggestaltung um und schützt dich am Ende der Miete."
+      ]
+    },
+    {
+      "heading": "Nach der Rückgabe",
+      "paragraphs": [
+        "Bestätige den Vergleich schriftlich, etwa per Kurznachricht mit einer Rückmeldung des Verleihers, und bewahre das Album bis nach der Kautionsrückzahlung auf. Erst wenn alles abgewickelt ist, gehört die Dokumentation erledigt. Diese kurze Bestätigung ersetzt lange Erinnerungen an ein Gespräch, das keiner wörtlich behalten hat.",
+        "Die offizielle Tourismusseite Vietnam Travel empfiehlt, Abläufe vorab zu planen, und die Fotoprüfung ist genau so ein Ablauf: Liste, Reihenfolge, Bestätigung. Wer das System einmal benutzt hat, will es nie wieder missen, denn es macht aus einer möglichen Streitfrage einen langweiligen, schnellen Check am Ende einer guten Miete."
+      ]
+    }
+  ]
+}

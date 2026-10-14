@@ -1,0 +1,63 @@
+{
+  "hub": "abholung-rueckgabe",
+  "status": "IDEA",
+  "publishedUrl": null,
+  "date": "2026-10-14",
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "id": "DE-253",
+  "priority": 23,
+  "keywordHypothesis": "verleih oeffnungszeiten hanoi",
+  "intent": "informational",
+  "title": "Öffnungszeiten der Verleihstation einplanen",
+  "slug": "oeffnungszeiten-der-verleihstation-einplanen",
+  "description": "Öffnungszeiten der Verleihstation bestimmen Abholung und Rückgabe. So planst du Ankunft, Fahrtage und Abflug realistisch um die Öffnungszeiten herum.",
+  "excerpt": "Eine Verleihstation hat feste Öffnungszeiten, und dein Flugplan hat andere. Wie du beide unter einen Hut bringst, was du bei Wochenenden und Feiertagen bedenkst und welche Puffer helfen, liest du hier.",
+  "sections": [
+    {
+      "heading": "Warum die Zeiten zählen",
+      "paragraphs": [
+        "Die Öffnungszeiten einer Verleihstation rahmen deine ganze Miete ein: Abholung, Fragen während der Mietzeit und die Rückgabe laufen über Personen, die vor Ort sein müssen. Wer die Zeiten ignoriert, riskiert eine geschlossene Tür am Abreisetag oder eine Abholung, die mit dem Flugplan kollidiert. Ohne dieses Wissen planst du blind.",
+        "Frage daher zuerst nach den Zeiten, wenn du anfragst, und schreibe sie dir auf. Manche Stationen öffnen früh und schließen am Abend; andere arbeiten mit Sonderabsprachen. Wissen ist hier die halbe Vorbereitung, und eine einzige kurze Frage klärt die Rahmenbedingungen für alle deine Fahrttage gleichzeitig."
+      ]
+    },
+    {
+      "heading": "Abholung mit der Ankunft abstimmen",
+      "paragraphs": [
+        "Rechne rückwärts vom Moment, an dem du fahren willst: Landung, Gepäck, Transfer zur Unterkunft und dann die Abholung. Für den ersten Fahrtag lohnt ein Puffer von einer Stunde, denn Flughäfen und Straßen folgen selten dem Fahrplan. Wer am Abend landet, holt besser am nächsten Morgen ab und schläft die Anreise weg.",
+        "Die offizielle Tourismusseite Vietnam Travel empfiehlt, Transport vorab zu planen, und das gilt besonders für den ersten Tag. Teile dem Vermieter deine Ankunftszeit mit und frage, welche Abholszeit er empfiehlt. Seine Erfahrung kennt die Verkehrszeiten besser als jede App, und dein Plan profitiert davon direkt."
+      ]
+    },
+    {
+      "heading": "Wochenenden und Feiertage",
+      "paragraphs": [
+        "An Wochenenden kann eine Station reduzierte Zeiten haben oder stärker frequentiert sein, weil mehr Reisende fahren. Plane für Samstags und Sonntags mehr Vorlauf ein, sowohl für die Abholung als auch für Rückfragen. Das Auswärtige Amt empfiehlt generell, sich vor Reisen über aktuelle Bedingungen zu informieren, und Feiertage sind genau solch ein Sonderfall.",
+        "An vietnamesischen Feiertagen ändert sich vieles gleichzeitig: Der Verkehr wächst, Mitarbeiter haben frei, und die Nachfrage nach Fahrzeugen steigt. Kläre früh, ob deine Miettage auf Feiertage fallen, und bestätige Abholung und Rückgabe schriftlich für diese Tage. Ein zweiminütiges Gespräch ersetzt späteres Warten vor verschlossenen Türen."
+      ]
+    },
+    {
+      "heading": "Rückgabe vor dem Abflug",
+      "paragraphs": [
+        "Plane die Rückgabe zwei bis drei Stunden vor dem Abflug ein, denn die Übergabe braucht Zeit für Kontrolle, Fotos und Kautionsrückgabe. Danach bleibt Raum für den Transfer zum Flughafen und die Sicherheitskontrolle. Wer knapp plant, überträgt den Stress der Rückgabe direkt auf die Abreise und büßt Gelassenheit ein, die du am Gate brauchst.",
+        "Frage außerdem, was passiert, wenn du verspätet ankommst: Gibt es eine Schlüsselübergabe, eine Abgabe an der Unterkunft oder eine andere Lösung? Diese Alternativen klärst du am besten am ersten Tag, nicht im Stau auf dem Weg zum Flughafen. Fünf Minuten Planung ersetzen jede improvisierte Hektik am Abreisetag."
+      ]
+    },
+    {
+      "heading": "Ruhe durch einfache Routinen",
+      "paragraphs": [
+        "Notiere die Öffnungszeiten auf deinem Handy zusammen mit der Adresse der Station und der Rufnummer. Diese drei Angaben begleiten dich durch die ganze Miete und beantworten die häufigsten Fragen unterwegs. Wer sie parat hat, entscheidet täglich ohne Nachdenken, wann Fahrten gut starten und wann sie enden.",
+        "Prüfe am Vorabend jeder Fahrt, ob der nächste Tag normal läuft oder besondere Zeiten gelten, etwa an Feiertagen. Diese halbe Minute schützt dich vor Überraschungen und gehört zur Vorbereitung wie der Wetterblick. So bleiben die Öffnungszeiten ein nützlicher Rahmen statt eines Hindernisses, und deine Miete läuft in deinem Takt."
+      ]
+    }
+  ]
+}

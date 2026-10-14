@@ -1,0 +1,63 @@
+{
+  "hub": "abholung-rueckgabe",
+  "status": "IDEA",
+  "publishedUrl": null,
+  "date": "2026-10-14",
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "id": "DE-252",
+  "priority": 22,
+  "keywordHypothesis": "roller lieferung hotel",
+  "intent": "commercial",
+  "title": "Lieferung des Mietfahrzeugs an die Unterkunft klären",
+  "slug": "lieferung-des-mietfahrzeugs-an-die-unterkunft-klaeren",
+  "description": "Roller-Lieferung ans Hotel will gut vorbereitet sein. Uhrzeit, Übergabeort, Fahrzeugcheck und Kommunikation klärst du so, dass nichts schiefgeht.",
+  "excerpt": "Der Mietroller kommt direkt ans Hotel? Bequem, doch die Lieferung will klug vorbereitet sein. Mit welchen Angaben du sie sauber organisierst und was du bei der Übergabe prüfst, liest du hier.",
+  "sections": [
+    {
+      "heading": "Die Anfrage richtig formulieren",
+      "paragraphs": [
+        "Eine gute Lieferung beginnt mit einer klaren Anfrage. Nenne dem Vermieter den Namen deiner Unterkunft, die genaue Adresse, das gewünschte Zeitfenster und eine Handynummer, unter der du erreichbar bist. Frage zusätzlich, ob die Rezeption als Treffpunkt dient oder der Bote dich direkt kontaktiert. Je eindeutiger diese Angaben, desto ruhiger der Morgen.",
+        "Bestätige die Lieferung am Vortag noch einmal kurz. Verspätungen kommen vor, und eine kurze Nachricht zeigt dir früh, ob alles läuft. Kläre bei der Gelegenheit auch die Rückgabe: Wird das Fahrzeug abgeholt oder gibst du es an einer Station zurück? Diese Frage gehört zur Lieferung dazu, auch wenn sie erst am Ende relevant wird."
+      ]
+    },
+    {
+      "heading": "Der Übergabeort an der Unterkunft",
+      "paragraphs": [
+        "Nicht jede Adresse ist ein guter Übergabeort. In engen Gassen oder vor Hotels ohne Vorplatz ist eine Ecke weiter oft besser geeignet. Frage den Vermieter, welchen Punkt er für deine Adresse empfiehlt, denn er liefert täglich und kennt die Straßensituation. Die Rezeption deiner Unterkunft hilft ebenfalls gern mit einer Empfehlung.",
+        "Wähle für die Übergabe eine Uhrzeit mit wenig Verkehr, etwa den Vormittag vor der Rushhour. So steht ihr nicht im Fluss der Pendler, während ihr Papiere und Fahrzeug checkt. Eine ruhige Übergabe dauert zehn Minuten und deckt alles ab; eine hektische überspringt die Hälfte."
+      ]
+    },
+    {
+      "heading": "Fahrzeugcheck trotz Lieferung",
+      "paragraphs": [
+        "Auch am Hotel gilt: Prüfe Licht, Hupe, Bremsen, Reifen und Spiegel, bevor der Bote geht. Photografiere den Kilometerstand, den Tankinhalt und alle vorhandenen Kratzer aus denselben Winkeln, die du später bei der Rückgabe wiederholst. Diese Fotos sind deine Referenz für den gesamten Mietzeitraum.",
+        "Teste kurz, ob der Helm zu dir passt und das Schloss funktioniert, denn Ersatzteile nachzuliefern dauert immer länger als ein Griff zur passenden Tasche. Stelle deine Fragen direkt bei der Übergabe, solange der Bote vor dir steht. Danach bleiben nur Telefonate, und die kosten Zeit."
+      ]
+    },
+    {
+      "heading": "Kommunikation während der Mietzeit",
+      "paragraphs": [
+        "Speichere die Nummer des Verleihs und vereinbare, wie ihr euch bei Problemen meldet, etwa per Messenger. Bei einer Panne oder Frage hilft eine klare Rufnummer mehr als jede Suche im Internet. Notiere zusätzlich, wo das Fahrzeug abgestellt werden darf, damit du keine Diskussionen mit Platzwarten riskierst.",
+        "Das Auswärtige Amt weist darauf hin, dass es gelegentlich zu Diebstählen durch vorbeifahrende Zweiräder kommt; offene Wertsachen gehören deshalb nie in die Gepäckablage. Kläre mit der Unterkunft, wo du den Roller über Nacht abstellen kannst, und nutze bewachte Bereiche. Die Lieferung ans Hotel ersetzt keine Parkvorsorge."
+      ]
+    },
+    {
+      "heading": "Rückgabe als Spiegel der Lieferung",
+      "paragraphs": [
+        "Die Rückgabe läuft am besten wie die Lieferung: gleicher Ort, gleiche Fotos, gleiche Winkel. Zeige die Übergabebilder, wenn Fragen zu Vorschäden aufkommen, und halte den Tankzustand wie vereinbart fest. Ein sauber dokumentierter Kreislauf aus Lieferung und Rückgabe schützt dich und den Vermieter gleichmäßig.",
+        "Die offizielle Tourismusseite Vietnam Travel empfiehlt, Transport und Zeitpläne vorab zu denken. Plane die Rückgabe mit Puffer vor deinem Abflug oder Check-out, dann endet die Miete so entspannt, wie sie begonnen hat. Wer die Lieferung gut vorbereitet hat, weiß genau, wie das gelingt."
+      ]
+    }
+  ]
+}
