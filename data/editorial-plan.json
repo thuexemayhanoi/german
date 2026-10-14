@@ -1726,22 +1726,22 @@
       "hub": "reiseplanung",
       "title": "Wann du bewusst nicht selbst fahren solltest",
       "slug": "wann-du-bewusst-nicht-selbst-fahren-solltest",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 17,
       "keywordHypothesis": "wann du bewusst nicht selbst fahren solltest",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/wann-du-bewusst-nicht-selbst-fahren-solltest/"
     },
     {
       "id": "DE-158",
       "hub": "reiseplanung",
       "title": "Wichtige Kontakte auf der Reise sichern",
       "slug": "wichtige-kontakte-auf-der-reise-sichern",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 18,
       "keywordHypothesis": "wichtige kontakte auf der reise sichern",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/wichtige-kontakte-auf-der-reise-sichern/"
     },
     {
       "id": "DE-159",
