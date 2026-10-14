@@ -2100,22 +2100,22 @@
       "hub": "nachhaltig-reisen",
       "title": "Pausen ohne Behinderung anderer einlegen",
       "slug": "pausen-ohne-behinderung-anderer-einlegen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 11,
       "keywordHypothesis": "pausen ohne behinderung anderer einlegen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/pausen-ohne-behinderung-anderer-einlegen/"
     },
     {
       "id": "DE-192",
       "hub": "nachhaltig-reisen",
       "title": "Ressourcenschonende Reiseentscheidungen",
       "slug": "ressourcenschonende-reiseentscheidungen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 12,
       "keywordHypothesis": "ressourcenschonende reiseentscheidungen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/ressourcenschonende-reiseentscheidungen/"
     },
     {
       "id": "DE-193",
