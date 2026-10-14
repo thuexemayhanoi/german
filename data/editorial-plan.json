@@ -780,22 +780,22 @@
       "hub": "sicherheit-verkehr",
       "title": "Pausen gegen Ermüdung planen",
       "slug": "pausen-gegen-ermuedung-planen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 11,
       "keywordHypothesis": "pausen gegen ermüdung planen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/pausen-gegen-ermuedung-planen/"
     },
     {
       "id": "DE-072",
       "hub": "sicherheit-verkehr",
       "title": "Sicherheitsreserve bei unbekannten Straßen",
       "slug": "sicherheitsreserve-bei-unbekannten-strassen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 12,
       "keywordHypothesis": "sicherheitsreserve bei unbekannten straßen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/sicherheitsreserve-bei-unbekannten-strassen/"
     },
     {
       "id": "DE-073",
