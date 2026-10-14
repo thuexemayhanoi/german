@@ -516,22 +516,22 @@
       "hub": "dokumente-vertrag",
       "title": "Haftung bei Schäden im Vertrag nachvollziehen",
       "slug": "haftung-bei-schaeden-im-vertrag-nachvollziehen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 7,
       "keywordHypothesis": "haftung bei schäden im vertrag nachvollziehen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/haftung-bei-schaeden-im-vertrag-nachvollziehen/"
     },
     {
       "id": "DE-048",
       "hub": "dokumente-vertrag",
       "title": "Unklare Vertragsbedingungen ansprechen",
       "slug": "unklare-vertragsbedingungen-ansprechen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 8,
       "keywordHypothesis": "unklare vertragsbedingungen ansprechen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/unklare-vertragsbedingungen-ansprechen/"
     },
     {
       "id": "DE-049",
