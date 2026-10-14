@@ -1572,22 +1572,22 @@
       "hub": "reiseplanung",
       "title": "Wichtige Fragen vor der Reservierung",
       "slug": "wichtige-fragen-vor-der-reservierung",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 3,
       "keywordHypothesis": "wichtige fragen vor der reservierung",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/wichtige-fragen-vor-der-reservierung/"
     },
     {
       "id": "DE-144",
       "hub": "reiseplanung",
       "title": "Gepäckliste für einen kurzen Zweiradtrip",
       "slug": "gepaeckliste-fuer-einen-kurzen-zweiradtrip",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 4,
       "keywordHypothesis": "gepäckliste für einen kurzen zweiradtrip",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/gepaeckliste-fuer-einen-kurzen-zweiradtrip/"
     },
     {
       "id": "DE-145",
