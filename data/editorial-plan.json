@@ -2826,22 +2826,22 @@
       "hub": "abholung-rueckgabe",
       "title": "Schlüsselübergabe und Nachkontrolle organisieren",
       "slug": "schluesseluebergabe-und-nachkontrolle-organisieren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 27,
       "keywordHypothesis": "schluesseluebergabe rueckgabe",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/schluesseluebergabe-und-nachkontrolle-organisieren/"
     },
     {
       "id": "DE-258",
       "hub": "abholung-rueckgabe",
       "title": "Tankstand bei der Rückgabe nachvollziehbar belegen",
       "slug": "tankstand-bei-der-rueckgabe-nachvollziehbar-belegen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 28,
       "keywordHypothesis": "tankstand rueckgabe roller",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/tankstand-bei-der-rueckgabe-nachvollziehbar-belegen/"
     },
     {
       "id": "DE-259",
