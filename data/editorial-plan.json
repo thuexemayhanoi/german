@@ -1308,22 +1308,22 @@
       "hub": "abholung-rueckgabe",
       "title": "Zubehör vollständig zurückgeben",
       "slug": "zubehoer-vollstaendig-zurueckgeben",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 19,
       "keywordHypothesis": "zubehör vollständig zurückgeben",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/zubehoer-vollstaendig-zurueckgeben/"
     },
     {
       "id": "DE-120",
       "hub": "abholung-rueckgabe",
       "title": "Checkliste für eine klare Rückgabe",
       "slug": "checkliste-fuer-eine-klare-rueckgabe",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 20,
       "keywordHypothesis": "checkliste für eine klare rückgabe",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/checkliste-fuer-eine-klare-rueckgabe/"
     },
     {
       "id": "DE-121",
