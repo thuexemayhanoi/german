@@ -1176,22 +1176,22 @@
       "hub": "abholung-rueckgabe",
       "title": "Rückgabezeit schriftlich bestätigen",
       "slug": "rueckgabezeit-schriftlich-bestaetigen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 7,
       "keywordHypothesis": "rückgabezeit schriftlich bestätigen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/rueckgabezeit-schriftlich-bestaetigen/"
     },
     {
       "id": "DE-108",
       "hub": "abholung-rueckgabe",
       "title": "Rückgabeort und Kontaktweg vereinbaren",
       "slug": "rueckgabeort-und-kontaktweg-vereinbaren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 8,
       "keywordHypothesis": "rückgabeort und kontaktweg vereinbaren",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/rueckgabeort-und-kontaktweg-vereinbaren/"
     },
     {
       "id": "DE-109",
