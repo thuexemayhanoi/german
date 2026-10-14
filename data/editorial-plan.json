@@ -1902,22 +1902,22 @@
       "hub": "technik-wartung",
       "title": "Kontrollpunkte für die tägliche Sichtprüfung",
       "slug": "kontrollpunkte-fuer-die-taegliche-sichtpruefung",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 13,
       "keywordHypothesis": "kontrollpunkte für die tägliche sichtprüfung",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/kontrollpunkte-fuer-die-taegliche-sichtpruefung/"
     },
     {
       "id": "DE-174",
       "hub": "technik-wartung",
       "title": "Warum ein kurzer Funktionstest wichtig ist",
       "slug": "warum-ein-kurzer-funktionstest-wichtig-ist",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 14,
       "keywordHypothesis": "warum ein kurzer funktionstest wichtig ist",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/warum-ein-kurzer-funktionstest-wichtig-ist/"
     },
     {
       "id": "DE-175",
