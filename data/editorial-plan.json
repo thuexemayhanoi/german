@@ -2892,22 +2892,22 @@
       "hub": "probleme-hilfe",
       "title": "Elektrikausfall am Mietroller richtig melden",
       "slug": "elektrikausfall-am-mietroller-richtig-melden",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 23,
       "keywordHypothesis": "elektrik roller ausfall",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/elektrikausfall-am-mietroller-richtig-melden/"
     },
     {
       "id": "DE-264",
       "hub": "probleme-hilfe",
       "title": "Diebstahl des Mietfahrzeugs: sofortige Schritte",
       "slug": "diebstahl-des-mietfahrzeugs-sofortige-schritte",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 24,
       "keywordHypothesis": "roller diebstahl vietnam",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/diebstahl-des-mietfahrzeugs-sofortige-schritte/"
     },
     {
       "id": "DE-265",
