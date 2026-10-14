@@ -714,22 +714,22 @@
       "hub": "sicherheit-verkehr",
       "title": "Abstand und Bremsweg bewusst einschätzen",
       "slug": "abstand-und-bremsweg-bewusst-einschaetzen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 5,
       "keywordHypothesis": "abstand und bremsweg bewusst einschätzen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/abstand-und-bremsweg-bewusst-einschaetzen/"
     },
     {
       "id": "DE-066",
       "hub": "sicherheit-verkehr",
       "title": "Kreuzungen in Hanoi vorsichtig angehen",
       "slug": "kreuzungen-in-hanoi-vorsichtig-angehen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 6,
       "keywordHypothesis": "kreuzungen in hanoi vorsichtig angehen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/kreuzungen-in-hanoi-vorsichtig-angehen/"
     },
     {
       "id": "DE-067",
