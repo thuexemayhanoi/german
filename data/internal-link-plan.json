@@ -1,0 +1,254 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Contextual links between published German topic hubs and main information pages; exclude automatic homepage promotion.",
+  "hubs": {
+    "fahrzeugwahl": {
+      "related": [
+        {
+          "slug": "sicherheit-verkehr",
+          "anchor": "Sicherheit und Fahrpraxis einschätzen"
+        },
+        {
+          "slug": "mietpreise-kaution",
+          "anchor": "Mietpreise und Kaution vergleichen"
+        }
+      ],
+      "priority": {
+        "url": "/kontakt/",
+        "anchor": "Konkrete Mietfragen direkt klären"
+      }
+    },
+    "mietpreise-kaution": {
+      "related": [
+        {
+          "slug": "dokumente-vertrag",
+          "anchor": "Mietvertrag und Unterlagen prüfen"
+        },
+        {
+          "slug": "abholung-rueckgabe",
+          "anchor": "Übergabe und Rückgabe vorbereiten"
+        }
+      ],
+      "priority": {
+        "url": "/kontakt/",
+        "anchor": "Mietkonditionen beim Anbieter erfragen"
+      }
+    },
+    "dokumente-vertrag": {
+      "related": [
+        {
+          "slug": "mietpreise-kaution",
+          "anchor": "Kaution und Kosten verstehen"
+        },
+        {
+          "slug": "abholung-rueckgabe",
+          "anchor": "Vertragsfragen bei der Übergabe klären"
+        }
+      ],
+      "priority": {
+        "url": "/hinweise/",
+        "anchor": "Rechtliche Hinweise zum Ratgeber lesen"
+      }
+    },
+    "sicherheit-verkehr": {
+      "related": [
+        {
+          "slug": "technik-wartung",
+          "anchor": "Technischen Fahrzeugcheck vorbereiten"
+        },
+        {
+          "slug": "reiseplanung",
+          "anchor": "Fahrten und Pausen sicher planen"
+        }
+      ],
+      "priority": {
+        "url": "/hinweise/",
+        "anchor": "Hinweise zu Sicherheit und Haftung lesen"
+      }
+    },
+    "routen-umgebung": {
+      "related": [
+        {
+          "slug": "reiseplanung",
+          "anchor": "Reiseplanung rund um Hanoi vertiefen"
+        },
+        {
+          "slug": "sicherheit-verkehr",
+          "anchor": "Verkehr und Sicherheit unterwegs beachten"
+        }
+      ],
+      "priority": {
+        "url": "/ratgeber/",
+        "anchor": "Veröffentlichte Routenratgeber entdecken"
+      }
+    },
+    "abholung-rueckgabe": {
+      "related": [
+        {
+          "slug": "mietpreise-kaution",
+          "anchor": "Kaution und Mietkosten klären"
+        },
+        {
+          "slug": "probleme-hilfe",
+          "anchor": "Hilfe bei Problemen mit dem Mietfahrzeug"
+        }
+      ],
+      "priority": {
+        "url": "/kontakt/",
+        "anchor": "Fragen zur konkreten Übergabe stellen"
+      }
+    },
+    "probleme-hilfe": {
+      "related": [
+        {
+          "slug": "abholung-rueckgabe",
+          "anchor": "Rückgabe und Übergabe dokumentieren"
+        },
+        {
+          "slug": "technik-wartung",
+          "anchor": "Technische Probleme früh erkennen"
+        }
+      ],
+      "priority": {
+        "url": "/kontakt/",
+        "anchor": "Kontaktwege für Rückfragen finden"
+      }
+    },
+    "reiseplanung": {
+      "related": [
+        {
+          "slug": "routen-umgebung",
+          "anchor": "Routen rund um Hanoi vorbereiten"
+        },
+        {
+          "slug": "nachhaltig-reisen",
+          "anchor": "Reisewege bewusster wählen"
+        }
+      ],
+      "priority": {
+        "url": "/ratgeber/",
+        "anchor": "Weitere veröffentlichte Reisetipps lesen"
+      }
+    },
+    "technik-wartung": {
+      "related": [
+        {
+          "slug": "sicherheit-verkehr",
+          "anchor": "Sicherheitscheck vor dem Fahren"
+        },
+        {
+          "slug": "probleme-hilfe",
+          "anchor": "Bei Defekten richtig reagieren"
+        }
+      ],
+      "priority": {
+        "url": "/ratgeber/",
+        "anchor": "Weitere Technikratgeber lesen"
+      }
+    },
+    "nachhaltig-reisen": {
+      "related": [
+        {
+          "slug": "reiseplanung",
+          "anchor": "Verkehrsmittel bei der Reiseplanung vergleichen"
+        },
+        {
+          "slug": "routen-umgebung",
+          "anchor": "Passende Ausflugsrouten wählen"
+        }
+      ],
+      "priority": {
+        "url": "/ratgeber/",
+        "anchor": "Weitere Ratgeber zum Reisen lesen"
+      }
+    }
+  },
+  "pages": {
+    "ueber-uns": [
+      {
+        "url": "/ratgeber/",
+        "anchor": "Veröffentlichte Ratgeber kennenlernen"
+      },
+      {
+        "url": "/themen/reiseplanung/",
+        "anchor": "Reiseplanung und Orientierung vertiefen"
+      }
+    ],
+    "kontakt": [
+      {
+        "url": "/themen/mietpreise-kaution/",
+        "anchor": "Mietpreise und Kaution vor der Anfrage prüfen"
+      },
+      {
+        "url": "/themen/fahrzeugwahl/",
+        "anchor": "Passende Fahrzeugklasse auswählen"
+      },
+      {
+        "url": "/themen/abholung-rueckgabe/",
+        "anchor": "Übergabe und Rückgabe vorbereiten"
+      }
+    ],
+    "datenschutz": [
+      {
+        "url": "/suche/",
+        "anchor": "Zur lokal im Browser arbeitenden Suche"
+      },
+      {
+        "url": "/hinweise/",
+        "anchor": "Weitere rechtliche Hinweise lesen"
+      }
+    ],
+    "hinweise": [
+      {
+        "url": "/themen/dokumente-vertrag/",
+        "anchor": "Mietvertrag und Dokumente verstehen"
+      },
+      {
+        "url": "/themen/sicherheit-verkehr/",
+        "anchor": "Sicherheit und Verkehrsfragen vertiefen"
+      }
+    ]
+  },
+  "archive": [
+    {
+      "slug": "fahrzeugwahl",
+      "anchor": "Fahrzeugwahl"
+    },
+    {
+      "slug": "mietpreise-kaution",
+      "anchor": "Mietpreise und Kaution"
+    },
+    {
+      "slug": "dokumente-vertrag",
+      "anchor": "Dokumente und Vertrag"
+    },
+    {
+      "slug": "sicherheit-verkehr",
+      "anchor": "Sicherheit und Verkehr"
+    },
+    {
+      "slug": "routen-umgebung",
+      "anchor": "Routen rund um Hanoi"
+    },
+    {
+      "slug": "abholung-rueckgabe",
+      "anchor": "Abholung und Rückgabe"
+    },
+    {
+      "slug": "probleme-hilfe",
+      "anchor": "Probleme und Hilfe"
+    },
+    {
+      "slug": "reiseplanung",
+      "anchor": "Reiseplanung"
+    },
+    {
+      "slug": "technik-wartung",
+      "anchor": "Technik und Wartung"
+    },
+    {
+      "slug": "nachhaltig-reisen",
+      "anchor": "Nachhaltig reisen"
+    }
+  ]
+}

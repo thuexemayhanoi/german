@@ -2,4 +2,6 @@ node_modules/
 .local-drafts/
 reports/*
 !reports/factory-last-pair.json
+!reports/internal-link-graph.json
+!reports/internal-link-graph.csv
 .DS_Store
