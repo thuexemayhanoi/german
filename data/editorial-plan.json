@@ -1550,22 +1550,22 @@
       "hub": "reiseplanung",
       "title": "Erste Rollerreise in Hanoi vorbereiten",
       "slug": "erste-rollerreise-in-hanoi-vorbereiten",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 1,
       "keywordHypothesis": "erste rollerreise in hanoi vorbereiten",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/erste-rollerreise-in-hanoi-vorbereiten/"
     },
     {
       "id": "DE-142",
       "hub": "reiseplanung",
       "title": "Wie viel Fahrzeit realistisch einplanen?",
       "slug": "wie-viel-fahrzeit-realistisch-einplanen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 2,
       "keywordHypothesis": "wie viel fahrzeit realistisch einplanen?",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/wie-viel-fahrzeit-realistisch-einplanen/"
     },
     {
       "id": "DE-143",
