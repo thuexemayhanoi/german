@@ -2870,22 +2870,22 @@
       "hub": "probleme-hilfe",
       "title": "Rollerpanne in Hanoi: Werkstatt oder Vermieter kontaktieren",
       "slug": "rollerpanne-in-hanoi-werkstatt-oder-vermieter-kontaktieren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 21,
       "keywordHypothesis": "roller panne hanoi",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/rollerpanne-in-hanoi-werkstatt-oder-vermieter-kontaktieren/"
     },
     {
       "id": "DE-262",
       "hub": "probleme-hilfe",
       "title": "Reifenpanne unterwegs: sicher abstellen zuerst",
       "slug": "reifenpanne-unterwegs-sicher-abstellen-zuerst",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 22,
       "keywordHypothesis": "reifenpanne roller unterwegs",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/reifenpanne-unterwegs-sicher-abstellen-zuerst/"
     },
     {
       "id": "DE-263",
