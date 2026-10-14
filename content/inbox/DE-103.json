@@ -1,0 +1,63 @@
+{
+  "id": "DE-103",
+  "hub": "abholung-rueckgabe",
+  "title": "Kilometerstand und Kraftstoffstand notieren",
+  "slug": "kilometerstand-und-kraftstoffstand-notieren",
+  "status": "IDEA",
+  "priority": 3,
+  "keywordHypothesis": "kilometerstand und kraftstoffstand notieren",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Kilometerstand und Kraftstoffstand bei der Übergabe notieren: zwei Zahlen, die bei der Rückgabe jeden Vergleich objektiv machen – und jeden Streit beenden.",
+  "excerpt": "Zwei Zahlen entscheiden über die Abrechnung einer Fahrzeugmiete: der Kilometerstand und der Kraftstoffstand. Wer beide bei der Übergabe notiert, hat bei der Rückgabe keine Meinungsfrage, sondern einen Befund.",
+  "sections": [
+    {
+      "heading": "Warum zwei Zahlen so viel wert sind",
+      "paragraphs": [
+        "Die meisten Diskussionen bei der Rückgabe eines Mietfahrzeugs drehen sich um Zahlen: wie viele Kilometer gefahren wurden, wie viel Kraftstoff fehlt, was die Differenz kostet. Diese Diskussion ist als Meinungsfrage unlösbar – als Zahlenfrage löst sie sich in zwei Minuten auf. Kilometerstand und Kraftstoffstand sind die beiden Werte, die alles Weitere objektiv machen.",
+        "Die beiden Zahlen gehören in die Vertragskopie oder die eigene Notiz, mit Datum und Uhrzeit – und zwar von beiden Seiten abgezeichnet oder zumindest vor dem Verleiher notiert. Eine Zahl, die nur im Kopf existiert, ist eine Erinnerung; eine Zahl auf Papier mit zwei Unterschriften ist eine Grundlage."
+      ]
+    },
+    {
+      "heading": "Kilometerstand: mehr als eine Ablesung",
+      "paragraphs": [
+        "Der Kilometerstand wird bei der Übergabe und bei der Rückgabe gelesen und festgehalten – die Differenz ist die Fahrstrecke, und an ihr hängen mögliche kilometerabhängige Vereinbarungen. Fotografieren Sie die Anzeige zusätzlich, denn ein Foto der Zahl ist schwerer zu bestreiten als eine handschriftliche Notiz mit Erinnerungslücke.",
+        "Der Kilometerstand sagt auch etwas über das Fahrzeug selbst: Ein Fahrzeug mit sehr vielen Kilometern fährt sich anders als eines mit wenigen – Bremsen, Stoßdämpper und Verschleißteile altern mit der Strecke. Wer den Stand kennt, hat eine realistische Erwartung an das, was bei der Probefahrt zu spüren ist."
+      ]
+    },
+    {
+      "heading": "Kraftstoffstand: die Regel im Vertrag",
+      "paragraphs": [
+        "Der Kraftstoffstand wird in der Regel über die Tankanzeige oder die Füllmenge beschrieben – entscheidend ist, wie der Vertrag die Rückgabe regelt: voll/voll, gleich/gleich oder eine andere Vereinbarung. Lesen Sie die Regel vor der Abfahrt, nicht bei der Rückgabe – wer sie kennt, plant die letzte Tankstelle der Tour richtig.",
+        "Notieren Sie den Stand bei der Übergabe mit derselben Genauigkeit wie den Kilometerstand: Anzeige oder Füllmenge, festgehalten im Vertrag, notiert und fotografiert. Bei der Rückgabe entsteht so ein Vergleich, der keine Diskussion kennt – die Regel des Vertrags angewandt auf zwei dokumentierte Werte."
+      ]
+    },
+    {
+      "heading": "Die Notiz-Praxis unterwegs",
+      "paragraphs": [
+        "Zwischen Übergabe und Rückgabe lohnt es sich, die Notiz einmal zu ergänzen: der Stand bei der letzten Tankung, der Tag, an dem die Grenze der geplanten Strecke erreicht wurde. Die Ergänzung ersetzt nichts – aber sie erzählt bei der Rückgabe eine Geschichte, die mit den Vertragswerten übereinstimmt, und Übereinstimmung ist die beste Verhandlungsbasis.",
+        "Wer die Zahlen im Blick behält, fährt nebenbei besser: Der Kraftstoffstand ist ein Planungswert der Route, der Kilometerstand ein Realitätswert der Zeitplanung. Zwei Zahlen, die man ohnehin braucht, dokumentiert man mit demselben Blick – Sicherheit und Abrechnung fallen in eine Gewohnheit zusammen."
+      ]
+    },
+    {
+      "heading": "Der Vergleich bei der Rückgabe",
+      "paragraphs": [
+        "Bei der Rückgabe werden beide Werte noch einmal gelesen, notiert und verglichen: Kilometerstand gegen den Wert der Übergabe, Kraftstoffstand gegen die vertragliche Regel. Wer beide Reihen dokumentiert hat, hält eine Abrechnung in der Hand, die aus zwei Befunden besteht – und zwischen zwei Befunden gibt es keine Meinungsverschiedenheit.",
+        "Die offizielle Tourismusseite Vietnam Travel gibt einen Überblick zu Fortbewegung und Anlaufstellen im Land – kombinieren Sie diese Übersicht mit der Gewohnheit, Zahlen zu dokumentieren. Dann endet die Miete mit einer Abrechnung, die beide Seiten nachvollziehen können."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

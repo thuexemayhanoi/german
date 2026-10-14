@@ -1,0 +1,63 @@
+{
+  "id": "DE-106",
+  "hub": "abholung-rueckgabe",
+  "title": "Bremsen und Licht vor der Abfahrt prüfen",
+  "slug": "bremsen-und-licht-vor-der-abfahrt-pruefen",
+  "status": "IDEA",
+  "priority": 6,
+  "keywordHypothesis": "bremsen und licht vor der abfahrt prüfen",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Bremsen und Licht vor der Abfahrt prüfen: Bremsprobe im Stand und in der Probefahrt, Licht und Signalgeber testen – in fünf Minuten zur geprüften Basis.",
+  "excerpt": "Bremsen und Licht sind die beiden Systeme, die im Verkehr unmittelbar über Sicherheit entscheiden: Wer sie bei der Übergabe prüft, fährt mit einem Fahrzeug, das er kennt. Diese fünf Minuten gehören zu jeder Abfahrt.",
+  "sections": [
+    {
+      "heading": "Warum die Prüfung zur Abfahrt gehört",
+      "paragraphs": [
+        "Zwischen einem Mietfahrzeug und einem vertrauten Fahrzeug liegt der Unterschied des Wissens: Das eigene Zweirad kennt seine Bremsen, das gemietete muss man erst kennenlernen. Die Brems- und Lichtprüfung ist der Moment, in dem aus einem fremden Fahrzeug ein geprüftes wird – und sie kostet weniger Zeit als eine einzige unerwartete Situation im Verkehr.",
+        "Die Prüfung hat zwei Adressaten: das Fahrzeug und den Fahrer. Das Fahrzeug wird auf seine Funktion geprüft, der Fahrer auf sein Gefühl für die Bremsleistung, den Druckpunkt, die Ansprache des Lichts. Wer beides kennt, fährt die ersten Kilometer nicht mit einem neuen Fahrzeug, sondern mit einem geprüften und gespürten."
+      ]
+    },
+    {
+      "heading": "Die Bremsprobe im Stand",
+      "paragraphs": [
+        "Die Prüfung beginnt im Stand: Vorderradbremse ziehen und das Fahrzeug leicht belasten – der Druckpunkt soll klar kommen, ohne Schwammigkeit, ohne lautes Schleifen. Das Gleiche gilt für die Hinterradbremse, bei Rollern häufig am links angeordneten Hebel oder Fußhebel. Wer im Stand einen weichen oder rutschigen Druckpunkt spürt, spricht es vor der Abfahrt an.",
+        "Der Stand der Bremsbeläge gehört zur Prüfung, soweit sichtbar: Beläge, die im Bereich des Verschlisses sind, sind eine Frage für den Verleiher, nicht für den Fahrer. Und die Bremsflüssigkeit ist bei Rollern selten sichtbar – entscheidend ist das, was die Probe sagt: ein klares, sauberes, wiederholbares Bremsgefühl an beiden Rädern."
+      ]
+    },
+    {
+      "heading": "Die Bremsprobe in der Probefahrt",
+      "paragraphs": [
+        "Im Stand prüft man die Mechanik, in der Probefahrt die Wirkung: Rollen Sie an, bremsen Sie dosiert, und spüren Sie, wie das Fahrzeug verzögert – vorne und hinten getrennt, dann zusammen. Die Probefahrt ist der Moment, in dem die Bremsen keine Behauptung mehr sind, sondern eine Erfahrung mit Distanz, Geräusch und Belag.",
+        "Wer bei der Probefahrt eine Besonderheit spürt – ein Ziehen nach einer Seite, ein Rubbeln, ein langes Weg des Druckpunkts – fährt zurück zum Verleiher und lässt es ansehen. Eine Kleinigkeit, die am Ende der Übergabe angesprochen wird, ist eine Reparatur; dieselbe Kleinigkeit unterwegs ist eine Panne oder mehr."
+      ]
+    },
+    {
+      "heading": "Licht und Signalgeber testen",
+      "paragraphs": [
+        "Die Lichtprüfung läuft in einer Minute ab: Abblendlicht und Fernlicht, Bremslicht bei gezogener und getretener Bremse, Blinker oder Handzeichen-Einrichtung, Hupe. Am besten prüft man das mit einer zweiten Person, die hinten steht und bestätigt, was vorne bedient wird – ein Bremslicht, das nur bei einer der beiden Bremsen leuchtet, ist ein Befund, der am Straßenrand niemandem mehr auffällt.",
+        "Das Licht ist auch eine Frage des Verkehrs: In der Dämmerung und bei Regen ist gutes Licht Sichtbarkeit in beide Richtungen – und das Auswärtige Amt rät, Fahrten in die Nachtstunden zu vermeiden, was gutes Licht nicht aufhebt, sondern ergänzt. Wer das Licht bei der Übergabe kennt, fährt die Dämmerung mit dem, was das Fahrzeug wirklich kann."
+      ]
+    },
+    {
+      "heading": "Die fünf Minuten als Gewohnheit",
+      "paragraphs": [
+        "Die komplette Prüfung – Standbremsen, Probefahrt, Licht, Hupe – dauert fünf Minuten und ersetzt jede Reparatur, die man unterwegs nicht haben will. Wer sie bei jeder Übergabe und nach jeder längeren Pause wiederholt, hat eine Routine, die das Fahrzeug prüft, ohne dass es Zeit kostet: Der Blick geht mit, die Hände prüfen mit, das Ergebnis bleibt schriftlich oder im Gefühl.",
+        "Die offizielle Tourismusseite Vietnam Travel gibt einen Überblick zu Fortbewegung und Verkehrsverhältnissen im Land – kombinieren Sie diese Übersicht mit einer Abfahrt, die Bremsen und Licht geprüft hat. Dann beginnt die Fahrt mit einem Fahrzeug, das seinen wichtigsten Job vor dem ersten Kilometer bewiesen hat."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "DE-105",
+  "hub": "abholung-rueckgabe",
+  "title": "Helm und Zubehör bei der Übergabe kontrollieren",
+  "slug": "helm-und-zubehoer-bei-der-uebergabe-kontrollieren",
+  "status": "IDEA",
+  "priority": 5,
+  "keywordHypothesis": "helm und zubehör bei der übergabe kontrollieren",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Helm und Zubehör bei der Übergabe kontrollieren: Passung prüfen, Zustand sichten und Vollständigkeit festhalten – Helm und Ausstattung sind Teil der Miete.",
+  "excerpt": "Der Helm ist in Vietnam Pflicht und die wichtigste Ausstattung der Fahrt: Wer ihn bei der Übergabe prüft, prüft nicht ein Detail, sondern die Basis. Dieser Ratgeber zeigt, wie Helm und Zubehör kontrolliert werden.",
+  "sections": [
+    {
+      "heading": "Der Helm als Kern der Prüfung",
+      "paragraphs": [
+        "Das Auswärtige Amt nennt den Helm in Vietnam Pflicht für Fahrer und Mitfahrer – damit ist der Helm bei der Übergabe kein Zubehör, sondern der zentrale Sicherheitsgegenstand der Miete. Die Prüfung beginnt mit der Passung: Der Helm sitzt fest, ohne Druckstellen, ohne Verrutschen bei Kopfbewegungen, und das Visier oder der Gurt lassen sich sicher bedienen.",
+        "Der Zustand ist der zweite Punkt: Risse in der Schale, beschädigte Polster, ein Visier mit tieferen Kratzern im Sichtfeld, ein Verschluss, der nicht sauber einrastet. Ein Helm mit solchen Mängeln schützt nicht im Versprechen, sondern nur auf dem Papier – wer einen solchen Helm erhält, spricht es bei der Übergabe an und bittet um ein einwandfreies Exemplar."
+      ]
+    },
+    {
+      "heading": "Zweithelm für Mitfahrer",
+      "paragraphs": [
+        "Wer mit einem Mitfahrer fährt, prüft den zweiten Helm mit derselben Sorgfalt wie den eigenen – die Pflicht gilt für beide, und die Passung für jeden Kopf einzeln. Ein Zweithelm in der Größe des Fahrers ist für den Mitfahrer kein Helm, sondern eine Behauptung; die Passung wird am Kopf geprüft, der ihn tragen wird.",
+        "Nehmen Sie die Zwei-Helm-Prüfung als Gelegenheit, die Abstimmung mit dem Mitfahrer zu beginnen: Wer den Helm in der Hand hält, spricht über die Tour, das Tempo und die Signale. Die Übergabe ist der natürliche Ort für diese Absprachen – und der Helm ist der beste Aufhänger dafür."
+      ]
+    },
+    {
+      "heading": "Zubehör sichten und festhalten",
+      "paragraphs": [
+        "Das restliche Zubehör wird nach derselben Logik gesichtet: Regendecke oder Staufachsicherung, Werkzeug, Schloss mit Schlüsseln, Ladegerät oder Halterung, soweit im Vertrag aufgeführt. Alles, was der Vertrag aufführt, wird bei der Übergabe gezählt, in Augenschein genommen und in die Notiz aufgenommen – alles, was fehlt, wird sofort angesprochen.",
+        "Die Vollständigkeit ist eine Rückgabefrage: Wer bei der Abholung nicht zählt, vermisst bei der Rückgabe – und ein fehlendes Schloss am Ende der Miete ist eine Diskussion, die man mit einer Liste von der Abholung vermieden hätte. Die Liste braucht zwei Minuten und gilt für beide Seiten."
+      ]
+    },
+    {
+      "heading": "Schloss und Diebstahlschutz",
+      "paragraphs": [
+        "Ein Schloss gehört zur Ausrüstung einer Fahrzeugmiete, und seine Prüfung gehört zur Übergabe: Funktioniert es, passt es zur Öse oder zum Rad, und gibt es einen zweiten Schlüssel, der nicht am selben Bundel hängt? Das Auswärtige Amt warnt vor Diebstahl in Vietnam – ein geprüftes Schloss ist die einfachste Antwort auf diese Warnung.",
+        "Klären Sie bei der Übergabe auch, was im Diebstahlsfall gilt: Was sagt der Vertrag, wen rufen Sie an, welche Dokumente brauchen Sie. Die Frage kostet eine Minute bei der Übergabe und sehr viel Ruhe im Ernstfall – genau das Verhältnis, das gute Vorbereitung auszeichnet."
+      ]
+    },
+    {
+      "heading": "Die Checkliste Helm und Ausstattung",
+      "paragraphs": [
+        "Aus der Prüfung wird eine kurze Liste, die zur Übergabe gehört: Helm eins, Helm zwei, Passung und Zustand; Zubehör laut Vertrag, Anzahl und Zustand; Schloss und Schlüssel, Anzahl. Wer diese Liste einmal geführt hat, führt sie bei jeder Miete – sie ist kürzer als jede Diskussion, die sie ersetzt.",
+        "Die offizielle Tourismusseite Vietnam Travel gibt einen Überblick zu Fortbewegung und Anlaufstellen im Land – kombinieren Sie diese Übersicht mit einer Übergabe, die auch den Helm prüft. Dann startet die Fahrt mit einer Ausstattung, die man kennt, statt mit einer, die man annimmt."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

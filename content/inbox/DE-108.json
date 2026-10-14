@@ -1,0 +1,63 @@
+{
+  "id": "DE-108",
+  "hub": "abholung-rueckgabe",
+  "title": "Rückgabeort und Kontaktweg vereinbaren",
+  "slug": "rueckgabeort-und-kontaktweg-vereinbaren",
+  "status": "IDEA",
+  "priority": 8,
+  "keywordHypothesis": "rückgabeort und kontaktweg vereinbaren",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Rückgabeort und Kontaktweg vereinbaren: den Ort konkret festlegen, Notfallnummer speichern und erreichbar bleiben – drei Punkte, die jede Rückgabe entspannen.",
+  "excerpt": "Die Rückgabe einer Fahrzeugmiete scheitert selten am Fahrzeug und oft an den Kleinigkeiten: Wo genau, wen erreichen, was wenn nicht. Dieser Ratgeber zeigt, wie Rückgabeort und Kontaktweg zur klaren Vereinbarung werden.",
+  "sections": [
+    {
+      "heading": "Der Rückgabeort ist eine genaue Angabe",
+      "paragraphs": [
+        "Rückgabe am Verleih klingt eindeutig – es ist es selten. Ein Verleih kann mehrere Standorte haben, eine Straße mit zwei Seiten, eine Abholung am Hotel anbieten und eine Rückgabe am Laden erwarten. Die Vereinbarung braucht deshalb die genaue Angabe: welche Adresse, welche Seite, welche Uhrzeit – und ob die Rückgabe an einem anderen Ort als die Abholung überhaupt vorgesehen ist.",
+        "Halten Sie den Rückgabeort schriftlich fest wie die Rückgabezeit – im Vertrag oder in der gemeinsamen Notiz. Ein Ort, der nur besprochen wurde, wird am Ende des Tages von zwei Müdigkeiten erinnert – und zwei Müdigkeiten erinnern selten dasselbe."
+      ]
+    },
+    {
+      "heading": "Der Kontaktweg gehört zur Vereinbarung",
+      "paragraphs": [
+        "Der Kontaktweg besteht aus drei Elementen: die Nummer des Verleihers im eigenen Handy, die eigene Nummer beim Verleiher, und die Übereinkunft, wie im Bedarfsfall kommuniziert wird – Anruf oder Nachricht, vor der Uhrzeit oder jederzeit. Wer diese drei Elemente bei der Übergabe klärt, hat im Verlauf der Miete nie ein Kommunikationsproblem.",
+        "Speichern Sie die Nummer des Verleihers unter einem eindeutigen Namen ab, und prüfen Sie die Erreichbarkeit in beide Richtungen bei der Übergabe: ein kurzer Anruf oder eine Testnachricht genügt. Die Nummer, die erst im Notfall gewählt werden soll, ist eine Nummer, deren Funktion man vorher nicht kennt – und genau das zu prüfen dauert eine Minute."
+      ]
+    },
+    {
+      "heading": "Was im Bedarfsfall zu tun ist",
+      "paragraphs": [
+        "Die Fälle, in denen der Kontaktweg gebraucht wird, sind bekannt: die Rückgabe verzögert sich, das Fahrzeug hat eine Panne, ein Schaden ist entstanden, die Rückgabe soll an einem anderen Ort erfolgen. Für alle vier Fälle gilt dieselbe Grundregel: den Verleih früh informieren, den Standort und den Zustand konkret benennen, und die Folgeabsprache schriftlich festhalten.",
+        "Bei einer Panne unterwegs gehört zur Meldung, was am Ort zu erkennen ist: was passiert ist, wo das Fahrzeug steht, dass es abseits des fließenden Verkehrs abgestellt ist. Das Auswärtige Amt empfiehlt, bei Pannen und Unfällen im Ausland einen kühlen Kopf zu bewahren und die Versicherung sowie die Vermietstation einzubeziehen – der Kontaktweg aus der Übergabe ist genau die Vorrichtung dafür."
+      ]
+    },
+    {
+      "heading": "Erreichbarkeit über den Tag halten",
+      "paragraphs": [
+        "Die eigene Erreichbarkeit ist die zweite Seite der Vereinbarung: ein geladenes Handy, ein geräuschloser Modus, der dennoch Vibrationsanzeige behält, und die Nummer des Verleihers an einer Stelle, die man auch mit leidenschaftlicher Fahrstimmung findet. Wer den Kontaktweg ernst nimmt, behandelt das Handy unterwegs als Werkzeug – sicher befestigt, nie offen in der Hand.",
+        "Das Auswärtige Amt warnt vor Diebstahl durch Vorbeifahrende – das Handy in der Halterung oder offen in der Hand ist ein naheliegendes Ziel. Der Kontaktweg funktioniert nur mit dem Gerät, das ihn trägt: sicher am Fahrzeug, am Körper oder im Staufach, und nie sichtbar länger als nötig."
+      ]
+    },
+    {
+      "heading": "Das Ende der Miete als geplanter Punkt",
+      "paragraphs": [
+        "Rückgabeort, Rückgabezeit und Kontaktweg sind die drei Punkte, die das Ende der Miete planbar machen: der Ort sagt wo, die Uhrzeit sagt wann, der Kontaktweg sagt wie bei Abweichungen. Wer alle drei schriftlich hat, beendet die Miete mit einer Übergabe – wer sie nur mündlich hat, mit einer Rekonstruktion.",
+        "Die offizielle Tourismusseite Vietnam Travel gibt einen Überblick zu Fortbewegung und Anlaufstellen im Land – kombinieren Sie diese Übersicht mit einer Vereinbarung, die Ort und Kontakt hält. Dann hat die Miete von Anfang an ein Ende, das beide Seiten kennen."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

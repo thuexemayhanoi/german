@@ -1,0 +1,63 @@
+{
+  "id": "DE-104",
+  "hub": "abholung-rueckgabe",
+  "title": "Sichtbare Vorschäden gemeinsam dokumentieren",
+  "slug": "sichtbare-vorschaeden-gemeinsam-dokumentieren",
+  "status": "IDEA",
+  "priority": 4,
+  "keywordHypothesis": "sichtbare vorschäden gemeinsam dokumentieren",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Sichtbare Vorschäden gemeinsam dokumentieren: Bestandsaufnahme bei der Übergabe, festgehalten im Protokoll – so bleibt jede Spur, die schon da war, keine Frage.",
+  "excerpt": "Jede Spur am Fahrzeug, die bei der Übergabe nicht festgehalten wird, kann bei der Rückgabe zur Diskussion werden. Wer Vorschäden gemeinsam mit dem Verleiher dokumentiert, schützt sich selbst – und die Basis der Miete.",
+  "sections": [
+    {
+      "heading": "Warum die Bestandsaufnahme gemeinsam passiert",
+      "paragraphs": [
+        "Eine Dokumentation, die nur eine Seite führt, ist eine Behauptung; eine Dokumentation, die beide Seiten gesehen haben, ist eine Basis. Die Bestandsaufnahme der sichtbaren Vorschäden gehört deshalb in die Übergabe selbst: gemeinsam durch das Fahrzeug gehen, gemeinsam festhalten, gemeinsam anerkennen. Der Aufwand liegt bei zehn Minuten, der Wert bei der gesamten Miete.",
+        "Die gemeinsame Form hat auch eine angenehme Nebenwirkung: Sie setzt den Ton der Miete. Wer bei der Übergabe sorgfältig ist, zeigt, dass es ihm um ein geordnetes Geschäft geht – die meisten Verleihe antworten auf diese Professionalität mit derselben Sorgfalt bei der Rückgabe."
+      ]
+    },
+    {
+      "heading": "Was in die Bestandsaufnahme gehört",
+      "paragraphs": [
+        "Erfasst wird alles Sichtbare: Kratzer und Dellen am Tank, an den Seitenverkleidungen, am Heck; Beschädigungen an Spiegeln, Griffen und Staufächern; der Zustand von Sitzbank und Soziushaltegriff; Risse oder Steinschläge, die schon da sind. Die Formel lautet: alles, was bei der Rückgabe auffallen könnte, gehört vor der Abfahrt auf die Liste.",
+        "Die Aufnahme braucht Ort und Maß: Wo ist die Spur, wie groß ist sie, wie tief. Eine Zeile wie linke Tankseite, Kratzer etwa handbreit unter dem Einfüllstutzen ist bei der Rückgabe ein Befund; eine Zeile wie ein paar Kratzer ist eine Stimmung. Präzision ist hier kein Ziertempo, sondern der Zweck der Sache."
+      ]
+    },
+    {
+      "heading": "Form der Dokumentation",
+      "paragraphs": [
+        "Die Dokumentation lebt von zwei Formen, die sich ergänzen: das geschriebene Protokoll, das beide Seiten ansehen und abzeichnen, und die Fotografie, die jede Zeile mit einem Bild belegt. Das Protokoll gehört zur Vertragskopie, die Fotos in das eigene Archiv – und der Verleiher hat dieselben Bilder gesehen, bevor die Abfahrt passiert ist.",
+        "Wer keine Fotodokumentation führen will, sollte das Protokoll umso sorgfältiger halten – aber die Kombination ist die stärkste Form: Ein Protokoll ohne Foto kann in der Erinnerung verblassen, ein Foto ohne Protokoll kann einer anderen Stelle zugeordnet werden. Zusammen sind sie eindeutig, und Eindeutigkeit ist der einzige Zweck der Bestandsaufnahme."
+      ]
+    },
+    {
+      "heading": "Was nicht in die Aufnahme gehört",
+      "paragraphs": [
+        "Die Bestandsaufnahme ist keine Tiefenprüfung: Sie erfasst Sichtbares, nicht Technisches – für Bremsen, Licht und Fahrwerk gibt es die eigene Prüfung vor der Abfahrt. Wer die Bestandsaufnahme mit einer Werkstattprüfung verwechselt, verliert Zeit und verliert den Fokus: Die Liste braucht die Spuren, die bei der Rückgabe sichtbar sein werden, nicht die Zustandsbewertung eines Mechanikers.",
+        "Und die Aufnahme ist kein Vorwurf: Gebrauchsspuren gehören zu einem vermieteten Fahrzeug wie der Kilometerstand. Die Frage lautet nicht, ob das Fahrzeug Spuren hat, sondern ob die Spuren festgehalten sind. Wer diesen Unterschied versteht, macht die Bestandsaufnahme in Ruhe statt in Missstimmung."
+      ]
+    },
+    {
+      "heading": "Die Wirkung bei der Rückgabe",
+      "paragraphs": [
+        "Bei der Rückgabe wird die Bestandsaufnahme zum Vergleichsblatt: neue Spuren gegen alte, Befund gegen Protokoll. Was dokumentiert war, ist erledigt; was neu ist, wird besprochen – auf einer Basis, die beide Seiten vor der Abfahrt akzeptiert haben. Die Rückgabe wird so zu einem kurzen Vorgang statt zu einer Rekonstruktion.",
+        "Die offizielle Tourismusseite Vietnam Travel gibt einen Überblick zu Fortbewegung und Anlaufstellen im Land – kombinieren Sie diese Übersicht mit einer Übergabe, die Vorschäden gemeinsam festhält. Dann ist die Miete von Anfang an eine Sache mit klaren Seiten und ohne offene Fragen."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
