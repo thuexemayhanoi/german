@@ -296,22 +296,22 @@
       "hub": "mietpreise-kaution",
       "title": "Rückerstattung und Stornierung vorab klären",
       "slug": "rueckerstattung-und-stornierung-vorab-klaeren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 7,
       "keywordHypothesis": "rückerstattung und stornierung vorab klären",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/rueckerstattung-und-stornierung-vorab-klaeren/"
     },
     {
       "id": "DE-028",
       "hub": "mietpreise-kaution",
       "title": "Wie lässt sich ein Mietangebot dokumentieren?",
       "slug": "wie-laesst-sich-ein-mietangebot-dokumentieren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 8,
       "keywordHypothesis": "wie lässt sich ein mietangebot dokumentieren?",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/wie-laesst-sich-ein-mietangebot-dokumentieren/"
     },
     {
       "id": "DE-029",
