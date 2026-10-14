@@ -3200,22 +3200,22 @@
       "hub": "nachhaltig-reisen",
       "title": "CO2-Bilanz von Rollerfahrten ehrlich einordnen",
       "slug": "co2-bilanz-von-rollerfahrten-ehrlich-einordnen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 21,
       "keywordHypothesis": "co2 bilanz roller",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/co2-bilanz-von-rollerfahrten-ehrlich-einordnen/"
     },
     {
       "id": "DE-292",
       "hub": "nachhaltig-reisen",
       "title": "Abgase und Lärm im Altstadtkern Hanois",
       "slug": "abgase-und-laerm-im-altstadtkern-hanois",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 22,
       "keywordHypothesis": "abgase laerm altstadt hanoi",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/abgase-und-laerm-im-altstadtkern-hanois/"
     },
     {
       "id": "DE-293",
