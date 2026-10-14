@@ -1,0 +1,63 @@
+{
+  "id": "DE-015",
+  "hub": "fahrzeugwahl",
+  "title": "Spiegel und Sitzposition richtig prüfen",
+  "slug": "spiegel-und-sitzposition-richtig-pruefen",
+  "status": "IDEA",
+  "priority": 15,
+  "keywordHypothesis": "spiegel und sitzposition richtig prüfen",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "So prüfen Sie Spiegel und Sitzposition vor der Roller-Miete in Hanoi richtig – Schritt für Schritt für mehr Sicherheit im dichten Verkehr.",
+  "excerpt": "Spiegel und Sitzposition entscheiden darüber, wie sicher und entspannt Sie im dichten Verkehr von Hanoi unterwegs sind. Diese Anleitung zeigt, worauf Sie bei der Fahrzeugübergabe achten und wie Sie in wenigen Minuten einen belastbaren Funktionstest durchführen.",
+  "sections": [
+    {
+      "heading": "Warum Spiegel in Hanoi besonders wichtig sind",
+      "paragraphs": [
+        "Der Verkehr in Hanoi ist dichter als in den meisten europäischen Städten. Roller, Motorräder, Autos, Taxis und Lieferfahrzeuge teilen sich häufig denselben schmalen Straßenraum. Wer hier unterwegs ist, muss ständig wissen, was hinter und neben ihm passiert. Genau dafür sind die Spiegel Ihr wichtigstes Instrument an Bord.",
+        "Das Auswärtige Amt weist in seinen Reise- und Sicherheitshinweisen für Vietnam ausdrücklich auf die hohe Unfallgefahr im Straßenverkehr hin. Für Mieter kommt ein praktisches Risiko hinzu: In den Großstädten werden Handtaschen und Rucksäcke gelegentlich von vorbeifahrenden Zweiradfahrern entrissen. Ein korrekt eingestellter Spiegel hilft, solche Situationen früh zu erkennen, statt sie erst im letzten Moment zu bemerken."
+      ]
+    },
+    {
+      "heading": "Spiegel in wenigen Minuten richtig einstellen",
+      "paragraphs": [
+        "Stellen Sie das Zweirad auf ebenem Grund ab, halten Sie es gerade und blicken Sie in beide Spiegel. Sie sollten den dahinterliegenden Straßenraum ohne große Kopfbewegung im Blick haben. Ein bewährter Ansatz lautet: Beim Geradeausblick spiegelt sich in jedem Spiegel ein kleines Stück Ihrer eigenen Schulter und der komplette Verkehr hinter Ihnen.",
+        "Verändern Sie die Spiegel zunächst grob mit der Hand und justieren Sie sie danach im Feinschliff nach. Prüfen Sie dabei auch, ob die Spiegelstangen fest sitzen oder wackeln. Ein lockerer Spiegel, der sich bei der ersten Bodenwelle verstellt, ist im dichten Verkehr nahezu wertlos. Bewegen Sie den Spiegel anschließend mit leichtem Druck: Er darf nicht von selbst verrutschen."
+      ]
+    },
+    {
+      "heading": "Die richtige Sitzposition für Ihre Körpergröße",
+      "paragraphs": [
+        "Setzen Sie sich auf das Fahrzeug und stellen Sie beide Füße bequem auf den Boden. Können Sie das Zweirad im Stand ohne Anstrengung geradehalten, passt die Sitzhöhe grundsätzlich. Ihre Knie sollten beim Fahren weder den Lenker noch die Verkleidung berühren, und die Fußrasten sollten ohne Verrenkung erreichbar sein.",
+        "Zu niedrige Sitzbänke zwingen große Fahrer in eine verspannte Haltung, zu hohe Maschinen kippen im Stand schnell um. Sprechen Sie das bei der Anmietung offen an, wenn das erste Fahrzeug nicht passt. Seriöse Verleiher in Hanoi halten meist mehrere Modelle bereit und kennen die Unterschiede zwischen den Sitzhöhen ihrer Flotte."
+      ]
+    },
+    {
+      "heading": "Häufige Fehler, die Mieter bei der Übergabe machen",
+      "paragraphs": [
+        "Viele Mieter nehmen das Fahrzeug in der Eile der Übergabe, ohne die Spiegel ein einziges Mal angefasst zu haben. Dabei sind die Spiegel noch auf den vorherigen Kunden eingestellt und passen selten zur neuen Person. Auch die Sitzposition wird oft erst nach einigen Kilometern bemerkt, wenn Rücken oder Handgelenke schmerzen.",
+        "Ein weiterer Klassiker ist der zu weit nach außen gedrehte rechte Spiegel, der nur die eigene Schulter statt der Fahrbahn zeigt. Nehmen Sie sich vor der Abfahrt fünf Minuten Zeit für diese Details. Diese fünf Minuten kosten nichts und sind die günstigste Sicherheitsinvestition der gesamten Mietdauer."
+      ]
+    },
+    {
+      "heading": "Kurzer Funktionstest vor der ersten Fahrt",
+      "paragraphs": [
+        "Führen Sie vor der Abfahrt eine kleine Routine durch: Spiegel justieren, Sitzhaltung prüfen, Bremsen und Hupe im Stand testen. Kontrollieren Sie danach noch einmal, ob die Spiegel nach leichtem Rütteln dieselbe Position zeigen. Erst wenn alles fest sitzt, starten Sie den Motor und verlassen den Hof des Verleihers.",
+        "Wiederholen Sie die Spiegelkontrolle nach den ersten hundert Metern in einer ruhigen Nebenstraße. Erst unter Fahrbedingungen zeigt sich, ob die Einstellung auch bei Vibrationen hält. Diese kurze Gewohnheit macht Sie vom ersten Meter an zum bewussteren Fahrer und entspricht den Sicherheitshinweisen, die das Auswärtige Amt für Vietnam empfiehlt."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "DE-018",
+  "hub": "fahrzeugwahl",
+  "title": "Fahrzeugwahl ohne Markenfixierung",
+  "slug": "fahrzeugwahl-ohne-markenfixierung",
+  "status": "IDEA",
+  "priority": 18,
+  "keywordHypothesis": "fahrzeugwahl ohne markenfixierung",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Fahrzeugwahl ohne Markenfixierung: Warum Zustand, Wartung und Probefahrt bei der Roller-Miete in Hanoi mehr zählen als das Emblem am Roller.",
+  "excerpt": "Viele Mieter wählen nach Markenname – oft das falsche Kriterium. Entscheidend sind Zustand, Wartung und das Gefühl aus der Probefahrt. Dieser Ratgeber zeigt, woran Sie ein gepflegtes Mietfahrzeug in Hanoi erkennen, ohne auf ein bestimmtes Emblem zu achten.",
+  "sections": [
+    {
+      "heading": "Warum der Markenname wenig über die Eignung sagt",
+      "paragraphs": [
+        "In Hanoi dominieren wenige Rollermodelle das Straßenbild, und die allermeisten Mietflotten setzen auf bewährte Baureihen. Ein bekannter Name garantiert trotzdem nichts über den Zustand des konkreten Fahrzeugs vor Ihnen. Zwei baugleiche Roller können sich unterscheiden wie neu und verschlissen.",
+        "Für Ihre Miete zählt allein das einzelne Exemplar: seine Bremsen, seine Reifen, seine Elektrik und seine Pflegehistorie. Die Marke ist in diesem Moment nur ein Aufkleber. Wer nach dem Zustand auswählt statt nach dem Emblem, fährt in der Regel sicherer und entspannter durch die Stadt."
+      ]
+    },
+    {
+      "heading": "Zustand vor Marke: diese Punkte zählen wirklich",
+      "paragraphs": [
+        "Prüfen Sie die sichtbaren Verschleißteile in dieser Reihenfolge: Reifenprofil, Bremshebel und Bremsscheiben, Licht vorne und hinten, Hupe, Spiegel und die Befestigung der Kennzeichen. Achten Sie auf undichte Stellen unter dem Fahrzeug und auf Rost an tragenden Teilen.",
+        "Schauen Sie auch auf Details, die keine Werkstatt braucht: rissige Griffe, wackelnde Verkleidungsteile oder ein verschmierter Tachocache sagen viel über die Pflege des gesamten Fahrzeugs. Ein Verleiher, der solche Kleinigkeiten sauber hält, wartet in der Regel auch die wichtigen Komponenten. Achten Sie zusätzlich darauf, dass die Beleuchtung komplett funktioniert und dass die Sitzbank sauber schließt, ohne zu klemmen."
+      ]
+    },
+    {
+      "heading": "Wartung und Pflege beim Verleiher erfragen",
+      "paragraphs": [
+        "Fragen Sie beim Verleiher direkt, wie die Flotte gewartet wird und in welchen Abständen Öl, Bremsbeläge und Reifen geprüft werden. Seriöse Anbieter beantworten diese Fragen offen und ohne Ausweichen. Zaghafte oder ausweichende Antworten sind ein warnendes Signal. Fragen Sie ergänzend, wie alt das konkrete Fahrzeug ist und wie viele Kilometer es bereits zurückgelegt hat. Beide Angaben zusammen sagen mehr über den Zustand als jede Modellbezeichnung auf dem Datenblatt.",
+        "Beobachten Sie die Übergabe des Fahrzeugs: Wer den Kilometerstand notiert, die besten vorhandene Ausstattung erklärt und die Reifen zeigt, arbeitet mit Routine. Die Reisehinweise des Auswärtigen Amts zur hohen Unfallgefahr in Vietnam machen deutlich, wie wichtig ein technisch einwandfreies Fahrzeug ist."
+      ]
+    },
+    {
+      "heading": "Ersatzteile und Werkstätten in Hanoi",
+      "paragraphs": [
+        "Ein praktisches Argument für gängige Modelle hat mit Ersatzteilen zu tun: Für verbreitete Baureihen finden sich in der Stadt sehr viele kleine Werkstätten, die Reparaturen schnell und günstig erledigen. Exotische Modelle können im Schadensfall den Urlaub blockieren.",
+        "Fragen Sie den Verleiher, ob er bei Problemen eine Nummer für Pannenfälle nennt und ob ein Fahrzeugtausch möglich ist. Ein strukturierter Umgang mit dieser Frage zeigt, dass der Anbieter mit Störungen rechnet, statt sie zu ignorieren. Genau diese Professionalität braucht ein Mieter unterwegs."
+      ]
+    },
+    {
+      "heading": "Die Probefahrt als objektiver Vergleich",
+      "paragraphs": [
+        "Verlangen Sie vor der finalen Entscheidung eine kurze Probefahrt auf einem sicheren Streckenstück. Vergleichen Sie zwei Fahrzeuge desselben Verleihers oder zweier Anbieter direkt nacheinander, denn der direkte Vergleich entlarvt Schwächen deutlicher als jede technische Datenliste.",
+        "Achten Sie dabei auf klare Bremsen, saubere Gasannahme, ein stabiles Lenkverhalten bei niedrigem Tempo und Geräusche aus dem Fahrwerk. Das Bauchgefühl nach der Probefahrt ist eine echte Messgröße: Sie werden dieses Fahrzeug mehrere Tage nutzen, und es sollte sich von der ersten Minute an vertraut anfühlen. Nehmen Sie das Gepäck, das Sie auf Tour mitnehmen wollen, in die Probefahrt mit, denn Beladung verändert das Fahrverhalten spürbar und gehört in die Bewertung."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

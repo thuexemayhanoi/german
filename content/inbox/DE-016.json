@@ -1,0 +1,63 @@
+{
+  "id": "DE-016",
+  "hub": "fahrzeugwahl",
+  "title": "Fahrzeugwahl bei Regen und wechselndem Wetter",
+  "slug": "fahrzeugwahl-bei-regen-und-wechselndem-wetter",
+  "status": "IDEA",
+  "priority": 16,
+  "keywordHypothesis": "fahrzeugwahl bei regen und wechselndem wetter",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Regen in Hanoi? So wählen Sie den richtigen Mietroller für wechselhaftes Wetter – von Reifenprofil und Bremsen bis zu Stauraum und Spritzschutz.",
+  "excerpt": "In Hanoi wechselt das Wetter innerhalb einer Stunde von Sonnenschein zu Starkregen. Wer einen Roller mietet, sollte das Fahrzeug deshalb auf Nässe prüfen: Reifenprofil, Bremsen, Spritzschutz und trockener Stauraum machen den Unterschied zwischen stressiger und souveräner Fahrt.",
+  "sections": [
+    {
+      "heading": "Warum das Wetter die Fahrzeugwahl beeinflusst",
+      "paragraphs": [
+        "Hanoi liegt in den Tropen, und besonders in den Sommermonaten kann sich der Himmel innerhalb kurzer Zeit zuziehen. Aus einem trockenen Vormittag wird schnell ein heftiger Schauer, danach kehrt oft wieder Sonnenschein zurück. Wer mehrere Tage mit dem Roller unterwegs ist, erlebt diese Wechsel fast garantiert.",
+        "Genau deshalb lohnt es sich, das Wetter bei der Fahrzeugwahl mitzudenken. Ein Zweirad, das bei Trockenheit komfortabel erscheint, kann im Regen plötzlich unangenehm oder riskant werden. Die offizielle Tourismusseite Vietnam Travel empfiehlt generell, sich vor längeren Fahrten über die Verhältnisse zu informieren, und das schließt die Witterung ausdrücklich ein."
+      ]
+    },
+    {
+      "heading": "Windschutzscheibe und Spritzschutz im Vergleich",
+      "paragraphs": [
+        "Eine kleine Windschutzscheibe hält nicht nur Fahrtwind ab, sondern schützt auch Oberkörper und Gesicht vor Spritzwasser von vorausfahrenden Fahrzeugen. Große Verkleidungen bieten mehr Trockenheit, haben dafür aber eine breitere Bauform, die in engen Gassen mehr Platz braucht.",
+        "Roller mit Beinverkleidung und Frontverkleidung sind bei Regen meist die angenehmere Wahl, weil die Beine trocken bleiben. Offene Motorräder lassen sich dagegen leichter beladen und bieten mehr Raum für Gepäck. Entscheiden Sie danach, ob Sie Regen eher im Stadtverkehr oder auf längeren Ausflugsstrecken antreffen werden."
+      ]
+    },
+    {
+      "heading": "Reifenprofil und Bremsen bei Nässe prüfen",
+      "paragraphs": [
+        "Schauen Sie sich vor der Anmietung die Reifen genau an: Das Profil sollte über die gesamte Fläche sichtbar und gleichmäßig abgefahren sein, ohne Risse in den Rillen und ohne stumpfe, glatte Stellen. Bei Nässe verliert jeder Reifen an Haftung, und ein abgefahrener Profilrest verstärkt diesen Effekt deutlich.",
+        "Testen Sie beide Bremsen im Stand und bei langsamer Fahrt. Die Felgenbremse am Vorderrad und die Trommel- oder Scheibenbrembe am Heck sollten klar ansprechen, ohne dass der Hebel bis zum Anschlag durchfällt. Das Auswärtige Amt betont in seinen Hinweisen für Vietnam die hohen Unfallzahlen im Straßenverkehr, und nasse Fahrbahnen erhöhen das Risiko zusätzlich."
+      ]
+    },
+    {
+      "heading": "Regenkleidung und trockener Stauraum",
+      "paragraphs": [
+        "Ein einfacher Regenschutz kostet in Hanoi wenig und passt in fast jeden Sitzbankkoffer. Prüfen Sie, ob Ihr Mietfahrzeug einen abschließbaren Stauraum für Regenhose, Handy und Papiere bietet, oder fragen Sie nach einem Topcase als Zubehör. Elektronik und Dokumente sollten bei jedem Schauer trocken bleiben.",
+        "Denken Sie auch an die Rückseite der Gleichung: Nach dem Regen wird es schnell wieder warm. Kleidung, die im Stauraum feucht liegt, trocknet in Hanois Feuchtigkeit schlecht. Ein trockenes Ersatzshirt am Fahrzeug spart am Ende mehr Ärger als der Regenschutz selbst. Ein kleines Handtuch im Stauraum hilft außerdem, Sitzbank und Griffe nach einem Schauer in Sekunden trocken zu legen."
+      ]
+    },
+    {
+      "heading": "Verhalten bei Starkregen: Pausen richtig planen",
+      "paragraphs": [
+        "Bei heftigem Regen ist die sicherste Entscheidung meist eine Pause. Sicht, Haftung und die Reaktion anderer Verkehrsteilnehmer verschlechtern sich gleichzeitig, und überflutete Randbereiche machen Fahrrillen und Schlaglöcher unsichtbar. Suchen Sie ein überdachtes Café oder eine Tankstelle und warten Sie, bis der Schauer abklingt.",
+        "Planen Sie Regenpuffer in den Tagesablauf ein, wenn Sie abends zurück sein müssen. Das Auswärtige Amt weist darauf hin, dass ein großer Teil der Verkehrsunfälle in Vietnam nach Einbruch der Dunkelheit geschieht. Wer bei Starkregen dringend im Dunkeln weiterfährt, nimmt zwei Risiken gleichzeitig in Kauf."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
