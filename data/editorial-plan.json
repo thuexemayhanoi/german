@@ -1220,22 +1220,22 @@
       "hub": "abholung-rueckgabe",
       "title": "Kaution bei Rückgabe nachvollziehen",
       "slug": "kaution-bei-rueckgabe-nachvollziehen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 11,
       "keywordHypothesis": "kaution bei rückgabe nachvollziehen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/kaution-bei-rueckgabe-nachvollziehen/"
     },
     {
       "id": "DE-112",
       "hub": "abholung-rueckgabe",
       "title": "Fahrzeugschlüssel sicher aufbewahren",
       "slug": "fahrzeugschluessel-sicher-aufbewahren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 12,
       "keywordHypothesis": "fahrzeugschlüssel sicher aufbewahren",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/fahrzeugschluessel-sicher-aufbewahren/"
     },
     {
       "id": "DE-113",
