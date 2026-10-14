@@ -736,22 +736,22 @@
       "hub": "sicherheit-verkehr",
       "title": "Was du vor jeder Fahrt kurz prüfen kannst",
       "slug": "was-du-vor-jeder-fahrt-kurz-pruefen-kannst",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 7,
       "keywordHypothesis": "was du vor jeder fahrt kurz prüfen kannst",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/was-du-vor-jeder-fahrt-kurz-pruefen-kannst/"
     },
     {
       "id": "DE-068",
       "hub": "sicherheit-verkehr",
       "title": "Umgang mit ungewohnten Verkehrsabläufen",
       "slug": "umgang-mit-ungewohnten-verkehrsablaeufen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 8,
       "keywordHypothesis": "umgang mit ungewohnten verkehrsabläufen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/umgang-mit-ungewohnten-verkehrsablaeufen/"
     },
     {
       "id": "DE-069",

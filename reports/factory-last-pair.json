@@ -1,13 +1,13 @@
 {
   "status": "PUBLISHED",
   "ids": [
-    "DE-065",
-    "DE-066"
+    "DE-067",
+    "DE-068"
   ],
   "qaScores": [
     94,
     94
   ],
-  "publishedAt": "2026-10-14T07:10:50.071Z",
-  "remaining": 234
+  "publishedAt": "2026-10-14T07:19:51.848Z",
+  "remaining": 232
 }
