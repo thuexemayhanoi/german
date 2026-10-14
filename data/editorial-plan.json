@@ -934,22 +934,22 @@
       "hub": "routen-umgebung",
       "title": "Unbekannte Straßen: lieber kürzer planen",
       "slug": "unbekannte-strassen-lieber-kuerzer-planen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 5,
       "keywordHypothesis": "unbekannte straßen: lieber kürzer planen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/unbekannte-strassen-lieber-kuerzer-planen/"
     },
     {
       "id": "DE-086",
       "hub": "routen-umgebung",
       "title": "Tageslicht bei der Tourplanung beachten",
       "slug": "tageslicht-bei-der-tourplanung-beachten",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 6,
       "keywordHypothesis": "tageslicht bei der tourplanung beachten",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/tageslicht-bei-der-tourplanung-beachten/"
     },
     {
       "id": "DE-087",
