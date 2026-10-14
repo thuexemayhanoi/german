@@ -1154,22 +1154,22 @@
       "hub": "abholung-rueckgabe",
       "title": "Helm und Zubehör bei der Übergabe kontrollieren",
       "slug": "helm-und-zubehoer-bei-der-uebergabe-kontrollieren",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 5,
       "keywordHypothesis": "helm und zubehör bei der übergabe kontrollieren",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/helm-und-zubehoer-bei-der-uebergabe-kontrollieren/"
     },
     {
       "id": "DE-106",
       "hub": "abholung-rueckgabe",
       "title": "Bremsen und Licht vor der Abfahrt prüfen",
       "slug": "bremsen-und-licht-vor-der-abfahrt-pruefen",
-      "status": "IDEA",
+      "status": "PUBLISHED",
       "priority": 6,
       "keywordHypothesis": "bremsen und licht vor der abfahrt prüfen",
       "intent": "informational",
-      "publishedUrl": null
+      "publishedUrl": "/ratgeber/bremsen-und-licht-vor-der-abfahrt-pruefen/"
     },
     {
       "id": "DE-107",
