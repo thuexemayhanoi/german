@@ -1,0 +1,63 @@
+{
+  "id": "DE-094",
+  "hub": "routen-umgebung",
+  "title": "Tankmöglichkeiten vorab recherchieren",
+  "slug": "tankmoeglichkeiten-vorab-recherchieren",
+  "status": "IDEA",
+  "priority": 14,
+  "keywordHypothesis": "tankmöglichkeiten vorab recherchieren",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Tankmöglichkeiten vorab recherchieren: Reichweite kennen, Stationen auf der Route markieren und nicht auf Reserve fahren – so endet die Tour nie am leeren Tank.",
+  "excerpt": "Die Reichweite des Fahrzeugs ist ein Planungswert wie Strecke und Tageslicht: Wer sie kennt und die Tankmöglichkeiten vorab recherchiert, fährt die Route und nicht die Tankanzeige. Dieser Ratgeber zeigt, wie.",
+  "sections": [
+    {
+      "heading": "Warum die Reichweite zur Route gehört",
+      "paragraphs": [
+        "Zwischen einer geplanten Route und einer gefahrenen Route liegen die Zwangspunkte – und der leere Tank ist der Klassiker unter ihnen. Wer die Reichweite des Fahrzeugs nicht kennt, plant die Tour um eine Unbekannte herum: Die Strecke mag stimmen, die Uhrzeiten mögen passen – die Tankanzeige entscheidet trotzdem.",
+        "Reichweite ist dabei kein abstrakter Wert, sondern eine konkrete Frage an den Verleih: Wie groß ist der Tank, was verbraucht das Fahrzeug unter den Bedingungen der Tour, und ab welchem Stand sollte nachgetankt werden? Die Antwort gehört in die Routennotiz wie die Uhrzeiten und die Pausenorte."
+      ]
+    },
+    {
+      "heading": "Recherchieren heißt fragen und markieren",
+      "paragraphs": [
+        "Die Recherche beginnt im Verleih: Wer dort nach den Tankmöglichkeiten entlang der geplanten Strecke fragt, bekommt Auskünfte von Leuten, die die Umgebung kennen – welche Abschnitte gut versorgt sind und wo größere Lücken liegen können. Die Auskunft ist ein Hinweis, kein Fahrplan, aber sie ist der beste Startpunkt der Recherche.",
+        "Aus der Auskunft entsteht die Markierung: Notieren Sie die Abschnitte, in denen das Nachtanken geplant ist – und zwar so, dass jede Markierung vor dem Erreichen der Reserve liegt. Die Faustregel ist einfach: Tanken, wenn die Gelegenheit da ist, und nicht, wenn der Tank es verlangt. Wer nach dieser Regel fährt, wird von der Tankanzeige nie überrascht."
+      ]
+    },
+    {
+      "heading": "Lücken einkalkulieren",
+      "paragraphs": [
+        "In dicht besiedelten Abschnitten sind Tankstellen ein alltäglicher Anblick, auf ländlichen Strecken können die Abstände größer sein als gedacht – und genau diese Wechsel machen die Planung nötig. Wer die ländlichen Abschnitte der Route kennt, reserviert für sie den Tankstand: voll beim Start, voll am Ende, und in der Mitte die Markierung, die keine Lücke übrig lässt.",
+        "Rechnen Sie auch mit dem, was die Karte nicht zeigt: eine Tankstelle, die geschlossen ist, eine Anlage, die außer Betrieb hat. Zwei geprüfte Optionen je Abschnitt sind deshalb keine Verschwendung der Recherche, sondern ihr Sinn – die zweite Option ist das, was die erste Option entspannt."
+      ]
+    },
+    {
+      "heading": "Organisation des Tankens unterwegs",
+      "paragraphs": [
+        "Das Tanken selbst ist ein Halt wie jeder andere: am sicheren Rand, außerhalb der Fahrbahn, mit Blick auf die Umgebung. Der Tankvorgang gehört in die Pausenlogik der Tour – wer tankt und gleichzeitig trinkt, Helm absetzt und die Route prüft, spart einen Halt und nutzt die Zeit, die das Fahrzeug ohnehin steht.",
+        "Behalten Sie dabei die Sorgfalt, die unterwegs überall gilt: Dokumente und Wertsachen bleiben am Körper, das Handy bleibt verstaut. Das Auswärtige Amt warnt vor Diebstahl durch Vorbeifahrende – ein Moment der Ablenkung am Fahrzeug genügt, um die Warnung konkret werden zu lassen. Routine am Halt heißt: erst tanken, dann schauen – und nie beides gleichzeitig."
+      ]
+    },
+    {
+      "heading": "Die Route mit Reichweite planen",
+      "paragraphs": [
+        "Am Ende verändert die Reichweite die Route selbst: Abschnitte, die die Reichweite reizen, werden kleiner geplant oder anders aufgeteilt – und Touren, die die Tanklogik von Anfang an kennen, sind rund. Die beste Route ist nicht die längste, sondern die, die alle ihre Zwangspunkte kennt, bevor sie entstehen.",
+        "Die offizielle Tourismusseite Vietnam Travel gibt einen Überblick zu Fortbewegung und Verkehrsverhältnissen im Land – kombinieren Sie diese Übersicht mit einer Tankplanung, die aus der Auskunft des Verleihs entstanden ist. Dann fährt die Tour ihre Route – und nicht die nächstgelegene Tankstelle."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

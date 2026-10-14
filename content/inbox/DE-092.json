@@ -1,0 +1,63 @@
+{
+  "id": "DE-092",
+  "hub": "routen-umgebung",
+  "title": "Plan B bei schlechtem Wetter",
+  "slug": "plan-b-bei-schlechtem-wetter",
+  "status": "IDEA",
+  "priority": 12,
+  "keywordHypothesis": "plan b bei schlechtem wetter",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Plan B bei schlechtem Wetter: Entscheidungen vorab treffen, Ausweichpunkte setzen und im Regen richtig handeln – so bleibt die Tour beherrschbar.",
+  "excerpt": "Wetter lässt sich nicht abwählen, aber einplanen: Wer den Plan B vor der Abfahrt gebaut hat, trifft unterwegs keine Notentscheidungen. Dieser Ratgeber zeigt, wie der Plan B aussieht und wann er greift.",
+  "sections": [
+    {
+      "heading": "Warum der Plan B vor der Tour entsteht",
+      "paragraphs": [
+        "Der schlechteste Moment für eine Grundsatzentscheidung ist der Moment, in dem sie ansteht: Wer im ersten Regenguss klären muss, ob die Tour weitergeht, entscheidet unter nasser Weste – und wer so entscheidet, entscheidet selten gut. Der Plan B ist deshalb eine Vorbereitung wie die Route selbst: vor der Abfahrt gebaut, unterwegs nur noch abgerufen.",
+        "Ein Plan B besteht aus drei festen Bausteinen: einer verkürzten Variante der Route, einem Ausweichpunkt mit Dach in der Mitte der Strecke und einer Uhrzeit, an der die Entscheidung fällt, wenn das Wetter den Tag bestimmt. Diese drei Bausteine in die Routennotiz geschrieben, machen aus einem Witterungsproblem eine Hausaufgabe, die schon erledigt ist."
+      ]
+    },
+    {
+      "heading": "Der Ausweichpunkt als Herzstück",
+      "paragraphs": [
+        "Der Ausweichpunkt ist der Ort, an dem Wetter zum Pausenthema wird statt zum Fahrisiko: ein Dach, das Schutz bietet, und Umgebung, die ein Warten erträglich macht. Wer den Ausweichpunkt kennt, fährt bei aufziehendem Wetter nicht um den Entscheidungskampf, sondern auf einen Punkt zu, der bereits entschieden hat – dort hält man an und wartet dort, wo Warten sinnvoll ist.",
+        "Wählen Sie den Ausweichpunkt so, dass er von beiden Richtungen der Route erreichbar ist und dass von ihm aus die Rückkehr kürzer ist als die Weiterfahrt. Genau dieses Verhältnis macht ihn zum Dreh- und Angelpunkt: Wer dort steht, hat die Wahl – und wer die Wahl hat, muss sie nicht unter Druck treffen."
+      ]
+    },
+    {
+      "heading": "Fahren im Regen: was sich ändert",
+      "paragraphs": [
+        "Regen verändert die Fahrbahn schneller als die Sicht: Der Belag wird rutschig, aufgeschlagenes Öl und Staub mischen sich mit dem Wasser, Markierungen und Metallabdeckungen werden glatt, und die Bremswege verlängern sich. Das Tempo gehört herunter, der Abstand nach vorn deutlich hinaus – und die Vollbremsung ist im Regen die Ausnahme, nicht die Bremstechnik.",
+        "Die Sicht gehört zur Fahrtechnik: Ein beschlagenes Visier ist im Regen so gefährlich wie eine Kurve, die man zu spät sieht. Visier öffnen, Tempo drosseln, und wo die Sicht unwegsam wird, ist der nächste sichere Rand die bessere Entscheidung als die nächsten Kilometer. Das Auswärtige Amt empfiehlt generell Vorsicht im Straßenverkehr in Vietnam – im Regen verdoppelt sich dieser Anspruch von selbst."
+      ]
+    },
+    {
+      "heading": "Warten, umkehren, weiterfahren",
+      "paragraphs": [
+        "Der Plan B kennt drei Antworten, und jede hat ihren Moment: Warten gilt für Schauer, die in überschaubarer Zeit durchziehen – am Ausweichpunkt mit Blick auf den Himmel ist Warten eine Strategie mit klarem Ende. Umkehren gilt für Wetterlagen, die den Tag bestimmen – wer bei der Uhrzeit bleibt, die er gesetzt hat, dreht ohne Zögern.",
+        "Weiterfahren gilt nur für den Fall, dass Route und Wetter zusammenpassen: Regen, der nachlässt, Streckenabschnitte, die bekannt sind, und ein Ziel, das die Fahrt rechtfertigt. Diese Entscheidung gehört an den Ausweichpunkt und in einen klaren Kopf – niemals an die Frage, ob es peinlich ist, umzukehren. Es ist nicht peinlich. Es ist der Plan."
+      ]
+    },
+    {
+      "heading": "Ausrüstung als Teil des Plans",
+      "paragraphs": [
+        "Der Plan B hat eine materielle Seite: Regenkleidung, die griffbereit liegt statt tief im Staufach, ein trockenes Tuch für Visier und Hände, und ein Handy, das in einer trockenen Tasche sitzt. Wer die Regenjacke vor der Abfahrt probeweise angezogen hat, zieht sie unterwegs in zwei Minuten an statt in zwölf – und nasse Kleidung ist ein Sicherheitsfaktor, kein Komplex.",
+        "Die offizielle Tourismusseite Vietnam Travel gibt einen Überblick zu Fortbewegung und Anlaufstellen im Land – kombinieren Sie diese Übersicht mit einem Plan B, der vor der Tour gebaut wurde. Dann ist Schlechtwetter ein Kapitel der Tour und nicht ihr Ende."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt: Vietnam Reise- und Sicherheitshinweise",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism: Transport within Vietnam",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
