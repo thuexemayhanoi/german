@@ -1,0 +1,63 @@
+{
+  "id": "DE-264",
+  "hub": "probleme-hilfe",
+  "title": "Diebstahl des Mietfahrzeugs: sofortige Schritte",
+  "slug": "diebstahl-des-mietfahrzeugs-sofortige-schritte",
+  "status": "IDEA",
+  "priority": 24,
+  "keywordHypothesis": "roller diebstahl vietnam",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Wird der Mietroller gestohlen, zählt jede Minute. Dieser Ratgeber erklärt die sofortigen Schritte, die Meldung bei der Polizei und das sachliche Gespräch mit dem Vermieter.",
+  "excerpt": "Der gemietete Roller ist weg: Das ist ein Schock, doch mit klaren Schritten behältst du die Übersicht. Lies, wie du den Diebstahl meldest, welche Dokumente wichtig sind und wie du Missverständnisse mit dem Vermieter vermeidest.",
+  "sections": [
+    {
+      "heading": "Ruhe bewahren und die Lage prüfen",
+      "paragraphs": [
+        "Stell zunächst sicher, dass der Roller wirklich gestohlen wurde. Manchmal steht das Fahrzeug nur wenige Meter weiter, wurde von Anwohnern umgesetzt oder parkt hinter einer Wand. Gehe die unmittelbare Umgebung ab, frage Passanten oder das Personal benachbarter Läden, und prüfe, ob du den Standort exakt in Erinnerung hast.",
+        "Erst wenn die Suche erfolglos bleibt, sprich von einem Diebstahl. Notiere dann die Uhrzeit deiner letzten Sichtung und die genaue Adresse. Das Auswärtige Amt weist Reisende in Vietnam darauf hin, dass Fahrzeugdiebstahl und Handtaschenraub vorkommen, weshalb du Papiere und Wertgegenstände immer sorgfältig sichern solltest."
+      ]
+    },
+    {
+      "heading": "Polizei rufen und Anzeige erstatten",
+      "paragraphs": [
+        "Melde den Diebstahl so schnell wie möglich der Polizei. In Vietnam erreichst du die Ordnungskräfte unter der Notrufnummer 113, im medizinischen Notfall hilft dir die 115. Bleibe am Fundort oder an einem sicheren Ort in der Nähe, bis du alle Angaben sauber zusammengetragen hast.",
+        "Für die Anzeige brauchst du die Fahrzeugdaten. Halte Mietvertrag, Bilder des Rollers und das Kennzeichen bereit, denn diese Angaben stehen in der Vertragsmappe oder auf den Fotos von der Übernahme. Eine schriftliche Anzeige ist später der wichtigste Beleg, wenn du mit dem Vermieter über die weitere Abwicklung sprichst."
+      ]
+    },
+    {
+      "heading": "Den Vermieter zeitnah informieren",
+      "paragraphs": [
+        "Informiere den Verleiher unmittelbar nach der polizeilichen Meldung. Schildere den Ablauf offen und ohne Vorwürfe gegen dich selbst, und teile die Nummer der Anzeige mit. Kläre, welche Unterlagen er für seine Versicherung oder seine interne Dokumentation benötigt, und frage, wie es mit laufenden Miettagen weitergeht.",
+        "Halte den Schriftverkehr vollständig fest. Screenshots der Anzeige, Kopien des Vertrags und Fotos vom letzten Parkplatz gehören in eine Mappe, die du auf dem Handy sicher ablegst. So kannst du bei Rückfragen jederzeit nachweisen, dass du alle Schritte korrekt und ohne Verzögerung erledigt hast."
+      ]
+    },
+    {
+      "heading": "Versicherung und Haftung einordnen",
+      "paragraphs": [
+        "Ob und in welcher Höhe ein Diebstahl versichert ist, hängt vom Vertrag ab. Lies die vereinbarten Bedingungen genau, bevor du Aussagen zur Haftung machst. Viele Verleiher erwarten, dass du den Roller an einem bewachten Parkplatz abstellt, und verweisen bei grob fahrlässigem Verhalten auf deine Verantwortung.",
+        "Sprich mit deiner Reiseversicherung, falls du eine abgeschlossen hast. Manche Policen decken auch Mietfahrzeuge oder Selbstbeteiligungen ab, doch die Bedingungen unterscheiden sich stark. Vergleiche die Regelungen gelassen, bevor du Zahlungen leistest oder Verzichte unterschreibst, und lass dir Zusagen schriftlich geben."
+      ]
+    },
+    {
+      "heading": "Vorbeugen und den Roller richtig absichern",
+      "paragraphs": [
+        "Setze den Roller nur an belebten oder bewachten Stellen ab. Nutze vorhandene bewachte Parkplätze, schließe das Fahrzeug immer an einem festen Rahmen an und nimm Wertgegenstände vollständig mit. In belebten Lagen sinkt das Risiko, weil viele Menschen in der Nähe sind, während einsame Seitenstraßen einladender für Diebe wirken.",
+        "Sichere zusätzlich die Dokumente. Bewahre den Mietvertrag digital auf und fotografiere den Roller bei jeder Abstellung aus verschiedenen Blickwinkeln. Diese Bilder helfen der Polizei bei der Suche und zeigen dem Vermieter, dass du das Fahrzeug ordnungsgemäß geparkt und gesichert hattest. Ein kurzer Kontrollblick vor dem Weggehen kostet dich keine Minute und erspart dir im Ernstfall viel Ärger."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

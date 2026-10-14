@@ -1,0 +1,63 @@
+{
+  "id": "DE-268",
+  "hub": "probleme-hilfe",
+  "title": "Anspruch auf Ersatzfahrzeug im Vertrag nachlesen",
+  "slug": "anspruch-auf-ersatzfahrzeug-im-vertrag-nachlesen",
+  "status": "IDEA",
+  "priority": 28,
+  "keywordHypothesis": "ersatzfahrzeug miete vertrag",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Bleibt der Mietroller liegen, hilft nur der Vertrag. Dieser Ratgeber zeigt, wo du Ansprüche auf ein Ersatzfahrzeug nachschlägst und wie du sachlich nachfragst.",
+  "excerpt": "Panne am Mietroller: Wer liefert ein Ersatzfahrzeug? Die Antwort steckt im Vertrag. Lies, welche Passagen zählen, wie du beim Verleiher nachfragst und welche Alternativen infrage kommen.",
+  "sections": [
+    {
+      "heading": "Warum der Vertrag die wichtigste Quelle ist",
+      "paragraphs": [
+        "Ein Anspruch auf ein Ersatzfahrzeug ergibt sich nicht automatisch, sondern aus den Vereinbarungen mit dem Verleiher. Manche Stationen stellen bei größeren Defekten schnell ein zweites Fahrzeug, andere begrenzen die Leistung auf Reparaturen. Lies deshalb vor der Unterschrift nach, was bei einem Ausfall des Rollers passiert.",
+        "Achte auf Formulierungen zu Kosten und Bedingungen. Passagen, die ein Ersatzfahrzeug nur bei technischem Verschulden des Verleihers vorsehen, verhalten sich anders als Klauseln, die jede Panne abdecken. Markiere die relevanten Stellen und frag beim Verleiher nach, wenn eine Passage unklar formuliert ist."
+      ]
+    },
+    {
+      "heading": "Die richtigen Fragen beim Verleiher",
+      "paragraphs": [
+        "Frage konkret nach, was im Ernstfall gilt. Lass dir zeigen, ob ein Ersatzfahrzeug gestellt wird, innerhalb welcher Zeit es verfügbar ist und ob ein Transport deines stehengebliebenen Rollers übernommen wird. Diese drei Punkte geben dir Sicherheit, bevor du unterwegs in eine unangenehme Lage gerätst.",
+        "Halte die Antworten schriftlich fest. Eine kurze Nachricht mit der Zusammenfassung der Absprache schützt beide Seiten und hilft, wenn später ein anderer Mitarbeiter der Station deinen Fall bearbeitet. Ergänze die Notiz um Datum und Uhrzeit, damit die Abfolge eindeutig bleibt. Der Kilometerstand des defekten Rollers gehört ebenfalls in die Nachricht."
+      ]
+    },
+    {
+      "heading": "Was im Schadensfall konkret zu tun ist",
+      "paragraphs": [
+        "Melde den Defekt sofort und frage aktiv nach einem Ersatz. Je früher die Station Bescheid weiß, desto eher lässt sich ein Fahrzeug aus der Nachbarschaft umdisponieren. Beschreibe das Problem knapp und präzise, damit der Verleiher entscheiden kann, ob eine Reparatur oder ein Austausch der schnellere Weg ist.",
+        "Kläre die Rahmenbedingungen des Austauschs. Frage, ob du zum Roller kommst oder ob das Ersatzfahrzeug gebracht wird, und stimme die Abwicklung der Mietunterlagen ab. Ein sauber dokumentierter Wechsel mit neuem Übergabeprotokoll schützt dich vor späteren Vorwürfen wegen Schäden, die schon am ersten Fahrzeug bestanden."
+      ]
+    },
+    {
+      "heading": "Wenn kein Ersatzfahrzeug möglich ist",
+      "paragraphs": [
+        "Nicht jede Station hat freie Fahrzeuge, besonders in der Hochsaison. Frage in dem Fall nach Alternativen: eine vorzeitige Rückgabe mit anteiliger Abrechnung, ein Modell einer anderen Klasse oder ein Tausch am Folgetag. Bleib fair und lass dir Optionen nennen, statt eine sofortige Lösung zu erzwingen.",
+        "Dokumentiere die Absprachen zur Abrechnung. Wird die Miete verkürzt oder angepasst, gehört das schriftlich festgehalten, damit die Rückgabe ohne Streit über die offenen Tage läuft. Nachrichten mit den Konditionen geben dir Sicherheit bis zur finalen Abrechnung am Ende der Miete."
+      ]
+    },
+    {
+      "heading": "Vorsorge schon bei der Buchung",
+      "paragraphs": [
+        "Prüfe die Regelung schon bei der Buchung. Seriöse Verleiher beschreiben ihre Unterstützung bei Pannen offen und nennen eine erreichbare Notfallnummer. Vergleiche diese Angaben zwischen Anbietern, weil der Service im Ernstfall mehr zählt als ein kleiner Unterschied beim Tagespreis eines Rollers. Notiere dir die Antworten der Station direkt neben die Passagen im Vertrag.",
+        "Sprich mit deiner Reiseversicherung über die Sicherheiten. Manche Policen unterstützen bei Zusatzkosten oder Ausfalltagen, andere nicht. Eine kurze Anfrage vor der Abreise schafft Klarheit, und du startest mit dem guten Gefühl, im Ernstfall einen klar geregelten Ablauf hinter dir zu haben."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "DE-265",
+  "hub": "probleme-hilfe",
+  "title": "Polizeikontakt nach einem Vorfall in Vietnam organisieren",
+  "slug": "polizeikontakt-nach-einem-vorfall-in-vietnam-organisieren",
+  "status": "IDEA",
+  "priority": 25,
+  "keywordHypothesis": "polizei vietnam unfall",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Nach einem Vorfall im Verkehr brauchst du einen klaren Kopf. Dieser Ratgeber erklärt, wie du die Polizei in Vietnam erreichst, die Anzeige erstattst und alles dokumentierst.",
+  "excerpt": "Ein Zusammenstoß oder ein Streit im Verkehr überfordert viele Reisende. Lies hier, wie du nach einem Vorfall die Polizei in Vietnam kontaktierst, welche Dokumente du brauchst und wie du die Lage sauber dokumentierst.",
+  "sections": [
+    {
+      "heading": "Die ersten Minuten nach dem Vorfall",
+      "paragraphs": [
+        "Sichere zuerst die Unfallstelle ab. Stelle den Roller so ab, dass er den Verkehr nicht behindert, und prüfe, ob jemand verletzt ist. Im medizinischen Notfall wählst du in Vietnam die 115, die Polizei erreichst du unter der 113. Bleib am Ort des Geschehens, bis die Lage geklärt ist.",
+        "Filme oder fotografiere die Szenerie, solange sie unverändert ist. Bilder von der Position der Fahrzeuge, von Schäden und von der Umgebung helfen später bei der Klärung. Verschiebe keine Fahrzeuge und räume keine Teile beiseite, weil das die Beweislage verändert und die Frage der Schuld erschweren kann."
+      ]
+    },
+    {
+      "heading": "Die Anzeige bei der Polizei erstatten",
+      "paragraphs": [
+        "Melde den Vorfall bei der nächsten Polizeidienststelle oder über die Notrufnummer. Beschreibe den Ablauf ruhig und chronologisch, und lass dir die Aussage übersetzen, falls dein Vietnamesisch nicht ausreicht. Eine App oder ein Wörterbuch unterstützt dich bei einfachen Formulierungen, für die Anzeige selbst hilft ein Dolmetscher.",
+        "Verlange eine Kopie oder ein Protokoll der Anzeige. Dieses Dokument brauchst du für den Vermieter, für eine mögliche Versicherung und für die spätere Abrechnung. Ohne schriftliche Aufzeichnung wird es schwer, den Hergang Wochen später noch glaubhaft zu belegen, also bestehe höflich auf einer Bestätigung."
+      ]
+    },
+    {
+      "heading": "Rolle des Vermieters im Vorfall",
+      "paragraphs": [
+        "Informiere den Verleiher, sobald die unmittelbare Situation geregelt ist. Er kennt die lokalen Abläufe und sagt dir, welche Dienststelle für deinen Bezirk zuständig ist. Kläre außerdem, ob du das Fahrzeug weiterfahren darfst oder ob es erst geprüft werden muss, bevor die Fahrt fortgesetzt wird. Vereinbare zudem, wer die Unterlagen an die Versicherung weiterleitet, damit keine Fristen verrutschen.",
+        "Übermittle dem Vermieter die relevanten Dokumente. Fotos der Schäden, die Nummer der Anzeige und deine Schilderung des Hergangs geben ihm eine belastbare Grundlage für Reparaturen und Versicherungsfragen. Halte die Kommunikation schriftlich, damit Absprachen zu Kosten oder Ersatzfahrzeugen eindeutig bleiben."
+      ]
+    },
+    {
+      "heading": "Kulturelle Feinheiten im Umgang",
+      "paragraphs": [
+        "Bleibe in jeder Situation höflich und gelassen. Lautstärke und dramatische Gesten führen in Vietnam selten schneller zu einem Ergebnis, sondern verhärten die Fronten. Ein ruhiger Ton, Geduld und Respekt gegenüber den Beamten öffnen mehr Türen als Druck und helfen dir, das Gespräch zielgerichtet zu führen.",
+        "Rechne mit Wartezeiten und formellen Schritten. Behördenabläufe dauern manchmal länger als erwartet, und Formulare werden in vietnamesischer Sprache geführt. Nimm dir Zeit, stelle Rückfragen, und lege alle Papiere sortiert bereit, damit du die Prozedur ohne unnötige Unterbrechungen überstehen kannst. Notiere dir Namen der Beamten und die zuständige Dienststelle für deine Unterlagen."
+      ]
+    },
+    {
+      "heading": "Nachbereitung und private Absicherung",
+      "paragraphs": [
+        "Ergänze die Dokumentation nach dem Vorfall. Halte Kontaktdaten beteiligter Personen, Namen von Zeugen und eine kurze Zusammenfassung in deinen Notizen fest, solange die Erinnerung frisch ist. Diese Aufzeichnungen helfen, wenn die Versicherung oder der Vermieter Wochen später Rückfragen zum genauen Ablauf stellt.",
+        "Prüfe deine Reiseversicherung und ihre Bedingungen. Manche Policen unterstützen bei Anwaltskosten oder Schadensabwicklung, andere decken nur medizinische Fälle ab. Lies die Unterlagen in Ruhe und stelle Anfragen schriftlich, damit du im weiteren Verlauf jederzeit auf klare Zusagen verweisen kannst."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}

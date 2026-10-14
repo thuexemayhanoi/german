@@ -1,0 +1,63 @@
+{
+  "id": "DE-263",
+  "hub": "probleme-hilfe",
+  "title": "Elektrikausfall am Mietroller richtig melden",
+  "slug": "elektrikausfall-am-mietroller-richtig-melden",
+  "status": "IDEA",
+  "priority": 23,
+  "keywordHypothesis": "elektrik roller ausfall",
+  "intent": "informational",
+  "publishedUrl": null,
+  "description": "Ein Elektrikausfall am Mietroller will korrekt gemeldet sein. Dieser Ratgeber zeigt Anzeichen, erste Schritte und die Angaben, die dein Vermieter braucht.",
+  "excerpt": "Ausfallende Lichter, ein stummer Starter oder tote Blinker: Elektrikprobleme am Mietroller haben oft klare Ursachen. Lies hier, wie du einen Elektrikausfall sicher einordnest, den Vermieter korrekt informierst und unterwegs die Ruhe bewahrst.",
+  "sections": [
+    {
+      "heading": "Anzeichen für ein Elektrikproblem erkennen",
+      "paragraphs": [
+        "Ein Elektrikausfall kündigt sich häufig schleichend an. Flackern die Scheinwerfer, reagiert der Starter träge oder bleiben die Blinker stumm, steckt meist eine schwache Batterie oder eine gelockerte Verbindung dahinter. Fahre in dem Fall nicht weiter planmäßig los, sondern halte an einem sicheren Ort an und prüfe die einfachsten Ursachen, bevor du den Vermieter kontaktierst.",
+        "Achte auch auf Gerüche und Geräusche. Ein säuerlicher Geruch aus dem Batteriefach oder ein leises Knacken im Bereich der Zündung deutet auf einen echten Defekt hin. Solche Symptome solltest du dem Verleiher möglichst genau beschreiben, denn die Fehlerbeschreibung hilft ihm, das Problem schon aus der Ferne richtig einzuordnen."
+      ]
+    },
+    {
+      "heading": "Sicher anhalten und die Situation abklären",
+      "paragraphs": [
+        "Wenn die Elektrik während der Fahrt ausfällt, bleiben dir meist nur Bremsen und Lenkung. Rolle das Fahrzeug mit ruhigen Bewegungen aus, weiche auf einen Parkstreifen oder eine Seitenstraße aus und stelle den Roller ab, sobald du sicher stehst. Fahre nicht weiter im Dunkeln, weil ohne Licht die Unfallgefahr stark steigt.",
+        "Sichere die Szenerie ab, wenn du auf einer vielbefahrenen Straße stehen bleibst. Stelle den Roller dicht am Rand ab, damit nachfolgende Fahrzeuge genügend Platz haben. Warte nicht stundenlang allein an der Straße, sondern suche bei einbrechender Dunkelheit einen belebten Ort in der Nähe auf und ruf dort den Vermieter an."
+      ]
+    },
+    {
+      "heading": "Den Vermieter korrekt informieren",
+      "paragraphs": [
+        "Melde den Ausfall so früh wie möglich und beschreibe, was genau passiert ist. Nenne die genaue Position, möglichst mit einem Orientierungspunkt, die Uhrzeit des Ausfalls und alle Symptome, die du beobachtet hast. Frage außerdem, ob der Verleiher eine Partnerwerkstatt in deiner Nähe hat, die den Roller schnell wieder flott machen kann.",
+        "Halte während des Gesprächs deine Vertragsdaten bereit. Mietnummer, Datum der Übernahme und das Kennzeichen erleichtern die Zuordnung. Stimme mit dem Vermieter ab, wie es weitergeht, und dokumentiere die Absprache schriftlich über einen Messenger, damit später keine Missverständnisse über Kosten oder Ersatz entstehen."
+      ]
+    },
+    {
+      "heading": "Reparatur und Kosten sauber klären",
+      "paragraphs": [
+        "Grundsätzlich gilt: Reparaturen an der gemieteten Technik solltest du nicht selbst vornehmen. Ein Eingriff in die Elektrik kann den Vertrag verletzen und die Beweislage verwässern. Überlass die Fehlerdiagnose dem Verleiher oder einer von ihm benannten Werkstatt, und kläre vorab, wer welche Kosten übernimmt, wenn die Ursache klar ist.",
+        "Verlange für jede Reparatur eine Quittung mit Datum, Ort und Beschreibung der Arbeit. Legst du diese Belege später vor, bleibt die Abrechnung nachvollziehbar, egal ob der Vermieter die Kosten erstattet oder sie über eine Versicherung laufen. Fotos vom Zustand vor und nach der Reparatur helfen zusätzlich, den Ablauf zu belegen."
+      ]
+    },
+    {
+      "heading": "Vorbeugen bei der Übernahme des Rollers",
+      "paragraphs": [
+        "Prüfe die Elektrik schon bei der Übernahme gründlich. Teste Licht, Hupe, Blinker und Bremslicht in Ruhe durch, und achte dabei auf verzögerte Reaktionen. Frag den Verleiher, wie alt die Batterie ist und wie der Roller geladen werden soll, falls du ein elektrisches Modell mietest. Notiere kleine Auffälligkeiten direkt im Übergabeprotokoll.",
+        "Frag außerdem nach einer Notfallnummer, die auch abends erreichbar ist. Ein gut organisierter Verleiher nennt dir einen Ansprechpartner für Pannen und sagt dir, wie du bei einem Elektrikausfall vorgehen sollst. Mit dieser Vorbereitung fährst du entspannter, weil du jederzeit weißt, an wen du dich im Ernstfall wendest."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "label": "Auswärtiges Amt",
+      "url": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/vietnamsicherheit-217274",
+      "checkedOn": "2026-10-14"
+    },
+    {
+      "label": "Vietnam Tourism",
+      "url": "https://vietnam.travel/plan-your-trip/transport-within-vietnam",
+      "checkedOn": "2026-10-14"
+    }
+  ],
+  "date": "2026-10-14"
+}
